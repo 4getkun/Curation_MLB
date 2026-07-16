@@ -1,0 +1,26 @@
+---
+import type { Player } from "../lib/players";
+import { getTeam, needsContrastRing } from "../lib/teams";
+import { withBase } from "../lib/url";
+
+interface Props {
+  player: Player;
+}
+
+const { player } = Astro.props;
+const team = getTeam(player.teamId);
+const ring = team && needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : "";
+---
+
+<a
+  href={withBase(`/player/${player.id}/`)}
+  class="w-full flex items-center gap-3 no-underline"
+  style="border-bottom:1px solid var(--border); padding:14px 4px; color:inherit;"
+>
+  <span class="shrink-0 rounded-[3px]" style={`width:14px; height:14px; background-color:${team?.color ?? "var(--text-faint)"};${ring}`}></span>
+  <span class="flex-1 font-bold" style="font-size:14px; color:var(--text);">
+    {player.name}
+    <span style="font-weight:400; color:var(--text-faint);"> / {team?.short ?? "未所属"}</span>
+  </span>
+  <span style="color:var(--text-faint);">→</span>
+</a>

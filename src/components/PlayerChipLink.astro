@@ -1,0 +1,24 @@
+---
+import type { Player } from "../lib/players";
+import { getTeam } from "../lib/teams";
+import { withBase } from "../lib/url";
+
+interface Props {
+  player: Player;
+  active?: boolean;
+}
+
+const { player, active = false } = Astro.props;
+const team = getTeam(player.teamId);
+const style = active
+  ? `background-color:${team?.color ?? "var(--accent)"}; color:#fff; border-color:${team?.color ?? "var(--accent)"};`
+  : `background:none; color:var(--text-muted); border-color:var(--border);`;
+---
+
+<a
+  href={withBase(`/player/${player.id}/`)}
+  class="no-underline rounded-full border font-bold"
+  style={`font-size:12px; padding:7px 14px; ${style}`}
+>
+  {player.name}
+</a>

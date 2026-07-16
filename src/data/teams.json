@@ -1,0 +1,112 @@
+[
+  {
+    "id": "astros",
+    "league": "AL",
+    "division": "West",
+    "name": "ヒューストン・アストロズ",
+    "englishName": "Houston Astros",
+    "short": "アストロズ",
+    "keywords": ["Astros", "Houston Astros"],
+    "mlbSlug": "astros",
+    "color": "#EB6E1F"
+  },
+  {
+    "id": "cubs",
+    "league": "NL",
+    "division": "Central",
+    "name": "シカゴ・カブス",
+    "englishName": "Chicago Cubs",
+    "short": "カブス",
+    "keywords": ["Cubs", "Chicago Cubs"],
+    "mlbSlug": "cubs",
+    "color": "#0E3386"
+  },
+  {
+    "id": "dodgers",
+    "league": "NL",
+    "division": "West",
+    "name": "ロサンゼルス・ドジャース",
+    "englishName": "Los Angeles Dodgers",
+    "short": "ドジャース",
+    "keywords": ["Dodgers", "Los Angeles Dodgers"],
+    "mlbSlug": "dodgers",
+    "color": "#005A9C"
+  },
+  {
+    "id": "bluejays",
+    "league": "AL",
+    "division": "East",
+    "name": "トロント・ブルージェイズ",
+    "englishName": "Toronto Blue Jays",
+    "short": "ブルージェイズ",
+    "keywords": ["Blue Jays", "Toronto Blue Jays"],
+    "mlbSlug": "bluejays",
+    "color": "#134A8E"
+  },
+  {
+    "id": "angels",
+    "league": "AL",
+    "division": "West",
+    "name": "ロサンゼルス・エンゼルス",
+    "englishName": "Los Angeles Angels",
+    "short": "エンゼルス",
+    "keywords": ["Angels", "Los Angeles Angels"],
+    "mlbSlug": "angels",
+    "color": "#BA0021"
+  },
+  {
+    "id": "rockies",
+    "league": "NL",
+    "division": "West",
+    "name": "コロラド・ロッキーズ",
+    "englishName": "Colorado Rockies",
+    "short": "ロッキーズ",
+    "keywords": ["Rockies", "Colorado Rockies"],
+    "mlbSlug": "rockies",
+    "color": "#33006F"
+  },
+  {
+    "id": "mets",
+    "league": "NL",
+    "division": "East",
+    "name": "ニューヨーク・メッツ",
+    "englishName": "New York Mets",
+    "short": "メッツ",
+    "keywords": ["Mets", "New York Mets"],
+    "mlbSlug": "mets",
+    "color": "#FF5910"
+  },
+  {
+    "id": "padres",
+    "league": "NL",
+    "division": "West",
+    "name": "サンディエゴ・パドレス",
+    "englishName": "San Diego Padres",
+    "short": "パドレス",
+    "keywords": ["Padres", "San Diego Padres"],
+    "mlbSlug": "padres",
+    "color": "#2F241D"
+  },
+  {
+    "id": "whitesox",
+    "league": "AL",
+    "division": "Central",
+    "name": "シカゴ・ホワイトソックス",
+    "englishName": "Chicago White Sox",
+    "short": "ホワイトソックス",
+    "keywords": ["White Sox", "Chicago White Sox"],
+    "mlbSlug": "whitesox",
+    "color": "#27251F"
+  },
+  {
+    "id": "redsox",
+    "league": "AL",
+    "division": "East",
+    "name": "ボストン・レッドソックス",
+    "englishName": "Boston Red Sox",
+    "short": "レッドソックス",
+    "keywords": ["Red Sox", "Boston Red Sox"],
+    "mlbSlug": "redsox",
+    "color": "#BD3039"
+  }
+]

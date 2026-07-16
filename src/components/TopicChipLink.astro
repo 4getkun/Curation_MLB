@@ -1,0 +1,22 @@
+---
+import type { Topic } from "../lib/topics";
+import { withBase } from "../lib/url";
+
+interface Props {
+  topic: Topic;
+  active?: boolean;
+}
+
+const { topic, active = false } = Astro.props;
+const style = active
+  ? `background-color:var(--accent); color:#fff; border-color:var(--accent);`
+  : `background:none; color:var(--text-muted); border-color:var(--border);`;
+---
+
+<a
+  href={withBase(`/topic/${topic.id}/`)}
+  class="no-underline rounded-full border font-bold"
+  style={`font-size:12px; padding:7px 14px; ${style}`}
+>
+  #{topic.label}
+</a>

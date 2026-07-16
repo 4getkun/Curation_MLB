@@ -1,0 +1,22 @@
+---
+import type { Topic } from "../lib/topics";
+import { withBase } from "../lib/url";
+
+interface Props {
+  topic: Topic;
+  count: number;
+}
+
+const { topic, count } = Astro.props;
+---
+
+<a
+  href={withBase(`/topic/${topic.id}/`)}
+  class="w-full flex items-center gap-3 no-underline"
+  style="border-bottom:1px solid var(--border); padding:14px 4px; color:inherit;"
+>
+  <span class="shrink-0 rounded-full" style="width:8px; height:8px; background-color:var(--accent);"></span>
+  <span class="flex-1 font-bold" style="font-size:14px; color:var(--text);">#{topic.label}</span>
+  <span style="font-size:12px; color:var(--text-faint);">{count}件</span>
+  <span style="color:var(--text-faint);">→</span>
+</a>

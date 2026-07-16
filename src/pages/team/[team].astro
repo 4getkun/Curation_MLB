@@ -1,0 +1,66 @@
+---
+import Base from "../../layouts/Base.astro";
+import NewsRow from "../../components/NewsRow.astro";
+import TeamChipLink from "../../components/TeamChipLink.astro";
+import PlayerLinkRow from "../../components/PlayerLinkRow.astro";
+import { teams, needsContrastRing, leagueLabel } from "../../lib/teams";
+import { newsForTeam } from "../../lib/news";
+import { playersForTeam } from "../../lib/players";
+
+export function getStaticPaths() {
+  return teams.map((team) => ({
+    params: { team: team.id },
+    props: { team },
+  }));
+}
+
+const { team } = Astro.props;
+const items = newsForTeam(team.id);
+const jpPlayers = playersForTeam(team.id);
+const ring = needsContrastRing(team.color);
+---
+
+<Base title={`${team.name}のニュース`} description={`${team.name}(${team.englishName})の最新ニュースまとめ。広告なしで読めるMLBキュレーションサイト。`}>
+  <section style={`border-top:4px solid ${team.color};${ring ? " box-shadow:0 1px 0 var(--text-faint);" : ""}`}>
+    <div class="container-page" style="padding:40px 24px 20px;">
+      <p class="font-bold m-0" style="font-size:12px; color:var(--text-faint); letter-spacing:0.1em; margin-bottom:8px;">
+        {leagueLabel(team)}
+      </p>
+      <h1 class="font-display font-black m-0 flex items-center gap-3.5" style="font-size:32px; color:var(--text); margin-bottom:8px;">
+        <span class="inline-block rounded-[4px]" style={`width:16px; height:16px; background-color:${team.color};${ring ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+        {team.name}
+      </h1>
+      <p class="m-0" style="font-size:13px; color:var(--text-faint); margin-bottom:20px;">{team.englishName}</p>
+      <div class="flex flex-wrap gap-2" style="margin-bottom:8px;">
+        {teams.map((t) => (
+          <TeamChipLink team={t} active={t.id === team.id} />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {jpPlayers.length > 0 && (
+    <section style="background-color:var(--card-bg); border-top:1px solid var(--border); border-bottom:1px solid var(--border);">
+      <div class="container-page" style="padding:24px;">
+        <p class="font-bold m-0" style="font-size:12px; color:var(--text-faint); letter-spacing:0.1em; margin-bottom:12px;">
+          この球団の日本人選手
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-2" style="gap:0 24px;">
+          {jpPlayers.map((player) => (
+            <PlayerLinkRow player={player} />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="container-page" style="padding:20px 24px 64px;">
+    {items.length > 0 ? (
+      items.map((item) => <NewsRow item={item} variant="full" showTeamLabel={false} forceTeamId={team.id} />)
+    ) : (
+      <p style="font-size:14px; color:var(--text-muted); padding:24px 0;">
+        現在、{team.short}に関するニュースがまだ取得されていません。次回の自動更新をお待ちください。
+      </p>
+    )}
+  </section>
+</Base>

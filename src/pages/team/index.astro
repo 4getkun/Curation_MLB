@@ -1,0 +1,29 @@
+---
+import Base from "../../layouts/Base.astro";
+import TeamLinkRow from "../../components/TeamLinkRow.astro";
+import { alTeams, nlTeams, LEAGUE_LABELS } from "../../lib/teams";
+---
+
+<Base title="球団別ニュース" description="MLB各球団を選んでニュースを確認できます。日本人メジャーリーガーの所属球団を中心に掲載しています。">
+  <section class="container-page" style="padding:44px 24px 64px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:6px;">球団別ニュース</h1>
+    <p style="font-size:14px; color:var(--text-muted); margin-bottom:32px;">
+      アメリカン・リーグ、ナショナル・リーグから選んで最新ニュースを確認できます。
+    </p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-10">
+      <div>
+        <p class="font-bold" style="font-size:11px; letter-spacing:0.1em; color:var(--text-faint); margin-bottom:10px;">{LEAGUE_LABELS.AL}</p>
+        {alTeams.map((team) => (
+          <TeamLinkRow team={team} />
+        ))}
+      </div>
+      <div>
+        <p class="font-bold" style="font-size:11px; letter-spacing:0.1em; color:var(--text-faint); margin-bottom:10px;">{LEAGUE_LABELS.NL}</p>
+        {nlTeams.map((team) => (
+          <TeamLinkRow team={team} />
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>

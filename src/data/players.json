@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ohtani",
+    "name": "大谷翔平",
+    "englishName": "Shohei Ohtani",
+    "nameVariants": ["Shohei Ohtani", "Ohtani"],
+    "teamId": "dodgers",
+    "mlbDebut": "2018-03-29"
+  },
+  {
+    "id": "yamamoto",
+    "name": "山本由伸",
+    "englishName": "Yoshinobu Yamamoto",
+    "nameVariants": ["Yoshinobu Yamamoto", "Yamamoto"],
+    "teamId": "dodgers",
+    "mlbDebut": "2024-03-21"
+  },
+  {
+    "id": "sasaki",
+    "name": "佐々木朗希",
+    "englishName": "Roki Sasaki",
+    "nameVariants": ["Roki Sasaki", "Sasaki"],
+    "teamId": "dodgers",
+    "mlbDebut": "2025-03-19"
+  },
+  {
+    "id": "imanaga",
+    "name": "今永昇太",
+    "englishName": "Shota Imanaga",
+    "nameVariants": ["Shota Imanaga", "Imanaga"],
+    "teamId": "cubs",
+    "mlbDebut": "2024-04-01"
+  },
+  {
+    "id": "suzuki",
+    "name": "鈴木誠也",
+    "englishName": "Seiya Suzuki",
+    "nameVariants": ["Seiya Suzuki", "Suzuki"],
+    "teamId": "cubs",
+    "mlbDebut": "2022-04-07"
+  },
+  {
+    "id": "imai",
+    "name": "今井達也",
+    "englishName": "Tatsuya Imai",
+    "nameVariants": ["Tatsuya Imai", "Imai"],
+    "teamId": "astros",
+    "mlbDebut": "2026-03-29"
+  },
+  {
+    "id": "okamoto",
+    "name": "岡本和真",
+    "englishName": "Kazuma Okamoto",
+    "nameVariants": ["Kazuma Okamoto", "Okamoto"],
+    "teamId": "bluejays",
+    "mlbDebut": "2026-03-27"
+  },
+  {
+    "id": "kikuchi",
+    "name": "菊池雄星",
+    "englishName": "Yusei Kikuchi",
+    "nameVariants": ["Yusei Kikuchi", "Kikuchi"],
+    "teamId": "angels",
+    "mlbDebut": "2019-03-21"
+  },
+  {
+    "id": "sugano",
+    "name": "菅野智之",
+    "englishName": "Tomoyuki Sugano",
+    "nameVariants": ["Tomoyuki Sugano", "Sugano"],
+    "teamId": "rockies",
+    "mlbDebut": "2025-03-30"
+  },
+  {
+    "id": "senga",
+    "name": "千賀滉大",
+    "englishName": "Kodai Senga",
+    "nameVariants": ["Kodai Senga", "Senga"],
+    "teamId": "mets",
+    "mlbDebut": "2023-04-02"
+  },
+  {
+    "id": "darvish",
+    "name": "ダルビッシュ有",
+    "englishName": "Yu Darvish",
+    "nameVariants": ["Yu Darvish", "Darvish"],
+    "teamId": "padres",
+    "mlbDebut": "2012-04-09"
+  },
+  {
+    "id": "matsui",
+    "name": "松井裕樹",
+    "englishName": "Yuki Matsui",
+    "nameVariants": ["Yuki Matsui"],
+    "teamId": "padres",
+    "mlbDebut": "2024-03-20"
+  },
+  {
+    "id": "nishida",
+    "name": "西田陸浮",
+    "englishName": "Rikuu Nishida",
+    "nameVariants": ["Rikuu Nishida", "Nishida"],
+    "teamId": "whitesox",
+    "mlbDebut": "2026-05-25"
+  },
+  {
+    "id": "murakami",
+    "name": "村上宗隆",
+    "englishName": "Munetaka Murakami",
+    "nameVariants": ["Munetaka Murakami", "Murakami"],
+    "teamId": "whitesox",
+    "mlbDebut": "2026-03-26"
+  },
+  {
+    "id": "yoshida",
+    "name": "吉田正尚",
+    "englishName": "Masataka Yoshida",
+    "nameVariants": ["Masataka Yoshida", "Yoshida"],
+    "teamId": "redsox",
+    "mlbDebut": "2023-03-30"
+  }
+]

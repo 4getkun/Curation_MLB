@@ -1,0 +1,125 @@
+---
+import type { NewsItem } from "../lib/news";
+import { formatRelativeShort, displayTitle, displaySummary, isTranslated } from "../lib/news";
+import { getTeam, needsContrastRing } from "../lib/teams";
+import { getPlayer } from "../lib/players";
+import { getTopic } from "../lib/topics";
+import { withBase } from "../lib/url";
+
+interface Props {
+  item: NewsItem;
+  /** "full": 要約あり(ニュース一覧・球団ページ) / "compact": 要約なし(トップの最新リスト) */
+  variant?: "full" | "compact";
+  /** false の場合、メタ行から球団名を省く(球団ページなど、既に球団が自明なとき) */
+  showTeamLabel?: boolean;
+  /**
+   * 指定すると、記事側の判定結果(teams[0])に関わらずこの球団のドット色で
+   * 表示する。球団ページで「今見ている球団と違う色のドットが出て、別球団の
+   * 記事に見える」のを防ぐために使う。
+   */
+  forceTeamId?: string;
+}
+
+const { item, variant = "full", showTeamLabel = true, forceTeamId } = Astro.props;
+
+const primary = getTeam(forceTeamId ?? item.teams[0] ?? "");
+const dotColor = primary?.color ?? "var(--text-faint)";
+const teamShort = primary?.short ?? "総合";
+const dotRing = primary && needsContrastRing(primary.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : "";
+
+const title = displayTitle(item);
+const summary = displaySummary(item);
+const translated = isTranslated(item);
+
+const metaParts = [
+  ...(showTeamLabel ? [teamShort] : []),
+  item.source,
+  formatRelativeShort(item.pubDate),
+].filter(Boolean);
+
+const isCompact = variant === "compact";
+// 同じ出来事を複数メディアが報じている場合、代表記事以外の出典
+const extraSources = isCompact ? [] : (item.sources ?? []).slice(1);
+const itemTopics = isCompact
+  ? []
+  : (item.topics ?? []).map((id) => getTopic(id)).filter((t): t is NonNullable<typeof t> => Boolean(t));
+const itemPlayers = isCompact
+  ? []
+  : (item.players ?? []).map((id) => getPlayer(id)).filter((p): p is NonNullable<typeof p> => Boolean(p));
+---
+
+<div
+  class="flex items-start"
+  style={`gap:${isCompact ? "14px" : "18px"}; padding:${isCompact ? "16px" : "20px"} 0; border-bottom:1px solid var(--border);`}
+>
+  <span
+    class="inline-block shrink-0 rounded-full"
+    style={`width:${isCompact ? "8px" : "9px"}; height:${isCompact ? "8px" : "9px"}; background-color:${dotColor}; margin-top:${isCompact ? "7px" : "8px"};${dotRing}`}
+  ></span>
+  <div class="flex-1 min-w-0">
+    <a href={item.link} target="_blank" rel="noopener noreferrer nofollow" class="block no-underline" style="color:inherit;">
+      {isCompact ? (
+        <h4 class="font-bold leading-snug m-0 mb-1.5" style="font-size:15px; color:var(--text);">{title}</h4>
+      ) : (
+        <h3 class="font-bold leading-snug m-0 mb-2" style="font-size:16px; color:var(--text);">{title}</h3>
+      )}
+      {!isCompact && summary && (
+        <p class="m-0 mb-1.5" style="font-size:13px; color:var(--text-muted);">{summary}</p>
+      )}
+    </a>
+    <p class="m-0" style="font-size:12px; color:var(--text-faint);">
+      {metaParts.join(" · ")}
+      {translated && (
+        <span>
+          {" "}·{" "}
+          <a
+            href={item.link}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            class="link-underline"
+            style="color:var(--text-faint);"
+          >原文(英語)</a>
+        </span>
+      )}
+      {extraSources.length > 0 && (
+        <span>
+          {" "}·  ほか{extraSources.length}社:
+          {extraSources.map((s) => (
+            <>
+              {" "}
+              <a
+                href={s.link}
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                class="link-underline"
+                style="color:var(--text-faint);"
+              >{s.name}</a>
+            </>
+          ))}
+        </span>
+      )}
+    </p>
+    {(itemPlayers.length > 0 || itemTopics.length > 0) && (
+      <div class="flex flex-wrap" style="gap:6px; margin-top:8px;">
+        {itemPlayers.map((player) => (
+          <a
+            href={withBase(`/player/${player.id}/`)}
+            class="no-underline rounded-full font-bold"
+            style="font-size:10px; padding:2px 9px; background-color:var(--accent); color:#fff;"
+          >
+            ⚾ {player.name}
+          </a>
+        ))}
+        {itemTopics.map((topic) => (
+          <a
+            href={withBase(`/topic/${topic.id}/`)}
+            class="no-underline rounded-full"
+            style="font-size:10px; padding:2px 9px; background-color:var(--card-bg); border:1px solid var(--border); color:var(--text-muted);"
+          >
+            #{topic.label}
+          </a>
+        ))}
+      </div>
+    )}
+  </div>
+</div>

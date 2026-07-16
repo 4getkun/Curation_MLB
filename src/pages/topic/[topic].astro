@@ -1,0 +1,46 @@
+---
+import Base from "../../layouts/Base.astro";
+import NewsRow from "../../components/NewsRow.astro";
+import TopicChipLink from "../../components/TopicChipLink.astro";
+import { topics } from "../../lib/topics";
+import { newsForTopic } from "../../lib/news";
+
+export function getStaticPaths() {
+  return topics.map((topic) => ({
+    params: { topic: topic.id },
+    props: { topic },
+  }));
+}
+
+const { topic } = Astro.props;
+const items = newsForTopic(topic.id);
+---
+
+<Base
+  title={`#${topic.label}のニュース`}
+  description={`MLBの「${topic.label}」に関する最新ニュースまとめ。広告なしで読めるMLBキュレーションサイト。`}
+>
+  <section class="container-page" style="padding:40px 24px 20px;">
+    <p class="font-bold m-0" style="font-size:12px; color:var(--text-faint); letter-spacing:0.1em; margin-bottom:8px;">
+      話題タグ
+    </p>
+    <h1 class="font-display font-black m-0" style="font-size:32px; color:var(--text); margin-bottom:20px;">
+      #{topic.label}
+    </h1>
+    <div class="flex flex-wrap gap-2" style="margin-bottom:8px;">
+      {topics.map((t) => (
+        <TopicChipLink topic={t} active={t.id === topic.id} />
+      ))}
+    </div>
+  </section>
+
+  <section class="container-page" style="padding:20px 24px 64px;">
+    {items.length > 0 ? (
+      items.map((item) => <NewsRow item={item} variant="full" />)
+    ) : (
+      <p style="font-size:14px; color:var(--text-muted); padding:24px 0;">
+        現在、「{topic.label}」に関するニュースがまだ取得されていません。次回の自動更新をお待ちください。
+      </p>
+    )}
+  </section>
+</Base>

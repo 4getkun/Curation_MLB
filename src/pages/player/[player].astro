@@ -1,0 +1,74 @@
+---
+import Base from "../../layouts/Base.astro";
+import NewsRow from "../../components/NewsRow.astro";
+import PlayerChipLink from "../../components/PlayerChipLink.astro";
+import { players } from "../../lib/players";
+import { getTeam, needsContrastRing } from "../../lib/teams";
+import { newsForPlayer } from "../../lib/news";
+import { withBase } from "../../lib/url";
+
+export function getStaticPaths() {
+  return players.map((player) => ({
+    params: { player: player.id },
+    props: { player },
+  }));
+}
+
+const { player } = Astro.props;
+const team = getTeam(player.teamId);
+const items = newsForPlayer(player.id);
+const ring = team ? needsContrastRing(team.color) : false;
+const debutDate = (() => {
+  const date = new Date(player.mlbDebut);
+  if (Number.isNaN(date.getTime())) return player.mlbDebut;
+  return new Intl.DateTimeFormat("ja-JP", { year: "numeric", month: "long", day: "numeric" }).format(date);
+})();
+---
+
+<Base
+  title={`${player.name}のニュース`}
+  description={`${player.name}(${player.englishName})の最新ニュースまとめ。広告なしで読めるMLBキュレーションサイト。`}
+>
+  <section style={`border-top:4px solid ${team?.color ?? "var(--accent)"};${ring ? " box-shadow:0 1px 0 var(--text-faint);" : ""}`}>
+    <div class="container-page" style="padding:40px 24px 20px;">
+      <p class="font-bold m-0" style="font-size:12px; color:var(--text-faint); letter-spacing:0.1em; margin-bottom:8px;">
+        日本人メジャーリーガー
+      </p>
+      <h1 class="font-display font-black m-0" style="font-size:32px; color:var(--text); margin-bottom:6px;">
+        {player.name}
+      </h1>
+      <p class="m-0" style="font-size:13px; color:var(--text-faint); margin-bottom:16px;">{player.englishName}</p>
+
+      {team && (
+        <a
+          href={withBase(`/team/${team.id}/`)}
+          class="inline-flex items-center gap-2 no-underline rounded-full"
+          style="font-size:12px; padding:6px 14px; background-color:var(--card-bg); border:1px solid var(--border); color:var(--text); margin-bottom:16px;"
+        >
+          <span class="inline-block rounded-[3px]" style={`width:12px; height:12px; background-color:${team.color};${ring ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+          {team.name}
+        </a>
+      )}
+
+      <p class="m-0" style="font-size:13px; color:var(--text-muted); margin-bottom:20px;">
+        MLBデビュー: {debutDate}
+      </p>
+
+      <div class="flex flex-wrap gap-2" style="margin-bottom:8px;">
+        {players.map((p) => (
+          <PlayerChipLink player={p} active={p.id === player.id} />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="container-page" style="padding:20px 24px 64px;">
+    {items.length > 0 ? (
+      items.map((item) => <NewsRow item={item} variant="full" />)
+    ) : (
+      <p style="font-size:14px; color:var(--text-muted); padding:24px 0;">
+        現在、{player.name}に関するニュースがまだ取得されていません。次回の自動更新をお待ちください。
+      </p>
+    )}
+  </section>
+</Base>

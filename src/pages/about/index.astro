@@ -1,0 +1,96 @@
+---
+import Base from "../../layouts/Base.astro";
+import feeds from "../../data/feeds.json";
+import { players } from "../../lib/players";
+import { withBase } from "../../lib/url";
+
+const generalFeeds = feeds.filter((f: any) => !f.teamId);
+const teamFeeds = feeds.filter((f: any) => f.teamId);
+---
+
+<Base title="このサイトについて" description="Curation MLBの運営方針・データの取得元について説明しています。">
+  <section class="container-page" style="max-width:720px; padding:56px 24px 80px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:20px;">このサイトについて</h1>
+
+    <div class="space-y-8" style="font-size:15px; line-height:1.9; color:var(--text-muted);">
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">コンセプト</h2>
+        <p class="m-0">
+          Curation MLBは、大谷翔平選手をはじめとする日本人メジャーリーガー{players.length}名の所属球団を中心に、
+          MLB(メジャーリーグベースボール)の最新ニュースを一箇所にまとめて読める、広告のないキュレーションサイトです。
+          バナー広告や追跡スクリプトを一切使用せず、ニュースを読むことだけに集中できる体験を目指しています。
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">日本人メジャーリーガーについて</h2>
+        <p class="m-0">
+          サイト上部の「<a class="link-underline" style="color:var(--accent);" href={withBase("/player/")}>日本人メジャーリーガー</a>」セクションから、
+          現役の日本人選手ごとの所属球団と関連ニュースを一覧できます。選手名をクリックすると、その選手に関するニュースだけを絞り込んで確認できます。
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">ニュースの取得について</h2>
+        <p class="m-0">
+          掲載しているニュースは、以下の英語圏の野球専門メディア・ニュースサイトが配信するRSSフィードから見出しと要約のみを取得し、
+          球団名・選手名などのキーワードをもとに自動的に球団別・選手別・話題別へ分類しています。記事本文は一切複製しておらず、
+          各項目をクリックすると配信元サイトの元記事に移動します。
+        </p>
+        <p style="margin-top:12px; font-weight:bold; color:var(--text);">総合メディア</p>
+        <ul style="margin-top:6px; padding-left:20px; list-style:disc;">
+          {generalFeeds.map((feed: any) => (
+            <li>{feed.name}</li>
+          ))}
+        </ul>
+        <p style="margin-top:12px; font-weight:bold; color:var(--text);">球団別メディア(MLB.com 球団フィード)</p>
+        <ul style="margin-top:6px; padding-left:20px; list-style:disc;">
+          {teamFeeds.map((feed: any) => (
+            <li>{feed.name}</li>
+          ))}
+        </ul>
+        <p style="margin-top:12px;">
+          ニュースはGitHub Actionsによる定期実行で自動更新されています。分類は自動処理のため、まれに実際の内容と異なる球団・選手に分類される場合があります。
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">掲載言語について</h2>
+        <p class="m-0">
+          本サイトは実験的な取り組みとして運営しており、現在は見出し・要約とも英語の原文のまま掲載しています(日本語への自動翻訳は行っていません)。
+          記事の分類(球団・選手・話題タグ)は日本語で行っていますが、記事本文の言語は原文の英語のままです。
+          将来的にAI翻訳機能を有効化する可能性はありますが、現時点では未実装(オフ)です。
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">著作権について</h2>
+        <p class="m-0">
+          各ニュースの著作権は、それぞれの配信元メディアに帰属します。当サイトは見出し・要約・リンクのみを掲載する
+          キュレーション(リンク集)であり、記事本文を転載するものではありません。掲載内容に関するお問い合わせは、
+          お手数ですが各配信元サイトまでお願いいたします。
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">運営方針</h2>
+        <p class="m-0">
+          当サイトは非営利の個人運営プロジェクトであり、広告掲載・アフィリエイト・アクセス解析トラッキングは行っておりません。
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">便利機能について</h2>
+        <ul style="padding-left:20px; list-style:disc;">
+          <li><strong>日本人メジャーリーガー一覧</strong> — 選手ごとの所属球団とニュースをまとめて確認できます(<a class="link-underline" style="color:var(--accent);" href={withBase("/player/")}>選手一覧へ</a>)。</li>
+          <li><strong>サイト内検索</strong> — タイトル・要約・選手名・球団名からニュースを検索できます(<a class="link-underline" style="color:var(--accent);" href={withBase("/search/")}>検索ページへ</a>)。</li>
+          <li><strong>マイ球団</strong> — ヘッダーの「★ マイ球団」で応援球団を選ぶと、トップページにその球団のニュースだけを表示します(端末内保存のみで、サーバーには送信されません)。</li>
+          <li><strong>話題から探す</strong> — 移籍・故障・契約更改などの話題ごとに、球団の枠を超えてニュースを横断できます(<a class="link-underline" style="color:var(--accent);" href={withBase("/topic/")}>話題一覧へ</a>)。</li>
+          <li><strong>同一ニュースの統合表示</strong> — 複数メディアが同じ出来事を報じている場合、1件にまとめて出典を併記します。</li>
+          <li><strong>RSS配信</strong> — お使いのRSSリーダーで購読できます(<a class="link-underline" style="color:var(--accent);" href={withBase("/feed.xml")}>feed.xml</a>)。</li>
+          <li><strong>ホーム画面への追加</strong> — スマートフォンのブラウザから「ホーム画面に追加」するとアプリのように起動でき、直近の閲覧内容はオフラインでも表示されます。</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</Base>

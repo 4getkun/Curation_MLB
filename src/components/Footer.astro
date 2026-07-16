@@ -1,0 +1,47 @@
+---
+import { withBase } from "../lib/url";
+
+const currentYear = new Date().getFullYear();
+---
+
+<footer style="border-top:1px solid var(--border); background-color:var(--card-bg);">
+  <div class="container-page grid gap-9 py-12 sm:grid-cols-3 text-[13px]">
+    <div>
+      <p class="font-display text-base font-black" style="color:var(--text);">
+        <span style="color:var(--accent);">Curation</span> MLB
+      </p>
+      <p class="mt-2.5 leading-relaxed" style="color:var(--text-muted);">
+        広告を一切表示しない、日本人メジャーリーガーの所属球団を中心としたMLB(メジャーリーグベースボール)ニュース・記事キュレーションサイトです。
+      </p>
+    </div>
+    <div>
+      <p class="font-bold mb-2.5" style="color:var(--text);">サイト内リンク</p>
+      <div class="flex flex-col gap-2" style="color:var(--text-muted);">
+        <a class="no-underline" style="color:inherit;" href={withBase("/")}>トップ</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/news/")}>ニュース一覧</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/player/")}>日本人メジャーリーガー</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/team/")}>球団別</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/topic/")}>話題から探す</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/search/")}>サイト内検索</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/about/")}>このサイトについて</a>
+      </div>
+    </div>
+    <div>
+      <p class="font-bold mb-2.5" style="color:var(--text);">ご利用にあたって</p>
+      <p class="leading-relaxed" style="color:var(--text-muted); margin-bottom:10px;">
+        掲載しているニュースの見出し・要約は各配信元サイトへのリンクです。本文の全文転載は行っていません。
+      </p>
+      <p class="leading-relaxed" style="color:var(--text-muted); margin-bottom:10px;">
+        記事の見出し・要約は英語の原文のまま掲載しています(実験的な運営のため、現在は日本語翻訳は行っていません)。
+      </p>
+      <a class="no-underline font-bold link-underline" style="color:var(--accent);" href={withBase("/feed.xml")}>
+        RSSで購読する →
+      </a>
+    </div>
+  </div>
+  <div style="border-top:1px solid var(--rule);">
+    <p class="container-page py-4 text-[11px]" style="color:var(--text-faint);">
+      © {currentYear} Curation MLB. Powered by static hosting — no ads, no tracking.
+    </p>
+  </div>
+</footer>

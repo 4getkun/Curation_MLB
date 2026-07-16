@@ -1,0 +1,207 @@
+---
+import { alTeams, nlTeams, needsContrastRing } from "../lib/teams";
+import { withBase } from "../lib/url";
+
+const path = new URL(Astro.request.url).pathname;
+const base = import.meta.env.BASE_URL;
+const rel = path.startsWith(base) ? path.slice(base.length - 1) : path;
+
+const navLinks = [
+  { href: withBase("/"), label: "トップ", match: (p: string) => p === "/" || p === "" },
+  { href: withBase("/news/"), label: "ニュース一覧", match: (p: string) => p.startsWith("/news") },
+  { href: withBase("/player/"), label: "日本人選手", match: (p: string) => p.startsWith("/player") },
+  { href: withBase("/team/"), label: "球団別", match: (p: string) => p.startsWith("/team") },
+  { href: withBase("/topic/"), label: "話題から探す", match: (p: string) => p.startsWith("/topic") },
+  { href: withBase("/search/"), label: "検索", match: (p: string) => p.startsWith("/search") },
+  { href: withBase("/about/"), label: "このサイトについて", match: (p: string) => p.startsWith("/about") },
+];
+---
+
+<header
+  class="sticky top-0 z-40 border-b"
+  style="background-color:var(--header-bg); border-color:var(--border); backdrop-filter:blur(10px);"
+>
+  <div class="container-page flex h-16 items-center justify-between gap-4">
+    <a href={withBase("/")} class="flex items-center gap-2 shrink-0 no-underline">
+      <span
+        class="font-display text-[19px] font-black tracking-tight"
+        style="color:var(--text); letter-spacing:-0.02em;"
+      >
+        <span style="color:var(--accent);">Curation</span> MLB
+      </span>
+    </a>
+
+    <nav class="hidden md:flex items-center gap-7 text-[13px] font-bold">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class="pb-1 no-underline"
+          style={`color:${link.match(rel) ? "var(--text)" : "var(--text-muted)"}; border-bottom:2px solid ${link.match(rel) ? "var(--accent)" : "transparent"};`}
+        >
+          {link.label}
+        </a>
+      ))}
+    </nav>
+
+    <div class="flex items-center gap-2.5">
+      <span
+        class="hidden lg:inline-flex items-center rounded-full px-3 py-1.5 text-[11px] font-bold whitespace-nowrap"
+        style="color:var(--green); background-color:var(--green-bg);"
+      >
+        広告ゼロ運営
+      </span>
+      <select
+        class="my-team-select hidden sm:block rounded-full border font-bold"
+        aria-label="マイ球団を選択"
+        style="font-size:11px; padding:6px 10px; border-color:var(--border); color:var(--text-muted); background-color:transparent; max-width:110px;"
+      >
+        <option value="">★ マイ球団</option>
+        {alTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+        {nlTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+      </select>
+      <button
+        id="theme-toggle"
+        type="button"
+        aria-label="ダークモード切替"
+        class="grid h-[34px] w-[34px] place-items-center rounded-full border text-[15px]"
+        style="border-color:var(--border); color:var(--text); background:none;"
+      >
+        <span id="theme-icon-dark" class="hidden dark:inline">☀</span>
+        <span id="theme-icon-light" class="dark:hidden">☾</span>
+      </button>
+      <button
+        id="menu-toggle"
+        type="button"
+        aria-label="メニューを開く"
+        class="md:hidden grid h-[34px] w-[34px] place-items-center rounded-full border"
+        style="border-color:var(--border); color:var(--text);"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- 球団クイックナビ(横スクロール、ドット+略称) -->
+  <div class="relative" style="border-top:1px solid var(--rule);">
+    <div id="team-quicknav" class="overflow-x-auto" style="scrollbar-width:none;">
+      <div class="container-page flex items-center gap-1 py-2 text-[11px] font-bold whitespace-nowrap">
+        <span style="color:var(--text-faint);" class="mr-0.5">ア</span>
+        {alTeams.map((team) => (
+          <a
+            href={withBase(`/team/${team.id}/`)}
+            class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
+            style="color:var(--text-muted);"
+          >
+            <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+            {team.short}
+          </a>
+        ))}
+        <span style="color:var(--text-faint);" class="mx-1.5">ナ</span>
+        {nlTeams.map((team) => (
+          <a
+            href={withBase(`/team/${team.id}/`)}
+            class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
+            style="color:var(--text-muted);"
+          >
+            <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+            {team.short}
+          </a>
+        ))}
+      </div>
+    </div>
+    <!-- スクロール可能なことを示すフェード(スクロール位置に応じてJSで表示/非表示) -->
+    <div id="team-quicknav-fade-left" class="pointer-events-none absolute top-0 bottom-0 left-0 opacity-0" style="width:20px; background:linear-gradient(to right, var(--header-bg), transparent); transition:opacity 0.15s;"></div>
+    <div id="team-quicknav-fade-right" class="pointer-events-none absolute top-0 bottom-0 right-0 opacity-0" style="width:28px; background:linear-gradient(to left, var(--header-bg), transparent); transition:opacity 0.15s;"></div>
+  </div>
+
+  <!-- モバイルメニュー -->
+  <div id="mobile-menu" class="hidden md:hidden" style="border-top:1px solid var(--rule);">
+    <nav class="container-page flex flex-col py-3 text-sm font-bold">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class="py-2 no-underline"
+          style={`border-bottom:1px solid var(--rule); color:${link.match(rel) ? "var(--text)" : "var(--text-muted)"};`}
+        >
+          {link.label}
+        </a>
+      ))}
+      <label class="py-3 flex items-center gap-2.5" style="color:var(--text-muted);">
+        <span>★ マイ球団</span>
+        <select
+          class="my-team-select flex-1 rounded-md border font-bold"
+          aria-label="マイ球団を選択(モバイル)"
+          style="font-size:13px; padding:6px 10px; border-color:var(--border); color:var(--text); background-color:transparent;"
+        >
+          <option value="">未設定</option>
+          {alTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+          {nlTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+        </select>
+      </label>
+    </nav>
+  </div>
+</header>
+
+<script is:inline>
+  document.getElementById("theme-toggle")?.addEventListener("click", () => {
+    const root = document.documentElement;
+    root.classList.toggle("dark");
+    localStorage.setItem("mlb-curation-theme", root.classList.contains("dark") ? "dark" : "light");
+  });
+  document.getElementById("menu-toggle")?.addEventListener("click", () => {
+    document.getElementById("mobile-menu")?.classList.toggle("hidden");
+  });
+
+  // 球団クイックナビが横スクロール可能なことを示すフェード表示の切り替え。
+  // スクロール先頭では左フェードを隠し、末尾まで到達したら右フェードを隠す。
+  (function () {
+    var nav = document.getElementById("team-quicknav");
+    var fadeLeft = document.getElementById("team-quicknav-fade-left");
+    var fadeRight = document.getElementById("team-quicknav-fade-right");
+    if (!nav || !fadeLeft || !fadeRight) return;
+
+    function update() {
+      var maxScroll = nav.scrollWidth - nav.clientWidth;
+      if (maxScroll <= 4) {
+        // スクロールの必要がない(全球団が収まっている)場合は両方非表示
+        fadeLeft.style.opacity = "0";
+        fadeRight.style.opacity = "0";
+        return;
+      }
+      fadeLeft.style.opacity = nav.scrollLeft > 4 ? "1" : "0";
+      fadeRight.style.opacity = nav.scrollLeft < maxScroll - 4 ? "1" : "0";
+    }
+
+    nav.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
+    update();
+  })();
+
+  // マイ球団(お気に入り球団)の選択をlocalStorageに保存する。
+  // トップページ側はこの値を読んで「マイ球団の最新ニュース」を表示する。
+  (function () {
+    var STORAGE_KEY = "mlb-curation-my-team";
+    var selects = document.querySelectorAll(".my-team-select");
+    var saved = "";
+    try {
+      saved = localStorage.getItem(STORAGE_KEY) || "";
+    } catch (e) {}
+    selects.forEach(function (sel) {
+      sel.value = saved;
+      sel.addEventListener("change", function () {
+        try {
+          if (sel.value) {
+            localStorage.setItem(STORAGE_KEY, sel.value);
+          } else {
+            localStorage.removeItem(STORAGE_KEY);
+          }
+        } catch (e) {}
+        // 他のセレクト(デスクトップ/モバイル)にも同じ値を反映してからリロード
+        selects.forEach(function (other) {
+          other.value = sel.value;
+        });
+        location.reload();
+      });
+    });
+  })();
+</script>

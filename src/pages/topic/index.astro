@@ -1,0 +1,24 @@
+---
+import Base from "../../layouts/Base.astro";
+import TopicLinkRow from "../../components/TopicLinkRow.astro";
+import { topics } from "../../lib/topics";
+import { newsForTopic } from "../../lib/news";
+---
+
+<Base
+  title="話題から探す"
+  description="移籍・故障・契約更改など、話題別にMLBニュースをまとめて確認できます。"
+>
+  <section class="container-page" style="padding:56px 24px 80px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:6px;">話題から探す</h1>
+    <p style="font-size:14px; color:var(--text-muted); margin-bottom:28px;">
+      球団別の分類とは別に、「移籍」「故障」「契約更改」のような話題ごとに横断してニュースを確認できます。
+    </p>
+
+    <div style="max-width:520px;">
+      {topics.map((topic) => (
+        <TopicLinkRow topic={topic} count={newsForTopic(topic.id).length} />
+      ))}
+    </div>
+  </section>
+</Base>

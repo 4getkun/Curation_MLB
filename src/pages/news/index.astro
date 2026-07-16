@@ -1,0 +1,104 @@
+---
+import Base from "../../layouts/Base.astro";
+import NewsRow from "../../components/NewsRow.astro";
+import { allNews, newsGeneratedAt, formatGeneratedAt } from "../../lib/news";
+import { teams, textOnTeamColor } from "../../lib/teams";
+---
+
+<Base title="ニュース一覧" description="日本人メジャーリーガーの所属球団を中心に、MLB最新ニュースを一覧でチェック。球団ごとの絞り込みにも対応。">
+  <section class="container-page" style="padding:44px 24px 64px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:6px;">ニュース一覧</h1>
+    <p style="font-size:14px; color:var(--text-muted); margin-bottom:24px;">
+      球団で絞り込んで最新ニュースを確認できます。記事は英語原文のまま掲載しています。
+      {newsGeneratedAt && ` 最終更新: ${formatGeneratedAt(newsGeneratedAt)}（自動更新） / 全${allNews.length}件`}
+    </p>
+
+    <!-- 球団フィルター -->
+    <div class="flex flex-wrap gap-2" id="team-filter" style="margin-bottom:28px;">
+      <button
+        type="button"
+        data-team="all"
+        data-active="true"
+        class="filter-chip rounded-full border font-bold"
+        style="font-size:12px; padding:7px 14px; background-color:var(--text); color:var(--page-bg); border-color:var(--text);"
+      >
+        すべて
+      </button>
+      {teams.map((team) => (
+        <button
+          type="button"
+          data-team={team.id}
+          data-color={team.color}
+          data-text-color={textOnTeamColor(team.color)}
+          data-active="false"
+          class="filter-chip rounded-full border font-bold"
+          style="font-size:12px; padding:7px 14px; background:none; color:var(--text-muted); border-color:var(--border);"
+        >
+          {team.short}
+        </button>
+      ))}
+    </div>
+
+    <div id="news-grid">
+      {allNews.map((item) => (
+        <div class="news-item" data-teams={item.teams.join(",")}>
+          <NewsRow item={item} variant="full" />
+        </div>
+      ))}
+    </div>
+
+    <p id="empty-message" class="hidden" style="font-size:14px; color:var(--text-muted); padding:24px 0;">
+      該当するニュースが見つかりませんでした。
+    </p>
+  </section>
+</Base>
+
+<script is:inline>
+  (function () {
+    const buttons = document.querySelectorAll("#team-filter .filter-chip");
+    const items = document.querySelectorAll("#news-grid .news-item");
+    const emptyMessage = document.getElementById("empty-message");
+
+    function styleButton(btn, active) {
+      btn.setAttribute("data-active", active ? "true" : "false");
+      if (btn.getAttribute("data-team") === "all") {
+        btn.style.backgroundColor = active ? "var(--text)" : "none";
+        btn.style.color = active ? "var(--page-bg)" : "var(--text-muted)";
+        btn.style.borderColor = active ? "var(--text)" : "var(--border)";
+        return;
+      }
+      const color = btn.getAttribute("data-color");
+      const textColor = btn.getAttribute("data-text-color");
+      if (active) {
+        btn.style.backgroundColor = color;
+        btn.style.color = textColor;
+        btn.style.borderColor = color;
+      } else {
+        btn.style.backgroundColor = "transparent";
+        btn.style.color = "var(--text-muted)";
+        btn.style.borderColor = "var(--border)";
+      }
+    }
+
+    function applyFilter(teamId) {
+      let visibleCount = 0;
+      items.forEach((el) => {
+        const itemTeams = (el.getAttribute("data-teams") || "").split(",");
+        const show = teamId === "all" || itemTeams.includes(teamId);
+        el.style.display = show ? "" : "none";
+        if (show) visibleCount++;
+      });
+      if (emptyMessage) {
+        emptyMessage.classList.toggle("hidden", visibleCount !== 0);
+      }
+    }
+
+    buttons.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        buttons.forEach((b) => styleButton(b, false));
+        styleButton(btn, true);
+        applyFilter(btn.getAttribute("data-team") || "all");
+      });
+    });
+  })();
+</script>

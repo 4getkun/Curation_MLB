@@ -1,0 +1,96 @@
+[
+  {
+    "id": "mlb-com-news",
+    "name": "MLB.com",
+    "url": "https://www.mlb.com/feeds/news/rss.xml",
+    "hasSummary": false
+  },
+  {
+    "id": "yahoo-mlb",
+    "name": "Yahoo Sports MLB",
+    "url": "https://sports.yahoo.com/mlb/rss.xml",
+    "hasSummary": true
+  },
+  {
+    "id": "cbssports-mlb",
+    "name": "CBS Sports MLB",
+    "url": "https://www.cbssports.com/rss/headlines/mlb/",
+    "hasSummary": true
+  },
+  {
+    "id": "mlbtraderumors",
+    "name": "MLB Trade Rumors",
+    "url": "https://www.mlbtraderumors.com/feed",
+    "hasSummary": true
+  },
+  {
+    "id": "mlb-com-astros",
+    "name": "MLB.com (Astros)",
+    "url": "https://www.mlb.com/astros/feeds/news/rss.xml",
+    "teamId": "astros",
+    "hasSummary": false
+  },
+  {
+    "id": "mlb-com-cubs",
+    "name": "MLB.com (Cubs)",
+    "url": "https://www.mlb.com/cubs/feeds/news/rss.xml",
+    "teamId": "cubs",
+    "hasSummary": false
+  },
+  {
+    "id": "mlb-com-dodgers",
+    "name": "MLB.com (Dodgers)",
+    "url": "https://www.mlb.com/dodgers/feeds/news/rss.xml",
+    "teamId": "dodgers",
+    "hasSummary": false
+  },
+  {
+    "id": "mlb-com-bluejays",
+    "name": "MLB.com (Blue Jays)",
+    "url": "https://www.mlb.com/bluejays/feeds/news/rss.xml",
+    "teamId": "bluejays",
+    "hasSummary": false
+  },
+  {
+    "id": "mlb-com-angels",
+    "name": "MLB.com (Angels)",
+    "url": "https://www.mlb.com/angels/feeds/news/rss.xml",
+    "teamId": "angels",
+    "hasSummary": false
+  },
+  {
+    "id": "mlb-com-rockies",
+    "name": "MLB.com (Rockies)",
+    "url": "https://www.mlb.com/rockies/feeds/news/rss.xml",
+    "teamId": "rockies",
+    "hasSummary": false
+  },
+  {
+    "id": "mlb-com-mets",
+    "name": "MLB.com (Mets)",
+    "url": "https://www.mlb.com/mets/feeds/news/rss.xml",
+    "teamId": "mets",
+    "hasSummary": false
+  },
+  {
+    "id": "mlb-com-padres",
+    "name": "MLB.com (Padres)",
+    "url": "https://www.mlb.com/padres/feeds/news/rss.xml",
+    "teamId": "padres",
+    "hasSummary": false
+  },
+  {
+    "id": "mlb-com-whitesox",
+    "name": "MLB.com (White Sox)",
+    "url": "https://www.mlb.com/whitesox/feeds/news/rss.xml",
+    "teamId": "whitesox",
+    "hasSummary": false
+  },
+  {
+    "id": "mlb-com-redsox",
+    "name": "MLB.com (Red Sox)",
+    "url": "https://www.mlb.com/redsox/feeds/news/rss.xml",
+    "teamId": "redsox",
+    "hasSummary": false
+  }
+]

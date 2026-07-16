@@ -1,0 +1,42 @@
+[
+  {
+    "id": "trade",
+    "label": "移籍・トレード",
+    "keywords": ["trade", "traded", "trading", "deal", "dealt", "waiver", "waived", "designated for assignment", "DFA"]
+  },
+  {
+    "id": "injury",
+    "label": "故障・負傷",
+    "keywords": ["injured list", "injury", "injuries", "surgery", "Tommy John", "strain", "sprain", "elbow", "shoulder", "hamstring", "sidelined", "day-to-day"]
+  },
+  {
+    "id": "roster",
+    "label": "登録・昇格",
+    "keywords": ["recalled", "optioned", "called up", "sent down", "roster move", "reinstated"]
+  },
+  {
+    "id": "contract",
+    "label": "契約・年俸",
+    "keywords": ["contract extension", "extension", "free agency", "free agent", "re-sign", "re-signed", "signs", "signing", "payroll", "arbitration"]
+  },
+  {
+    "id": "draft",
+    "label": "ドラフト",
+    "keywords": ["Draft", "drafted", "prospect", "first-round pick", "No. 1 pick"]
+  },
+  {
+    "id": "personnel",
+    "label": "監督・GM人事",
+    "keywords": ["manager", "hired", "fired", "front office", "general manager", "GM", "president of baseball operations"]
+  },
+  {
+    "id": "milestone",
+    "label": "記録・表彰",
+    "keywords": ["MVP", "Cy Young", "All-Star", "no-hitter", "perfect game", "milestone", "award", "Rookie of the Year", "Gold Glove", "Silver Slugger"]
+  },
+  {
+    "id": "retirement",
+    "label": "引退",
+    "keywords": ["retire", "retires", "retirement", "retiring"]
+  }
+]

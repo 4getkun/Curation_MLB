@@ -1,0 +1,81 @@
+---
+import { Image } from "astro:assets";
+import type { NewsItem } from "../lib/news";
+import { formatRelativeShort, displayTitle, displaySummary, isTranslated } from "../lib/news";
+import { getTeam, needsContrastRing } from "../lib/teams";
+import { getPlayer } from "../lib/players";
+import { getTopic } from "../lib/topics";
+import { withBase } from "../lib/url";
+import featuredPlaceholder from "../assets/featured-placeholder.jpg";
+
+interface Props {
+  item: NewsItem;
+}
+
+const { item } = Astro.props;
+const primary = item.teams[0] ? getTeam(item.teams[0]) : undefined;
+const dotColor = primary?.color ?? "var(--text-faint)";
+const teamShort = primary?.short ?? "総合";
+const dotRing = primary && needsContrastRing(primary.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : "";
+const title = displayTitle(item);
+const summary = displaySummary(item);
+const translated = isTranslated(item);
+const itemTopics = (item.topics ?? []).map((id) => getTopic(id)).filter((t): t is NonNullable<typeof t> => Boolean(t));
+const itemPlayers = (item.players ?? []).map((id) => getPlayer(id)).filter((p): p is NonNullable<typeof p> => Boolean(p));
+const extraSourceCount = (item.sources?.length ?? 1) - 1;
+---
+
+<div>
+  <a href={item.link} target="_blank" rel="noopener noreferrer nofollow" class="block no-underline" style="color:inherit;">
+    <div class="overflow-hidden mb-4" style="aspect-ratio:16/9; border:1px solid var(--border);">
+      <Image
+        src={featuredPlaceholder}
+        alt=""
+        width={1280}
+        height={720}
+        class="w-full h-full"
+        style="object-fit:cover;"
+        loading="eager"
+      />
+    </div>
+    <div class="flex items-center gap-2 mb-2.5 flex-wrap">
+      <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${dotColor};${dotRing}`}></span>
+      <span class="font-bold" style="font-size:12px; color:var(--text-muted);">{teamShort}</span>
+      <span style="font-size:12px; color:var(--text-faint);">{formatRelativeShort(item.pubDate)}</span>
+      {extraSourceCount > 0 && (
+        <span style="font-size:12px; color:var(--text-faint);">・{extraSourceCount + 1}媒体が報道</span>
+      )}
+      {translated && (
+        <span style="font-size:12px; color:var(--text-faint);">・AI翻訳</span>
+      )}
+    </div>
+    <h3 class="font-display font-black leading-snug m-0 mb-2.5" style="font-size:24px; color:var(--text);">
+      {title}
+    </h3>
+    <p class="m-0" style="font-size:14px; line-height:1.7; color:var(--text-muted);">
+      {summary}
+    </p>
+  </a>
+  {(itemPlayers.length > 0 || itemTopics.length > 0) && (
+    <div class="flex flex-wrap" style="gap:6px; margin-top:12px;">
+      {itemPlayers.map((player) => (
+        <a
+          href={withBase(`/player/${player.id}/`)}
+          class="no-underline rounded-full font-bold"
+          style="font-size:10px; padding:2px 9px; background-color:var(--accent); color:#fff;"
+        >
+          ⚾ {player.name}
+        </a>
+      ))}
+      {itemTopics.map((topic) => (
+        <a
+          href={withBase(`/topic/${topic.id}/`)}
+          class="no-underline rounded-full"
+          style="font-size:10px; padding:2px 9px; background-color:var(--card-bg); border:1px solid var(--border); color:var(--text-muted);"
+        >
+          #{topic.label}
+        </a>
+      ))}
+    </div>
+  )}
+</div>

@@ -1,0 +1,213 @@
+---
+import Base from "../../layouts/Base.astro";
+import { teams } from "../../lib/teams";
+import { players } from "../../lib/players";
+import { topics } from "../../lib/topics";
+import { withBase } from "../../lib/url";
+
+const dataUrl = withBase("/data/news-index.json");
+const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.color }));
+const playersForClient = players.map((p) => ({ id: p.id, name: p.name, englishName: p.englishName, teamId: p.teamId }));
+const topicsForClient = topics.map((t) => ({ id: t.id, label: t.label }));
+---
+
+<Base
+  title="サイト内検索"
+  description="タイトル・要約・選手名・球団名からMLBニュースを検索できます。"
+>
+  <section class="container-page" style="padding:44px 24px 24px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:6px;">サイト内検索</h1>
+    <p style="font-size:14px; color:var(--text-muted); margin-bottom:24px;">
+      キーワード・選手名・球団名などで、取得済みのニュースを横断して検索できます。
+    </p>
+
+    <div class="flex items-center" style="gap:8px; margin-bottom:8px;">
+      <input
+        id="search-input"
+        type="search"
+        placeholder="例: 大谷翔平 / トレード / 契約更改 など"
+        autocomplete="off"
+        class="flex-1 rounded-full border"
+        style="font-size:14px; padding:12px 18px; border-color:var(--border); background-color:var(--card-bg); color:var(--text);"
+      />
+    </div>
+    <p id="search-status" style="font-size:12px; color:var(--text-faint); margin-bottom:24px;">
+      データを読み込んでいます…
+    </p>
+
+    <div id="search-results"></div>
+  </section>
+</Base>
+
+<script define:vars={{ dataUrl, teamsForClient, playersForClient, topicsForClient, base: import.meta.env.BASE_URL }}>
+  (function () {
+    var input = document.getElementById("search-input");
+    var status = document.getElementById("search-status");
+    var results = document.getElementById("search-results");
+    var teamsById = {};
+    teamsForClient.forEach(function (t) {
+      teamsById[t.id] = t;
+    });
+    var playersById = {};
+    playersForClient.forEach(function (p) {
+      playersById[p.id] = p;
+    });
+    var topicsById = {};
+    topicsForClient.forEach(function (t) {
+      topicsById[t.id] = t;
+    });
+
+    var allItems = [];
+    var loaded = false;
+
+    function normalize(text) {
+      return (text || "")
+        .toLowerCase()
+        .replace(/[！-～]/g, function (ch) {
+          return String.fromCharCode(ch.charCodeAt(0) - 0xfee0);
+        });
+    }
+
+    function formatRelative(pubDate) {
+      if (!pubDate) return "";
+      var date = new Date(pubDate);
+      if (isNaN(date.getTime())) return "";
+      var diffMin = Math.floor((Date.now() - date.getTime()) / 60000);
+      if (diffMin < 1) return "たった今";
+      if (diffMin < 60) return diffMin + "分前";
+      var diffHour = Math.floor(diffMin / 60);
+      if (diffHour < 24) return diffHour + "時間前";
+      var diffDay = Math.floor(diffHour / 24);
+      if (diffDay < 7) return diffDay + "日前";
+      return date.toLocaleDateString("ja-JP", { month: "short", day: "numeric" });
+    }
+
+    function escapeHtml(str) {
+      return (str || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function displayTitle(item) {
+      return item.titleJa && item.titleJa.trim() ? item.titleJa : item.title;
+    }
+
+    function displaySummary(item) {
+      return item.summaryJa && item.summaryJa.trim() ? item.summaryJa : item.summary;
+    }
+
+    function renderItem(item) {
+      var team = item.teams && item.teams[0] ? teamsById[item.teams[0]] : null;
+      var dotColor = team ? team.color : "var(--text-faint)";
+      var teamShort = team ? team.short : "総合";
+      var playerTags = (item.players || [])
+        .map(function (id) {
+          var p = playersById[id];
+          if (!p) return "";
+          return (
+            '<a href="' +
+            base +
+            "player/" +
+            p.id +
+            '/" class="no-underline rounded-full font-bold" style="font-size:10px; padding:2px 9px; background-color:var(--accent); color:#fff;">⚾ ' +
+            escapeHtml(p.name) +
+            "</a>"
+          );
+        })
+        .join("");
+      var topicTags = (item.topics || [])
+        .map(function (id) {
+          var t = topicsById[id];
+          if (!t) return "";
+          return (
+            '<a href="' +
+            base +
+            "topic/" +
+            t.id +
+            '/" class="no-underline rounded-full" style="font-size:10px; padding:2px 9px; background-color:var(--card-bg); border:1px solid var(--border); color:var(--text-muted);">#' +
+            escapeHtml(t.label) +
+            "</a>"
+          );
+        })
+        .join("");
+      var tags = playerTags + topicTags;
+      var sourceNote = item.sourceCount > 1 ? " ・" + item.sourceCount + "媒体が報道" : "";
+
+      return (
+        '<div class="flex items-start" style="gap:18px; padding:20px 0; border-bottom:1px solid var(--border);">' +
+        '<span class="inline-block shrink-0 rounded-full" style="width:9px; height:9px; background-color:' +
+        dotColor +
+        '; margin-top:8px;"></span>' +
+        '<div class="flex-1 min-w-0">' +
+        '<a href="' +
+        escapeHtml(item.link) +
+        '" target="_blank" rel="noopener noreferrer nofollow" class="block no-underline" style="color:inherit;">' +
+        '<h3 class="font-bold leading-snug m-0 mb-2" style="font-size:16px; color:var(--text);">' +
+        escapeHtml(displayTitle(item)) +
+        "</h3>" +
+        (displaySummary(item)
+          ? '<p class="m-0 mb-1.5" style="font-size:13px; color:var(--text-muted);">' + escapeHtml(displaySummary(item)) + "</p>"
+          : "") +
+        "</a>" +
+        '<p class="m-0" style="font-size:12px; color:var(--text-faint);">' +
+        escapeHtml(teamShort) +
+        " · " +
+        escapeHtml(item.source) +
+        " · " +
+        formatRelative(item.pubDate) +
+        escapeHtml(sourceNote) +
+        "</p>" +
+        (tags ? '<div class="flex flex-wrap" style="gap:6px; margin-top:8px;">' + tags + "</div>" : "") +
+        "</div></div>"
+      );
+    }
+
+    function runSearch() {
+      var query = normalize(input.value.trim());
+      if (!loaded) return;
+
+      if (!query) {
+        results.innerHTML = "";
+        status.textContent = "全" + allItems.length + "件のニュースから検索できます。";
+        return;
+      }
+
+      var matched = allItems.filter(function (item) {
+        var teamShort = item.teams && item.teams[0] && teamsById[item.teams[0]] ? teamsById[item.teams[0]].short : "";
+        var playerNames = (item.players || [])
+          .map(function (id) {
+            var p = playersById[id];
+            return p ? p.name + " " + p.englishName : "";
+          })
+          .join(" ");
+        var haystack = normalize(
+          displayTitle(item) + " " + item.title + " " + displaySummary(item) + " " + item.summary + " " + teamShort + " " + item.source + " " + playerNames,
+        );
+        return haystack.indexOf(query) !== -1;
+      });
+
+      status.textContent = matched.length + "件ヒットしました。";
+      results.innerHTML = matched.slice(0, 100).map(renderItem).join("");
+    }
+
+    fetch(dataUrl)
+      .then(function (res) {
+        return res.json();
+      })
+      .then(function (data) {
+        allItems = data;
+        loaded = true;
+        var params = new URLSearchParams(location.search);
+        var q = params.get("q");
+        if (q) input.value = q;
+        runSearch();
+      })
+      .catch(function () {
+        status.textContent = "ニュースデータの読み込みに失敗しました。時間をおいて再度お試しください。";
+      });
+
+    input.addEventListener("input", runSearch);
+  })();
+</script>

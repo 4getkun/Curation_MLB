@@ -1,0 +1,24 @@
+{
+  "name": "curation-mlb",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "日本人メジャーリーガーの所属球団を中心に、MLBニュースを広告なしキュレーションする静的サイト(実験運用のため記事は英語原文のまま掲載)",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "fetch-news": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.2",
+    "astro": "^7.0.9",
+    "rss-parser": "^3.13.0",
+    "tailwindcss": "^4.3.2"
+  }
+}
