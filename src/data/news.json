@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-07-17T05:25:59.688Z",
-  "count": 559,
+  "generatedAt": "2026-07-17T06:51:15.405Z",
+  "count": 464,
   "items": [
+    {
+      "title": "SF Giants face a gauntlet before All-Star break based on 2027 schedule",
+      "summary": "The San Francisco Giants will host the Colorado Rockies to open the season and close it at Coors Field",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/sf-giants-face-gauntlet-star-054301523.html",
+      "pubDate": "2026-07-17T05:43:01.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/sf-giants-face-gauntlet-star-054301523.html"
+        }
+      ]
+    },
+    {
+      "title": "Watch No. 2 prospect Neyens play at High-A for FREE tonight",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/watch-minor-league-baseball-games-for-free-2026",
+      "pubDate": "2026-07-17T05:30:00.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/watch-minor-league-baseball-games-for-free-2026"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/watch-minor-league-baseball-games-for-free-2026"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/watch-minor-league-baseball-games-for-free-2026"
+        }
+      ]
+    },
     {
       "title": "Reds, Chase Burns Agree To Seven-Year Extension",
       "summary": "The Reds and breakout righty Chase Burns are in agreement on a seven-year, $105MM contract extension, reports Jon Morosi of MLB Network. The Vayner Sports client was already under control via arbitrat…",
@@ -114,6 +170,51 @@
       ]
     },
     {
+      "title": "Dodgers pop-culture domination continues with Godzilla bobbleheads planned for regular-season finale",
+      "summary": "The Dodgers' regular-season home finale against the San Diego Padres at UNIQLO Field at Dodger Stadium, will feature one of Japan's most iconic cultural exports.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-pop-culture-domination-continues-023713189.html",
+      "pubDate": "2026-07-17T02:37:13.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers",
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-pop-culture-domination-continues-023713189.html"
+        }
+      ]
+    },
+    {
+      "title": "Three pressing questions facing Yankees ahead of second half",
+      "summary": "The Post's Greg Joyce breaks down three questions that the Yankees will need to answer with the season set to resume after the All-Star break:",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/three-pressing-questions-facing-yankees-023143813.html",
+      "pubDate": "2026-07-17T02:31:43.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/three-pressing-questions-facing-yankees-023143813.html"
+        }
+      ]
+    },
+    {
       "title": "Mets talk playing in poor air quality conditions after win over Phillies: &#39;Felt like I was breathing some metal&#39;",
       "summary": "The Mets and Phillies played through a hazy, smoky atmosphere as the wildfires in Canada affected playing conditions on Thursday.",
       "titleJa": null,
@@ -167,28 +268,6 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/juan-soto-exits-mets-phillies-left-calf",
-      "pubDate": "2026-07-17T02:19:36.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/juan-soto-exits-mets-phillies-left-calf"
-        }
-      ]
-    },
-    {
-      "title": "Soto not expected to miss time after exiting with calf soreness",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
       "link": "https://www.mlb.com/news/juan-soto-exits-mets-phillies-left-calf",
       "pubDate": "2026-07-17T02:19:36.000Z",
       "source": "MLB.com",
@@ -201,6 +280,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/juan-soto-exits-mets-phillies-left-calf"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/juan-soto-exits-mets-phillies-left-calf"
         }
       ]
     },
@@ -213,9 +297,7 @@
       "pubDate": "2026-07-17T02:19:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [
-        "mets"
-      ],
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
@@ -223,24 +305,7 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/mets-ready-to-sell-at-2026-trade-deadline-sources"
-        }
-      ]
-    },
-    {
-      "title": "Where do Alvarez, Baty stand as Mets determine Deadline plans?",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/mets-ready-to-sell-at-2026-trade-deadline-sources",
-      "pubDate": "2026-07-17T02:19:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Mets)",
           "sourceId": "mlb-com-mets",
@@ -365,6 +430,28 @@
       ]
     },
     {
+      "title": "Buster Posey interview ruined by embarrassing hot mic moment",
+      "summary": "Giants president of baseball operations Buster Posey has recently been featured in headlines for the team's poor performance as well as the organization's Pride Night scandal.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/buster-posey-interview-ruined-embarrassing-015843821.html",
+      "pubDate": "2026-07-17T01:58:43.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/buster-posey-interview-ruined-embarrassing-015843821.html"
+        }
+      ]
+    },
+    {
       "title": "St. Louis Cardinals 2027 Schedule Full of Challenges and Opportunities",
       "summary": "The St. Louis Cardinals released their 2027 schedule today and it starts with a long road trip, but ends with opportunities. The first 6 games for the 2026 MLB campaign starts with the Cardinals on th…",
       "titleJa": null,
@@ -467,6 +554,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/first-round-pick-rhp-cameron-012000256.html"
+        }
+      ]
+    },
+    {
+      "title": "Christian Scott, bottom of lineup power Mets to win over Phillies in smoky conditions",
+      "summary": "Maybe it’s a sign of the apocalypse.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/christian-scott-bottom-lineup-power-011145558.html",
+      "pubDate": "2026-07-17T01:11:45.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/christian-scott-bottom-lineup-power-011145558.html"
         }
       ]
     },
@@ -952,74 +1061,6 @@
       ]
     },
     {
-      "title": "Watch No. 2 prospect Neyens play at High-A for FREE on Friday",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/watch-minor-league-baseball-games-for-free-2026",
-      "pubDate": "2026-07-16T23:03:00.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/watch-minor-league-baseball-games-for-free-2026"
-        }
-      ]
-    },
-    {
-      "title": "Watch prospects Quintero, Morales, Davalan play at High-A for FREE in Sunday matinee",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/watch-minor-league-baseball-games-for-free-2026",
-      "pubDate": "2026-07-16T23:03:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/watch-minor-league-baseball-games-for-free-2026"
-        }
-      ]
-    },
-    {
-      "title": "Watch Double-A prospects play for FREE in Saturday matinee",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/watch-minor-league-baseball-games-for-free-2026",
-      "pubDate": "2026-07-16T23:03:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/watch-minor-league-baseball-games-for-free-2026"
-        }
-      ]
-    },
-    {
       "title": "MLB Mailbag: Cardinals, Horwitz, Pirates, Mariners, Mets, Rushing",
       "summary": "This week’s MLB Mailbag will tackle several Cardinals questions from readers, in addition to quandaries on the Pirates’ lineup and trade targets, the Mariners’ pitching staff and lineup needs, the Met…",
       "titleJa": null,
@@ -1189,31 +1230,6 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/marcus-semien-reinstated-from-injured-list-by-mets",
-      "pubDate": "2026-07-16T22:02:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "trade",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/marcus-semien-reinstated-from-injured-list-by-mets"
-        }
-      ]
-    },
-    {
-      "title": "Semien reinstated from IL, absent from starting lineup; Short DFA'd",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
       "link": "https://www.mlb.com/news/marcus-semien-reinstated-from-injured-list-by-mets",
       "pubDate": "2026-07-16T22:02:00.000Z",
       "source": "MLB.com",
@@ -1229,6 +1245,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/marcus-semien-reinstated-from-injured-list-by-mets"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/marcus-semien-reinstated-from-injured-list-by-mets"
         }
       ]
     },
@@ -1602,9 +1623,7 @@
       "pubDate": "2026-07-16T21:00:00.000Z",
       "source": "MLB.com (Rockies)",
       "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
+      "teams": [],
       "players": [],
       "topics": [
         "draft"
@@ -1614,26 +1633,7 @@
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/road-to-the-show-peacock-mlb-prospects-series-episode-3-preview"
-        }
-      ]
-    },
-    {
-      "title": "Episode 3 of the 'Road to the Show' features No. 1 Draft pick Cholowsky, Braden Montgomery",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/road-to-the-show-peacock-mlb-prospects-series-episode-3-preview",
-      "pubDate": "2026-07-16T21:00:00.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
@@ -2136,226 +2136,6 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/mlb-2027-schedule-released",
-      "pubDate": "2026-07-16T19:32:43.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/mlb-2027-schedule-released"
-        }
-      ]
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/mlb-2027-schedule-released",
-      "pubDate": "2026-07-16T19:32:43.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/mlb-2027-schedule-released"
-        }
-      ]
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/mlb-2027-schedule-released",
-      "pubDate": "2026-07-16T19:32:43.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/mlb-2027-schedule-released"
-        }
-      ]
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/mlb-2027-schedule-released",
-      "pubDate": "2026-07-16T19:32:43.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/mlb-2027-schedule-released"
-        }
-      ]
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/mlb-2027-schedule-released",
-      "pubDate": "2026-07-16T19:32:43.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/mlb-2027-schedule-released"
-        }
-      ]
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/mlb-2027-schedule-released",
-      "pubDate": "2026-07-16T19:32:43.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/mlb-2027-schedule-released"
-        }
-      ]
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/mlb-2027-schedule-released",
-      "pubDate": "2026-07-16T19:32:43.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/mlb-2027-schedule-released"
-        }
-      ]
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/mlb-2027-schedule-released",
-      "pubDate": "2026-07-16T19:32:43.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/mlb-2027-schedule-released"
-        }
-      ]
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/mlb-2027-schedule-released",
-      "pubDate": "2026-07-16T19:32:43.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/mlb-2027-schedule-released"
-        }
-      ]
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/mlb-2027-schedule-released",
-      "pubDate": "2026-07-16T19:32:43.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/mlb-2027-schedule-released"
-        }
-      ]
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
       "link": "https://www.mlb.com/news/mlb-2027-schedule-released",
       "pubDate": "2026-07-16T19:32:43.000Z",
       "source": "MLB.com",
@@ -2368,6 +2148,56 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/mlb-2027-schedule-released"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/mlb-2027-schedule-released"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/mlb-2027-schedule-released"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/mlb-2027-schedule-released"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/mlb-2027-schedule-released"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/mlb-2027-schedule-released"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/mlb-2027-schedule-released"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/mlb-2027-schedule-released"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/mlb-2027-schedule-released"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/mlb-2027-schedule-released"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/mlb-2027-schedule-released"
         }
       ]
     },
@@ -3023,78 +2853,6 @@
       ]
     },
     {
-      "title": "Toronto's fourth-round pick among 2026 Draft's biggest steals",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast",
-      "pubDate": "2026-07-16T17:55:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast"
-        }
-      ]
-    },
-    {
-      "title": "Halos' third-round pick among 2026 Draft's biggest steals",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast",
-      "pubDate": "2026-07-16T17:55:00.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast"
-        }
-      ]
-    },
-    {
-      "title": "Boston's ninth-round pick among 2026 Draft's biggest steals",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast",
-      "pubDate": "2026-07-16T17:55:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast"
-        }
-      ]
-    },
-    {
       "title": "Best value picks of the 2026 Draft -- 1 from each of the first 10 rounds",
       "summary": "",
       "titleJa": null,
@@ -3113,6 +2871,21 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast"
         }
       ]
     },
@@ -3137,28 +2910,6 @@
       ]
     },
     {
-      "title": "Cease climbs to third in Starting Pitcher Power Rankings",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/mlb-eighth-starting-pitcher-power-rankings-2026",
-      "pubDate": "2026-07-16T17:45:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/mlb-eighth-starting-pitcher-power-rankings-2026"
-        }
-      ]
-    },
-    {
       "title": "All-Star starter rising fast in latest SP Power Rankings",
       "summary": "",
       "titleJa": null,
@@ -3177,6 +2928,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/mlb-eighth-starting-pitcher-power-rankings-2026"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/mlb-eighth-starting-pitcher-power-rankings-2026"
         }
       ]
     },
@@ -3624,28 +3380,6 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/wrigley-field-hosts-mlb-all-star-game-home-run-derby-in-2027",
-      "pubDate": "2026-07-16T15:15:04.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/wrigley-field-hosts-mlb-all-star-game-home-run-derby-in-2027"
-        }
-      ]
-    },
-    {
-      "title": "'It's going to be crazy': PCA pumped for Wrigley to host ASG, HR Derby in '27",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
       "link": "https://www.mlb.com/news/wrigley-field-hosts-mlb-all-star-game-home-run-derby-in-2027",
       "pubDate": "2026-07-16T15:15:04.000Z",
       "source": "MLB.com",
@@ -3658,28 +3392,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/wrigley-field-hosts-mlb-all-star-game-home-run-derby-in-2027"
-        }
-      ]
-    },
-    {
-      "title": "Don't look now, but Machado's getting hot. Here's how he's doing it",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/how-manny-machado-is-turning-around-his-season-at-the-plate",
-      "pubDate": "2026-07-16T15:06:52.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/how-manny-machado-is-turning-around-his-season-at-the-plate"
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/wrigley-field-hosts-mlb-all-star-game-home-run-derby-in-2027"
         }
       ]
     },
@@ -3700,6 +3417,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/how-manny-machado-is-turning-around-his-season-at-the-plate"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/how-manny-machado-is-turning-around-his-season-at-the-plate"
         }
       ]
     },
@@ -3862,9 +3584,7 @@
       "pubDate": "2026-07-16T14:52:05.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [
-        "dodgers"
-      ],
+      "teams": [],
       "players": [
         "ohtani"
       ],
@@ -5122,9 +4842,7 @@
       "pubDate": "2026-07-16T03:19:26.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [
-        "astros"
-      ],
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
@@ -5191,30 +4909,6 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/jim-abbott-wins-jimmy-v-award-for-perseverance-at-espys",
-      "pubDate": "2026-07-16T02:57:05.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/jim-abbott-wins-jimmy-v-award-for-perseverance-at-espys"
-        }
-      ]
-    },
-    {
-      "title": "Abbott honored at ESPYs with Jimmy V Award for Perseverance",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
       "link": "https://www.mlb.com/news/jim-abbott-wins-jimmy-v-award-for-perseverance-at-espys",
       "pubDate": "2026-07-16T02:57:05.000Z",
       "source": "MLB.com",
@@ -5229,6 +4923,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/jim-abbott-wins-jimmy-v-award-for-perseverance-at-espys"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/jim-abbott-wins-jimmy-v-award-for-perseverance-at-espys"
         }
       ]
     },
@@ -5504,28 +5203,6 @@
       ]
     },
     {
-      "title": "Dodgers lead Power Rankings going into second half",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/mlb-power-rankings-for-all-star-week-2026",
-      "pubDate": "2026-07-16T01:23:06.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/mlb-power-rankings-for-all-star-week-2026"
-        }
-      ]
-    },
-    {
       "title": "How Power Rankings shake out as second half commences",
       "summary": "",
       "titleJa": null,
@@ -5542,6 +5219,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/mlb-power-rankings-for-all-star-week-2026"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/mlb-power-rankings-for-all-star-week-2026"
         }
       ]
     },
@@ -5746,246 +5428,6 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/favorite-mlb-draft-pick-for-each-team-2026",
-      "pubDate": "2026-07-16T00:00:00.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/favorite-mlb-draft-pick-for-each-team-2026"
-        }
-      ]
-    },
-    {
-      "title": "MLB Pipeline's favorite Draft picks -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/favorite-mlb-draft-pick-for-each-team-2026",
-      "pubDate": "2026-07-16T00:00:00.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/favorite-mlb-draft-pick-for-each-team-2026"
-        }
-      ]
-    },
-    {
-      "title": "MLB Pipeline's favorite Draft picks -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/favorite-mlb-draft-pick-for-each-team-2026",
-      "pubDate": "2026-07-16T00:00:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/favorite-mlb-draft-pick-for-each-team-2026"
-        }
-      ]
-    },
-    {
-      "title": "MLB Pipeline's favorite Draft picks -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/favorite-mlb-draft-pick-for-each-team-2026",
-      "pubDate": "2026-07-16T00:00:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/favorite-mlb-draft-pick-for-each-team-2026"
-        }
-      ]
-    },
-    {
-      "title": "MLB Pipeline's favorite Draft picks -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/favorite-mlb-draft-pick-for-each-team-2026",
-      "pubDate": "2026-07-16T00:00:00.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/favorite-mlb-draft-pick-for-each-team-2026"
-        }
-      ]
-    },
-    {
-      "title": "MLB Pipeline's favorite Draft picks -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/favorite-mlb-draft-pick-for-each-team-2026",
-      "pubDate": "2026-07-16T00:00:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/favorite-mlb-draft-pick-for-each-team-2026"
-        }
-      ]
-    },
-    {
-      "title": "MLB Pipeline's favorite Draft picks -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/favorite-mlb-draft-pick-for-each-team-2026",
-      "pubDate": "2026-07-16T00:00:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/favorite-mlb-draft-pick-for-each-team-2026"
-        }
-      ]
-    },
-    {
-      "title": "MLB Pipeline's favorite Draft picks -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/favorite-mlb-draft-pick-for-each-team-2026",
-      "pubDate": "2026-07-16T00:00:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/favorite-mlb-draft-pick-for-each-team-2026"
-        }
-      ]
-    },
-    {
-      "title": "MLB Pipeline's favorite Draft picks -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/favorite-mlb-draft-pick-for-each-team-2026",
-      "pubDate": "2026-07-16T00:00:00.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/favorite-mlb-draft-pick-for-each-team-2026"
-        }
-      ]
-    },
-    {
-      "title": "MLB Pipeline's favorite Draft picks -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/favorite-mlb-draft-pick-for-each-team-2026",
-      "pubDate": "2026-07-16T00:00:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/favorite-mlb-draft-pick-for-each-team-2026"
-        }
-      ]
-    },
-    {
-      "title": "MLB Pipeline's favorite Draft picks -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
       "link": "https://www.mlb.com/news/favorite-mlb-draft-pick-for-each-team-2026",
       "pubDate": "2026-07-16T00:00:00.000Z",
       "source": "MLB.com",
@@ -6000,6 +5442,56 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/favorite-mlb-draft-pick-for-each-team-2026"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/favorite-mlb-draft-pick-for-each-team-2026"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/favorite-mlb-draft-pick-for-each-team-2026"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/favorite-mlb-draft-pick-for-each-team-2026"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/favorite-mlb-draft-pick-for-each-team-2026"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/favorite-mlb-draft-pick-for-each-team-2026"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/favorite-mlb-draft-pick-for-each-team-2026"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/favorite-mlb-draft-pick-for-each-team-2026"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/favorite-mlb-draft-pick-for-each-team-2026"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/favorite-mlb-draft-pick-for-each-team-2026"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/favorite-mlb-draft-pick-for-each-team-2026"
         }
       ]
     },
@@ -6312,28 +5804,6 @@
       ]
     },
     {
-      "title": "Pages' World Series-saving Game 7 catch is back, in bobblehead form",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-unveil-bobblehead-of-andy-pages-world-series-game-7-catch",
-      "pubDate": "2026-07-15T21:09:03.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-unveil-bobblehead-of-andy-pages-world-series-game-7-catch"
-        }
-      ]
-    },
-    {
       "title": "LA's World Series-saving Game 7 catch is back, in bobblehead form",
       "summary": "",
       "titleJa": null,
@@ -6350,6 +5820,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/dodgers-unveil-bobblehead-of-andy-pages-world-series-game-7-catch"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-unveil-bobblehead-of-andy-pages-world-series-game-7-catch"
         }
       ]
     },
@@ -6424,74 +5899,6 @@
       ]
     },
     {
-      "title": "McLean's sinker among nastiest pitches of first half",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/top-pitches-of-1st-half-2026-season",
-      "pubDate": "2026-07-15T20:45:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/top-pitches-of-1st-half-2026-season"
-        }
-      ]
-    },
-    {
-      "title": "Brown's curveball among nastiest pitches of first half",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/top-pitches-of-1st-half-2026-season",
-      "pubDate": "2026-07-15T20:45:00.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/top-pitches-of-1st-half-2026-season"
-        }
-      ]
-    },
-    {
-      "title": "Ohtani's sweeper among nastiest pitches of first half",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/top-pitches-of-1st-half-2026-season",
-      "pubDate": "2026-07-15T20:45:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/top-pitches-of-1st-half-2026-season"
-        }
-      ]
-    },
-    {
       "title": "These are the nastiest pitches of the first half of the season",
       "summary": "",
       "titleJa": null,
@@ -6508,6 +5915,21 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/top-pitches-of-1st-half-2026-season"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/top-pitches-of-1st-half-2026-season"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/top-pitches-of-1st-half-2026-season"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/top-pitches-of-1st-half-2026-season"
         }
       ]
     },
@@ -7089,226 +6511,6 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
-      "pubDate": "2026-07-15T15:20:06.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
-        }
-      ]
-    },
-    {
-      "title": "Each team's biggest need at this year's Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
-      "pubDate": "2026-07-15T15:20:06.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
-        }
-      ]
-    },
-    {
-      "title": "Each team's biggest need at this year's Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
-      "pubDate": "2026-07-15T15:20:06.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
-        }
-      ]
-    },
-    {
-      "title": "Each team's biggest need at this year's Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
-      "pubDate": "2026-07-15T15:20:06.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
-        }
-      ]
-    },
-    {
-      "title": "Each team's biggest need at this year's Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
-      "pubDate": "2026-07-15T15:20:06.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
-        }
-      ]
-    },
-    {
-      "title": "Each team's biggest need at this year's Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
-      "pubDate": "2026-07-15T15:20:06.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
-        }
-      ]
-    },
-    {
-      "title": "Each team's biggest need at this year's Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
-      "pubDate": "2026-07-15T15:20:06.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
-        }
-      ]
-    },
-    {
-      "title": "Each team's biggest need at this year's Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
-      "pubDate": "2026-07-15T15:20:06.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
-        }
-      ]
-    },
-    {
-      "title": "Each team's biggest need at this year's Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
-      "pubDate": "2026-07-15T15:20:06.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
-        }
-      ]
-    },
-    {
-      "title": "Each team's biggest need at this year's Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
-      "pubDate": "2026-07-15T15:20:06.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
-        }
-      ]
-    },
-    {
-      "title": "Each team's biggest need at this year's Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
       "link": "https://www.mlb.com/news/2026-mlb-trade-deadline-biggest-need-for-each-team",
       "pubDate": "2026-07-15T15:20:06.000Z",
       "source": "MLB.com",
@@ -7321,6 +6523,56 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/2026-mlb-trade-deadline-biggest-need-for-each-team"
         }
       ]
     },
@@ -7562,9 +6814,7 @@
       "pubDate": "2026-07-15T07:04:15.000Z",
       "source": "MLB.com (Astros)",
       "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
+      "teams": [],
       "players": [],
       "topics": [
         "milestone"
@@ -7574,74 +6824,17 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/record-seven-players-from-cuba-play-in-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "Record 7 Cuban 'brothers' take the field for All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/record-seven-players-from-cuba-play-in-all-star-game",
-      "pubDate": "2026-07-15T07:04:15.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/record-seven-players-from-cuba-play-in-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "Record 7 Cuban 'brothers' take the field for All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/record-seven-players-from-cuba-play-in-all-star-game",
-      "pubDate": "2026-07-15T07:04:15.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/record-seven-players-from-cuba-play-in-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "Record 7 Cuban 'brothers' take the field for All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/record-seven-players-from-cuba-play-in-all-star-game",
-      "pubDate": "2026-07-15T07:04:15.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
@@ -7658,9 +6851,7 @@
       "pubDate": "2026-07-15T05:38:43.000Z",
       "source": "MLB.com (Astros)",
       "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
+      "teams": [],
       "players": [],
       "topics": [
         "milestone"
@@ -7670,216 +6861,47 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/2026-mlb-all-star-game-team-by-team-breakdown"
-        }
-      ]
-    },
-    {
-      "title": "PCA's late single unable to ignite NL rally in All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/2026-mlb-all-star-game-team-by-team-breakdown",
-      "pubDate": "2026-07-15T05:38:43.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Cubs)",
           "sourceId": "mlb-com-cubs",
           "link": "https://www.mlb.com/cubs/news/2026-mlb-all-star-game-team-by-team-breakdown"
-        }
-      ]
-    },
-    {
-      "title": "Wrobleski celebrates birthday with 5 K's in ASG debut",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/2026-mlb-all-star-game-team-by-team-breakdown",
-      "pubDate": "2026-07-15T05:38:43.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/2026-mlb-all-star-game-team-by-team-breakdown"
-        }
-      ]
-    },
-    {
-      "title": "Blue Jays play key roles in AL's shutout win at 2026 All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/2026-mlb-all-star-game-team-by-team-breakdown",
-      "pubDate": "2026-07-15T05:38:43.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/2026-mlb-all-star-game-team-by-team-breakdown"
-        }
-      ]
-    },
-    {
-      "title": "This All-Star Game was extra special for Trout",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/2026-mlb-all-star-game-team-by-team-breakdown",
-      "pubDate": "2026-07-15T05:38:43.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/2026-mlb-all-star-game-team-by-team-breakdown"
-        }
-      ]
-    },
-    {
-      "title": "Goodman catches Dodger's 3-K frame in All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/2026-mlb-all-star-game-team-by-team-breakdown",
-      "pubDate": "2026-07-15T05:38:43.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/2026-mlb-all-star-game-team-by-team-breakdown"
-        }
-      ]
-    },
-    {
-      "title": "Soto notches 1 of NL's 3 hits in All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/2026-mlb-all-star-game-team-by-team-breakdown",
-      "pubDate": "2026-07-15T05:38:43.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Mets)",
           "sourceId": "mlb-com-mets",
           "link": "https://www.mlb.com/mets/news/2026-mlb-all-star-game-team-by-team-breakdown"
-        }
-      ]
-    },
-    {
-      "title": "Miller brings -- what else? -- heat in All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/2026-mlb-all-star-game-team-by-team-breakdown",
-      "pubDate": "2026-07-15T05:38:43.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Padres)",
           "sourceId": "mlb-com-padres",
           "link": "https://www.mlb.com/padres/news/2026-mlb-all-star-game-team-by-team-breakdown"
-        }
-      ]
-    },
-    {
-      "title": "Here's a team-by-team breakdown from 2026 All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/2026-mlb-all-star-game-team-by-team-breakdown",
-      "pubDate": "2026-07-15T05:38:43.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/2026-mlb-all-star-game-team-by-team-breakdown"
-        }
-      ]
-    },
-    {
-      "title": "Chapman, Contreras help AL complete All-Star Game shutout",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/2026-mlb-all-star-game-team-by-team-breakdown",
-      "pubDate": "2026-07-15T05:38:43.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
@@ -7938,246 +6960,6 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/al-beats-nl-in-2026-mlb-all-star-game",
-      "pubDate": "2026-07-15T04:35:00.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/al-beats-nl-in-2026-mlb-all-star-game",
-      "pubDate": "2026-07-15T04:35:00.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/al-beats-nl-in-2026-mlb-all-star-game",
-      "pubDate": "2026-07-15T04:35:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/al-beats-nl-in-2026-mlb-all-star-game",
-      "pubDate": "2026-07-15T04:35:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/al-beats-nl-in-2026-mlb-all-star-game",
-      "pubDate": "2026-07-15T04:35:00.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/al-beats-nl-in-2026-mlb-all-star-game",
-      "pubDate": "2026-07-15T04:35:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/al-beats-nl-in-2026-mlb-all-star-game",
-      "pubDate": "2026-07-15T04:35:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/al-beats-nl-in-2026-mlb-all-star-game",
-      "pubDate": "2026-07-15T04:35:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/al-beats-nl-in-2026-mlb-all-star-game",
-      "pubDate": "2026-07-15T04:35:00.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/al-beats-nl-in-2026-mlb-all-star-game",
-      "pubDate": "2026-07-15T04:35:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
       "link": "https://www.mlb.com/news/al-beats-nl-in-2026-mlb-all-star-game",
       "pubDate": "2026-07-15T04:35:00.000Z",
       "source": "MLB.com",
@@ -8192,78 +6974,56 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/al-beats-nl-in-2026-mlb-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "Cease K's side, Clement turns tables on Pages in All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/2026-mlb-all-star-game-top-moments",
-      "pubDate": "2026-07-15T04:17:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/al-beats-nl-in-2026-mlb-all-star-game"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/al-beats-nl-in-2026-mlb-all-star-game"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/al-beats-nl-in-2026-mlb-all-star-game"
+        },
         {
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/2026-mlb-all-star-game-top-moments"
-        }
-      ]
-    },
-    {
-      "title": "Ranking the eight best moments from AL's wire-to-wire All-Star Game victory",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/2026-mlb-all-star-game-top-moments",
-      "pubDate": "2026-07-15T04:17:00.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+          "link": "https://www.mlb.com/bluejays/news/al-beats-nl-in-2026-mlb-all-star-game"
+        },
         {
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/2026-mlb-all-star-game-top-moments"
-        }
-      ]
-    },
-    {
-      "title": "Ranking the eight best moments from AL's wire-to-wire All-Star Game victory",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/2026-mlb-all-star-game-top-moments",
-      "pubDate": "2026-07-15T04:17:00.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
+          "link": "https://www.mlb.com/angels/news/al-beats-nl-in-2026-mlb-all-star-game"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/al-beats-nl-in-2026-mlb-all-star-game"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/al-beats-nl-in-2026-mlb-all-star-game"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/al-beats-nl-in-2026-mlb-all-star-game"
+        },
         {
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/2026-mlb-all-star-game-top-moments"
+          "link": "https://www.mlb.com/whitesox/news/al-beats-nl-in-2026-mlb-all-star-game"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/al-beats-nl-in-2026-mlb-all-star-game"
         }
       ]
     },
@@ -8286,6 +7046,21 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/2026-mlb-all-star-game-top-moments"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/2026-mlb-all-star-game-top-moments"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/2026-mlb-all-star-game-top-moments"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/2026-mlb-all-star-game-top-moments"
         }
       ]
     },
@@ -8320,9 +7095,7 @@
       "pubDate": "2026-07-15T03:56:00.000Z",
       "source": "MLB.com (Blue Jays)",
       "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
@@ -8330,46 +7103,12 @@
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/all-star-game-tribute-to-baseball-during-america-the-beautiful"
-        }
-      ]
-    },
-    {
-      "title": "All-Stars share touching moment with young fans during 'America the Beautiful'",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/all-star-game-tribute-to-baseball-during-america-the-beautiful",
-      "pubDate": "2026-07-15T03:56:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Mets)",
           "sourceId": "mlb-com-mets",
           "link": "https://www.mlb.com/mets/news/all-star-game-tribute-to-baseball-during-america-the-beautiful"
-        }
-      ]
-    },
-    {
-      "title": "All-Stars share touching moment with young fans during 'America the Beautiful'",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/all-star-game-tribute-to-baseball-during-america-the-beautiful",
-      "pubDate": "2026-07-15T03:56:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
@@ -8430,9 +7169,7 @@
       "pubDate": "2026-07-15T03:27:00.000Z",
       "source": "MLB.com (Blue Jays)",
       "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
@@ -8440,46 +7177,12 @@
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/stand-up-2-cancer-at-2026-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "Baseball pays tribute with poignant Stand Up 2 Cancer moment",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/stand-up-2-cancer-at-2026-all-star-game",
-      "pubDate": "2026-07-15T03:27:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Mets)",
           "sourceId": "mlb-com-mets",
           "link": "https://www.mlb.com/mets/news/stand-up-2-cancer-at-2026-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "Baseball pays tribute with poignant Stand Up 2 Cancer moment",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/stand-up-2-cancer-at-2026-all-star-game",
-      "pubDate": "2026-07-15T03:27:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
@@ -8956,9 +7659,7 @@
       "pubDate": "2026-07-14T01:08:36.000Z",
       "source": "MLB.com (Angels)",
       "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
+      "teams": [],
       "players": [],
       "topics": [
         "draft"
@@ -8968,50 +7669,12 @@
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/teams-with-best-hauls-in-2026-mlb-draft"
-        }
-      ]
-    },
-    {
-      "title": "Rockies score one of the best hauls in the 2026 Draft",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/teams-with-best-hauls-in-2026-mlb-draft",
-      "pubDate": "2026-07-14T01:08:36.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/teams-with-best-hauls-in-2026-mlb-draft"
-        }
-      ]
-    },
-    {
-      "title": "White Sox score one of the best hauls in the 2026 Draft",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/teams-with-best-hauls-in-2026-mlb-draft",
-      "pubDate": "2026-07-14T01:08:36.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
@@ -9251,9 +7914,7 @@
       "pubDate": "2026-07-13T20:49:21.000Z",
       "source": "MLB.com (Astros)",
       "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
+      "teams": [],
       "players": [],
       "topics": [
         "draft"
@@ -9263,96 +7924,22 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/prospect-team-of-the-week-july-13-2026"
-        }
-      ]
-    },
-    {
-      "title": "Two Dodgers prospects make Team of the Week",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/prospect-team-of-the-week-july-13-2026",
-      "pubDate": "2026-07-13T20:49:21.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/prospect-team-of-the-week-july-13-2026"
-        }
-      ]
-    },
-    {
-      "title": "19-year-old Blue Jays prospect makes Team of the Week",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/prospect-team-of-the-week-july-13-2026",
-      "pubDate": "2026-07-13T20:49:21.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/prospect-team-of-the-week-july-13-2026"
-        }
-      ]
-    },
-    {
-      "title": "Angels RHP prospect makes Team of the Week",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/prospect-team-of-the-week-july-13-2026",
-      "pubDate": "2026-07-13T20:49:21.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/prospect-team-of-the-week-july-13-2026"
-        }
-      ]
-    },
-    {
-      "title": "White Sox prospect lands on Team of the Week",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/prospect-team-of-the-week-july-13-2026",
-      "pubDate": "2026-07-13T20:49:21.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
@@ -10561,9 +9148,7 @@
       "pubDate": "2026-07-12T20:53:00.000Z",
       "source": "MLB.com (Astros)",
       "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
@@ -10571,178 +9156,42 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/2026-all-star-futures-game-roundup"
-        }
-      ]
-    },
-    {
-      "title": "Here’s how all 30 teams’ prospects fared in the Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/2026-all-star-futures-game-roundup",
-      "pubDate": "2026-07-12T20:53:00.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Cubs)",
           "sourceId": "mlb-com-cubs",
           "link": "https://www.mlb.com/cubs/news/2026-all-star-futures-game-roundup"
-        }
-      ]
-    },
-    {
-      "title": "Here’s how all 30 teams’ prospects fared in the Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/2026-all-star-futures-game-roundup",
-      "pubDate": "2026-07-12T20:53:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/2026-all-star-futures-game-roundup"
-        }
-      ]
-    },
-    {
-      "title": "Here’s how all 30 teams’ prospects fared in the Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/2026-all-star-futures-game-roundup",
-      "pubDate": "2026-07-12T20:53:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/2026-all-star-futures-game-roundup"
-        }
-      ]
-    },
-    {
-      "title": "Here’s how all 30 teams’ prospects fared in the Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/2026-all-star-futures-game-roundup",
-      "pubDate": "2026-07-12T20:53:00.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/2026-all-star-futures-game-roundup"
-        }
-      ]
-    },
-    {
-      "title": "Here’s how all 30 teams’ prospects fared in the Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/2026-all-star-futures-game-roundup",
-      "pubDate": "2026-07-12T20:53:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/2026-all-star-futures-game-roundup"
-        }
-      ]
-    },
-    {
-      "title": "Here’s how all 30 teams’ prospects fared in the Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/2026-all-star-futures-game-roundup",
-      "pubDate": "2026-07-12T20:53:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Mets)",
           "sourceId": "mlb-com-mets",
           "link": "https://www.mlb.com/mets/news/2026-all-star-futures-game-roundup"
-        }
-      ]
-    },
-    {
-      "title": "Here’s how all 30 teams’ prospects fared in the Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/2026-all-star-futures-game-roundup",
-      "pubDate": "2026-07-12T20:53:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Padres)",
           "sourceId": "mlb-com-padres",
           "link": "https://www.mlb.com/padres/news/2026-all-star-futures-game-roundup"
-        }
-      ]
-    },
-    {
-      "title": "Here’s how all 30 teams’ prospects fared in the Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/2026-all-star-futures-game-roundup",
-      "pubDate": "2026-07-12T20:53:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
@@ -10828,9 +9277,7 @@
       "pubDate": "2026-07-12T18:39:00.000Z",
       "source": "MLB.com (Astros)",
       "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
@@ -10838,178 +9285,42 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/2026-mlb-all-star-futures-game"
-        }
-      ]
-    },
-    {
-      "title": "These are the top moments from the 2026 Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/2026-mlb-all-star-futures-game",
-      "pubDate": "2026-07-12T18:39:00.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Cubs)",
           "sourceId": "mlb-com-cubs",
           "link": "https://www.mlb.com/cubs/news/2026-mlb-all-star-futures-game"
-        }
-      ]
-    },
-    {
-      "title": "These are the top moments from the 2026 Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/2026-mlb-all-star-futures-game",
-      "pubDate": "2026-07-12T18:39:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/2026-mlb-all-star-futures-game"
-        }
-      ]
-    },
-    {
-      "title": "These are the top moments from the 2026 Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/2026-mlb-all-star-futures-game",
-      "pubDate": "2026-07-12T18:39:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/2026-mlb-all-star-futures-game"
-        }
-      ]
-    },
-    {
-      "title": "These are the top moments from the 2026 Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/2026-mlb-all-star-futures-game",
-      "pubDate": "2026-07-12T18:39:00.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/2026-mlb-all-star-futures-game"
-        }
-      ]
-    },
-    {
-      "title": "These are the top moments from the 2026 Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/2026-mlb-all-star-futures-game",
-      "pubDate": "2026-07-12T18:39:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/2026-mlb-all-star-futures-game"
-        }
-      ]
-    },
-    {
-      "title": "These are the top moments from the 2026 Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/2026-mlb-all-star-futures-game",
-      "pubDate": "2026-07-12T18:39:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Mets)",
           "sourceId": "mlb-com-mets",
           "link": "https://www.mlb.com/mets/news/2026-mlb-all-star-futures-game"
-        }
-      ]
-    },
-    {
-      "title": "These are the top moments from the 2026 Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/2026-mlb-all-star-futures-game",
-      "pubDate": "2026-07-12T18:39:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Padres)",
           "sourceId": "mlb-com-padres",
           "link": "https://www.mlb.com/padres/news/2026-mlb-all-star-futures-game"
-        }
-      ]
-    },
-    {
-      "title": "These are the top moments from the 2026 Futures Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/2026-mlb-all-star-futures-game",
-      "pubDate": "2026-07-12T18:39:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
+        },
         {
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
@@ -12250,9 +10561,7 @@
       "pubDate": "2026-07-10T01:12:00.000Z",
       "source": "MLB.com (Rockies)",
       "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
+      "teams": [],
       "players": [],
       "topics": [
         "draft"
@@ -12262,26 +10571,7 @@
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/best-mlb-draft-picks-of-the-past-10-years"
-        }
-      ]
-    },
-    {
-      "title": "Here is a look at each club's best Draft pick from the past 10 years",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/best-mlb-draft-picks-of-the-past-10-years",
-      "pubDate": "2026-07-10T01:12:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
+        },
         {
           "name": "MLB.com (Padres)",
           "sourceId": "mlb-com-padres",
