@@ -7,14 +7,26 @@ import { withBase } from "../lib/url";
 interface Props {
   title: string;
   description?: string;
+  /** public/ 直下の画像ファイル名(サイト共通のOGP画像。ページ個別に差し替えたい場合だけ指定する) */
+  image?: string;
 }
 
 const {
   title,
   description = "広告ゼロで読める、日本人メジャーリーガーの所属球団を中心としたMLB(メジャーリーグベースボール)ニュース・まとめキュレーションサイト。",
+  image = "og-image.png",
 } = Astro.props;
 
 const pageTitle = title === "Curation MLB" ? title : `${title} | Curation MLB`;
+
+// TwitterやFacebook等のOGPクローラーはBASE_URLのようなサイト内相対パスを解釈できず、
+// 絶対URLでないとカードに画像が出ない。Astro.site は origin のみ(例:
+// "https://4getkun.github.io/")を返すため、リポジトリ名を含むbaseパス
+// (withBase())と組み合わせて絶対URLを組み立てる。Astro.url.pathname は
+// ビルド時点で既にbaseを含んだ最終パスを返す(例: "/Curation_MLB/team/dodgers/")ので、
+// そのままAstro.siteと結合すればページごとの正しい絶対URLになる。
+const ogImageAbsoluteUrl = new URL(withBase(`/${image}`), Astro.site).toString();
+const canonicalAbsoluteUrl = new URL(Astro.url.pathname, Astro.site).toString();
 ---
 
 <!doctype html>
@@ -30,11 +42,20 @@ const pageTitle = title === "Curation MLB" ? title : `${title} | Curation MLB`;
     <link rel="alternate" type="application/rss+xml" title="Curation MLB 最新ニュースRSS" href={withBase("/feed.xml")} />
     <link rel="manifest" href={withBase("/manifest.webmanifest")} />
     <link rel="apple-touch-icon" href={withBase("/icons/icon-192.png")} />
+    <link rel="canonical" href={canonicalAbsoluteUrl} />
 
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Curation MLB" />
+    <meta property="og:url" content={canonicalAbsoluteUrl} />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content={ogImageAbsoluteUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageAbsoluteUrl} />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

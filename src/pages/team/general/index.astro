@@ -1,0 +1,49 @@
+---
+import Base from "../../../layouts/Base.astro";
+import NewsRow from "../../../components/NewsRow.astro";
+import TeamChipLink from "../../../components/TeamChipLink.astro";
+import { teams } from "../../../lib/teams";
+import { newsForGeneral } from "../../../lib/news";
+import { withBase } from "../../../lib/url";
+
+const items = newsForGeneral();
+---
+
+<Base
+  title="総合ニュース"
+  description="特定の球団に紐づかない、MLB全体・複数球団にまたがるニュースまとめ。広告なしで読めるMLBキュレーションサイト。"
+>
+  <section style="border-top:4px solid var(--accent);">
+    <div class="container-page" style="padding:40px 24px 20px;">
+      <p class="font-bold m-0" style="font-size:12px; color:var(--text-faint); letter-spacing:0.1em; margin-bottom:8px;">
+        MLB全体・複数球団
+      </p>
+      <h1 class="font-display font-black m-0 flex items-center gap-3.5" style="font-size:32px; color:var(--text); margin-bottom:20px;">
+        <span class="inline-block rounded-[4px]" style="width:16px; height:16px; background-color:var(--accent);"></span>
+        総合ニュース
+      </h1>
+      <div class="flex flex-wrap gap-2" style="margin-bottom:8px;">
+        {teams.map((t) => (
+          <TeamChipLink team={t} active={false} />
+        ))}
+        <a
+          href={withBase("/team/general/")}
+          class="no-underline rounded-full border font-bold"
+          style="font-size:12px; padding:7px 14px; background-color:var(--accent); color:var(--accent-text); border-color:var(--accent);"
+        >
+          総合
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="container-page" style="padding:20px 24px 64px;">
+    {items.length > 0 ? (
+      items.map((item) => <NewsRow item={item} variant="full" showTeamLabel={false} />)
+    ) : (
+      <p style="font-size:14px; color:var(--text-muted); padding:24px 0;">
+        現在、総合ニュースがまだ取得されていません。次回の自動更新をお待ちください。
+      </p>
+    )}
+  </section>
+</Base>

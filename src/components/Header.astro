@@ -81,37 +81,54 @@ const navLinks = [
     </div>
   </div>
 
-  <!-- 球団クイックナビ(横スクロール、ドット+略称) -->
-  <div class="relative" style="border-top:1px solid var(--rule);">
-    <div id="team-quicknav" class="overflow-x-auto" style="scrollbar-width:none;">
-      <div class="container-page flex items-center gap-1 py-2 text-[11px] font-bold whitespace-nowrap">
-        <span style="color:var(--text-faint);" class="mr-0.5">ア</span>
-        {alTeams.map((team) => (
-          <a
-            href={withBase(`/team/${team.id}/`)}
-            class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
-            style="color:var(--text-muted);"
+  <!-- 球団クイックナビ。AL・NL2行×5球団を「1つのCSS Grid」として組む
+       (Curation NPBと同じ設計。行ごとに独立したflexだと、球団名の文字数が
+       AL・NLで異なる列は丸(ドット)のx座標が行によってズレるため、1つの
+       gridにして同じ列は必ず同じ列幅=同じx座標になるようにしている)。
+       列1はア/ナのラベル用で、sm未満(スマホ幅)では横幅を圧迫するため
+       非表示にする(display:noneの列はgrid幅の計算に含まれないため、
+       ラベルの表示/非表示を切り替えても他の列の位置には影響しない)。 -->
+  <div style="border-top:1px solid var(--rule);">
+    <!-- スマホ幅では container-page(px-6=24px)だと5球団分の横幅が確保できず
+         はみ出すため、この行だけ左右の余白を狭めている(sm以上は従来通り)。 -->
+    <div class="mx-auto w-full max-w-[1180px] px-2 sm:px-6 py-1.5 sm:py-0">
+      <div class="relative">
+        <div id="team-quicknav" class="team-quicknav overflow-x-auto">
+          <!-- 列間の余白(gap-x)・球団ピル内のドットと文字の間隔(gap-*)・
+               左右の内側余白(px-*)・文字サイズ(text-*)は、iPhone等の実機幅
+               でも5球団+ラベル分が横スクロールなしに収まるよう、スマホ幅
+               (sm未満)だけ詰めている。sm以上は従来通りの余裕を持たせた値。 -->
+          <div
+            class="grid items-center gap-x-[1px] sm:gap-x-[6px] gap-y-0.5 py-0.5 sm:py-2 text-[9px] sm:text-[11px] font-bold whitespace-nowrap"
+            style="grid-template-columns: auto repeat(5, auto);"
           >
-            <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
-            {team.short}
-          </a>
-        ))}
-        <span style="color:var(--text-faint);" class="mx-1.5">ナ</span>
-        {nlTeams.map((team) => (
-          <a
-            href={withBase(`/team/${team.id}/`)}
-            class="flex items-center gap-1.5 rounded-md px-2 py-1 no-underline"
-            style="color:var(--text-muted);"
-          >
-            <span class="inline-block h-2 w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
-            {team.short}
-          </a>
-        ))}
+            <span style={`grid-column:1; grid-row:1; color:var(--text-faint);`} class="hidden sm:inline">ア</span>
+            {alTeams.map((team, i) => (
+              <a
+                href={withBase(`/team/${team.id}/`)}
+                class="flex items-center gap-px sm:gap-1.5 rounded-md px-px sm:px-2 py-1 no-underline"
+                style={`grid-column:${i + 2}; grid-row:1; color:var(--text-muted);`}
+              >
+                <span class="inline-block h-1 w-1 sm:h-2 sm:w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+                {team.short}
+              </a>
+            ))}
+            <span style={`grid-column:1; grid-row:2; color:var(--text-faint);`} class="hidden sm:inline">ナ</span>
+            {nlTeams.map((team, i) => (
+              <a
+                href={withBase(`/team/${team.id}/`)}
+                class="flex items-center gap-px sm:gap-1.5 rounded-md px-px sm:px-2 py-1 no-underline"
+                style={`grid-column:${i + 2}; grid-row:2; color:var(--text-muted);`}
+              >
+                <span class="inline-block h-1 w-1 sm:h-2 sm:w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+                {team.short}
+              </a>
+            ))}
+          </div>
+        </div>
+        <div class="team-quicknav-fade-right pointer-events-none absolute top-0 bottom-0 right-0 opacity-0" style="width:24px; background:linear-gradient(to left, var(--header-bg), transparent); transition:opacity 0.15s;"></div>
       </div>
     </div>
-    <!-- スクロール可能なことを示すフェード(スクロール位置に応じてJSで表示/非表示) -->
-    <div id="team-quicknav-fade-left" class="pointer-events-none absolute top-0 bottom-0 left-0 opacity-0" style="width:20px; background:linear-gradient(to right, var(--header-bg), transparent); transition:opacity 0.15s;"></div>
-    <div id="team-quicknav-fade-right" class="pointer-events-none absolute top-0 bottom-0 right-0 opacity-0" style="width:28px; background:linear-gradient(to left, var(--header-bg), transparent); transition:opacity 0.15s;"></div>
   </div>
 
   <!-- モバイルメニュー -->
@@ -152,29 +169,22 @@ const navLinks = [
     document.getElementById("mobile-menu")?.classList.toggle("hidden");
   });
 
-  // 球団クイックナビが横スクロール可能なことを示すフェード表示の切り替え。
-  // スクロール先頭では左フェードを隠し、末尾まで到達したら右フェードを隠す。
+  // 球団クイックナビ(AL・パ各行)が横スクロール可能なことを示すフェード表示の
+  // 切り替え。各行末まで到達したらその行の右フェードを隠す。
   (function () {
-    var nav = document.getElementById("team-quicknav");
-    var fadeLeft = document.getElementById("team-quicknav-fade-left");
-    var fadeRight = document.getElementById("team-quicknav-fade-right");
-    if (!nav || !fadeLeft || !fadeRight) return;
+    document.querySelectorAll(".team-quicknav").forEach(function (nav) {
+      var fade = nav.parentElement && nav.parentElement.querySelector(".team-quicknav-fade-right");
+      if (!fade) return;
 
-    function update() {
-      var maxScroll = nav.scrollWidth - nav.clientWidth;
-      if (maxScroll <= 4) {
-        // スクロールの必要がない(全球団が収まっている)場合は両方非表示
-        fadeLeft.style.opacity = "0";
-        fadeRight.style.opacity = "0";
-        return;
+      function update() {
+        var maxScroll = nav.scrollWidth - nav.clientWidth;
+        fade.style.opacity = maxScroll > 4 && nav.scrollLeft < maxScroll - 4 ? "1" : "0";
       }
-      fadeLeft.style.opacity = nav.scrollLeft > 4 ? "1" : "0";
-      fadeRight.style.opacity = nav.scrollLeft < maxScroll - 4 ? "1" : "0";
-    }
 
-    nav.addEventListener("scroll", update, { passive: true });
-    window.addEventListener("resize", update);
-    update();
+      nav.addEventListener("scroll", update, { passive: true });
+      window.addEventListener("resize", update);
+      update();
+    });
   })();
 
   // マイ球団(お気に入り球団)の選択をlocalStorageに保存する。

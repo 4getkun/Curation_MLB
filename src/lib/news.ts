@@ -41,6 +41,15 @@ export function newsForTeam(teamId: string): NewsItem[] {
   return allNews.filter((item) => item.teams.includes(teamId));
 }
 
+/**
+ * どの球団タグも付いていない記事(複数球団横断のニュースやリーグ全体の
+ * 話題など、特定の1球団に紐づかない「総合」扱いの記事)だけを返す。
+ * Curation NPB側のnewsForGeneralと同じ考え方。
+ */
+export function newsForGeneral(): NewsItem[] {
+  return allNews.filter((item) => (item.teams?.length ?? 0) === 0);
+}
+
 export function newsForPlayer(playerId: string): NewsItem[] {
   return allNews.filter((item) => item.players?.includes(playerId));
 }

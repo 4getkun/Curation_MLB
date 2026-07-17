@@ -216,6 +216,35 @@ function classifyPlayers(text) {
   return hits;
 }
 
+// Curation NPB側で確認された「複数球団にまたがる特集記事が、球団タグ付き
+// 記事として個別球団ページに紛れ込む」問題と同種のリスクに対する安全網。
+// このサイトは10球団だけを追跡しているため、本文中に4球団以上が言及される
+// 記事は、特定の1〜2球団のニュースというより「パワーランキング」「トレード
+// デッドラインの全球団プレビュー」のようなリーグ横断の特集記事である可能性が
+// 高い(実際のトレードで4球団以上が絡むケースは現実的にまれ)。該当する場合は
+// feed.teamId(フィード自体が特定球団専用の場合の強制タグ)だけを残し、それ
+// 以外の言及は無視する(feed.teamIdも無ければ完全に総合タグ扱いになる)。
+const ROUNDUP_TEAM_COUNT_THRESHOLD = 4;
+
+/**
+ * 本文(haystack)・出演選手(players)・フィード自体の専用球団(feedTeamId)から
+ * 最終的な球団タグを決定する。fetchFeed(新規取得時)と、既存アーカイブの
+ * 再分類(main関数内、ルール変更を過去記事にも遡って適用するため)の両方から
+ * 呼び出す共通ロジック。
+ */
+function classifyItemTeams(haystack, players, feedTeamId) {
+  const teamsFromText = classifyTeams(haystack);
+  const teamsFromPlayers = players
+    .map((pid) => PLAYERS.find((p) => p.id === pid)?.teamId)
+    .filter(Boolean);
+  const derivedTeams = [...new Set([...teamsFromText, ...teamsFromPlayers])];
+
+  if (derivedTeams.length >= ROUNDUP_TEAM_COUNT_THRESHOLD) {
+    return feedTeamId ? [feedTeamId] : [];
+  }
+  return [...new Set([feedTeamId, ...derivedTeams].filter(Boolean))];
+}
+
 function classifyTopics(text) {
   const hits = [];
   for (const topic of TOPICS) {
@@ -269,12 +298,10 @@ async function fetchFeed(feed) {
       const haystack = `${title} ${summary}`;
 
       const players = classifyPlayers(haystack);
-      const teamsFromText = classifyTeams(haystack);
-      const teamsFromPlayers = players
-        .map((pid) => PLAYERS.find((p) => p.id === pid)?.teamId)
-        .filter(Boolean);
       // フィード自体が球団専用(feed.teamId)の場合はそれを最優先の球団タグにする
-      const teams = [...new Set([feed.teamId, ...teamsFromText, ...teamsFromPlayers].filter(Boolean))];
+      // (ROUNDUP_TEAM_COUNT_THRESHOLD以上の球団が言及される場合の扱いも
+      // classifyItemTeams参照)。
+      const teams = classifyItemTeams(haystack, players, feed.teamId);
 
       const topics = classifyTopics(haystack);
       const pubDate = item.isoDate ?? item.pubDate ?? null;
@@ -479,13 +506,105 @@ function dedupeSameEventItems(items) {
   return [...mergedResults, ...untouched];
 }
 
+// ---- MLB.com球団別フィードの重複配信(シンジケート記事)の集約 -------------
+//
+// MLB.comは「ドラフト特集」「パワーランキング」「トレードデッドライン特集」
+// のようなリーグ全体向けの記事を、mlb.com/{球団スラッグ}/news/{記事スラッグ}
+// という形で全球団のRSSフィードに同時配信することがある(見出しが球団ごとに
+// 差し替えられている場合すらある)。URLが球団ごとに異なるため、リンクベースの
+// 重複排除にも、タイトル類似度+球団タグの重なりを条件とする重複統合
+// (dedupeSameEventItems、各記事が1球団しかタグを持たないため「重なり」が
+// 発生しない)にもどちらにも引っかからない。結果として、本来はどの球団にも
+// 特有ではない記事が、球団の数だけ別々の記事として全球団ページに散らばって
+// しまう。
+//
+// URLから球団スラッグ部分を除いた末尾パス(記事スラッグ)を抽出し、これが
+// 一致する記事同士を「同じ記事のシンジケート配信」とみなして1件に集約、
+// 球団タグなし(総合)にする。
+// 球団スラッグ付き(/{team}/news/...)・非スコープ(/news/...)のどちらの形にも
+// マッチし、同じ記事スラッグ(/news/...以降)を返す(非スコープ側は正規表現の
+// バックトラックにより「/news」を球団スラッグとして誤って消費せず、
+// 「/news/...」全体を記事スラッグとして捉え直す)。
+const MLB_COM_TEAM_URL_RE = /^https:\/\/www\.mlb\.com(?:\/[a-z0-9-]+)?(\/news\/.+)$/i;
+
+function mlbComSyndicationKey(link) {
+  const m = (link ?? "").match(MLB_COM_TEAM_URL_RE);
+  return m ? m[1].toLowerCase() : null;
+}
+
+function collapseSyndicatedRoundups(items) {
+  const groups = new Map();
+  const passthrough = [];
+
+  for (const item of items) {
+    const key = mlbComSyndicationKey(item.link);
+    if (!key) {
+      passthrough.push(item);
+      continue;
+    }
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(item);
+  }
+
+  const collapsed = [];
+  for (const group of groups.values()) {
+    if (group.length === 1) {
+      collapsed.push(group[0]);
+      continue;
+    }
+
+    // 球団非スコープのフィード(mlb.com/news/...)から取れたコピーがあれば、
+    // それを代表記事にする(URLが球団スラッグを含まない正規の形のため)。
+    // 無ければ最初の1件を代表にする。
+    const generalCopy = group.find((it) => !FEEDS.find((f) => f.id === it.sourceId)?.teamId);
+    const primary = generalCopy ?? group[0];
+
+    const seenSourceKey = new Set();
+    const mergedSources = [];
+    for (const it of group) {
+      for (const src of it.sources ?? [{ name: it.source, sourceId: it.sourceId, link: it.link }]) {
+        const skey = `${src.sourceId}|${src.link}`;
+        if (seenSourceKey.has(skey)) continue;
+        seenSourceKey.add(skey);
+        mergedSources.push(src);
+      }
+    }
+    mergedSources.sort((a, b) => {
+      const aIsPrimary = a.sourceId === primary.sourceId && a.link === primary.link;
+      const bIsPrimary = b.sourceId === primary.sourceId && b.link === primary.link;
+      return aIsPrimary === bIsPrimary ? 0 : aIsPrimary ? -1 : 1;
+    });
+
+    collapsed.push({
+      ...primary,
+      teams: [], // 複数球団に同時配信される特集記事は「総合」扱いにする
+      sources: mergedSources,
+    });
+  }
+
+  return [...passthrough, ...collapsed];
+}
+
 async function main() {
   console.log(`MLBニュース収集を開始します (${FEEDS.length}フィード)`);
 
   const allResults = (await Promise.all(FEEDS.map((feed) => fetchFeed(feed)))).flat();
 
   const existingItemsRaw = await loadExistingItems();
-  const existingItems = existingItemsRaw.filter((item) => !isAdContent(item.title));
+  // 除外ルール(AD_MARKERS)・球団分類ロジック(classifyItemTeams)は運用中に
+  // 追加・調整されることがある。ルール変更後もRSSの取得範囲から外れてしまった
+  // 古い記事は再取得されず、最大30日間アーカイブに残り続けてしまうため、
+  // 既存アーカイブに対しても毎回同じルールをかけ直し、球団タグを再判定する
+  // (ROUNDUP_TEAM_COUNT_THRESHOLDのような分類ロジックの改善を、既に取得済みの
+  // 過去記事にも遡って適用できるようにするため。Curation NPBと同じ設計)。
+  const existingItems = existingItemsRaw
+    .filter((item) => !isAdContent(item.title))
+    .map((item) => {
+      const feedTeamId = FEEDS.find((f) => f.id === item.sourceId)?.teamId ?? null;
+      const haystack = `${item.title} ${item.summary ?? ""}`;
+      const teams = classifyItemTeams(haystack, item.players ?? [], feedTeamId);
+      return { ...item, teams };
+    });
   const removedByRuleUpdate = existingItemsRaw.length - existingItems.length;
   console.log(
     `  既存アーカイブ: ${existingItemsRaw.length}件` +
@@ -510,8 +629,15 @@ async function main() {
     merged.set(key, item);
   }
 
+  // MLB.comが同一記事を球団ごとに別URLで同時配信している場合、ここで1件に
+  // 集約する(collapseSyndicatedRoundups参照)。既存アーカイブ・新規取得分の
+  // 両方を含む全件が対象(過去に既に散らばってしまった分もここで遡って集約
+  // される)。
+  const collapsedForSyndication = collapseSyndicatedRoundups([...merged.values()]);
+  const collapsedSyndicationCount = merged.size - collapsedForSyndication.length;
+
   const cutoff = Date.now() - RETENTION_DAYS * 24 * 60 * 60 * 1000;
-  const withinRetention = [...merged.values()].filter((item) => {
+  const withinRetention = collapsedForSyndication.filter((item) => {
     if (!item.pubDate) return true;
     const t = new Date(item.pubDate).getTime();
     return Number.isNaN(t) || t >= cutoff;
@@ -529,7 +655,7 @@ async function main() {
   });
 
   const trimmed = deduped.slice(0, MAX_ITEMS);
-  const prunedByAge = merged.size - withinRetention.length;
+  const prunedByAge = collapsedForSyndication.length - withinRetention.length;
   const prunedByCap = deduped.length - trimmed.length;
 
   const output = {
@@ -539,6 +665,9 @@ async function main() {
   };
 
   await writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2) + "\n", "utf-8");
+  console.log(
+    `  MLB.com球団別シンジケート記事の集約: ${collapsedSyndicationCount}件を統合`,
+  );
   console.log(
     `完了: ${trimmed.length}件を src/data/news.json に書き出しました` +
       `(今回の新規取得 ${allResults.length}件 / ${RETENTION_DAYS}日超で除外 ${prunedByAge}件` +

@@ -37,6 +37,19 @@ import { teams, textOnTeamColor } from "../../lib/teams";
           {team.short}
         </button>
       ))}
+      <!-- どの球団タグも付いていない(=teams:[]の)記事だけを絞り込む「総合」フィルター。
+           球団ページの総合タブと同じ意味・同じアクセントカラーにしている。 -->
+      <button
+        type="button"
+        data-team="general"
+        data-color="var(--accent)"
+        data-text-color="var(--accent-text)"
+        data-active="false"
+        class="filter-chip rounded-full border font-bold"
+        style="font-size:12px; padding:7px 14px; background:none; color:var(--text-muted); border-color:var(--border);"
+      >
+        総合
+      </button>
     </div>
 
     <div id="news-grid">
@@ -62,7 +75,11 @@ import { teams, textOnTeamColor } from "../../lib/teams";
     function styleButton(btn, active) {
       btn.setAttribute("data-active", active ? "true" : "false");
       if (btn.getAttribute("data-team") === "all") {
-        btn.style.backgroundColor = active ? "var(--text)" : "none";
+        // 「none」はbackground-colorの値として無効(ブラウザが無視し、直前の
+        // 値が残ってしまう)。非アクティブ時は他のチップと同じ「transparent」
+        // にする必要がある(以前はここが原因で、他のタグを押しても「すべて」
+        // が黒背景のアクティブ表示のまま残ってしまう不具合があった)。
+        btn.style.backgroundColor = active ? "var(--text)" : "transparent";
         btn.style.color = active ? "var(--page-bg)" : "var(--text-muted)";
         btn.style.borderColor = active ? "var(--text)" : "var(--border)";
         return;
@@ -83,8 +100,15 @@ import { teams, textOnTeamColor } from "../../lib/teams";
     function applyFilter(teamId) {
       let visibleCount = 0;
       items.forEach((el) => {
-        const itemTeams = (el.getAttribute("data-teams") || "").split(",");
-        const show = teamId === "all" || itemTeams.includes(teamId);
+        const raw = el.getAttribute("data-teams") || "";
+        // 「総合」記事はdata-teams属性が空文字列になる(item.teams.join(",")の
+        // 結果)。空文字列を","split()すると[""]になってしまうため、
+        // 球団タグなし判定はraw自体の有無で行う(itemTeams.includes("")を
+        // 誤ってヒットさせないため)。
+        const itemTeams = raw ? raw.split(",") : [];
+        const show =
+          teamId === "all" ||
+          (teamId === "general" ? itemTeams.length === 0 : itemTeams.includes(teamId));
         el.style.display = show ? "" : "none";
         if (show) visibleCount++;
       });
