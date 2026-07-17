@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T06:51:15.405Z",
+  "generatedAt": "2026-07-17T07:00:51.982Z",
   "count": 464,
   "items": [
     {
@@ -5917,11 +5917,6 @@
           "link": "https://www.mlb.com/news/top-pitches-of-1st-half-2026-season"
         },
         {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/top-pitches-of-1st-half-2026-season"
-        },
-        {
           "name": "MLB.com (Cubs)",
           "sourceId": "mlb-com-cubs",
           "link": "https://www.mlb.com/cubs/news/top-pitches-of-1st-half-2026-season"
@@ -5930,6 +5925,11 @@
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/top-pitches-of-1st-half-2026-season"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/top-pitches-of-1st-half-2026-season"
         }
       ]
     },
@@ -9163,11 +9163,6 @@
           "link": "https://www.mlb.com/cubs/news/2026-all-star-futures-game-roundup"
         },
         {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/2026-all-star-futures-game-roundup"
-        },
-        {
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/2026-all-star-futures-game-roundup"
@@ -9181,11 +9176,6 @@
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/2026-all-star-futures-game-roundup"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/2026-all-star-futures-game-roundup"
         },
         {
           "name": "MLB.com (Padres)",
@@ -9297,11 +9287,6 @@
           "link": "https://www.mlb.com/dodgers/news/2026-mlb-all-star-futures-game"
         },
         {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/2026-mlb-all-star-futures-game"
-        },
-        {
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/2026-mlb-all-star-futures-game"
@@ -9312,19 +9297,9 @@
           "link": "https://www.mlb.com/rockies/news/2026-mlb-all-star-futures-game"
         },
         {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/2026-mlb-all-star-futures-game"
-        },
-        {
           "name": "MLB.com (Padres)",
           "sourceId": "mlb-com-padres",
           "link": "https://www.mlb.com/padres/news/2026-mlb-all-star-futures-game"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/2026-mlb-all-star-futures-game"
         }
       ]
     },
@@ -10561,7 +10536,9 @@
       "pubDate": "2026-07-10T01:12:00.000Z",
       "source": "MLB.com (Rockies)",
       "sourceId": "mlb-com-rockies",
-      "teams": [],
+      "teams": [
+        "rockies"
+      ],
       "players": [],
       "topics": [
         "draft"
