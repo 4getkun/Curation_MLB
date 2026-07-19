@@ -1,7 +1,462 @@
 {
-  "generatedAt": "2026-07-19T22:23:08.106Z",
-  "count": 1146,
+  "generatedAt": "2026-07-19T23:26:26.038Z",
+  "count": 1159,
   "items": [
+    {
+      "title": "Red Sox rout Rays for their first 13-game win streak since 1948",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/redsox/news/red-sox-win-streak-reaches-13-games",
+      "pubDate": "2026-07-19T23:23:17.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/red-sox-win-streak-reaches-13-games"
+        }
+      ]
+    },
+    {
+      "title": "Gray's 9th straight quality start leads Sox to 4th consecutive sweep",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/sonny-gray-quality-start-in-red-sox-13th-straight-win",
+      "pubDate": "2026-07-19T23:22:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/sonny-gray-quality-start-in-red-sox-13th-straight-win"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/sonny-gray-quality-start-in-red-sox-13th-straight-win"
+        }
+      ]
+    },
+    {
+      "title": "Shohei Ohtani Scratched From Wednesday Start, Won’t Pitch For “Some Time”",
+      "summary": "Shohei Ohtani‘s troublesome left knee continues to limit his mound work, as Dodgers manager Dave Roberts told reporters (including MLB.com’s Sonja Chen) today that Ohtani won’t make his scheduled star…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/shohei-ohtani-scratched-from-wednesday-start-wont-pitch-for-some-time.html",
+      "pubDate": "2026-07-19T23:17:06.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/shohei-ohtani-scratched-from-wednesday-start-wont-pitch-for-some-time.html"
+        }
+      ]
+    },
+    {
+      "title": "How Imanaga is shaping up to help Chicago's late-season push",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/cubs/news/shota-imanaga-impressed-with-7-scoreless-innings-against-twins",
+      "pubDate": "2026-07-19T23:15:06.000Z",
+      "source": "MLB.com (Cubs)",
+      "sourceId": "mlb-com-cubs",
+      "teams": [
+        "cubs"
+      ],
+      "players": [
+        "imanaga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/shota-imanaga-impressed-with-7-scoreless-innings-against-twins"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers vs. Yankees game chat",
+      "summary": "The Dodgers look to sweep the Yankees in the Bronx on Sunday. SUNDAY GAME INFO",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-vs-yankees-game-chat-230600783.html",
+      "pubDate": "2026-07-19T23:06:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-vs-yankees-game-chat-230600783.html"
+        }
+      ]
+    },
+    {
+      "title": "Johnson's solid start something to build on in Halos' win",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/angels/news/ryan-johnson-holds-tigers-to-1-run-in-angels-win",
+      "pubDate": "2026-07-19T23:02:11.000Z",
+      "source": "MLB.com (Angels)",
+      "sourceId": "mlb-com-angels",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/ryan-johnson-holds-tigers-to-1-run-in-angels-win"
+        }
+      ]
+    },
+    {
+      "title": "Bats go silent as the Angels avoid the sweep",
+      "summary": "The Tigers bats did not get the job done in this one.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/bats-silent-angels-avoid-sweep-225821772.html",
+      "pubDate": "2026-07-19T22:58:21.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/bats-silent-angels-avoid-sweep-225821772.html"
+        }
+      ]
+    },
+    {
+      "title": "New York Yankees vs. Los Angeles Dodgers: Ryan Yarbrough vs. Will Klein",
+      "summary": "Can the Yankees avoid the sweep in the doubleheader and the series?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/york-yankees-vs-los-angeles-225000861.html",
+      "pubDate": "2026-07-19T22:50:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/york-yankees-vs-los-angeles-225000861.html"
+        }
+      ]
+    },
+    {
+      "title": "White Sox No. 4 prospect returns from injury with new mindset, big performance",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/whitesox/news/white-sox-prospect-billy-carlson-big-game-in-single-a-return",
+      "pubDate": "2026-07-19T22:49:17.000Z",
+      "source": "MLB.com (White Sox)",
+      "sourceId": "mlb-com-whitesox",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [
+        "injury",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-prospect-billy-carlson-big-game-in-single-a-return"
+        }
+      ]
+    },
+    {
+      "title": "Reds blast past Rockies in homer-fest to take series",
+      "summary": "Tyler Stephenson’s big day powered Cincinnati to a series win.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/reds-blast-past-rockies-homer-224729533.html",
+      "pubDate": "2026-07-19T22:47:29.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/reds-blast-past-rockies-homer-224729533.html"
+        }
+      ]
+    },
+    {
+      "title": "50-50: Chart",
+      "summary": "The Mariners finish the first 100 games exactly even",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/50-50-chart-224710194.html",
+      "pubDate": "2026-07-19T22:47:10.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/50-50-chart-224710194.html"
+        }
+      ]
+    },
+    {
+      "title": "Acuña plays field for first time in rehab stint; return not yet imminent",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ronald-acuna-jr-plays-right-field-for-first-time-in-rehab-stint",
+      "pubDate": "2026-07-19T22:42:37.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ronald-acuna-jr-plays-right-field-for-first-time-in-rehab-stint"
+        }
+      ]
+    },
+    {
+      "title": "Hunter Goodman’s explosive day at the plate made Rockies’ 9-6 loss to Reds close",
+      "summary": "The All-Star catcher put the offense on his back but it wasn’t enough to overcome an early deficit.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/hunter-goodman-explosive-day-plate-224204667.html",
+      "pubDate": "2026-07-19T22:42:04.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/hunter-goodman-explosive-day-plate-224204667.html"
+        }
+      ]
+    },
+    {
+      "title": "Start of a hot streak? Lindor clubs homer, reaches base five times",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/francisco-lindor-reaches-base-five-times-in-mets-win-vs-phillies",
+      "pubDate": "2026-07-19T22:39:08.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/francisco-lindor-reaches-base-five-times-in-mets-win-vs-phillies"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/francisco-lindor-reaches-base-five-times-in-mets-win-vs-phillies"
+        }
+      ]
+    },
+    {
+      "title": "Contreras' walk-off HR, bat launch cap Brewers' sweep of Marlins",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/william-contreras-hits-walk-off-3-run-homer-to-sweep-marlins",
+      "pubDate": "2026-07-19T22:32:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/william-contreras-hits-walk-off-3-run-homer-to-sweep-marlins"
+        }
+      ]
+    },
+    {
+      "title": "Bregman's torrid HR stretch rolls on to power Cubs' offensive outburst",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/shota-imanaga-tosses-7-scoreless-innings-alex-bregman-homers-in-blowout-win",
+      "pubDate": "2026-07-19T22:31:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/shota-imanaga-tosses-7-scoreless-innings-alex-bregman-homers-in-blowout-win"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/shota-imanaga-tosses-7-scoreless-innings-alex-bregman-homers-in-blowout-win"
+        }
+      ]
+    },
+    {
+      "title": "2026 Yankees draft pick tracker and social media guide",
+      "summary": "Keep track of the Yankees’ entire 2026 draft class here.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/2026-yankees-draft-pick-tracker-130000135.html",
+      "pubDate": "2026-07-19T22:30:24.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/2026-yankees-draft-pick-tracker-130000135.html"
+        }
+      ]
+    },
+    {
+      "title": "Baldwin (5-for-5, 2 HRs), Riley (2 HRs) keep Braves' offense rolling since break",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/drake-baldwin-austin-riley-each-homer-twice-against-rangers",
+      "pubDate": "2026-07-19T22:27:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/drake-baldwin-austin-riley-each-homer-twice-against-rangers"
+        }
+      ]
+    },
+    {
+      "title": "McLean continues turnaround with 10 K's in scoreless gem vs. Phillies",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/nolan-mclean-strikes-out-10-in-start-for-mets-vs-phillies",
+      "pubDate": "2026-07-19T22:25:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/nolan-mclean-strikes-out-10-in-start-for-mets-vs-phillies"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/nolan-mclean-strikes-out-10-in-start-for-mets-vs-phillies"
+        }
+      ]
+    },
+    {
+      "title": "Basallo aggravates lingering right shoulder discomfort in finale",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/samuel-basallo-leaves-game-with-right-shoulder-discomfort-injury",
+      "pubDate": "2026-07-19T22:23:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/samuel-basallo-leaves-game-with-right-shoulder-discomfort-injury"
+        }
+      ]
+    },
     {
       "title": "Rays rookie races around the bases on inside-the-parker at Fenway",
       "summary": "",
@@ -24,7 +479,7 @@
     },
     {
       "title": "Contreras walks off Marlins as Brewers secure the sweep",
-      "summary": "Brewers sweep Marlins as Gasser, bullpen shine and Contreras plays hero",
+      "summary": "Gasser, bullpen shine and Contreras plays hero as Brewers beat Marlins, 3-1",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://sports.yahoo.com/articles/contreras-walks-off-marlins-brewers-221227164.html",
@@ -39,26 +494,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/contreras-walks-off-marlins-brewers-221227164.html"
-        }
-      ]
-    },
-    {
-      "title": "Baldwin (5-for-5, 2 HRs), Riley (2 HRs) keep Braves' offense rolling since break",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/drake-baldwin-austin-riley-each-homer-twice-against-rangers",
-      "pubDate": "2026-07-19T22:10:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/drake-baldwin-austin-riley-each-homer-twice-against-rangers"
         }
       ]
     },
@@ -85,8 +520,32 @@
       ]
     },
     {
+      "title": "Orioles Transfer Ryan Helsley To 60-Day IL, Select Sam Huff",
+      "summary": "5:07PM: Speaking with MASN Sports and other media after today’s 5-2 win over the Astros, Orioles manager Craig Albernaz said Rutschman is day to day with some discomfort in his left wrist. Adding to t…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/orioles-transfer-ryan-helsley-to-60-day-il-select-sam-huff.html",
+      "pubDate": "2026-07-19T22:07:13.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/orioles-transfer-ryan-helsley-to-60-day-il-select-sam-huff.html"
+        }
+      ]
+    },
+    {
       "title": "Cubs 10, Twins 1: Alex Bregman and Nico Hoerner help lead a blowout",
-      "summary": "And Shōta Imanaga threw six shutout innings.",
+      "summary": "And Shōta Imanaga threw seven shutout innings.",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://sports.yahoo.com/articles/cubs-10-twins-1-alex-220505513.html",
@@ -221,7 +680,7 @@
       ]
     },
     {
-      "title": "&#39;That&#39;s why he&#39;s our ace.&#39; Yoshinobu Yamamoto impresses with latest complete-game gem",
+      "title": "&#39;That&#39;s why he&#39;s our ace.&#39; Yoshinobu Yamamoto shines with latest complete-game gem",
       "summary": "Yoshinobu Yamamoto's complete-game gem against the New York Yankees came at a perfect time for a Dodgers team looking to keep its pitchers rested.",
       "titleJa": null,
       "summaryJa": null,
@@ -268,7 +727,7 @@
     },
     {
       "title": "Mets interim manager Andy Green praises star duo Nolan McLean and Francisco Lindor",
-      "summary": "Following his team's 8-2 win over the Philadelphia Phillies, New York Mets interim manager Andy Green praised Nolan McLean and Francisco Lindor, who both starred in the victory.",
+      "summary": "Following his team's 6-1 win over the Philadelphia Phillies, New York Mets interim manager Andy Green praised Nolan McLean and Francisco Lindor, who both starred in the victory.",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://sports.yahoo.com/articles/mets-interim-manager-andy-green-213049708.html",
@@ -362,31 +821,6 @@
       ]
     },
     {
-      "title": "Key takeaways: Cubs 10, Twins 1",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shota-imanaga-tosses-7-scoreless-innings-alex-bregman-homers-in-blowout-win",
-      "pubDate": "2026-07-19T21:23:09.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shota-imanaga-tosses-7-scoreless-innings-alex-bregman-homers-in-blowout-win"
-        },
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/shota-imanaga-tosses-7-scoreless-innings-alex-bregman-homers-in-blowout-win"
-        }
-      ]
-    },
-    {
       "title": "Dodgers 2026 game results",
       "summary": "Keeping track of every game this season, all in one place",
       "titleJa": null,
@@ -427,26 +861,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/padres-slug-way-victory-kansas-211608215.html"
-        }
-      ]
-    },
-    {
-      "title": "Contreras caps Brewers rally with 3-run walk-off blast to sweep Marlins",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/william-contreras-hits-walk-off-3-run-homer-to-sweep-marlins",
-      "pubDate": "2026-07-19T21:15:47.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/william-contreras-hits-walk-off-3-run-homer-to-sweep-marlins"
         }
       ]
     },
@@ -743,31 +1157,6 @@
       ]
     },
     {
-      "title": "Red Sox rout Rays for their first 13-game win streak since 1948",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/sonny-gray-quality-start-in-red-sox-13th-straight-win",
-      "pubDate": "2026-07-19T20:26:59.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/sonny-gray-quality-start-in-red-sox-13th-straight-win"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/sonny-gray-quality-start-in-red-sox-13th-straight-win"
-        }
-      ]
-    },
-    {
       "title": "Anthopoulos lays out Braves' Trade Deadline approach with key IL returns on horizon",
       "summary": "",
       "titleJa": null,
@@ -810,31 +1199,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/rintaro-sasaki-announces-plan-to-sign-with-marlins-via-social-media"
-        }
-      ]
-    },
-    {
-      "title": "McLean dazzles with 10 K's in scoreless gem vs. rival Phillies",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/nolan-mclean-strikes-out-10-in-start-for-mets-vs-phillies",
-      "pubDate": "2026-07-19T20:08:33.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/nolan-mclean-strikes-out-10-in-start-for-mets-vs-phillies"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/nolan-mclean-strikes-out-10-in-start-for-mets-vs-phillies"
         }
       ]
     },
@@ -1239,28 +1603,6 @@
       ]
     },
     {
-      "title": "Basallo exits with right shoulder discomfort in finale",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/samuel-basallo-leaves-game-with-right-shoulder-discomfort-injury",
-      "pubDate": "2026-07-19T19:07:58.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/samuel-basallo-leaves-game-with-right-shoulder-discomfort-injury"
-        }
-      ]
-    },
-    {
       "title": "Latest Angels injuries & transactions",
       "summary": "",
       "titleJa": null,
@@ -1581,26 +1923,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/shaikin-shohei-ohtanis-knee-troubles-175601006.html"
-        }
-      ]
-    },
-    {
-      "title": "Orioles Transfer Ryan Helsley To 60-Day IL, Select Sam Huff",
-      "summary": "The Orioles are going with three catchers for the time being, as Roch Kubatko of MASN Sports reports that the club is selecting Sam Huff from Triple-A Norfolk. Right-hander Cam Sanders is being option…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/orioles-transfer-ryan-helsley-to-60-day-il-select-sam-huff.html",
-      "pubDate": "2026-07-19T17:55:13.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/orioles-transfer-ryan-helsley-to-60-day-il-select-sam-huff.html"
         }
       ]
     },
@@ -6413,28 +6735,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/07/mariners-activate-julio-rodriguez-designate-miles-mastrobuoni.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 Yankees draft pick tracker and social media guide",
-      "summary": "Keep track of the Yankees’ entire 2026 draft class here.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/2026-yankees-draft-pick-tracker-130000135.html",
-      "pubDate": "2026-07-18T19:56:40.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/2026-yankees-draft-pick-tracker-130000135.html"
         }
       ]
     },
@@ -22410,11 +22710,6 @@
           "name": "MLB.com (Mets)",
           "sourceId": "mlb-com-mets",
           "link": "https://www.mlb.com/mets/news/all-star-game-tribute-to-baseball-during-america-the-beautiful"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/all-star-game-tribute-to-baseball-during-america-the-beautiful"
         }
       ]
     },
@@ -24385,11 +24680,6 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/2026-all-star-futures-game-roundup"
-        },
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/2026-all-star-futures-game-roundup"
         },
         {
           "name": "MLB.com (Rockies)",
