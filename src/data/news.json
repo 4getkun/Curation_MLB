@@ -1,7 +1,114 @@
 {
-  "generatedAt": "2026-07-19T05:35:41.261Z",
-  "count": 971,
+  "generatedAt": "2026-07-19T08:05:45.485Z",
+  "count": 978,
   "items": [
+    {
+      "title": "Mariners comeback follows strange 7th-inning tribute to local raccoon",
+      "summary": "A viral raccoon was an omen of disaster for the SF Giants in a 4-3 extra-innings loss to the Seattle Mariners",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mariners-comeback-follows-strange-7th-074324736.html",
+      "pubDate": "2026-07-19T07:43:24.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mariners-comeback-follows-strange-7th-074324736.html"
+        }
+      ]
+    },
+    {
+      "title": "Mulder, Darling, Norris, Ginn: A's righty in rare air after 2nd no-hit bid",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/j-t-ginn-takes-no-hit-bid-into-seventh-against-nationals",
+      "pubDate": "2026-07-19T06:44:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/j-t-ginn-takes-no-hit-bid-into-seventh-against-nationals"
+        }
+      ]
+    },
+    {
+      "title": "Skubal maintains his edge to silence Angels after early run support",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tarik-skubal-strikes-out-nine-in-seven-innings-against-angels",
+      "pubDate": "2026-07-19T06:23:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tarik-skubal-strikes-out-nine-in-seven-innings-against-angels"
+        }
+      ]
+    },
+    {
+      "title": "Suzuki preaches patience after Rodriguez's latest rough outing",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/angels/news/grayson-rodriguez-allows-six-runs-in-angels-loss-to-tigers",
+      "pubDate": "2026-07-19T06:06:15.000Z",
+      "source": "MLB.com (Angels)",
+      "sourceId": "mlb-com-angels",
+      "teams": [
+        "angels",
+        "cubs"
+      ],
+      "players": [
+        "suzuki"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/grayson-rodriguez-allows-six-runs-in-angels-loss-to-tigers"
+        }
+      ]
+    },
+    {
+      "title": "Bazzana belts 1st career walk-off HR to cap Guardians' comeback",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/travis-bazzana-hits-walk-off-home-run-in-guardians-win-vs-pirates",
+      "pubDate": "2026-07-19T05:31:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/travis-bazzana-hits-walk-off-home-run-in-guardians-win-vs-pirates"
+        }
+      ]
+    },
     {
       "title": "Seeing double: Dodgers' No. 3 prospect Hope records fourth two-homer game of '26",
       "summary": "",
@@ -47,7 +154,7 @@
       ]
     },
     {
-      "title": "After Cole and Colt set up comeback, Julio caps off much-needed win",
+      "title": "Julio's back! Rodríguez walks it off after Young's clutch HR sparks comeback",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -133,28 +240,6 @@
       ]
     },
     {
-      "title": "Skubal looks sharp, strikes out 9 in 7 innings against Angels",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/tarik-skubal-strikes-out-nine-in-seven-innings-against-angels",
-      "pubDate": "2026-07-19T04:36:41.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/tarik-skubal-strikes-out-nine-in-seven-innings-against-angels"
-        }
-      ]
-    },
-    {
       "title": "Braves News: AJ Smith-Shawver, tough loss, more",
       "summary": "Atlanta Braves news and notes from Saturday",
       "titleJa": null,
@@ -216,26 +301,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/07/pirates-re-sign-dominic-fletcher-to-minor-league-deal.html"
-        }
-      ]
-    },
-    {
-      "title": "Bazzana belts 1st career walk-off HR to cap Guardians' comeback",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/travis-bazzana-hits-walk-off-home-run-in-guardians-win-vs-pirates",
-      "pubDate": "2026-07-19T03:36:44.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/travis-bazzana-hits-walk-off-home-run-in-guardians-win-vs-pirates"
         }
       ]
     },
@@ -448,6 +513,28 @@
       ]
     },
     {
+      "title": "‘Pain’ from Yankees’ 2024 World Series loss lingers with Dodgers back in Bronx",
+      "summary": "The pain hasn’t gone away. It may be somewhat dulled, but it remains.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pain-yankees-2024-world-series-024333821.html",
+      "pubDate": "2026-07-19T02:43:33.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pain-yankees-2024-world-series-024333821.html"
+        }
+      ]
+    },
+    {
       "title": "Injuries: Ohtani, Judge, Fried, Red Sox, Astros, Holmes",
       "summary": "",
       "titleJa": null,
@@ -492,6 +579,30 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/tyler-o-neill-orioles-defeat-astros-in-11-innings"
+        }
+      ]
+    },
+    {
+      "title": "Bo Bichette downplays uncertainty about Mets future with trade deadline looming",
+      "summary": "As someone with no-trade protection in his contract, Bo Bichette controls whether he will remain with the Mets beyond Aug. 3.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/bo-bichette-downplays-uncertainty-mets-023351307.html",
+      "pubDate": "2026-07-19T02:33:51.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/bo-bichette-downplays-uncertainty-mets-023351307.html"
         }
       ]
     },
@@ -669,6 +780,26 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/trea-turner-homers-for-phillies-in-win-against-mets"
+        }
+      ]
+    },
+    {
+      "title": "Anthony Volpe’s time in field dipping with Jose Caballero separating, George Lombard Jr. looming for Yankees",
+      "summary": "Before the game scheduled for Saturday night was postponed by rain, Anthony Volpe was set to be out of the lineup for a second straight game.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/anthony-volpe-time-field-dipping-012018126.html",
+      "pubDate": "2026-07-19T01:20:18.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/anthony-volpe-time-field-dipping-012018126.html"
         }
       ]
     },
@@ -1336,6 +1467,26 @@
           "name": "MLB.com (Cubs)",
           "sourceId": "mlb-com-cubs",
           "link": "https://www.mlb.com/cubs/news/aaron-civale-cubs-athletics-trade"
+        }
+      ]
+    },
+    {
+      "title": "Back-to-back blowouts in Athletics-Nationals series produce historic stats",
+      "summary": "The Athletics and Washington Nationals made MLB history with back-to-back blowout wins to open their three-game series.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/back-back-blowouts-athletics-nationals-232156749.html",
+      "pubDate": "2026-07-18T23:21:56.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/back-back-blowouts-athletics-nationals-232156749.html"
         }
       ]
     },
