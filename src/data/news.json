@@ -1,19 +1,60 @@
 {
-  "generatedAt": "2026-07-19T15:51:40.504Z",
-  "count": 1048,
+  "generatedAt": "2026-07-19T16:51:10.845Z",
+  "count": 1066,
   "items": [
     {
-      "title": "MLB rumors: Teams lining up for Mets starting pitchers (even the injured ones); Angels ready to flip starters",
+      "title": "PIRATES AT GUARDIANS, discussion: Cantillo vs. Skenes",
+      "summary": "Let’s win a series",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pirates-guardians-discussion-cantillo-vs-164126827.html",
+      "pubDate": "2026-07-19T16:41:26.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pirates-guardians-discussion-cantillo-vs-164126827.html"
+        }
+      ]
+    },
+    {
+      "title": "Pittsburgh Pirates vs. Cleveland Guardians: Paul Skenes vs. Tanner Bibee",
+      "summary": "The Pirates are on the road looking to grab a win today.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-cleveland-guardians-164049577.html",
+      "pubDate": "2026-07-19T16:40:49.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-cleveland-guardians-164049577.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB rumors: Teams lining up for Mets pitchers; Red Sox talk 'complicated' plans; Angels ready to flip starters",
       "summary": "Here are the latest MLB rumors with the trade deadline just a few weeks away",
       "titleJa": null,
       "summaryJa": null,
       "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-mets-freddy-peralta-clay-holmes-cubs-white-sox-angels-reid-detmers-jose-soriano/\n                    ",
-      "pubDate": "2026-07-19T15:40:16.000Z",
+      "pubDate": "2026-07-19T16:40:03.000Z",
       "source": "CBS Sports MLB",
       "sourceId": "cbssports-mlb",
       "teams": [
         "angels",
-        "mets"
+        "mets",
+        "redsox"
       ],
       "players": [],
       "topics": [
@@ -24,6 +65,440 @@
           "name": "CBS Sports MLB",
           "sourceId": "cbssports-mlb",
           "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-mets-freddy-peralta-clay-holmes-cubs-white-sox-angels-reid-detmers-jose-soriano/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Ohtani (left knee soreness) will not pitch Wednesday; return to mound TBD",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/shohei-ohtani-scratched-from-start-on-wednesday",
+      "pubDate": "2026-07-19T16:36:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/shohei-ohtani-scratched-from-start-on-wednesday"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-scratched-from-start-on-wednesday"
+        }
+      ]
+    },
+    {
+      "title": "Game 99 Game Day Thread – Texas Rangers @ Atlanta Braves",
+      "summary": "The Truist finale",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-99-game-day-thread-163508356.html",
+      "pubDate": "2026-07-19T16:35:08.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-99-game-day-thread-163508356.html"
+        }
+      ]
+    },
+    {
+      "title": "Mets at Phillies, 7/19/26: McLean vs Rangel",
+      "summary": "The air quality should be better today as the Mets try to take the rubber game.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-phillies-7-19-26-163500017.html",
+      "pubDate": "2026-07-19T16:35:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-phillies-7-19-26-163500017.html"
+        }
+      ]
+    },
+    {
+      "title": "Sonny Gray steps on the mound to sustain Sox streak",
+      "summary": "Can this team keep the magic alive?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/sonny-gray-steps-mound-sustain-163500825.html",
+      "pubDate": "2026-07-19T16:35:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/sonny-gray-steps-mound-sustain-163500825.html"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Cubs vs. Minnesota Twins preview, Sunday 7/19, 1:20 CT",
+      "summary": "The Cubs go for the series win.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/chicago-cubs-vs-minnesota-twins-163100453.html",
+      "pubDate": "2026-07-19T16:31:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/chicago-cubs-vs-minnesota-twins-163100453.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers two-way star Shohei Ohtani won’t pitch for ‘some time’ because of left knee irritation",
+      "summary": "The four-time MVP hasn’t pitched since July 3, and it’s unclear when he might return to the mound.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-two-way-star-shohei-162600453.html",
+      "pubDate": "2026-07-19T16:26:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-two-way-star-shohei-162600453.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers vs. Yankees game chat",
+      "summary": "Two games on the docket on Sunday. First game of the split doubleheader has Yoshinobu Yamamoto on the mound, with a bullpen game coming for the nightcap. Get ready for Orel Hershiser on your televisio…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-vs-yankees-game-chat-162100356.html",
+      "pubDate": "2026-07-19T16:21:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-vs-yankees-game-chat-162100356.html"
+        }
+      ]
+    },
+    {
+      "title": "Mets still expect Luis Robert Jr. back in Milwaukee; next steps for Clay Holmes",
+      "summary": "Mets interim manager Andy Green provided a trio of injury updates prior to Sunday's series finale in Philly.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-still-expect-luis-robert-161902567.html",
+      "pubDate": "2026-07-19T16:19:02.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "injury",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-still-expect-luis-robert-161902567.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Red Sox injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves",
+      "pubDate": "2026-07-19T16:13:00.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Shohei Ohtani scratched from next pitching start, return to mound unclear",
+      "summary": "Shohei Ohtani was tentatively scheduled to start Wednesday against the Phillies, after promising initial reports on his recovery from an injection in his left knee.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/shohei-ohtani-scratched-next-pitching-161026060.html",
+      "pubDate": "2026-07-19T16:10:26.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/shohei-ohtani-scratched-next-pitching-161026060.html"
+        }
+      ]
+    },
+    {
+      "title": "LIVE: White Sox, Blue Jays clash in MLB Sunday Leadoff Game on Peacock",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season",
+      "pubDate": "2026-07-19T16:10:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "bluejays",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season"
+        }
+      ]
+    },
+    {
+      "title": "Duane Ward Passes Away",
+      "summary": "Longtime big league reliever Duane Ward passed away this weekend, as announced by the Blue Jays. Ward passed in Toronto, as the right-hander was among the many former Jays in town for the unveiling of…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/duane-ward-passes-away.html",
+      "pubDate": "2026-07-19T16:07:21.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/duane-ward-passes-away.html"
+        }
+      ]
+    },
+    {
+      "title": "New York Yankees vs. Los Angeles Dodgers: Cam Schlittler vs. Yoshinobu Yamamoto",
+      "summary": "A can't-miss pitching matchup in the Bronx moves to the afternoon.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/york-yankees-vs-los-angeles-160500052.html",
+      "pubDate": "2026-07-19T16:05:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/york-yankees-vs-los-angeles-160500052.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Dodgers injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
+      "pubDate": "2026-07-19T16:05:00.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Game Thread: White Sox(51-46) at Blue Jays (46-52)",
+      "summary": "Another series win is on the line, in a morning matinee",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-thread-white-sox-51-155934151.html",
+      "pubDate": "2026-07-19T15:59:34.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-thread-white-sox-51-155934151.html"
+        }
+      ]
+    },
+    {
+      "title": "Gamethread 7/19: Phillies vs. Mets",
+      "summary": "Rookie pitchers square off in the series finale",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/gamethread-7-19-phillies-vs-155900866.html",
+      "pubDate": "2026-07-19T15:59:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/gamethread-7-19-phillies-vs-155900866.html"
+        }
+      ]
+    },
+    {
+      "title": "White Sox @ Jays Game Thread",
+      "summary": "We have an early game. Maybe it will be finished before the start of the World Cup game. Let’s score more than one run today. Yesterday I mentioned the 1-0 games are very rare. That was our first 1-0…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/white-sox-jays-game-thread-154800378.html",
+      "pubDate": "2026-07-19T15:48:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/white-sox-jays-game-thread-154800378.html"
+        }
+      ]
+    },
+    {
+      "title": "Texas Rangers lineup for July 19, 2026",
+      "summary": "Going for the series win in Hotlanta",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/texas-rangers-lineup-july-19-154522301.html",
+      "pubDate": "2026-07-19T15:45:22.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/texas-rangers-lineup-july-19-154522301.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay & Odds for July 19",
+      "summary": "Colby Marchio's favorite home run looks for July 19. Free HR picks for Friday night, featuring Yordan Alvarez.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-153900309.html",
+      "pubDate": "2026-07-19T15:39:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-153900309.html"
         }
       ]
     },
@@ -118,6 +593,30 @@
       ]
     },
     {
+      "title": "Shohei Ohtani drops out of Dodgers&#39; pitching rotation indefinitely while left knee continues to recover",
+      "summary": "Ohtani has been dealing with left knee irritation and recently received a a \"lubricant\" injection to alleviate the issue.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/shohei-ohtani-drops-out-of-dodgers-pitching-rotation-indefinitely-while-left-knee-continues-to-recover-152314555.html",
+      "pubDate": "2026-07-19T15:23:14.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/shohei-ohtani-drops-out-of-dodgers-pitching-rotation-indefinitely-while-left-knee-continues-to-recover-152314555.html"
+        }
+      ]
+    },
+    {
       "title": "Shohei Ohtani's next pitching start postponed amid knee injury: 'It's gonna be some time'",
       "summary": "Ohtani had his knee drained over the All-Star break",
       "titleJa": null,
@@ -207,33 +706,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mets-vs-phillies-prediction-picks-150500403.html"
-        }
-      ]
-    },
-    {
-      "title": "Ohtani (left knee soreness) will not pitch Wednesday; return to mound TBD",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shohei-ohtani-scratched-from-start-on-wednesday",
-      "pubDate": "2026-07-19T15:01:38.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shohei-ohtani-scratched-from-start-on-wednesday"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-scratched-from-start-on-wednesday"
         }
       ]
     },
@@ -412,29 +884,6 @@
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/duane-ward-dies"
-        }
-      ]
-    },
-    {
-      "title": "White Sox, Blue Jays clash in MLB Sunday Leadoff Game on Peacock (12:15 p.m. ET)",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season",
-      "pubDate": "2026-07-19T14:30:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "bluejays",
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season"
         }
       ]
     },
@@ -2995,7 +3444,7 @@
       ]
     },
     {
-      "title": "Right-hander Civale back with Cubs after trade with A's",
+      "title": "Cubs bring back Civale in trade with A's",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -4435,30 +4884,6 @@
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
-      "title": "Latest Red Sox injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves",
-      "pubDate": "2026-07-18T19:14:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves"
         }
       ]
     },
@@ -8848,30 +9273,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/padres-vs-royals-july-17-234000496.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Dodgers injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
-      "pubDate": "2026-07-17T23:30:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
         }
       ]
     },
