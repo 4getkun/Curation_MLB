@@ -1,7 +1,571 @@
 {
-  "generatedAt": "2026-07-21T23:01:37.865Z",
-  "count": 1699,
+  "generatedAt": "2026-07-22T00:14:32.964Z",
+  "count": 1717,
   "items": [
+    {
+      "title": "Latest White Sox injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves",
+      "pubDate": "2026-07-22T00:03:00.000Z",
+      "source": "MLB.com (White Sox)",
+      "sourceId": "mlb-com-whitesox",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Latest Cubs injuries and transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/cubs/news/cubs-injuries-and-roster-moves",
+      "pubDate": "2026-07-22T00:01:00.000Z",
+      "source": "MLB.com (Cubs)",
+      "sourceId": "mlb-com-cubs",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/cubs-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "GameThread: Detroit Tigers vs. Chicago Cubs, 8:05 p.m.",
+      "summary": "Detroit Tigers (47-52) vs. Chicago Cubs (56-44) Time/Place: 8:05 p.m., Wrigley FieldSB Nation Site: Bleed Cubbie BlueMedia: Detroit SportsNet, MLB.TV, Tigers Radio NetworkPitching Matchup: LHP Framber…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/gamethread-detroit-tigers-vs-chicago-000000788.html",
+      "pubDate": "2026-07-22T00:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/gamethread-detroit-tigers-vs-chicago-000000788.html"
+        }
+      ]
+    },
+    {
+      "title": "Tigers Place Jack Flaherty On Injured List",
+      "summary": "The Tigers announced they’ve placed Jack Flaherty on the 15-day injured list with flexor inflammation. Detroit recalled righty Ty Madden from Triple-A Toledo to replace him on the pitching staff. More…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/tigers-place-jack-flaherty-on-injured-list.html",
+      "pubDate": "2026-07-21T23:58:22.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/tigers-place-jack-flaherty-on-injured-list.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "pubDate": "2026-07-21T23:56:00.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Yankees to activate Max Fried for Wednesday night start vs. Pirates",
+      "summary": "Max Fried makes his long-awaited return to the starting rotation following more than a two-month absence.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-activate-max-fried-wednesday-235322189.html",
+      "pubDate": "2026-07-21T23:53:22.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-activate-max-fried-wednesday-235322189.html"
+        }
+      ]
+    },
+    {
+      "title": "Poised to return from IL, Suarez pushed back due to 'moderate soreness'",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ranger-suarez-return-from-injured-list-delayed",
+      "pubDate": "2026-07-21T23:51:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ranger-suarez-return-from-injured-list-delayed"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/ranger-suarez-return-from-injured-list-delayed"
+        }
+      ]
+    },
+    {
+      "title": "Decisions, decisions! How will Braves handle roster with Yaz back from IL?",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mike-yastrzemski-returns-to-braves-lineup-kyle-farmer-released",
+      "pubDate": "2026-07-21T23:49:22.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mike-yastrzemski-returns-to-braves-lineup-kyle-farmer-released"
+        }
+      ]
+    },
+    {
+      "title": "Game Thread: White Sox (53-46) at Rangers (50-50)",
+      "summary": "The Good Guys have won six of seven, and lefthander Noah Schultz looks to lead the South Siders to a series win in Texas",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-thread-white-sox-53-234736044.html",
+      "pubDate": "2026-07-21T23:47:36.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-thread-white-sox-53-234736044.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees' Max Fried scheduled to start in Wednesday doubleheader in major boost to New York's rotation",
+      "summary": "Fried has been on the injured list since May 16 due to a bone bruise on his elbow",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/max-fried-injury-timeline-new-york-yankees-rotation/\n                    ",
+      "pubDate": "2026-07-21T23:43:16.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/max-fried-injury-timeline-new-york-yankees-rotation/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Latest Red Sox injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves",
+      "pubDate": "2026-07-21T23:41:00.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Teel (high ankle sprain) expected to miss 6-12 weeks",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/kyle-teel-placed-on-injured-list-with-high-ankle-sprain",
+      "pubDate": "2026-07-21T23:40:46.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/kyle-teel-placed-on-injured-list-with-high-ankle-sprain"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/kyle-teel-placed-on-injured-list-with-high-ankle-sprain"
+        }
+      ]
+    },
+    {
+      "title": "Washing Nationals @ Colorado Rockies game discussion: Carson Palmquist vs. Michael Lorenzen",
+      "summary": "Tonight, the Rockies will look to even their series with the Nationals.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/washing-nationals-colorado-rockies-game-234000668.html",
+      "pubDate": "2026-07-21T23:40:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/washing-nationals-colorado-rockies-game-234000668.html"
+        }
+      ]
+    },
+    {
+      "title": "MLBPA proposal would allow teams to trade MLB draft picks",
+      "summary": "The MLBPA introduced proposals Tuesday that they believe would invigorate the MLB draft, including the right to trade draft picks.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlbpa-proposal-allow-teams-trade-233930403.html",
+      "pubDate": "2026-07-21T23:39:30.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlbpa-proposal-allow-teams-trade-233930403.html"
+        }
+      ]
+    },
+    {
+      "title": "Which 2026 Draft picks will reach the Majors quickest?",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-2026-draft-picks-who-could-be-quickest-to-reach-majors",
+      "pubDate": "2026-07-21T23:38:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-2026-draft-picks-who-could-be-quickest-to-reach-majors"
+        }
+      ]
+    },
+    {
+      "title": "Thornton (heel contusion) hoping to avoid IL after comebacker off foot",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/cubs/news/trent-thornton-exits-cubs-game-with-left-foot-injury",
+      "pubDate": "2026-07-21T23:34:00.000Z",
+      "source": "MLB.com (Cubs)",
+      "sourceId": "mlb-com-cubs",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/trent-thornton-exits-cubs-game-with-left-foot-injury"
+        }
+      ]
+    },
+    {
+      "title": "Yankees starter Max Fried making early return from IL, will face Pirates in doubleheader Wednesday",
+      "summary": "Fried was previously scheduled for one more rehab start from a bone bruise that's sidelined him since mid-May.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/breaking-news/article/yankees-starter-max-fried-making-early-return-from-il-will-face-pirates-in-doubleheader-wednesday-233358590.html",
+      "pubDate": "2026-07-21T23:33:58.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/breaking-news/article/yankees-starter-max-fried-making-early-return-from-il-will-face-pirates-in-doubleheader-wednesday-233358590.html"
+        }
+      ]
+    },
+    {
+      "title": "Astros vs. Marlins Game Discussion: 7/21/2026",
+      "summary": "TONIGHT’S GAME: The Houston Astros (48-54) and Miami Marlins (52-49) will play the middle game of their three-game series tonight at Daikin Park in Houston, TX. RHP Tatsuya Imai (5-4, 6.06 ERA) will g…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/astros-vs-marlins-game-discussion-233000866.html",
+      "pubDate": "2026-07-21T23:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [
+        "imai"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/astros-vs-marlins-game-discussion-233000866.html"
+        }
+      ]
+    },
+    {
+      "title": "O's-Red Sox game postponed, Boston will go for history on Wednesday in split DH",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/orioles-red-sox-july-21-game-postponed",
+      "pubDate": "2026-07-21T23:29:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/orioles-red-sox-july-21-game-postponed"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/orioles-red-sox-july-21-game-postponed"
+        }
+      ]
+    },
+    {
+      "title": "Fried returning to Yanks, set to start Game 2 of doubleheader vs. Bucs",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/max-fried-returns-to-yankees-rotation",
+      "pubDate": "2026-07-21T23:26:55.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/max-fried-returns-to-yankees-rotation"
+        }
+      ]
+    },
+    {
+      "title": "Pirates-Yankees rained out Tuesday; split doubleheader set for Wednesday",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/pirates-yankees-postponed-july-21-2026",
+      "pubDate": "2026-07-21T23:21:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/pirates-yankees-postponed-july-21-2026"
+        }
+      ]
+    },
+    {
+      "title": "Yankees&#39; Max Fried to skip rehab start, return from IL and pitch Game 2 of doubleheader against Pirates",
+      "summary": "The Yankees announced that southpaw Max Fried will bypass his next rehab start and return to the big league club on Wednesday. Fried will take the mound in the second game of New York's doubleheader a…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-max-fried-skip-rehab-231936805.html",
+      "pubDate": "2026-07-21T23:19:36.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-max-fried-skip-rehab-231936805.html"
+        }
+      ]
+    },
+    {
+      "title": "How to watch San Francisco Giants vs. Kansas City Royals",
+      "summary": "Tyler Mahle vs. Luinder Avila",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/watch-san-francisco-giants-vs-231000036.html",
+      "pubDate": "2026-07-21T23:10:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/watch-san-francisco-giants-vs-231000036.html"
+        }
+      ]
+    },
+    {
+      "title": "Game 101 Game Day Thread – Chicago White Sox @ Texas Rangers",
+      "summary": "Rocker and the Rangers try to stop the bleeding",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-101-game-day-thread-230500472.html",
+      "pubDate": "2026-07-21T23:05:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-101-game-day-thread-230500472.html"
+        }
+      ]
+    },
+    {
+      "title": "Bogaerts' approach to batting eighth in Padres' lineup? 'Play better'",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/xander-bogaerts-bats-eighth-in-padres-lineup-vs-braves",
+      "pubDate": "2026-07-21T23:03:04.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/xander-bogaerts-bats-eighth-in-padres-lineup-vs-braves"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/xander-bogaerts-bats-eighth-in-padres-lineup-vs-braves"
+        }
+      ]
+    },
     {
       "title": "Rangers Select Marco Gonzales, Austin Wynns",
       "summary": "The Rangers announced that they have selected the contract of left-hander Marco Gonzales and catcher Austin Wynns. The 40-man roster had one vacancy. They opened another spot by transferring lefty Jal…",
@@ -19,6 +583,28 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/07/rangers-select-marco-gonzales-austin-wynns.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers-Phillies game on Tuesday begins in rain delay",
+      "summary": "The home team did not announce a new start time, but officials said they expected that the game would be played Tuesday night.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-phillies-game-tuesday-begins-225222218.html",
+      "pubDate": "2026-07-21T22:52:22.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-phillies-game-tuesday-begins-225222218.html"
         }
       ]
     },
@@ -529,31 +1115,6 @@
       ]
     },
     {
-      "title": "O's-Red Sox game postponed; split doubleheader on Wednesday",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/orioles-red-sox-july-21-game-postponed",
-      "pubDate": "2026-07-21T21:41:58.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/orioles-red-sox-july-21-game-postponed"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/orioles-red-sox-july-21-game-postponed"
-        }
-      ]
-    },
-    {
       "title": "Latest Padres injuries and transactions",
       "summary": "",
       "titleJa": null,
@@ -859,26 +1420,6 @@
           "name": "CBS Sports MLB",
           "sourceId": "cbssports-mlb",
           "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Pirates-Yankees rained out Tuesday; split doubleheader set for Wednesday",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/pirates-yankees-postponed-july-21-2026",
-      "pubDate": "2026-07-21T20:05:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/pirates-yankees-postponed-july-21-2026"
         }
       ]
     },
@@ -1929,31 +2470,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/2021-draft-retrospective-170500816.html"
-        }
-      ]
-    },
-    {
-      "title": "Poised to return from IL, Suarez pushed back as Red Sox seek 15th straight win",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/ranger-suarez-return-from-injured-list-delayed",
-      "pubDate": "2026-07-21T17:03:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/ranger-suarez-return-from-injured-list-delayed"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/ranger-suarez-return-from-injured-list-delayed"
         }
       ]
     },
@@ -4572,54 +5088,6 @@
       ]
     },
     {
-      "title": "Latest White Sox injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves",
-      "pubDate": "2026-07-21T05:45:00.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
-      "title": "Latest Cubs injuries and transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/cubs-injuries-and-roster-moves",
-      "pubDate": "2026-07-21T05:44:00.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/cubs-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
       "title": "Mozeliak aiming to help Halos establish future with Deadline approaching",
       "summary": "",
       "titleJa": null,
@@ -4641,28 +5109,6 @@
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/john-mozeliak-assessing-angels-ahead-of-trade-deadline"
-        }
-      ]
-    },
-    {
-      "title": "Thornton (left heel contusion) exits Monday's game after comebacker off foot",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/trent-thornton-exits-cubs-game-with-left-foot-injury",
-      "pubDate": "2026-07-21T05:36:07.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/trent-thornton-exits-cubs-game-with-left-foot-injury"
         }
       ]
     },
@@ -5329,7 +5775,9 @@
       "pubDate": "2026-07-21T03:24:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "whitesox"
+      ],
       "players": [],
       "topics": [
         "injury"
@@ -7087,30 +7535,6 @@
       ]
     },
     {
-      "title": "Latest Red Sox injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves",
-      "pubDate": "2026-07-20T22:27:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
       "title": "Game Discussion: Milwaukee Brewers (62-37) vs. New York Mets (42-58)",
       "summary": "Peralta returns to Milwaukee in marquee pitching matchup with Misiorowski",
       "titleJa": null,
@@ -7280,30 +7704,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/adley-rutschman-has-left-wrist-injury"
-        }
-      ]
-    },
-    {
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "pubDate": "2026-07-20T22:02:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
         }
       ]
     },
