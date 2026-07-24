@@ -1,26 +1,392 @@
 {
-  "generatedAt": "2026-07-23T23:54:37.386Z",
-  "count": 2297,
+  "generatedAt": "2026-07-24T02:04:11.230Z",
+  "count": 2318,
   "items": [
     {
-      "title": "Here are the biggest movers on each club's refreshed Top 30 list",
+      "title": "Stats of the Week: Schwarbombs, five-star catches and more!",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/biggest-movers-on-club-top-30-lists-2026",
-      "pubDate": "2026-07-23T23:45:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
+      "link": "https://www.mlb.com/news/mlb-stats-of-the-week-ending-july-23-2026",
+      "pubDate": "2026-07-24T01:45:29.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-stats-of-the-week-ending-july-23-2026"
+        }
+      ]
+    },
+    {
+      "title": "Outman, Dingler come through in the clutch to key Tigers' late rally",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/dillon-dingler-records-clutch-go-ahead-hit-in-tigers-victory",
+      "pubDate": "2026-07-24T01:41:40.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/dillon-dingler-records-clutch-go-ahead-hit-in-tigers-victory"
+        }
+      ]
+    },
+    {
+      "title": "Super sub Locklear powers surging D-backs past Cards with first HR of 2026",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tyler-locklear-powers-diamondbacks-with-first-homer-of-2026-season",
+      "pubDate": "2026-07-24T01:38:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tyler-locklear-powers-diamondbacks-with-first-homer-of-2026-season"
+        }
+      ]
+    },
+    {
+      "title": "Mariners Fire Assistant Hitting Coach Bobby Magallanes",
+      "summary": "The Mariners dismissed assistant hitting coach Bobby Magallanes on Thursday afternoon (link via Adam Jude of The Seattle Times). Minor league hitting coordinator Ed Paparella will join the big league…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/mariners-fire-assistant-hitting-coach-bobby-magallanes.html",
+      "pubDate": "2026-07-24T01:35:52.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/mariners-fire-assistant-hitting-coach-bobby-magallanes.html"
+        }
+      ]
+    },
+    {
+      "title": "James Outman and Dillon Dingler play hero in late-inning win",
+      "summary": "The Royals never make it easy, do they?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/james-outman-dillon-dingler-play-012954388.html",
+      "pubDate": "2026-07-24T01:29:54.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/james-outman-dillon-dingler-play-012954388.html"
+        }
+      ]
+    },
+    {
+      "title": "Doyle (oblique, groin) resumes Triple-A rehab stint after setback",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/brenton-doyle-resumes-rehab-assignment-with-triple-a-albuquerque",
+      "pubDate": "2026-07-24T01:14:40.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/brenton-doyle-resumes-rehab-assignment-with-triple-a-albuquerque"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/brenton-doyle-resumes-rehab-assignment-with-triple-a-albuquerque"
+        }
+      ]
+    },
+    {
+      "title": "Marte (back) expected to return to Diamondbacks' lineup on Friday",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ketel-marte-scratched-from-dbacks-lineup-back-injury",
+      "pubDate": "2026-07-24T01:00:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ketel-marte-scratched-from-dbacks-lineup-back-injury"
+        }
+      ]
+    },
+    {
+      "title": "Holmes yields 2 runs, fans 2 in 1st Minor League rehab start",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/mets/news/clay-holmes-begins-rehab-assignment",
+      "pubDate": "2026-07-24T00:53:20.000Z",
+      "source": "MLB.com (Mets)",
+      "sourceId": "mlb-com-mets",
       "teams": [
-        "padres"
+        "mets"
       ],
       "players": [],
       "topics": [],
       "sources": [
         {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/clay-holmes-begins-rehab-assignment"
+        }
+      ]
+    },
+    {
+      "title": "White Sox Looking For Catching Help",
+      "summary": "The White Sox are seeking a catcher on the trade market, report Ken Rosenthal and Will Sammon of The Athletic. That comes in response to losing Kyle Teel to a left ankle sprain earlier this week. Mana…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/white-sox-looking-for-catching-help.html",
+      "pubDate": "2026-07-24T00:43:11.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [
+        "trade",
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/white-sox-looking-for-catching-help.html"
+        }
+      ]
+    },
+    {
+      "title": "Twins 3, Guardians 1: What is Guardsball if not ineptitude persevering?",
+      "summary": "Baseball, philosophy, and a bit that lost it’s humor about 1,000 words before the article ends. What a time to be alive.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/twins-2-guardians-1-guardsball-001946731.html",
+      "pubDate": "2026-07-24T00:19:46.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/twins-2-guardians-1-guardsball-001946731.html"
+        }
+      ]
+    },
+    {
+      "title": "Mets&#39; Clay Holmes pitches 2.1 innings in first rehab start for Triple-A Syracuse",
+      "summary": "Mets starter Clay Holmes returned to the mound after making his first rehab appearance on Thursday night with Triple-A Syracuse.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-clay-holmes-pitches-2-001344193.html",
+      "pubDate": "2026-07-24T00:13:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-clay-holmes-pitches-2-001344193.html"
+        }
+      ]
+    },
+    {
+      "title": "St. Louis Cardinals Come Home, Get Hammered by Diamondbacks Thursday",
+      "summary": "What was supposed to be an off-day for the St. Louis Cardinals became a rather important encounter with the Arizona Diamondbacks thanks to a game postponed by weather a few weeks ago. Michael McGreevy…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/st-louis-cardinals-come-home-001218594.html",
+      "pubDate": "2026-07-24T00:12:18.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/st-louis-cardinals-come-home-001218594.html"
+        }
+      ]
+    },
+    {
+      "title": "Giants Release Eric Haase",
+      "summary": "The Giants have placed catcher Eric Haase on release waivers, relays Justice delos Santos of The San Jose Mercury News. San Francisco designated him for assignment last week when Daniel Susac made his…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/giants-release-eric-haase.html",
+      "pubDate": "2026-07-24T00:07:43.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/giants-release-eric-haase.html"
+        }
+      ]
+    },
+    {
+      "title": "Royals C Salvador Perez urges Kansas City police to release fan who pulled record-tying HR ball from fountain",
+      "summary": "The fan was reportedly cited and released after entering the forbidden fountains of Kauffman Stadium.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/royals-c-salvador-perez-urges-kansas-city-police-to-release-fan-who-pulled-record-tying-hr-ball-from-fountain-000556180.html",
+      "pubDate": "2026-07-24T00:05:56.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/royals-c-salvador-perez-urges-kansas-city-police-to-release-fan-who-pulled-record-tying-hr-ball-from-fountain-000556180.html"
+        }
+      ]
+    },
+    {
+      "title": "Could Red Sox swing blockbuster deal for slugging SS?",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/red-sox-reportedly-interested-in-angels-shortstop-zach-neto",
+      "pubDate": "2026-07-23T23:52:55.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/red-sox-reportedly-interested-in-angels-shortstop-zach-neto"
+        }
+      ]
+    },
+    {
+      "title": "Here are the biggest movers on each club's refreshed Top 30 list",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/biggest-movers-on-club-top-30-lists-2026",
+      "pubDate": "2026-07-23T23:45:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/biggest-movers-on-club-top-30-lists-2026"
+        },
+        {
           "name": "MLB.com (Padres)",
           "sourceId": "mlb-com-padres",
           "link": "https://www.mlb.com/padres/news/biggest-movers-on-club-top-30-lists-2026"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/biggest-movers-on-club-top-30-lists-2026"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/biggest-movers-on-club-top-30-lists-2026"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/biggest-movers-on-club-top-30-lists-2026"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/biggest-movers-on-club-top-30-lists-2026"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/biggest-movers-on-club-top-30-lists-2026"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/biggest-movers-on-club-top-30-lists-2026"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/biggest-movers-on-club-top-30-lists-2026"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/biggest-movers-on-club-top-30-lists-2026"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/biggest-movers-on-club-top-30-lists-2026"
         }
       ]
     },
@@ -347,7 +713,7 @@
       ]
     },
     {
-      "title": "Trade rumors: Slugging SS available, Cubs, All-Star LHP on the block?",
+      "title": "Trade rumors: Cubs, Neto, All-Star LHP on the block?",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -410,6 +776,30 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/five-highlights-fcl-twins-season-214545465.html"
+        }
+      ]
+    },
+    {
+      "title": "Red Sox top prospect Franklin Arias promoted to Triple-A Worcester: Report",
+      "summary": "The top prospect in the Red Sox' system is making the jump to Triple-A.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/red-sox-top-prospect-franklin-214317965.html",
+      "pubDate": "2026-07-23T21:43:17.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/red-sox-top-prospect-franklin-214317965.html"
         }
       ]
     },
@@ -494,6 +884,28 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/pirates-trade-for-reliever-ron-marinaccio-from-padres-dfa-dennis-santana"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers legend Clayton Kershaw was the surprise star of White House ceremony",
+      "summary": "Retired Los Angeles Dodgers legend Clayton Kershaw had the perfect response after Donald Trump joked about whether he could still compete at the White House.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-legend-clayton-kershaw-surprise-212039570.html",
+      "pubDate": "2026-07-23T21:20:39.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-legend-clayton-kershaw-surprise-212039570.html"
         }
       ]
     },
@@ -612,26 +1024,6 @@
       ]
     },
     {
-      "title": "Marte a late scratch from D-backs' lineup due to back stiffness",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/ketel-marte-scratched-from-dbacks-lineup-back-injury",
-      "pubDate": "2026-07-23T21:07:39.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/ketel-marte-scratched-from-dbacks-lineup-back-injury"
-        }
-      ]
-    },
-    {
       "title": "Pirates move on from former closer, acquire bullpen arm from Padres",
       "summary": "The Pirates’ closer in 2025 could never bounce back from multiple failed appearances in the back end of the bullpen.",
       "titleJa": null,
@@ -650,6 +1042,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/pirates-move-former-closer-acquire-210529390.html"
+        }
+      ]
+    },
+    {
+      "title": "Keith Hernandez zings Mets over first base defensive woes",
+      "summary": "It crushes Keith Hernandez to see his beloved Mets exhibit a nonchalant attitude about the importance of defense at his former position.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/keith-hernandez-zings-mets-over-210303254.html",
+      "pubDate": "2026-07-23T21:03:03.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/keith-hernandez-zings-mets-over-210303254.html"
         }
       ]
     },
@@ -802,6 +1216,28 @@
       ]
     },
     {
+      "title": "Dodgers visit White House for one last 2025 World Series celebration",
+      "summary": "Nine months removed from their epic Game 7 triumph in last year’s World Series, the Dodgers were recognized one final time on Thursday for their 2025 championship.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-visit-white-house-one-204214923.html",
+      "pubDate": "2026-07-23T20:42:14.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-visit-white-house-one-204214923.html"
+        }
+      ]
+    },
+    {
       "title": "France, Rengifo stay hot but Padres' rotation woes linger in Atlanta",
       "summary": "",
       "titleJa": null,
@@ -885,6 +1321,48 @@
           "name": "CBS Sports MLB",
           "sourceId": "cbssports-mlb",
           "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-phillies-rotation-yankees/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Giants have nothing to lose, and Tony Vitello wants to see them play like it",
+      "summary": "For too much of this season, in manager Tony Vitello's eyes, the Giants have been playing as if they have “everything to lose.” He’d like to see more of the opposite.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/giants-nothing-lose-tony-vitello-201041670.html",
+      "pubDate": "2026-07-23T20:10:41.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/giants-nothing-lose-tony-vitello-201041670.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees’ Jose Caballero blasts MLB over sudden pitch-clock crackdown: ‘They know they’re wrong’",
+      "summary": "If he is going down — and it seems as if he is, now forced to begrudgingly adjust a routine he had perfected — he is going down swinging at Major League Baseball.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-jose-caballero-blasts-mlb-200257059.html",
+      "pubDate": "2026-07-23T20:02:57.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-jose-caballero-blasts-mlb-200257059.html"
         }
       ]
     },
@@ -1015,6 +1493,30 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/unflappable-as-ever-phillies-co-ace-zack-wheeler-is-having-the-best-season-of-his-career-195208861.html"
+        }
+      ]
+    },
+    {
+      "title": "Why Padres are unlikely to trade Mason Miller despite rumors",
+      "summary": "Is Mason Miller on the trade block? That’s the question teams around Major League Baseball want answered. The San Diego Padres reliever is the best closer in baseball, sporting a...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/why-padres-unlikely-trade-mason-195003793.html",
+      "pubDate": "2026-07-23T19:50:03.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/why-padres-unlikely-trade-mason-195003793.html"
         }
       ]
     },
@@ -1647,7 +2149,7 @@
       ]
     },
     {
-      "title": "AUSL postseason is here! Cascade face Bandits in play-in game (9 ET, ESPN)",
+      "title": "LIVE: Cascade face Bandits in play-in game (ESPN)",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -41197,7 +41699,9 @@
       "pubDate": "2026-07-17T02:19:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "mets"
+      ],
       "players": [],
       "topics": [],
       "sources": [
