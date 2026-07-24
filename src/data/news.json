@@ -1,7 +1,918 @@
 {
-  "generatedAt": "2026-07-24T12:15:30.571Z",
-  "count": 2363,
+  "generatedAt": "2026-07-24T14:19:29.790Z",
+  "count": 2411,
   "items": [
+    {
+      "title": "Why Luke Weaver could be the Mets' most valuable trade asset",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/mets/news/luke-weaver-mets-trade-value-analysis",
+      "pubDate": "2026-07-24T14:08:25.000Z",
+      "source": "MLB.com (Mets)",
+      "sourceId": "mlb-com-mets",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/luke-weaver-mets-trade-value-analysis"
+        }
+      ]
+    },
+    {
+      "title": "Rockies vs. Brewers Friday MLB picks, parlay: Disregard Tomoyuki Sugano's profitability in matinee mismatch",
+      "summary": "The Rockies and Brewers open a series Friday afternoon in Milwaukee",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/betting/news/rockies-vs-brewers-friday-mlb-picks-parlay-disregard-tomoyuki-suganos-profitability-in-matinee-mismatch/\n                    ",
+      "pubDate": "2026-07-24T14:07:30.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [
+        "sugano"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/betting/news/rockies-vs-brewers-friday-mlb-picks-parlay-disregard-tomoyuki-suganos-profitability-in-matinee-mismatch/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "How Red Sox's trade deadline plans completely changed: Targets and needs with Boston in buy mode",
+      "summary": "The Red Sox looked like trade deadline sellers, and then they won 15 games in a row for the first time in 80 years",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/red-sox-trade-deadline-targets-needs-winning-streak/\n                    ",
+      "pubDate": "2026-07-24T14:04:42.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/red-sox-trade-deadline-targets-needs-winning-streak/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Mets set to host first-place Dodgers for three in Queens",
+      "summary": "The Mets host one of the best teams in baseball this weekend.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-set-host-first-place-140000555.html",
+      "pubDate": "2026-07-24T14:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers",
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-set-host-first-place-140000555.html"
+        }
+      ]
+    },
+    {
+      "title": "Mariners News: Luis Castillo, Emerson Hancock, and Tarik Skubal",
+      "summary": "The Mariners may be willing to trade a starting pitcher after all. Plus, more news from around baseball.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mariners-news-luis-castillo-emerson-140000353.html",
+      "pubDate": "2026-07-24T14:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mariners-news-luis-castillo-emerson-140000353.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees Rivalry Roundup: Jays claw one away from Rays",
+      "summary": "Recapping how the Yankees’ top AL opponents fared on July 23rd.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-rivalry-roundup-jays-claw-140000455.html",
+      "pubDate": "2026-07-24T14:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-rivalry-roundup-jays-claw-140000455.html"
+        }
+      ]
+    },
+    {
+      "title": "Elephant Rumblings: Weekend Series In The Twin Cities",
+      "summary": "MLB news roundup",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/elephant-rumblings-weekend-series-twin-140000794.html",
+      "pubDate": "2026-07-24T14:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/elephant-rumblings-weekend-series-twin-140000794.html"
+        }
+      ]
+    },
+    {
+      "title": "Minor League Recap: Josh Hartle pitches a gem, Juneiker Caceres continues to rake",
+      "summary": "Columbus Clippers 3, St. Paul Saints 4 Clippers fall to 51-47 Columbus looked like it had done enough to win, scoring a go-ahead run in the top of the ninth inning, but the bullpen couldn’t hold it. C…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/minor-league-recap-josh-hartle-140000526.html",
+      "pubDate": "2026-07-24T14:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/minor-league-recap-josh-hartle-140000526.html"
+        }
+      ]
+    },
+    {
+      "title": "Braves Minor League Recap: Smith-Shawver Steller for Stripers",
+      "summary": "Smith-Shawver and Ronald Acuna Jr. continued their rehab on Thursday",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/braves-minor-league-recap-smith-140000579.html",
+      "pubDate": "2026-07-24T14:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-minor-league-recap-smith-140000579.html"
+        }
+      ]
+    },
+    {
+      "title": "Orioles-Braves series preview: The NL East leaders come to Baltimore",
+      "summary": "After a 4-2 road trip, the O’s will look to continue their strong play against a true playoff contender",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/orioles-braves-series-preview-nl-140000994.html",
+      "pubDate": "2026-07-24T14:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/orioles-braves-series-preview-nl-140000994.html"
+        }
+      ]
+    },
+    {
+      "title": "Kerry Carpenter’s more selective approach isn’t working out",
+      "summary": "Detroit’s favorite slugger decided to try and be more selective this year. it isn’t really working out.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/kerry-carpenter-more-selective-approach-140000490.html",
+      "pubDate": "2026-07-24T14:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/kerry-carpenter-more-selective-approach-140000490.html"
+        }
+      ]
+    },
+    {
+      "title": "Guardians Trade Target: Heliot Ramos",
+      "summary": "Let the season go to Heliot",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/guardians-trade-target-heliot-ramos-140000691.html",
+      "pubDate": "2026-07-24T14:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/guardians-trade-target-heliot-ramos-140000691.html"
+        }
+      ]
+    },
+    {
+      "title": "Tyler Locklear impresses in game against the Cardinals",
+      "summary": "Diamondbacks News (MLB.com) Super sub Locklear ‘always ready’ as first HR of 2026 powers surging D-backs “Not easy to do what he did,” manager Torey Lovullo said. “He comes to the ballpark, he’s alway…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/tyler-locklear-impresses-game-against-140000123.html",
+      "pubDate": "2026-07-24T14:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/tyler-locklear-impresses-game-against-140000123.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB Draft 2026: Milwaukee Brewers Draft Signing Tracker",
+      "summary": "Keep track of how much the Brewers sign their draft picks for as the future arrives in Milwaukee",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-draft-2026-milwaukee-brewers-225757444.html",
+      "pubDate": "2026-07-24T13:51:11.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-draft-2026-milwaukee-brewers-225757444.html"
+        }
+      ]
+    },
+    {
+      "title": "The best trade options to fill Yankees' catching need",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/yankees-trade-deadline-2026-catcher-options",
+      "pubDate": "2026-07-24T13:50:04.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/yankees-trade-deadline-2026-catcher-options"
+        }
+      ]
+    },
+    {
+      "title": "Should the Washington Nationals consider bringing back Max Scherzer?",
+      "summary": "Max Scherzer was sharp in his start against Rochester and with the Blue Jays out of it, is it time to bring Max home",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/washington-nationals-consider-bringing-back-134500206.html",
+      "pubDate": "2026-07-24T13:45:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/washington-nationals-consider-bringing-back-134500206.html"
+        }
+      ]
+    },
+    {
+      "title": "Clark posts 3 hits to continue strong July",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/max-clark-posts-3-hits-to-continue-strong-july",
+      "pubDate": "2026-07-24T13:41:17.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/max-clark-posts-3-hits-to-continue-strong-july"
+        }
+      ]
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Dodgers vs. Mets, MLB betting on Friday",
+      "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB betting on Friday",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-dodgers-mets-mlb-betting-friday/\n                    ",
+      "pubDate": "2026-07-24T13:38:24.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "dodgers",
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-dodgers-mets-mlb-betting-friday/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Friday morning Rangers things",
+      "summary": "Texas Rangers update for Friday, July 24.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/friday-morning-rangers-things-133722867.html",
+      "pubDate": "2026-07-24T13:37:22.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/friday-morning-rangers-things-133722867.html"
+        }
+      ]
+    },
+    {
+      "title": "Free MLB home run picks July 24: Dodgers' Kyle Tucker among expert's best bets for Friday",
+      "summary": "SportsLine's Matt Severance shares his best MLB home run props picks for Friday, July 24",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/betting/news/free-mlb-home-run-picks-july-24-dodgers-kyle-tucker-among-experts-best-bets-for-friday/\n                    ",
+      "pubDate": "2026-07-24T13:33:22.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/betting/news/free-mlb-home-run-picks-july-24-dodgers-kyle-tucker-among-experts-best-bets-for-friday/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Padres cannot overcome Griffin Canning, lose to Braves",
+      "summary": "News to know about your San Diego Padres and MLB for July 24, 2026.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/padres-cannot-overcome-griffin-canning-133000526.html",
+      "pubDate": "2026-07-24T13:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/padres-cannot-overcome-griffin-canning-133000526.html"
+        }
+      ]
+    },
+    {
+      "title": "Eduardo Guerrero flexes his muscles in Loons win",
+      "summary": "Eduardo Guerrero and Eduardo Quintero both homered in a Loons win over the Lugnuts",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/eduardo-guerrero-flexes-muscles-loons-133000463.html",
+      "pubDate": "2026-07-24T13:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/eduardo-guerrero-flexes-muscles-loons-133000463.html"
+        }
+      ]
+    },
+    {
+      "title": "Royals vs Tigers Prediction, Picks & Odds for Today&#39;s MLB Game",
+      "summary": "Royals vs. Tigers predictions for tonight's game at Comerica Park. Free MLB picks for Friday, July 24.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/royals-vs-tigers-prediction-picks-132700533.html",
+      "pubDate": "2026-07-24T13:27:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/royals-vs-tigers-prediction-picks-132700533.html"
+        }
+      ]
+    },
+    {
+      "title": "What would it take for the Red Sox to trade for Zach Neto?",
+      "summary": "We officially have trade deadline rumors! Is anyone interested in a little Zach Neto action? Yesterday, The Athletic reported that “after expressing interest in the Los Angeles Angels shortstop last o…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/red-sox-trade-zach-neto-132431440.html",
+      "pubDate": "2026-07-24T13:24:31.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "angels",
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/red-sox-trade-zach-neto-132431440.html"
+        }
+      ]
+    },
+    {
+      "title": "The Opener: Carroll, Yankees’ Rotation, Rangers/Mariners",
+      "summary": "Tigers lefty Tarik Skubal, the biggest trade chip on the market, will be on the mound tonight against the Royals. If the schedule holds, he’ll make one more start before the deadline. 1. Carroll the t…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/the-opener-carroll-yankees-rotation-rangers-mariners.html",
+      "pubDate": "2026-07-24T13:19:25.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/the-opener-carroll-yankees-rotation-rangers-mariners.html"
+        }
+      ]
+    },
+    {
+      "title": "Who should trade for Arraez? Here are 6 top options",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/luis-arraez-2026-trade-deadline-destinations",
+      "pubDate": "2026-07-24T13:12:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/luis-arraez-2026-trade-deadline-destinations"
+        }
+      ]
+    },
+    {
+      "title": "LA Dodgers and MVP Ohtani launch summer of live baseball on BBC",
+      "summary": "World Series champions the Los Angeles Dodgers will launch a summer of live Major League Baseball on the BBC.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/la-dodgers-mvp-ohtani-launch-130029529.html",
+      "pubDate": "2026-07-24T13:00:29.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/la-dodgers-mvp-ohtani-launch-130029529.html"
+        }
+      ]
+    },
+    {
+      "title": "Astros vs. White Sox Series Primer with White Sox Voice Len Kasper",
+      "summary": "Although lacking the drama of their historical post season battles, the three game series forthcoming on Chicago’s south side holds heightened significance should the Astros hope to remain relevant th…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/astros-vs-white-sox-series-130000905.html",
+      "pubDate": "2026-07-24T13:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/astros-vs-white-sox-series-130000905.html"
+        }
+      ]
+    },
+    {
+      "title": "Cubs roster move: James Triantos called up, Kevin Alcántara optioned",
+      "summary": "The second-round pick of the Cubs in 2021 will make his MLB debut.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-roster-move-james-triantos-130000217.html",
+      "pubDate": "2026-07-24T13:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-roster-move-james-triantos-130000217.html"
+        }
+      ]
+    },
+    {
+      "title": "Who is the Phillies prospect most likely to be moved at the trade deadline?",
+      "summary": "There’s not many, but some will go",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/phillies-prospect-most-likely-moved-130000218.html",
+      "pubDate": "2026-07-24T13:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/phillies-prospect-most-likely-moved-130000218.html"
+        }
+      ]
+    },
+    {
+      "title": "The Accidental Closer: Tyler Wells and the ninth inning",
+      "summary": "It’s been a long and bumpy ride for Tyler Wells but of late, the right hander has slid into the closer’s role and made it his own.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/accidental-closer-tyler-wells-ninth-130000089.html",
+      "pubDate": "2026-07-24T13:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/accidental-closer-tyler-wells-ninth-130000089.html"
+        }
+      ]
+    },
+    {
+      "title": "Will Tyler Kinley make it to the end of the season?",
+      "summary": "I went a whole Kinley post and didn’t even mention the William McKinley thing",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/tyler-kinley-end-season-130000381.html",
+      "pubDate": "2026-07-24T13:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/tyler-kinley-end-season-130000381.html"
+        }
+      ]
+    },
+    {
+      "title": "From Japan to potential trade deadline gem: Nationals' Foster Griffin is one of MLB's biggest success stories",
+      "summary": "Griffin, who owns a 2.68 ERA, could be one of the best pitchers dealt in the next 10 days ... but there's a case for the Nats to keep him",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-trade-deadline-nationals-foster-griffin/\n                    ",
+      "pubDate": "2026-07-24T12:50:38.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-trade-deadline-nationals-foster-griffin/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Diego Pavia's next move after Ravens release; 100 And 1 college basketball storylines",
+      "summary": "Plus, winners and losers from LeBron James' free agency saga",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/nfl/news/diego-pavia-ravens-nfl-college-basketball-storylines/\n                    ",
+      "pubDate": "2026-07-24T12:40:46.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/nfl/news/diego-pavia-ravens-nfl-college-basketball-storylines/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "New York Yankees vs. Philadelphia Phillies: Series Preview",
+      "summary": "The Yankees will hit the road for a meeting with Donnie Baseball and his Phillies’ squad.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/york-yankees-philadelphia-phillies-series-123000884.html",
+      "pubDate": "2026-07-24T12:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/york-yankees-philadelphia-phillies-series-123000884.html"
+        }
+      ]
+    },
+    {
+      "title": "Royals vs. Tigers prediction: Odds, recent stats, trends, and best bets for July 24",
+      "summary": "Kansas City Royals vs. Detroit Tigers Betting Preview for July 24",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/royals-vs-tigers-prediction-odds-122757333.html",
+      "pubDate": "2026-07-24T12:27:57.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/royals-vs-tigers-prediction-odds-122757333.html"
+        }
+      ]
+    },
+    {
+      "title": "Mets vs. Dodgers: How to watch on July 24, 2026",
+      "summary": "Here's how to watch the Mets game.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-vs-dodgers-watch-july-122500678.html",
+      "pubDate": "2026-07-24T12:25:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers",
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-vs-dodgers-watch-july-122500678.html"
+        }
+      ]
+    },
+    {
+      "title": "How to watch the New York Yankees vs Philadelphia Phillies: Live stream info, schedule, preview",
+      "summary": "Live coverage begins at 7 PM ET on NBC and Peacock.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/watch-york-yankees-vs-philadelphia-121300171.html",
+      "pubDate": "2026-07-24T12:13:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/watch-york-yankees-vs-philadelphia-121300171.html"
+        }
+      ]
+    },
+    {
+      "title": "Braves News: Series win over Padres, Sean Murphy update, and more",
+      "summary": "Atlanta Braves news and notes from Thursday.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/braves-news-series-win-over-121217427.html",
+      "pubDate": "2026-07-24T12:12:17.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-news-series-win-over-121217427.html"
+        }
+      ]
+    },
+    {
+      "title": "In The Lab: A Look at Center Field Offense",
+      "summary": "Is Brice Matthews really a big league hitter?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/lab-look-center-field-offense-121200507.html",
+      "pubDate": "2026-07-24T12:12:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/lab-look-center-field-offense-121200507.html"
+        }
+      ]
+    },
+    {
+      "title": "Guardians News: We Stink Again",
+      "summary": "News and Notes for Friday, July 24th, 2026",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/guardians-news-stink-again-120400642.html",
+      "pubDate": "2026-07-24T12:04:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/guardians-news-stink-again-120400642.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers visit President Trump at the White House",
+      "summary": "While the Dodgers were off on Thursday, they made the decision to do what all reigning champions do before they head up to Queens for the weekend. The Dodgers traveled south from Philadelphia to our n…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-visit-president-trump-white-120300878.html",
+      "pubDate": "2026-07-24T12:03:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-visit-president-trump-white-120300878.html"
+        }
+      ]
+    },
     {
       "title": "How to watch the Cleveland Guardians vs Tampa Bay Rays: Live stream info, schedule, preview",
       "summary": "Live coverage begins at 12 PM ET on NBCSN and Peacock.",
@@ -19,6 +930,178 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/watch-cleveland-guardians-vs-tampa-120300724.html"
+        }
+      ]
+    },
+    {
+      "title": "Friday Rockpile: Will the Rockies avoid 100 losses?",
+      "summary": "Colorado Rockies news and links for Friday, July 24, 2026",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/friday-rockpile-rockies-avoid-100-120000733.html",
+      "pubDate": "2026-07-24T12:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/friday-rockpile-rockies-avoid-100-120000733.html"
+        }
+      ]
+    },
+    {
+      "title": "Mets Morning News: Holmes makes rehab start, OMG star heads to Broadway",
+      "summary": "Your Friday morning dose of Mets and Major League Baseball news, notes, and links.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-morning-news-holmes-makes-120000638.html",
+      "pubDate": "2026-07-24T12:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-morning-news-holmes-makes-120000638.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB News: Trade deadline, Red Sox streak, Tarik Skubal, Max Scherzer, Wild Card race",
+      "summary": "Plus, who just bought into the new A’s?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-news-trade-deadline-red-120000304.html",
+      "pubDate": "2026-07-24T12:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-news-trade-deadline-red-120000304.html"
+        }
+      ]
+    },
+    {
+      "title": "Orioles minor league recap 7/24: Delmarva plates 23 in doubleheader",
+      "summary": "Delmarva swept its doubleheader with a pair of big offensive performances.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/orioles-minor-league-recap-7-120000443.html",
+      "pubDate": "2026-07-24T12:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/orioles-minor-league-recap-7-120000443.html"
+        }
+      ]
+    },
+    {
+      "title": "Kansas City Royals news: Zion Rose and the KC Urban Youth Academy",
+      "summary": "Only 1 more Friday Rumblings until the Trade Deadline; Have you done your shopping yet?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/kansas-city-royals-news-zion-120000617.html",
+      "pubDate": "2026-07-24T12:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/kansas-city-royals-news-zion-120000617.html"
+        }
+      ]
+    },
+    {
+      "title": "Ted Williams, James Wood, and some PA/P history",
+      "summary": "A deeper dive into a viral stat you may have heard about",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/ted-williams-james-wood-pa-120000131.html",
+      "pubDate": "2026-07-24T12:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/ted-williams-james-wood-pa-120000131.html"
+        }
+      ]
+    },
+    {
+      "title": "SF Giants News: Oracle Park promotions this weekend",
+      "summary": "If you’re headed to a game this weekend, here’s what Oracle Park has on deck.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/sf-giants-news-oracle-park-120000767.html",
+      "pubDate": "2026-07-24T12:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/sf-giants-news-oracle-park-120000767.html"
+        }
+      ]
+    },
+    {
+      "title": "Three players the Brewers should trade for at the trade deadline",
+      "summary": "Three players who would address the Brewers’ weaknesses",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/three-players-brewers-trade-trade-120000666.html",
+      "pubDate": "2026-07-24T12:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/three-players-brewers-trade-trade-120000666.html"
         }
       ]
     },
@@ -1730,28 +2813,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/jays-win-215058993.html"
-        }
-      ]
-    },
-    {
-      "title": "Who should trade for Arraez? Here are 6 top options",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/luis-arraez-2026-trade-deadline-destinations",
-      "pubDate": "2026-07-23T21:49:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/luis-arraez-2026-trade-deadline-destinations"
         }
       ]
     },
@@ -9466,29 +10527,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-192100607.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB Draft 2026: Milwaukee Brewers Draft Signing Tracker",
-      "summary": "Keep track of how much the Brewers sign their draft picks for as the future arrives in Milwaukee",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-draft-2026-milwaukee-brewers-225757444.html",
-      "pubDate": "2026-07-22T19:02:38.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "contract",
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-draft-2026-milwaukee-brewers-225757444.html"
         }
       ]
     },
