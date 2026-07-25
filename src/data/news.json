@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-07-25T05:59:54.739Z",
-  "count": 2625,
+  "generatedAt": "2026-07-25T08:16:19.852Z",
+  "count": 2634,
   "items": [
+    {
+      "title": "Rodriguez feels he's making progress, even if results aren't there yet",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/angels/news/grayson-rodriguez-gives-up-5-runs-in-angels-loss-to-giants",
+      "pubDate": "2026-07-25T06:34:30.000Z",
+      "source": "MLB.com (Angels)",
+      "sourceId": "mlb-com-angels",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/grayson-rodriguez-gives-up-5-runs-in-angels-loss-to-giants"
+        }
+      ]
+    },
+    {
+      "title": "Martin impresses early, but sixth-inning struggles doom White Sox",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/whitesox/news/white-sox-allow-eight-runs-in-an-inning-in-loss-to-astros",
+      "pubDate": "2026-07-25T06:05:21.000Z",
+      "source": "MLB.com (White Sox)",
+      "sourceId": "mlb-com-whitesox",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-allow-eight-runs-in-an-inning-in-loss-to-astros"
+        }
+      ]
+    },
     {
       "title": "Snell, Hernández make strides toward return in latest rehab assignments in OKC",
       "summary": "",
@@ -102,16 +146,19 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/anthony-seigler-four-hit-game-sparks-red-sox-win",
+      "link": "https://www.mlb.com/news/anthony-seigler-four-hit-game-sparks-red-sox-win",
       "pubDate": "2026-07-25T05:08:59.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/anthony-seigler-four-hit-game-sparks-red-sox-win"
+        },
         {
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
@@ -442,6 +489,29 @@
       ]
     },
     {
+      "title": "Kyle Tucker praises ‘great people’ with Mets but is plenty happy with Dodgers choice",
+      "summary": "Kyle Tucker hammered the Mets, then said nice things about them.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/kyle-tucker-praises-great-people-034025178.html",
+      "pubDate": "2026-07-25T03:40:25.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers",
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/kyle-tucker-praises-great-people-034025178.html"
+        }
+      ]
+    },
+    {
       "title": "Wesneski nearing return to Majors with 7-K rehab start for Triple-A Sugar Land",
       "summary": "",
       "titleJa": null,
@@ -619,6 +689,26 @@
       ]
     },
     {
+      "title": "Paul Goldschmidt gives struggling offense brief reprieve with decisive homer in Yankees’ win",
+      "summary": "Since June 18, only the Mariners have scored fewer runs than the Yankees, and this past week has been especially rough.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/paul-goldschmidt-gives-struggling-offense-031639237.html",
+      "pubDate": "2026-07-25T03:16:39.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/paul-goldschmidt-gives-struggling-offense-031639237.html"
+        }
+      ]
+    },
+    {
       "title": "Guardians lose again",
       "summary": "Guardians lose embarassingly for 10,000th time this season.",
       "titleJa": null,
@@ -681,6 +771,26 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/07/giants-trevor-mcdonald-diagnosed-with-ucl-sprain.html"
+        }
+      ]
+    },
+    {
+      "title": "CC Sabathia thrilled to welcome ex-Yankees teammates Andruw Jones, Carlos Beltran to Hall of Fame",
+      "summary": "On Sunday, Cooperstown will welcome Andruw Jones, Jeff Kent and Carlos Beltrán into the Baseball Hall of Fame.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cc-sabathia-thrilled-welcome-ex-031023625.html",
+      "pubDate": "2026-07-25T03:10:23.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cc-sabathia-thrilled-welcome-ex-031023625.html"
         }
       ]
     },
@@ -943,6 +1053,30 @@
       ]
     },
     {
+      "title": "Aaron Boone is all smiles after 76ers land LeBron James: ‘I’ll be watching with interest’",
+      "summary": "The Yankees manager, a longtime 76ers fan, was among those excited for James to be signing in Philadelphia on a two-year, $8 million deal.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/aaron-boone-smiles-76ers-land-024006111.html",
+      "pubDate": "2026-07-25T02:40:06.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "contract",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/aaron-boone-smiles-76ers-land-024006111.html"
+        }
+      ]
+    },
+    {
       "title": "Randy Wolf, 49, finally checked 'Brewers HR' off bucket list. His alumni teammates went wild",
       "summary": "",
       "titleJa": null,
@@ -1194,6 +1328,54 @@
       ]
     },
     {
+      "title": "Mets squander early lead against Dodgers in latest punchless loss",
+      "summary": "Hopefully, the plot to the movie “The Catch” being filmed at Citi Field on Friday isn’t as predictable as the game that was played.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-squander-early-lead-against-021358897.html",
+      "pubDate": "2026-07-25T02:13:58.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers",
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-squander-early-lead-against-021358897.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers beat Mets behind Roki Sasaki gem, Kyle Tucker home run",
+      "summary": "Hello to vintage Roki Sasaki. At his best, this is what Sasaki can do to opponents.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-beat-mets-behind-roki-021238480.html",
+      "pubDate": "2026-07-25T02:12:38.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers",
+        "mets"
+      ],
+      "players": [
+        "sasaki"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-beat-mets-behind-roki-021238480.html"
+        }
+      ]
+    },
+    {
       "title": "Roki Sasaki&#39;s recent pitching mechanics change continues to deliver for Dodgers",
       "summary": "Kyle Tucker hits a two-run home run in the eighth inning and Roki Sasaki holds the New York Mets to three hits in the Dodgers' 4-2 win.",
       "titleJa": null,
@@ -1307,6 +1489,30 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/dodgers-best-mets-bullpen-lefties-015716348.html"
+        }
+      ]
+    },
+    {
+      "title": "Zack Wheeler says ‘it’s tough to narrow’ what has plagued Mets — but there’s reason for optimism",
+      "summary": "It’s hard to believe there’s much hope for the last-place Mets these days, but maybe there are some signs of hope in Queens.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/zack-wheeler-says-tough-narrow-015000138.html",
+      "pubDate": "2026-07-25T01:50:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/zack-wheeler-says-tough-narrow-015000138.html"
         }
       ]
     },
