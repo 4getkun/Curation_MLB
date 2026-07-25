@@ -1,14 +1,182 @@
 {
-  "generatedAt": "2026-07-25T03:21:01.438Z",
-  "count": 2608,
+  "generatedAt": "2026-07-25T05:59:54.739Z",
+  "count": 2625,
   "items": [
     {
-      "title": "Refreshed Cam Smith hits 2-run homer in Astros' 8-run 6th inning",
+      "title": "Snell, Hernández make strides toward return in latest rehab assignments in OKC",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/blake-snell-enrique-hernandez-rehab-assignment-updates",
+      "pubDate": "2026-07-25T05:43:05.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/blake-snell-enrique-hernandez-rehab-assignment-updates"
+        }
+      ]
+    },
+    {
+      "title": "Latest Dodgers injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
+      "pubDate": "2026-07-25T05:43:00.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Red Sox back in win column behind Sandoval, late rally",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/patrick-sandoval-leads-red-sox-with-scoreless-start",
+      "pubDate": "2026-07-25T05:25:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/patrick-sandoval-leads-red-sox-with-scoreless-start"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/patrick-sandoval-leads-red-sox-with-scoreless-start"
+        }
+      ]
+    },
+    {
+      "title": "Dave Roberts gives Shohei Ohtani update: Dodgers aren&#39;t rushing star back to mound",
+      "summary": "Shohei Ohtani's return to the mound for the Los Angeles Dodgers remains uncertain for the foreseeable future. Here's the latest.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dave-roberts-gives-shohei-ohtani-052315306.html",
+      "pubDate": "2026-07-25T05:23:15.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dave-roberts-gives-shohei-ohtani-052315306.html"
+        }
+      ]
+    },
+    {
+      "title": "'That's our spark plug': Seigler's 4-hit game launches Red Sox into 2nd WC spot",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/redsox/news/anthony-seigler-four-hit-game-sparks-red-sox-win",
+      "pubDate": "2026-07-25T05:08:59.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/anthony-seigler-four-hit-game-sparks-red-sox-win"
+        }
+      ]
+    },
+    {
+      "title": "Sasaki keeps Mets guessing with nearly unhittable splitter",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/roki-sasaki-strikes-out-9-in-7-innings-vs-mets",
+      "pubDate": "2026-07-25T05:05:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "sasaki"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/roki-sasaki-strikes-out-9-in-7-innings-vs-mets"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/roki-sasaki-strikes-out-9-in-7-innings-vs-mets"
+        }
+      ]
+    },
+    {
+      "title": "Trade Deadline Outlook: Chicago White Sox",
+      "summary": "The White Sox endured 101 losses in 2023, 121 losses in 2024 (setting a modern record), and 102 losses in 2025. Getting even into the 90-loss range would’ve represented a step in the right direction f…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-chicago-white-sox-2.html",
+      "pubDate": "2026-07-25T04:59:21.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-chicago-white-sox-2.html"
+        }
+      ]
+    },
+    {
+      "title": "Smith tweaks approach, hits go-ahead HR in Astros' 8-run inning",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlb.com/astros/news/cam-smith-s-homer-highlights-astros-8-run-inning",
-      "pubDate": "2026-07-25T03:15:42.000Z",
+      "pubDate": "2026-07-25T04:57:00.000Z",
       "source": "MLB.com (Astros)",
       "sourceId": "mlb-com-astros",
       "teams": [
@@ -21,6 +189,475 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/cam-smith-s-homer-highlights-astros-8-run-inning"
+        }
+      ]
+    },
+    {
+      "title": "Arrighetti can only tolerate one inning with 'really painful' foot injury",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/spencer-arrighetti-exits-game-vs-white-sox-with-injury",
+      "pubDate": "2026-07-25T04:42:00.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/spencer-arrighetti-exits-game-vs-white-sox-with-injury"
+        }
+      ]
+    },
+    {
+      "title": "Burger brings the lumber as Rangers take 1st game of pivotal AL West set",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/rangers-open-crucial-series-vs-mariners-with-win",
+      "pubDate": "2026-07-25T04:37:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/rangers-open-crucial-series-vs-mariners-with-win"
+        }
+      ]
+    },
+    {
+      "title": "Rengifo's pinch-hit blast lifts Padres over fellow Wild Card hopeful Marlins",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/padres/news/luis-rengifo-pinch-hit-home-run-gives-padres-win-vs-marlins",
+      "pubDate": "2026-07-25T04:13:00.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/luis-rengifo-pinch-hit-home-run-gives-padres-win-vs-marlins"
+        }
+      ]
+    },
+    {
+      "title": "Rangers, Anthony Veneziano Agree To Minor League Deal",
+      "summary": "The Rangers are in agreement with left-hander Anthony Veneziano on a minor league contract, relays Shawn McFarland of The Dallas Morning News. He’ll head to Triple-A Round Rock. Texas has liked Venezi…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/rangers-anthony-veneziano-agree-to-minor-league-deal.html",
+      "pubDate": "2026-07-25T04:08:26.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/rangers-anthony-veneziano-agree-to-minor-league-deal.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers 2026 game results",
+      "summary": "Keeping track of every game this season, all in one place",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
+      "pubDate": "2026-07-25T04:05:11.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
+        }
+      ]
+    },
+    {
+      "title": "Yesavage battles in 9-K start as Wild Card gap widens ahead of Deadline",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/trey-yesavage-logs-nine-strikeouts-blue-jays-lose-to-red-sox",
+      "pubDate": "2026-07-25T04:03:00.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/trey-yesavage-logs-nine-strikeouts-blue-jays-lose-to-red-sox"
+        }
+      ]
+    },
+    {
+      "title": "Thorpe goes two innings with High-A Winston-Salem in second rehab start",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/whitesox/news/drew-thorpe-allows-three-runs-in-two-innings-in-rehab-start",
+      "pubDate": "2026-07-25T03:57:26.000Z",
+      "source": "MLB.com (White Sox)",
+      "sourceId": "mlb-com-whitesox",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/drew-thorpe-allows-three-runs-in-two-innings-in-rehab-start"
+        }
+      ]
+    },
+    {
+      "title": "Olson, Hernández lead Braves to 10-inning win over O's as 2nd-half surge continues",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/matt-olson-s-10th-inning-home-run-lifts-braves-to-win-over-orioles",
+      "pubDate": "2026-07-25T03:56:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/matt-olson-s-10th-inning-home-run-lifts-braves-to-win-over-orioles"
+        }
+      ]
+    },
+    {
+      "title": "Boyd backed up by stellar defense to stay unbeaten in 10 straight starts",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/matthew-boyd-tosses-7-solid-innings-remaining-unbeaten-since-opening-day",
+      "pubDate": "2026-07-25T03:50:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/matthew-boyd-tosses-7-solid-innings-remaining-unbeaten-since-opening-day"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/matthew-boyd-tosses-7-solid-innings-remaining-unbeaten-since-opening-day"
+        }
+      ]
+    },
+    {
+      "title": "Sho-stopper! Okamoto hits 23rd homer to break Ohtani's Japanese-born rookie record",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/kazuma-okamoto-breaks-shohei-ohtani-s-record-for-homers-by-japanese-born-rookie",
+      "pubDate": "2026-07-25T03:46:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "ohtani",
+        "okamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/kazuma-okamoto-breaks-shohei-ohtani-s-record-for-homers-by-japanese-born-rookie"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/kazuma-okamoto-breaks-shohei-ohtani-s-record-for-homers-by-japanese-born-rookie"
+        }
+      ]
+    },
+    {
+      "title": "Cubs Minor League Wrap: Luis Martinez-Gomez shines in Smokies win",
+      "summary": "The Smokies slip past Rocket City. The Pelicans split a doubleheader.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-minor-league-wrap-luis-034556771.html",
+      "pubDate": "2026-07-25T03:45:56.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-minor-league-wrap-luis-034556771.html"
+        }
+      ]
+    },
+    {
+      "title": "Wesneski nearing return to Majors with 7-K rehab start for Triple-A Sugar Land",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/hayden-wesneski-logs-seven-strikeouts-in-triple-a-rehab-start",
+      "pubDate": "2026-07-25T03:39:47.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/hayden-wesneski-logs-seven-strikeouts-in-triple-a-rehab-start"
+        }
+      ]
+    },
+    {
+      "title": "Not bad, Dad! Fan makes slick catch on foul ball while holding toddler",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/dad-catches-foul-ball-while-holding-toddler-at-oracle-park",
+      "pubDate": "2026-07-25T03:35:58.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/dad-catches-foul-ball-while-holding-toddler-at-oracle-park"
+        }
+      ]
+    },
+    {
+      "title": "Sixth inning of horror dooms White Sox",
+      "summary": "Nightmare frame proves too much to handle for the South Siders in 9-5 loss",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/sixth-inning-horror-dooms-white-033256156.html",
+      "pubDate": "2026-07-25T03:32:56.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/sixth-inning-horror-dooms-white-033256156.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Mets injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/mets/news/mets-injuries-and-roster-moves",
+      "pubDate": "2026-07-25T03:24:00.000Z",
+      "source": "MLB.com (Mets)",
+      "sourceId": "mlb-com-mets",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/mets-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Can't knock the hustle: Vilade's superfluous slide sets tone for win No. 60",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ryan-vilade-homers-in-rays-rout-of-guardians",
+      "pubDate": "2026-07-25T03:24:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ryan-vilade-homers-in-rays-rout-of-guardians"
+        }
+      ]
+    },
+    {
+      "title": "Canzone can, but Mariners cannot, lose to Rangers 5-4",
+      "summary": "As you might have heard, the 2026 Seattle Mariners have struggled against left-handed pitching. Dominic Canzone, meanwhile, has been having a tremendous year at the plate. These things are related. Fo…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/canzone-mariners-cannot-lose-rangers-032253811.html",
+      "pubDate": "2026-07-25T03:22:53.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/canzone-mariners-cannot-lose-rangers-032253811.html"
+        }
+      ]
+    },
+    {
+      "title": "Scuffling Mets 'not going to close any paths down' as Trade Deadline approaches",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/mets/news/david-stearns-discusses-mets-approach-to-2026-trade-deadline",
+      "pubDate": "2026-07-25T03:22:50.000Z",
+      "source": "MLB.com (Mets)",
+      "sourceId": "mlb-com-mets",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/david-stearns-discusses-mets-approach-to-2026-trade-deadline"
+        }
+      ]
+    },
+    {
+      "title": "Jays Lose To Red Sox",
+      "summary": "Blue Jays 4 Red Sox 6 So it was a better effort than we’ve seen of late. Kuzuma Okamoto hit a three-run home run in the seventh (which got us back into the game). Andrés Giménez hit a sac fly in the e…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/jays-lose-red-sox-031849927.html",
+      "pubDate": "2026-07-25T03:18:49.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays",
+        "redsox"
+      ],
+      "players": [
+        "okamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/jays-lose-red-sox-031849927.html"
+        }
+      ]
+    },
+    {
+      "title": "Guardians lose again",
+      "summary": "Guardians lose embarassingly for 10,000th time this season.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/guardians-lose-again-031608027.html",
+      "pubDate": "2026-07-25T03:16:08.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/guardians-lose-again-031608027.html"
+        }
+      ]
+    },
+    {
+      "title": "8-Run 6th Inning Carries Astros to 4th Straight Win, 9-5 Over White Sox",
+      "summary": "Cheers at Rate Field turned to boos and a stunned crowd of 28,657 could only shake their collective heads in disbelief as the Astros would erase a five-run deficit in defeating the White Sox by a scor…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/8-run-6th-inning-carries-031538322.html",
+      "pubDate": "2026-07-25T03:15:38.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/8-run-6th-inning-carries-031538322.html"
         }
       ]
     },
@@ -68,26 +705,6 @@
       ]
     },
     {
-      "title": "Burger brings the lumber as Rangers take 1st game of pivotal AL West set",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/rangers-open-crucial-series-vs-mariners-with-win",
-      "pubDate": "2026-07-25T03:03:41.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/rangers-open-crucial-series-vs-mariners-with-win"
-        }
-      ]
-    },
-    {
       "title": "52-51 – Burger, small ball, and bullpen help Rangers sink Seattle",
       "summary": "Rangers take fifth win in seven tries against M’s in 2026",
       "titleJa": null,
@@ -108,31 +725,6 @@
       ]
     },
     {
-      "title": "Red Sox back in win column behind Sandoval, late rally",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/patrick-sandoval-leads-red-sox-with-scoreless-start",
-      "pubDate": "2026-07-25T03:03:04.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/patrick-sandoval-leads-red-sox-with-scoreless-start"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/patrick-sandoval-leads-red-sox-with-scoreless-start"
-        }
-      ]
-    },
-    {
       "title": "A’s 2, Twins 0: You want hits? Well, tough spit",
       "summary": "The Twins have some halfway decent swings, but that’s not enough. Nice start for Zebby, though.",
       "titleJa": null,
@@ -149,6 +741,31 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/2-twins-0-want-hits-030243860.html"
+        }
+      ]
+    },
+    {
+      "title": "Soto exits with left calf soreness, will undergo MRI Saturday",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/juan-soto-exits-vs-dodgers-with-left-calf-soreness",
+      "pubDate": "2026-07-25T03:02:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/juan-soto-exits-vs-dodgers-with-left-calf-soreness"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/juan-soto-exits-vs-dodgers-with-left-calf-soreness"
         }
       ]
     },
@@ -243,26 +860,6 @@
       ]
     },
     {
-      "title": "Olson's clutch blast propels Braves to 10-inning win over O's",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/matt-olson-s-10th-inning-home-run-lifts-braves-to-win-over-orioles",
-      "pubDate": "2026-07-25T02:52:28.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/matt-olson-s-10th-inning-home-run-lifts-braves-to-win-over-orioles"
-        }
-      ]
-    },
-    {
       "title": "St. Louis Cardinals Bats Silent as Cincinnati Reds Win Friday Night",
       "summary": "Friday night was not Dustin May’s best start of the season, but it was solid. What was not solid was the St. Louis Cardinals offensive approach as their bats were completely silent for most of the gam…",
       "titleJa": null,
@@ -326,34 +923,6 @@
       ]
     },
     {
-      "title": "Sho-stopper! Okamoto hits 23rd homer to break Ohtani's Japanese-born rookie record",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/kazuma-okamoto-breaks-shohei-ohtani-s-record-for-homers-by-japanese-born-rookie",
-      "pubDate": "2026-07-25T02:49:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [
-        "ohtani",
-        "okamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/kazuma-okamoto-breaks-shohei-ohtani-s-record-for-homers-by-japanese-born-rookie"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/kazuma-okamoto-breaks-shohei-ohtani-s-record-for-homers-by-japanese-born-rookie"
-        }
-      ]
-    },
-    {
       "title": "Twins Release Orlando Arcia",
       "summary": "The Twins have moved on from veteran infielder Orlando Arcia. The 31-year-old was released from Triple-A St. Paul’s roster, as noted by Bobby Nightengale of the Minnesota Star Tribune. Arcia played in…",
       "titleJa": null,
@@ -370,29 +939,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/07/twins-release-orlando-arcia.html"
-        }
-      ]
-    },
-    {
-      "title": "Key takeaways: Red Sox 6, Blue Jays 4",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/trey-yesavage-logs-nine-strikeouts-blue-jays-lose-to-red-sox",
-      "pubDate": "2026-07-25T02:47:03.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays",
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/trey-yesavage-logs-nine-strikeouts-blue-jays-lose-to-red-sox"
         }
       ]
     },
@@ -525,28 +1071,6 @@
       ]
     },
     {
-      "title": "Key takeaways: Padres 4, Marlins 2",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/luis-rengifo-pinch-hit-home-run-gives-padres-win-vs-marlins",
-      "pubDate": "2026-07-25T02:28:39.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/luis-rengifo-pinch-hit-home-run-gives-padres-win-vs-marlins"
-        }
-      ]
-    },
-    {
       "title": "Matt Olson’s 10th-inning homer helps Braves open trip with dramatic defeat of Orioles",
       "summary": "Elieser Hernández, have a moment!",
       "titleJa": null,
@@ -670,7 +1194,7 @@
       ]
     },
     {
-      "title": "Kyle Tucker ends homer drought, Roki Sasaki shines in Dodgers&#39; win over Mets",
+      "title": "Roki Sasaki&#39;s recent pitching mechanics change continues to deliver for Dodgers",
       "summary": "Kyle Tucker hits a two-run home run in the eighth inning and Roki Sasaki holds the New York Mets to three hits in the Dodgers' 4-2 win.",
       "titleJa": null,
       "summaryJa": null,
@@ -742,26 +1266,6 @@
       ]
     },
     {
-      "title": "Can't knock the hustle: Vilade's superfluous slide sets tone for win No. 60",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/ryan-vilade-homers-in-rays-rout-of-guardians",
-      "pubDate": "2026-07-25T02:00:29.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/ryan-vilade-homers-in-rays-rout-of-guardians"
-        }
-      ]
-    },
-    {
       "title": "Purple Row After Dark: Put on your front office thinking hats",
       "summary": "If you were calling the shots, what trades are you trying to make?",
       "titleJa": null,
@@ -807,33 +1311,6 @@
       ]
     },
     {
-      "title": "Sasaki keeps Mets guessing in another dominant showing",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/roki-sasaki-strikes-out-9-in-7-innings-vs-mets",
-      "pubDate": "2026-07-25T01:53:35.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [
-        "sasaki"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/roki-sasaki-strikes-out-9-in-7-innings-vs-mets"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/roki-sasaki-strikes-out-9-in-7-innings-vs-mets"
-        }
-      ]
-    },
-    {
       "title": "Sasaki’s masterclass and Tucker’s late surge lifts Dodgers past Mets",
       "summary": "Roki Sasaki sets career high in swings and misses",
       "titleJa": null,
@@ -875,31 +1352,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/d-backs-small-ball-clutch-014823948.html"
-        }
-      ]
-    },
-    {
-      "title": "Soto exits in 6th inning as left calf soreness continues to nag Mets' superstar",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/juan-soto-exits-vs-dodgers-with-left-calf-soreness",
-      "pubDate": "2026-07-25T01:48:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/juan-soto-exits-vs-dodgers-with-left-calf-soreness"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/juan-soto-exits-vs-dodgers-with-left-calf-soreness"
         }
       ]
     },
@@ -971,31 +1423,6 @@
       ]
     },
     {
-      "title": "Another brilliant Boyd outing sets stage for Cubs' extra-inning win",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/matthew-boyd-tosses-7-solid-innings-remaining-unbeaten-since-opening-day",
-      "pubDate": "2026-07-25T01:41:35.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/matthew-boyd-tosses-7-solid-innings-remaining-unbeaten-since-opening-day"
-        },
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/matthew-boyd-tosses-7-solid-innings-remaining-unbeaten-since-opening-day"
-        }
-      ]
-    },
-    {
       "title": "Cam Schlittler dominates with a dozen strikeouts, Yankees beat Phillies in nailbiter",
       "summary": "After an up-and-down month, the kid’s grip tightened on a Cy Young",
       "titleJa": null,
@@ -1034,6 +1461,26 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/athletes-unlimited-softball-league-top-performers-of-2026"
+        }
+      ]
+    },
+    {
+      "title": "Cam Schlittler’s 12-strikeout gem propels Yankees in series-opening win over Phillies",
+      "summary": "By the end of the night, Cam Schlitler had successfully transferred that frustration into the helpless hands of the Phillies lineup.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cam-schlittler-12-strikeout-gem-013410230.html",
+      "pubDate": "2026-07-25T01:34:10.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cam-schlittler-12-strikeout-gem-013410230.html"
         }
       ]
     },
@@ -1122,6 +1569,50 @@
       ]
     },
     {
+      "title": "Juan Soto exits with calf issue in latest Mets injury concern",
+      "summary": "Before leaving the game at Citi Field, Juan Soto had been walked twice. Jorge Polanco replaced him in the lineup.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/juan-soto-exits-calf-issue-011924129.html",
+      "pubDate": "2026-07-25T01:19:24.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/juan-soto-exits-calf-issue-011924129.html"
+        }
+      ]
+    },
+    {
+      "title": "Anthony Volpe not concerned about shortstop uncertainty as George Lombard Jr. looms",
+      "summary": "Anthony Volpe was back in the lineup at shortstop for the Yankees on Friday against the Phillies.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/anthony-volpe-not-concerned-shortstop-011859750.html",
+      "pubDate": "2026-07-25T01:18:59.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/anthony-volpe-not-concerned-shortstop-011859750.html"
+        }
+      ]
+    },
+    {
       "title": "Latest Angels injuries & transactions",
       "summary": "",
       "titleJa": null,
@@ -1182,30 +1673,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/cameron-outduels-skubal-royals-still-005505326.html"
-        }
-      ]
-    },
-    {
-      "title": "Arrighetti exits with foot injury after pitching one inning",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/spencer-arrighetti-exits-game-vs-white-sox-with-injury",
-      "pubDate": "2026-07-25T00:52:38.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/spencer-arrighetti-exits-game-vs-white-sox-with-injury"
         }
       ]
     },
@@ -1370,30 +1837,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/rockies-play-brewers-game-5-233640211.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Dodgers injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
-      "pubDate": "2026-07-24T23:36:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
         }
       ]
     },
@@ -2283,30 +2726,6 @@
       ]
     },
     {
-      "title": "Latest Mets injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/mets-injuries-and-roster-moves",
-      "pubDate": "2026-07-24T22:02:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/mets-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
       "title": "D-backs @ Nationals Discussion",
       "summary": "Today’s Lineups DIAMONDBACKS NATIONALS Ketel Marte – 2B James Wood – LF Corbin Carroll – RF Curtis Mead – 3B Geraldo Perdomo – SS Andres Chaparro – DH Gabriel Moreno – C CJ Abrams – SS Nolan Arenado –…",
       "titleJa": null,
@@ -2907,30 +3326,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/ronald-acu-jr-not-back-193243935.html"
-        }
-      ]
-    },
-    {
-      "title": "Trade Deadline Outlook: Chicago White Sox",
-      "summary": "The White Sox endured 101 losses in 2023, 121 losses in 2024 (setting a modern record), and 102 losses in 2025. Getting even into the 90-loss range would’ve represented a step in the right direction f…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-chicago-white-sox-2.html",
-      "pubDate": "2026-07-24T19:31:21.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-chicago-white-sox-2.html"
         }
       ]
     },
@@ -3868,7 +4263,7 @@
       ]
     },
     {
-      "title": "Talons and Bandits meet again for AUSL title (Game 1: Sat., 1 p.m. ET on ABC)",
+      "title": "Talons and Bandits meet again for AUSL title (Game 1 today: 1 p.m. ET on ABC)",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -9289,28 +9684,6 @@
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/white-sox-players-embracing-unexpected-2026-success"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers 2026 game results",
-      "summary": "Keeping track of every game this season, all in one place",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
-      "pubDate": "2026-07-23T16:32:35.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
         }
       ]
     },
@@ -30538,7 +30911,9 @@
       "pubDate": "2026-07-20T13:13:25.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "redsox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
