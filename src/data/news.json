@@ -1,7 +1,578 @@
 {
-  "generatedAt": "2026-07-26T21:53:06.833Z",
-  "count": 3025,
+  "generatedAt": "2026-07-26T22:54:06.386Z",
+  "count": 3039,
   "items": [
+    {
+      "title": "Updated Milwaukee Brewers Roster",
+      "summary": "An updated look at the Brewers 40-man roster",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/updated-milwaukee-brewers-roster-182828449.html",
+      "pubDate": "2026-07-26T22:41:53.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/updated-milwaukee-brewers-roster-182828449.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest White Sox injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves",
+      "pubDate": "2026-07-26T22:40:00.000Z",
+      "source": "MLB.com (White Sox)",
+      "sourceId": "mlb-com-whitesox",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Astros' winning streak ends, but encouraging week has them in playoff hunt",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/astros-5-game-winning-streak-snapped-against-white-sox",
+      "pubDate": "2026-07-26T22:39:46.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/astros-5-game-winning-streak-snapped-against-white-sox"
+        }
+      ]
+    },
+    {
+      "title": "Rangers Notes: Seager, Montgomery, Bradford",
+      "summary": "Corey Seager looks to be nearing a rehab assignment, as the Rangers shortstop took part in a live batting practice session today. Seager told MLB.com’s Kennedi Landry and other reporters that another…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/rangers-notes-seager-montgomery-bradford.html",
+      "pubDate": "2026-07-26T22:35:55.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/rangers-notes-seager-montgomery-bradford.html"
+        }
+      ]
+    },
+    {
+      "title": "Reds race past Cardinals in extra innings to claim series victory",
+      "summary": "Cincinnati heads home fresh off an impressive 6-3 road trip.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/reds-race-past-cardinals-extra-223211866.html",
+      "pubDate": "2026-07-26T22:32:11.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/reds-race-past-cardinals-extra-223211866.html"
+        }
+      ]
+    },
+    {
+      "title": "Clemens stars all over the diamond as Twins hold off A's",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/kody-clemens-ryan-kreidler-lead-twins-past-athletics",
+      "pubDate": "2026-07-26T22:31:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/kody-clemens-ryan-kreidler-lead-twins-past-athletics"
+        }
+      ]
+    },
+    {
+      "title": "Miscues, Springs' hip discomfort mar A's finale in Minnesota",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jeffrey-springs-exits-start-with-right-hip-discomfort",
+      "pubDate": "2026-07-26T22:24:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jeffrey-springs-exits-start-with-right-hip-discomfort"
+        }
+      ]
+    },
+    {
+      "title": "Bellinger lands on IL with hamstring strain; Spencer Jones recalled",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/cody-bellinger-exits-game-against-phillies-with-injury",
+      "pubDate": "2026-07-26T22:24:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/cody-bellinger-exits-game-against-phillies-with-injury"
+        }
+      ]
+    },
+    {
+      "title": "Reds grind to extra-inning win after Steer leaves with right wrist pain",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/spencer-steer-exits-game-vs-cardinals-with-right-wrist-pain",
+      "pubDate": "2026-07-26T22:22:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/spencer-steer-exits-game-vs-cardinals-with-right-wrist-pain"
+        }
+      ]
+    },
+    {
+      "title": "2026 Baseball Hall of Fame induction: Carlos Beltrán, Andruw Jones, Jeff Kent speak of national, organizational pride while enshrined",
+      "summary": "Beltrán and Jones are two of the game's most recognizable center fielders, and Kent raised the bar for run production among middle infielders everywhere.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/2026-baseball-hall-of-fame-induction-carlos-beltran-andruw-jones-jeff-kent-speak-of-national-organizational-pride-while-enshrined-221627720.html",
+      "pubDate": "2026-07-26T22:16:27.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/2026-baseball-hall-of-fame-induction-carlos-beltran-andruw-jones-jeff-kent-speak-of-national-organizational-pride-while-enshrined-221627720.html"
+        }
+      ]
+    },
+    {
+      "title": "Astros fizzle, White Sox romp, 12-3",
+      "summary": "Mune led the many moon shots",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/astros-fizzle-white-sox-romp-221600553.html",
+      "pubDate": "2026-07-26T22:16:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/astros-fizzle-white-sox-romp-221600553.html"
+        }
+      ]
+    },
+    {
+      "title": "Could Taillon move to Cubs' bullpen? Veteran righty searching for answers",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/cubs/news/jameson-taillon-surrenders-three-home-runs-to-pirates-in-cubs-loss",
+      "pubDate": "2026-07-26T22:14:00.000Z",
+      "source": "MLB.com (Cubs)",
+      "sourceId": "mlb-com-cubs",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/jameson-taillon-surrenders-three-home-runs-to-pirates-in-cubs-loss"
+        }
+      ]
+    },
+    {
+      "title": "Seager (lower back inflammation) takes live BP, could head on rehab assignment soon",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/corey-seager-takes-live-batting-practice",
+      "pubDate": "2026-07-26T22:10:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/corey-seager-takes-live-batting-practice"
+        }
+      ]
+    },
+    {
+      "title": "Misiorowski breaks more records as Brewers destroy Rockies",
+      "summary": "Jacob Misiorowski has done more things that have never been done before in a Brewers win over the Rockies",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/misiorowski-breaks-more-records-brewers-220306584.html",
+      "pubDate": "2026-07-26T22:03:06.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/misiorowski-breaks-more-records-brewers-220306584.html"
+        }
+      ]
+    },
+    {
+      "title": "Abrams breaks Nats' shortstop record with 26th HR -- and then hits another one",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/cj-abrams-james-wood-hit-two-homers-in-nats-win",
+      "pubDate": "2026-07-26T22:03:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/cj-abrams-james-wood-hit-two-homers-in-nats-win"
+        }
+      ]
+    },
+    {
+      "title": "Canzone provides spark in Mariners' come-from-behind win to snap 4-game slide",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/dominic-canzone-randy-arozarena-homer-in-mariners-win",
+      "pubDate": "2026-07-26T22:02:14.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/dominic-canzone-randy-arozarena-homer-in-mariners-win"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers 2026 game results",
+      "summary": "Keeping track of every game this season, all in one place",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
+      "pubDate": "2026-07-26T22:02:11.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
+        }
+      ]
+    },
+    {
+      "title": "With sweep of Marlins, Padres doing all they can to prove themselves before Deadline",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/padres/news/manny-machado-jackson-merrill-hit-homers-padres-sweep-marlins",
+      "pubDate": "2026-07-26T22:02:00.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/manny-machado-jackson-merrill-hit-homers-padres-sweep-marlins"
+        }
+      ]
+    },
+    {
+      "title": "Mets' trade chips on display in win over Dodgers",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tyrone-taylor-s-three-run-homer-sends-mets-past-dodgers",
+      "pubDate": "2026-07-26T21:57:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tyrone-taylor-s-three-run-homer-sends-mets-past-dodgers"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/tyrone-taylor-s-three-run-homer-sends-mets-past-dodgers"
+        }
+      ]
+    },
+    {
+      "title": "British pilot's all-30* stadium tour hits final leg at the Trop",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/british-pilot-all-30-stadium-tour-tropicana-field",
+      "pubDate": "2026-07-26T21:54:58.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/british-pilot-all-30-stadium-tour-tropicana-field"
+        }
+      ]
+    },
+    {
+      "title": "Rockies-Brewers highlights",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/stories/game/823755",
+      "pubDate": "2026-07-26T21:52:18.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/stories/game/823755"
+        }
+      ]
+    },
+    {
+      "title": "Langeliers lands on IL with torn meniscus, potentially ending his season",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/shea-langeliers-has-right-knee-injury",
+      "pubDate": "2026-07-26T21:51:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/shea-langeliers-has-right-knee-injury"
+        }
+      ]
+    },
+    {
+      "title": "Yankees vs Phillies Prop Picks for Sunday Night Baseball",
+      "summary": "Our Yankees vs. Phillies prop picks for Sunday Night Baseball on July 26 are headlined by Bryce Harper, Cristopher Sanchez, and Kyle Schwarber.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-vs-phillies-prop-picks-140400660.html",
+      "pubDate": "2026-07-26T21:48:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-vs-phillies-prop-picks-140400660.html"
+        }
+      ]
+    },
+    {
+      "title": "53-52 – Winn loses, Rangers fall 6-4",
+      "summary": "Surely this one won’t come back to bite ‘em, right?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/53-52-winn-loses-rangers-214516119.html",
+      "pubDate": "2026-07-26T21:45:16.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/53-52-winn-loses-rangers-214516119.html"
+        }
+      ]
+    },
+    {
+      "title": "With Deadline rapidly approaching, Pirates stay on course to be buyers",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/esmerlyn-valdez-ryan-o-hearn-homer-in-pirates-win-vs-cubs",
+      "pubDate": "2026-07-26T21:43:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/esmerlyn-valdez-ryan-o-hearn-homer-in-pirates-win-vs-cubs"
+        }
+      ]
+    },
+    {
+      "title": "52-54: Chart",
+      "summary": "Mariners 6, Rangers 4 14th pick of the 2018 Draft: Logan Gilbert, -0,12 WPA15th pick of the 2018 Draft: Cole Winn, -0.55 WPA Mighty bad: J.P. Crawford, -0.16 WPAMolto bene: Dominic Canzone, +0.60 WPA…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/52-54-chart-214229479.html",
+      "pubDate": "2026-07-26T21:42:29.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/52-54-chart-214229479.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees vs Phillies Prediction, Picks & Odds for Sunday Night Baseball",
+      "summary": "New York does enough damage against Cristopher Sanchez to keep things tight in our Yankees vs. Phillies predictions and MLB picks on Sunday, July 26.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-vs-phillies-prediction-picks-133600388.html",
+      "pubDate": "2026-07-26T21:42:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-vs-phillies-prediction-picks-133600388.html"
+        }
+      ]
+    },
     {
       "title": "On sun-splashed day, Beltrán, Andruw, Kent enshrined in Hall",
       "summary": "",
@@ -34,26 +605,6 @@
           "name": "MLB.com (Mets)",
           "sourceId": "mlb-com-mets",
           "link": "https://www.mlb.com/mets/news/2026-baseball-hall-of-fame-induction-ceremony"
-        }
-      ]
-    },
-    {
-      "title": "Reds grind to extra-inning win after Steer leaves with right wrist pain",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/spencer-steer-exits-game-vs-cardinals-with-right-wrist-pain",
-      "pubDate": "2026-07-26T21:34:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/spencer-steer-exits-game-vs-cardinals-with-right-wrist-pain"
         }
       ]
     },
@@ -120,6 +671,26 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/james-wood-cj-abrams-overpower-213000808.html"
+        }
+      ]
+    },
+    {
+      "title": "Clutch showings from Riley, Olson save game for Braves in extras",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/austin-riley-hits-go-ahead-double-to-give-braves-extra-inning-win",
+      "pubDate": "2026-07-26T21:26:19.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/austin-riley-hits-go-ahead-double-to-give-braves-extra-inning-win"
         }
       ]
     },
@@ -358,6 +929,26 @@
       ]
     },
     {
+      "title": "Massey's go-ahead homer seals Royals' comeback win as hot stretch continues",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/michael-massey-hits-go-ahead-homer-in-royals-win-vs-tigers",
+      "pubDate": "2026-07-26T20:58:05.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/michael-massey-hits-go-ahead-homer-in-royals-win-vs-tigers"
+        }
+      ]
+    },
+    {
       "title": "More history! Miz sets franchise record with 7 straight K's to open game",
       "summary": "",
       "titleJa": null,
@@ -432,26 +1023,6 @@
       ]
     },
     {
-      "title": "Abrams breaks Nats' shortstop record with 26th HR -- and then hits another one",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/cj-abrams-james-wood-hit-two-homers-in-nats-win",
-      "pubDate": "2026-07-26T20:55:37.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/cj-abrams-james-wood-hit-two-homers-in-nats-win"
-        }
-      ]
-    },
-    {
       "title": "Pirates 8, Cubs 7: It’s time to take Jameson Taillon out of the rotation",
       "summary": "The home runs he’s allowed are just way, way too many.",
       "titleJa": null,
@@ -514,31 +1085,6 @@
       ]
     },
     {
-      "title": "Mets down Dodgers thanks to Taylor's big blast",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/tyrone-taylor-s-three-run-homer-sends-mets-past-dodgers",
-      "pubDate": "2026-07-26T20:50:51.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/tyrone-taylor-s-three-run-homer-sends-mets-past-dodgers"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/tyrone-taylor-s-three-run-homer-sends-mets-past-dodgers"
-        }
-      ]
-    },
-    {
       "title": "A Taylor-made comeback helps Mets defeat Dodgers 8-3",
       "summary": "Emmet Sheehan goes five solid innings, but the bullpen gives up seven unanswered runs in 8-3 loss to Mets.",
       "titleJa": null,
@@ -581,28 +1127,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/tyrone-taylor-marcus-semien-power-204600365.html"
-        }
-      ]
-    },
-    {
-      "title": "Key takeaways: Padres 5, Marlins 3",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/manny-machado-jackson-merrill-hit-homers-padres-sweep-marlins",
-      "pubDate": "2026-07-26T20:35:30.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/manny-machado-jackson-merrill-hit-homers-padres-sweep-marlins"
         }
       ]
     },
@@ -691,26 +1215,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/look-back-james-click-2021-202413305.html"
-        }
-      ]
-    },
-    {
-      "title": "O’Hearn’s grand slam stops Pirates’ skid with Deadline rapidly approaching",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/esmerlyn-valdez-ryan-o-hearn-homer-in-pirates-win-vs-cubs",
-      "pubDate": "2026-07-26T20:23:35.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/esmerlyn-valdez-ryan-o-hearn-homer-in-pirates-win-vs-cubs"
         }
       ]
     },
@@ -825,28 +1329,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/2025-cy-young-odds-skubal-140900897.html"
-        }
-      ]
-    },
-    {
-      "title": "Winless in last nine starts, Taillon bit by long ball once again",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/jameson-taillon-surrenders-three-home-runs-to-pirates-in-cubs-loss",
-      "pubDate": "2026-07-26T20:15:02.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/jameson-taillon-surrenders-three-home-runs-to-pirates-in-cubs-loss"
         }
       ]
     },
@@ -1044,46 +1526,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/7-26-gamethread-giants-vs-193000091.html"
-        }
-      ]
-    },
-    {
-      "title": "Springs exits start vs. Twins with right hip discomfort",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/jeffrey-springs-exits-start-with-right-hip-discomfort",
-      "pubDate": "2026-07-26T19:20:34.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/jeffrey-springs-exits-start-with-right-hip-discomfort"
-        }
-      ]
-    },
-    {
-      "title": "Seager (lower back inflammation) takes live BP, could head on rehab assignment soon",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/corey-seager-takes-live-batting-practice",
-      "pubDate": "2026-07-26T19:18:06.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/corey-seager-takes-live-batting-practice"
         }
       ]
     },
@@ -1575,29 +2017,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/dodgers-vs-mets-game-chat-172600129.html"
-        }
-      ]
-    },
-    {
-      "title": "Bellinger lands on IL with hamstring strain; Spencer Jones recalled",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/cody-bellinger-exits-game-against-phillies-with-injury",
-      "pubDate": "2026-07-26T17:23:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/cody-bellinger-exits-game-against-phillies-with-injury"
         }
       ]
     },
@@ -2481,26 +2900,6 @@
       ]
     },
     {
-      "title": "Langeliers goes on IL with torn meniscus",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shea-langeliers-has-right-knee-injury",
-      "pubDate": "2026-07-26T14:49:37.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shea-langeliers-has-right-knee-injury"
-        }
-      ]
-    },
-    {
       "title": "Trade rumors: Alcantara, Abrams, Blue Jays, Mets",
       "summary": "",
       "titleJa": null,
@@ -2798,26 +3197,6 @@
       ]
     },
     {
-      "title": "Yankees vs Phillies Prop Picks for Sunday Night Baseball",
-      "summary": "Our Yankees vs. Phillies prop picks for Sunday Night Baseball on July 26 are headlined by three Philadelphia stars.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-vs-phillies-prop-picks-140400660.html",
-      "pubDate": "2026-07-26T14:04:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-vs-phillies-prop-picks-140400660.html"
-        }
-      ]
-    },
-    {
       "title": "Yankees Rivalry Roundup: Dylan Cease pitches one-hitter against Red Sox",
       "summary": "Toronto’s ace stepped up big time to halt Boston’s momentum on Saturday.",
       "titleJa": null,
@@ -3022,26 +3401,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/icymi-mets-land-juan-soto-133949400.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees vs Phillies Prediction, Picks & Odds for Today&#39;s MLB Game",
-      "summary": "The New York Yankees visit the Philadelphia Phillies on Sunday Night Baseball, and I’m backing New York to stay inside the number while the total climbs Over.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-vs-phillies-prediction-picks-133600388.html",
-      "pubDate": "2026-07-26T13:36:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-vs-phillies-prediction-picks-133600388.html"
         }
       ]
     },
@@ -4662,28 +5021,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/dodgers-capitalize-mets-mistakes-clinch-022114492.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers 2026 game results",
-      "summary": "Keeping track of every game this season, all in one place",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
-      "pubDate": "2026-07-26T02:20:34.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
         }
       ]
     },
@@ -12740,26 +13077,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/three-players-avoid-trade-deadline-190000822.html"
-        }
-      ]
-    },
-    {
-      "title": "Updated Milwaukee Brewers Roster",
-      "summary": "An updated look at the Brewers 40-man roster",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/updated-milwaukee-brewers-roster-182828449.html",
-      "pubDate": "2026-07-24T18:37:31.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/updated-milwaukee-brewers-roster-182828449.html"
         }
       ]
     },
@@ -29492,30 +29809,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/washington-nationals-vs-colorado-rockies-001000312.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest White Sox injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves",
-      "pubDate": "2026-07-22T00:03:00.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves"
         }
       ]
     },
