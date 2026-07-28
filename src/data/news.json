@@ -1,7 +1,589 @@
 {
-  "generatedAt": "2026-07-28T03:56:21.856Z",
-  "count": 3362,
+  "generatedAt": "2026-07-28T06:23:38.037Z",
+  "count": 3380,
   "items": [
+    {
+      "title": "Though debut shortened by injury, Mead already feeling at home with Red Sox",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/curtis-mead-red-sox-debut",
+      "pubDate": "2026-07-28T06:17:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/curtis-mead-red-sox-debut"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/curtis-mead-red-sox-debut"
+        }
+      ]
+    },
+    {
+      "title": "MLB Injury Report: Shea Langeliers to undergo season-ending knee surgery, Juan Soto&#39;s calf issue resurfaces",
+      "summary": "Jorge Montanez breaks down all of the relevant injury news around the league over the last week.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-injury-report-shea-langeliers-060616743.html",
+      "pubDate": "2026-07-28T06:06:16.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-injury-report-shea-langeliers-060616743.html"
+        }
+      ]
+    },
+    {
+      "title": "Bregman, Hoerner back up Peterson's solid start with 4 hits each",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/cubs-open-series-with-rival-cardinals-with-big-win",
+      "pubDate": "2026-07-28T05:44:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/cubs-open-series-with-rival-cardinals-with-big-win"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/cubs-open-series-with-rival-cardinals-with-big-win"
+        }
+      ]
+    },
+    {
+      "title": "Brewers blanked by Giants 3-0",
+      "summary": "Offense manages just three hits and two walks in loss",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brewers-blanked-giants-3-0-052430969.html",
+      "pubDate": "2026-07-28T05:24:30.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brewers-blanked-giants-3-0-052430969.html"
+        }
+      ]
+    },
+    {
+      "title": "Ali Sánchez&#39;s first MLB home run puts exclamation point on Yankees&#39; win, catcher&#39;s journey",
+      "summary": "Yankees catcher Ali Sánchez's home run in Monday's 9-5 win at the Chicago White Sox was a memorable one.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/ali-nchezs-first-mlb-home-052315467.html",
+      "pubDate": "2026-07-28T05:23:15.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/ali-nchezs-first-mlb-home-052315467.html"
+        }
+      ]
+    },
+    {
+      "title": "Four Run 9th Catapults Astros to 6-4 Triumph Over Angels",
+      "summary": "Wasn’t it 35 years ago when the Red-Hot Chili Peppers sang “Give it away, Give it away now?” That’s exactly what the Angels did on this night. They gave it away; fortunately for Houston. Astros 6. Ang…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/four-run-9th-catapults-astros-051859212.html",
+      "pubDate": "2026-07-28T05:18:59.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros",
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/four-run-9th-catapults-astros-051859212.html"
+        }
+      ]
+    },
+    {
+      "title": "Pirates lose Kelly for arguing check-swing calls; Reynolds doubles in tying run anyway",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/pirates-manager-don-kelly-ejected-vs-diamondbacks",
+      "pubDate": "2026-07-28T05:18:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/pirates-manager-don-kelly-ejected-vs-diamondbacks"
+        }
+      ]
+    },
+    {
+      "title": "Schmitt leaves game with knee discomfort, will undergo MRI",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/casey-schmitt-leaves-game-with-leg-injury",
+      "pubDate": "2026-07-28T05:18:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/casey-schmitt-leaves-game-with-leg-injury"
+        }
+      ]
+    },
+    {
+      "title": "Astros score 4 in 9th with just 1 hit in improbable comeback win",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/astros-score-4-runs-in-9th-in-comeback-win-over-angels",
+      "pubDate": "2026-07-28T05:12:16.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/astros-score-4-runs-in-9th-in-comeback-win-over-angels"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/astros-score-4-runs-in-9th-in-comeback-win-over-angels"
+        }
+      ]
+    },
+    {
+      "title": "In toughest stretch of '26, White Sox out to treat every night like playoff game",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/whitesox/news/white-sox-drop-series-opener-vs-yankees",
+      "pubDate": "2026-07-28T05:06:40.000Z",
+      "source": "MLB.com (White Sox)",
+      "sourceId": "mlb-com-whitesox",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-drop-series-opener-vs-yankees"
+        }
+      ]
+    },
+    {
+      "title": "2026 Trade Deadline Outlook Series",
+      "summary": "Our Trade Deadline Outlook series is back for 2026! Front Office subscribers get a detailed breakdown of roster plans and trade opportunities for all 30 teams heading into the August 3 deadline. This…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/2026-trade-deadline-outlook-series.html",
+      "pubDate": "2026-07-28T04:55:27.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/2026-trade-deadline-outlook-series.html"
+        }
+      ]
+    },
+    {
+      "title": "Trade Deadline Outlook: Detroit Tigers",
+      "summary": "There’s a reason we saved the Tigers for last in this series. On paper, they look like one of the better teams in a wide-open American League. Entering the season, ZiPS saw the Tigers as the favorites…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-detroit-tigers-2.html",
+      "pubDate": "2026-07-28T04:39:43.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-detroit-tigers-2.html"
+        }
+      ]
+    },
+    {
+      "title": "Rafaela's 1st career grand slam fuels Boston's 10th straight road win",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ceddanne-rafaela-hits-first-career-grand-slam-as-red-sox-beat-a-s",
+      "pubDate": "2026-07-28T04:26:39.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ceddanne-rafaela-hits-first-career-grand-slam-as-red-sox-beat-a-s"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/ceddanne-rafaela-hits-first-career-grand-slam-as-red-sox-beat-a-s"
+        }
+      ]
+    },
+    {
+      "title": "Elieser Hernandez Elects Free Agency",
+      "summary": "July 27: Hernandez cleared waivers and elected free agency, according to the MLB.com transaction log. Atlanta will presumably look to bring him back on a minor league contract. July 25: The Braves ann…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/braves-designate-elieser-hernandez-for-assignment.html",
+      "pubDate": "2026-07-28T04:22:16.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/braves-designate-elieser-hernandez-for-assignment.html"
+        }
+      ]
+    },
+    {
+      "title": "As Deadline nears, Mahle shows best stuff in 6-inning gem",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tyler-mahle-throws-gem-ahead-of-trade-deadline",
+      "pubDate": "2026-07-28T04:21:32.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tyler-mahle-throws-gem-ahead-of-trade-deadline"
+        }
+      ]
+    },
+    {
+      "title": "Red Sox IF Curtis Mead leaves post-trade start early after being hit by pitch in win over Athletics",
+      "summary": "Curtis Mead was dealt to the Red Sox on Saturday for Connelly Early.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/red-sox-if-curtis-mead-leaves-post-trade-start-early-after-being-hit-by-pitch-in-win-over-athletics-041800090.html",
+      "pubDate": "2026-07-28T04:18:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/red-sox-if-curtis-mead-leaves-post-trade-start-early-after-being-hit-by-pitch-in-win-over-athletics-041800090.html"
+        }
+      ]
+    },
+    {
+      "title": "Will Brewers be aggressive? What's Mets' strategy? Your Trade Deadline questions answered",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/trade-deadline-2026-questions-answered",
+      "pubDate": "2026-07-28T04:17:43.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/trade-deadline-2026-questions-answered"
+        }
+      ]
+    },
+    {
+      "title": "Grand Slam Sinks A’s Against Red Sox",
+      "summary": "When will the losing end?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/grand-slam-sinks-against-red-041604963.html",
+      "pubDate": "2026-07-28T04:16:04.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/grand-slam-sinks-against-red-041604963.html"
+        }
+      ]
+    },
+    {
+      "title": "Alex Bregman, Nico Hoerner Home Runs Help Cubs Defeat Cardinals Monday",
+      "summary": "The St. Louis Cardinals entered Monday night’s game against the Chicago Cubs with an urgent need to turn their recent downward spiral around. The Chicago Cubs and specifically their bats seemed determ…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/alex-bregman-nico-hoerner-home-041320612.html",
+      "pubDate": "2026-07-28T04:13:20.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/alex-bregman-nico-hoerner-home-041320612.html"
+        }
+      ]
+    },
+    {
+      "title": "Cubs current record, schedule, MLB standings, broadcast information",
+      "summary": "Here you will always be able to find the most up-to-date information on who the Cubs are playing, when and where, and what TV channel you can find the game on.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html",
+      "pubDate": "2026-07-28T04:10:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html"
+        }
+      ]
+    },
+    {
+      "title": "How else to end a 12-game skid? Marlins rattle Phillies' ace, All-Star closer",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/griffin-conine-marlins-end-skid-with-walk-off-vs-phillies",
+      "pubDate": "2026-07-28T04:10:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/griffin-conine-marlins-end-skid-with-walk-off-vs-phillies"
+        }
+      ]
+    },
+    {
+      "title": "Latest MVP poll shows runaway in AL, tightening race in NL",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/yordan-alvarez-shohei-ohtani-lead-fourth-2026-mvp-poll",
+      "pubDate": "2026-07-28T04:04:21.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/yordan-alvarez-shohei-ohtani-lead-fourth-2026-mvp-poll"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/yordan-alvarez-shohei-ohtani-lead-fourth-2026-mvp-poll"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/yordan-alvarez-shohei-ohtani-lead-fourth-2026-mvp-poll"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/yordan-alvarez-shohei-ohtani-lead-fourth-2026-mvp-poll"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/yordan-alvarez-shohei-ohtani-lead-fourth-2026-mvp-poll"
+        }
+      ]
+    },
+    {
+      "title": "Padres’ revamped pitching provides some hope",
+      "summary": "Padres notes- July 27",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/padres-revamped-pitching-provides-hope-040124175.html",
+      "pubDate": "2026-07-28T04:01:24.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/padres-revamped-pitching-provides-hope-040124175.html"
+        }
+      ]
+    },
+    {
+      "title": "The South Siders fall, 9-5, in a poorly-pitched opener",
+      "summary": "The Yankees start the series with a heartbreaking win over the White Sox",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/south-siders-fall-9-5-034857478.html",
+      "pubDate": "2026-07-28T03:48:57.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/south-siders-fall-9-5-034857478.html"
+        }
+      ]
+    },
+    {
+      "title": "Ali Sánchez’s first homer, White Sox errors fuel Yankees win",
+      "summary": "The Yankee catcher hit the first homer of his career, and they ended up needing the extra runs badly.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/ali-nchez-first-homer-white-034711508.html",
+      "pubDate": "2026-07-28T03:47:11.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/ali-nchez-first-homer-white-034711508.html"
+        }
+      ]
+    },
     {
       "title": "Mets&#39; Andy Green gives praise to Zac Thornton&#39;s unassuming repertoire after latest solid outing: &#39;It’s good stuff&#39;",
       "summary": "Zac Thornton continued his excellent start to his career with the Mets on Monday night against the Atlanta Braves, allowing three earned runs in 6.1 innings of an eventual 14-3 win for New York.",
@@ -87,7 +669,7 @@
       ]
     },
     {
-      "title": "With clutch knock, Rice proves he can step up for ailing Yanks",
+      "title": "Sánchez finally slugs the homer he's been waiting 6 years to hit",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -152,51 +734,6 @@
       ]
     },
     {
-      "title": "Pirates lose Kelly for arguing check-swing calls; Reynolds doubles in tying run anyway",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/pirates-manager-don-kelly-ejected-vs-diamondbacks",
-      "pubDate": "2026-07-28T03:12:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/pirates-manager-don-kelly-ejected-vs-diamondbacks"
-        }
-      ]
-    },
-    {
-      "title": "Red Sox acquisition Mead already feeling at home",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/curtis-mead-red-sox-debut",
-      "pubDate": "2026-07-28T03:10:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/curtis-mead-red-sox-debut"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/curtis-mead-red-sox-debut"
-        }
-      ]
-    },
-    {
       "title": "Cubs BCB After Dark: What would you give up for Adrián Morejón?",
       "summary": "The late-night/early-morning spot for night owls asks how much you would give up for a Padres lefty.",
       "titleJa": null,
@@ -240,28 +777,6 @@
       ]
     },
     {
-      "title": "Schmitt leaves game after suffering leg injury on the bases",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/casey-schmitt-leaves-game-with-leg-injury",
-      "pubDate": "2026-07-28T02:49:18.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/casey-schmitt-leaves-game-with-leg-injury"
-        }
-      ]
-    },
-    {
       "title": "Harper hoping Phils can seize opportunity to add reinforcements at Deadline",
       "summary": "",
       "titleJa": null,
@@ -282,7 +797,7 @@
       ]
     },
     {
-      "title": "Squirrel on the loose at Comerica makes entire grounds crew go nuts",
+      "title": "Aw, nuts! Uncatchable squirrel causes chaos at Comerica Park",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -563,26 +1078,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/okamoto-stole-oh-jays-win-015046661.html"
-        }
-      ]
-    },
-    {
-      "title": "Marlins pounce on Wheeler, rally back in 9th to end 12-game skid",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/griffin-conine-marlins-end-skid-with-walk-off-vs-phillies",
-      "pubDate": "2026-07-28T01:50:42.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/griffin-conine-marlins-end-skid-with-walk-off-vs-phillies"
         }
       ]
     },
@@ -915,6 +1410,28 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/07/guardians-unable-to-sign-second-round-pick-logan-schmidt.html"
+        }
+      ]
+    },
+    {
+      "title": "Pete Alonso blunder the loudest of David Stearns’ many Mets whiffs",
+      "summary": "Of all David Stearns’ misfires last winter, probably none resonates louder than at first base.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pete-alonso-blunder-loudest-david-003005543.html",
+      "pubDate": "2026-07-28T00:30:05.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pete-alonso-blunder-loudest-david-003005543.html"
         }
       ]
     },
@@ -3404,51 +3921,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/time-more-martin-perez-braves-180000263.html"
-        }
-      ]
-    },
-    {
-      "title": "Trade Deadline Outlook: Detroit Tigers",
-      "summary": "There’s a reason we saved the Tigers for last in this series. On paper, they look like one of the better teams in a wide-open American League. Entering the season, ZiPS saw the Tigers as the favorites…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-detroit-tigers-2.html",
-      "pubDate": "2026-07-27T17:39:43.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-detroit-tigers-2.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 Trade Deadline Outlook Series",
-      "summary": "Our Trade Deadline Outlook series is back for 2026! Front Office subscribers get a detailed breakdown of roster plans and trade opportunities for all 30 teams heading into the August 3 deadline. This…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/2026-trade-deadline-outlook-series.html",
-      "pubDate": "2026-07-27T17:35:27.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/2026-trade-deadline-outlook-series.html"
         }
       ]
     },
@@ -8860,28 +9332,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/colorado-rockies-milwaukee-brewers-overflow-201117133.html"
-        }
-      ]
-    },
-    {
-      "title": "Cubs current record, schedule, MLB standings, broadcast information",
-      "summary": "Here you will always be able to find the most up-to-date information on who the Cubs are playing, when and where, and what TV channel you can find the game on.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html",
-      "pubDate": "2026-07-26T20:10:06.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html"
         }
       ]
     },
@@ -16073,29 +16523,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/streak-see-more-same-red-132400173.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves Designate Elieser Hernandez For Assignment",
-      "summary": "The Braves announced that right-hander Elieser Hernandez has been designated for assignment, and left-hander Connor Thomas was called up from Triple-A Gwinnett in the corresponding move. Thomas was al…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/braves-designate-elieser-hernandez-for-assignment.html",
-      "pubDate": "2026-07-25T13:11:16.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/braves-designate-elieser-hernandez-for-assignment.html"
         }
       ]
     },
@@ -30963,7 +31390,9 @@
       "pubDate": "2026-07-22T22:23:36.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "dodgers"
+      ],
       "players": [
         "ohtani"
       ],
