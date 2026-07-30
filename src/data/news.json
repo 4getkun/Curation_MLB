@@ -1,7 +1,565 @@
 {
-  "generatedAt": "2026-07-30T16:22:14.936Z",
+  "generatedAt": "2026-07-30T17:55:24.008Z",
   "count": 4000,
   "items": [
+    {
+      "title": "McClanahan exits with back tightness as Rays' rotation a Deadline focus",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/shane-mcclanahan-exits-start-vs-rangers-with-injury",
+      "pubDate": "2026-07-30T17:45:16.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/shane-mcclanahan-exits-start-vs-rangers-with-injury"
+        }
+      ]
+    },
+    {
+      "title": "New York Yankees @ Chicago White Sox: Ryan Weathers vs. Sean Burke",
+      "summary": "The Yankees turn to the southpaw Weathers to see if they can shake off an ugly Wednesday and secure the series victory.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/york-yankees-chicago-white-sox-174000363.html",
+      "pubDate": "2026-07-30T17:40:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/york-yankees-chicago-white-sox-174000363.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB rumors: Yankees call on catcher, Cubs aim big, plus which non-Tigers team is asking for a No. 1 prospect",
+      "summary": "The deadline is inching closer and very few deals have materialized yet",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-yankees-adley-rutschman-cubs-tarik-skubal-reds-hunter-greene-angels-rockies/\n                    ",
+      "pubDate": "2026-07-30T17:39:50.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-yankees-adley-rutschman-cubs-tarik-skubal-reds-hunter-greene-angels-rockies/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Game Thread: Yankees (61-47) at White Sox (56-51)",
+      "summary": "A chance to even the series",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-thread-yankees-61-47-173000277.html",
+      "pubDate": "2026-07-30T17:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-thread-yankees-61-47-173000277.html"
+        }
+      ]
+    },
+    {
+      "title": "Prospects who could be dealt by the Trade Deadline -- one for each team",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/prospects-who-could-be-traded-at-2026-trade-deadline",
+      "pubDate": "2026-07-30T17:30:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/prospects-who-could-be-traded-at-2026-trade-deadline"
+        }
+      ]
+    },
+    {
+      "title": "Shane McClanahan injury update: Rays ace leaves start abruptly",
+      "summary": "Cause for concern in Tampa? Rays All-Star Shane McClanahan forced out of game with possible injury.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/shane-mcclanahan-injury-update-rays-ace-leaves-start-with-back-tightness-172458348.html",
+      "pubDate": "2026-07-30T17:24:58.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury",
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/shane-mcclanahan-injury-update-rays-ace-leaves-start-with-back-tightness-172458348.html"
+        }
+      ]
+    },
+    {
+      "title": "Should Los Angeles Dodgers be worried about investigation into owner?",
+      "summary": "Fans are learning more about a federal financial investigation into Dodgers owner Mark Walter as the team pursues a third straight World Series title.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/los-angeles-dodgers-worried-investigation-171950487.html",
+      "pubDate": "2026-07-30T17:19:50.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/los-angeles-dodgers-worried-investigation-171950487.html"
+        }
+      ]
+    },
+    {
+      "title": "Royals vs. Twins Thursday game discussion",
+      "summary": "Noah Cameron will start",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/royals-vs-twins-thursday-game-171000009.html",
+      "pubDate": "2026-07-30T17:10:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/royals-vs-twins-thursday-game-171000009.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB Home Run Props & Predictions Today: Best HR Picks & Parlay for July 30",
+      "summary": "Our expert MLB home run picks for Thursday, July 30, include Chase Meidroth, Andruw Monasterio, and Esmerlyn Valdez.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-home-run-props-predictions-145000520.html",
+      "pubDate": "2026-07-30T17:06:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-home-run-props-predictions-145000520.html"
+        }
+      ]
+    },
+    {
+      "title": "Why the Dodgers seem like the favorites in the Tarik Skubal trade sweepstakes ahead of 2026 deadline",
+      "summary": "As the Aug. 3 deadline nears, the back-to-back reigning champions may be poised to double down",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/tarik-skubal-trade-rumors-dodgers-favorites/\n                    ",
+      "pubDate": "2026-07-30T17:04:44.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/tarik-skubal-trade-rumors-dodgers-favorites/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Red Sox News & Links: Sox reportedly “going big” at trade deadline",
+      "summary": "How bold do you think the Red Sox are going to be this trade deadline? The team is no doubt in a tricky situation, with a playoff berth currently in hand, but a roster that likely presents too many ch…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/red-sox-news-links-sox-170000704.html",
+      "pubDate": "2026-07-30T17:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/red-sox-news-links-sox-170000704.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB Player Props & Best Bets for Today, July 30",
+      "summary": "Colby Marchio is dishing out his favorite MLB player props for Thursday, July 30, featuring Rhett Lowder and Ryan O'Hearn.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-165800907.html",
+      "pubDate": "2026-07-30T16:58:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-165800907.html"
+        }
+      ]
+    },
+    {
+      "title": "Angels Expected To Promote Luke Murphy",
+      "summary": "The Angels will select reliever Luke Murphy onto the MLB roster, reports Taylor Blake Ward of Baseball America. The Halos are off today and probably won’t officially announce the move until tomorrow.…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/angels-expected-to-promote-luke-murphy.html",
+      "pubDate": "2026-07-30T16:52:58.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/angels-expected-to-promote-luke-murphy.html"
+        }
+      ]
+    },
+    {
+      "title": "Game 110: Royals at Twins",
+      "summary": "First Pitch (CT): 12:40 PMTV: Twins.TVRadio: TIBN/830 WCCO/102.9 The Wolf /Audacy AppKnow Yo’ Foe: Royals Review After getting shutout by notorious ex-Twin Randy Dobnak last night, the Twins will try…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-110-royals-twins-164119729.html",
+      "pubDate": "2026-07-30T16:41:19.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-110-royals-twins-164119729.html"
+        }
+      ]
+    },
+    {
+      "title": "Updated Milwaukee Brewers Roster",
+      "summary": "An updated look at the Brewers 40-man roster",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/updated-milwaukee-brewers-roster-182828449.html",
+      "pubDate": "2026-07-30T16:34:28.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/updated-milwaukee-brewers-roster-182828449.html"
+        }
+      ]
+    },
+    {
+      "title": "Orioles Open To Moving Righty Bullpen Arm",
+      "summary": "The Orioles completed a seven-run comeback to take two of three from the Tigers on Wednesday. They’re off today and will play a three-game set against the Phillies this weekend as the lead-up to the d…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/orioles-open-to-moving-righty-bullpen-arm.html",
+      "pubDate": "2026-07-30T16:32:26.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/orioles-open-to-moving-righty-bullpen-arm.html"
+        }
+      ]
+    },
+    {
+      "title": "6 thoughts about the Mets before the Trade Deadline",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/clay-holmes-freddy-peralta-mets-trade-deadline-thoughts",
+      "pubDate": "2026-07-30T16:25:59.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/clay-holmes-freddy-peralta-mets-trade-deadline-thoughts"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/clay-holmes-freddy-peralta-mets-trade-deadline-thoughts"
+        }
+      ]
+    },
+    {
+      "title": "Injuries might complicate Braves’ Trade Deadline plans",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/braves-injuries-might-complicate-trade-deadline-plans",
+      "pubDate": "2026-07-30T16:24:05.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/braves-injuries-might-complicate-trade-deadline-plans"
+        }
+      ]
+    },
+    {
+      "title": "The Padres are mashing. That changes things at the Deadline",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/how-padres-hot-offense-affects-trade-deadline-plan",
+      "pubDate": "2026-07-30T16:22:26.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/how-padres-hot-offense-affects-trade-deadline-plan"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/how-padres-hot-offense-affects-trade-deadline-plan"
+        }
+      ]
+    },
+    {
+      "title": "MLB Strikeout Props & Pitcher Best Bets for Today, July 30",
+      "summary": "Our expert MLB pitcher strikeout picks and props for Thursday, July 30, include Robbie Ray, JP Sears, and Jake Irvin.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-strikeout-props-pitcher-best-162000282.html",
+      "pubDate": "2026-07-30T16:20:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-strikeout-props-pitcher-best-162000282.html"
+        }
+      ]
+    },
+    {
+      "title": "Rangers trade for catcher O'Hoppe, reliever Silseth from Angels",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/rangers-acquire-logan-o-hoppe-chase-silseth-from-angels",
+      "pubDate": "2026-07-30T16:19:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/rangers-acquire-logan-o-hoppe-chase-silseth-from-angels"
+        }
+      ]
+    },
+    {
+      "title": "Nats, Braves in pre-Deadline clash on ESPN (7:15 p.m. ET)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/braves-nationals-july-30-game-on-espn",
+      "pubDate": "2026-07-30T16:15:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/braves-nationals-july-30-game-on-espn"
+        }
+      ]
+    },
+    {
+      "title": "The home run king of Dodger Stadium",
+      "summary": "Max Muncy hit five home runs in 245 plate appearances in parts of two seasons with the Oakland A’s before signing a minor league contract with the Dodgers, hit 12 home runs in 110 games for Triple-A O…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/home-run-king-dodger-stadium-160700737.html",
+      "pubDate": "2026-07-30T16:07:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/home-run-king-dodger-stadium-160700737.html"
+        }
+      ]
+    },
     {
       "title": "Today's top games to watch, best bets, odds: Yankees vs. White Sox, Mariners vs. Dodgers and more",
       "summary": "Find best bets for the biggest games in sports on Wednesday from the SportsLine Projection Model and top CBS Sports experts",
@@ -839,26 +1397,6 @@
       ]
     },
     {
-      "title": "MLB Home Run Props & Predictions Today: Best HR Picks & Parlay for July 30",
-      "summary": "Our expert MLB home run picks for Thursday, July 30, include Chase Meidroth and Andruw Monasterio.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-home-run-props-predictions-145000520.html",
-      "pubDate": "2026-07-30T14:50:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-home-run-props-predictions-145000520.html"
-        }
-      ]
-    },
-    {
       "title": "Alomar Jr. central to Guards' franchise renaissance, rise to 10K wins",
       "summary": "",
       "titleJa": null,
@@ -1161,30 +1699,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mlb-expert-picks-baseball-predictions-140725417.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB rumors: Yankees call on catcher, Cubs aim big, plus which non-Tigers team is asking for a No. 1 prospect",
-      "summary": "The deadline is inching closer and very few deals have materialized yet",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-yankees-adley-rutschman-cubs-tarik-skubal-reds-hunter-greene-angels-rockies/\n                    ",
-      "pubDate": "2026-07-30T14:07:23.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-yankees-adley-rutschman-cubs-tarik-skubal-reds-hunter-greene-angels-rockies/\n                    "
         }
       ]
     },
@@ -1817,7 +2331,7 @@
       ]
     },
     {
-      "title": "Coming off 'weird' loss, Skenes gets the ball in Cincy",
+      "title": "Coming off 'weird' loss, Skenes gets the ball in Cincy on Friday",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -3179,26 +3693,6 @@
       ]
     },
     {
-      "title": "Don't miss Nats-Braves opener (7:15 p.m. ET on ESPN)",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/braves-nationals-july-30-game-on-espn",
-      "pubDate": "2026-07-30T04:36:37.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/braves-nationals-july-30-game-on-espn"
-        }
-      ]
-    },
-    {
       "title": "Down 2 runs in the 10th, Cards storm back vs. Cubs on Herrera's walk-off",
       "summary": "",
       "titleJa": null,
@@ -3638,30 +4132,6 @@
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/mike-trout-meets-11-year-old-fan-thanks-to-make-a-wish"
-        }
-      ]
-    },
-    {
-      "title": "Rangers trade for catcher O'Hoppe, reliever Silseth from Angels",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/rangers-acquire-logan-o-hoppe-chase-silseth-from-angels",
-      "pubDate": "2026-07-30T03:18:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/rangers-acquire-logan-o-hoppe-chase-silseth-from-angels"
         }
       ]
     },
@@ -5230,78 +5700,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/chandler-simpson-224642054.html"
-        }
-      ]
-    },
-    {
-      "title": "Prospects who could be dealt by the Trade Deadline -- one for each team",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/prospects-who-could-be-traded-at-2026-trade-deadline",
-      "pubDate": "2026-07-29T22:45:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/prospects-who-could-be-traded-at-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/prospects-who-could-be-traded-at-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/prospects-who-could-be-traded-at-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/prospects-who-could-be-traded-at-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/prospects-who-could-be-traded-at-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/prospects-who-could-be-traded-at-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/prospects-who-could-be-traded-at-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/prospects-who-could-be-traded-at-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/prospects-who-could-be-traded-at-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/prospects-who-could-be-traded-at-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/prospects-who-could-be-traded-at-2026-trade-deadline"
         }
       ]
     },
@@ -24062,26 +24460,6 @@
       ]
     },
     {
-      "title": "Updated Milwaukee Brewers Roster",
-      "summary": "An updated look at the Brewers 40-man roster",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/updated-milwaukee-brewers-roster-182828449.html",
-      "pubDate": "2026-07-26T22:41:53.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/updated-milwaukee-brewers-roster-182828449.html"
-        }
-      ]
-    },
-    {
       "title": "Seager (back) takes live BP, could head on rehab assignment soon",
       "summary": "",
       "titleJa": null,
@@ -37975,7 +38353,9 @@
       "pubDate": "2026-07-24T14:08:25.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "mets"
+      ],
       "players": [],
       "topics": [
         "trade"
@@ -88370,398 +88750,6 @@
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
           "link": "https://www.mlb.com/redsox/news/willson-contreras-in-midst-of-breakout-season-with-red-sox"
-        }
-      ]
-    },
-    {
-      "title": "Bryce Harper denies intentionally working with FanDuel for Cameo video sent to bettor with gambling addiction",
-      "summary": "Harper said in a statement on Monday that he would not have filmed the video had he known 'FanDuel's true intent'",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/bryce-harper-fanduel-cameo-gambling-addiction/\n                    ",
-      "pubDate": "2026-07-13T17:48:34.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/bryce-harper-fanduel-cameo-gambling-addiction/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Kyle Schwarber, Junior Caminero, Bryce Harper among 2026 Home Run Derby betting favorites",
-      "summary": "The Home Run Derby 2026 takes place Monday at 8 p.m. ET",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/kyle-schwarber-junior-caminero-bryce-harper-among-2026-home-run-derby-betting-favorites/\n                    ",
-      "pubDate": "2026-07-13T17:23:54.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/kyle-schwarber-junior-caminero-bryce-harper-among-2026-home-run-derby-betting-favorites/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Burrows placed on IL with right elbow neuritis",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/mike-burrows-right-elbow-injury",
-      "pubDate": "2026-07-13T16:42:33.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/mike-burrows-right-elbow-injury"
-        }
-      ]
-    },
-    {
-      "title": "MLB Draft: Five candidates to go No. 1 in 2027",
-      "summary": "With the 2026 Draft squared away behind No. 1 pick Roch Cholowsky, it's time to look (way too far) into the future",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/2027-mlb-draft-candidates-way-too-early/\n                    ",
-      "pubDate": "2026-07-13T16:32:34.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/2027-mlb-draft-candidates-way-too-early/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Trout returns just in time for first ASG since 2019, with a hometown advantage",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/mike-trout-returns-to-philadelphia-in-first-all-star-game-since-2019",
-      "pubDate": "2026-07-13T15:50:00.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/mike-trout-returns-to-philadelphia-in-first-all-star-game-since-2019"
-        }
-      ]
-    },
-    {
-      "title": "Miller's keys to All-Star first half: Consistency, control and ... less heat?",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/mason-miller-better-than-ever-in-second-all-star-season",
-      "pubDate": "2026-07-13T15:39:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/mason-miller-better-than-ever-in-second-all-star-season"
-        }
-      ]
-    },
-    {
-      "title": "All-Star Alvarez balances softer side with MVP-caliber season",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/yordan-alvarez-s-career-season-earns-all-star-nod",
-      "pubDate": "2026-07-13T15:35:00.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/yordan-alvarez-s-career-season-earns-all-star-nod"
-        }
-      ]
-    },
-    {
-      "title": "Pages an All-Star in just his 3rd season -- and the honor might be overdue",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/andy-pages-path-to-2026-all-star-game",
-      "pubDate": "2026-07-13T15:30:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/andy-pages-path-to-2026-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "Goodman stacking up clutch moments in second straight All-Star season",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/hunter-goodman-makes-all-star-game-for-second-straight-year",
-      "pubDate": "2026-07-13T15:29:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/hunter-goodman-makes-all-star-game-for-second-straight-year"
-        }
-      ]
-    },
-    {
-      "title": "How a renewed approach in the box led to PCA's second All-Star nod",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/pete-crow-armstrong-plate-discipline-sparks-historic-june",
-      "pubDate": "2026-07-13T15:19:00.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/pete-crow-armstrong-plate-discipline-sparks-historic-june"
-        }
-      ]
-    },
-    {
-      "title": "With 5th All-Star nod, Soto proves ASG is 'the place he deserves to be'",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/juan-soto-2026-all-star-game",
-      "pubDate": "2026-07-13T15:11:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/juan-soto-2026-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "Here's a look at the Mets' representative for the All-Star Game",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/juan-soto-named-national-league-all-star-starter",
-      "pubDate": "2026-07-13T15:06:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/juan-soto-named-national-league-all-star-starter"
-        }
-      ]
-    },
-    {
-      "title": "From 13th-round Draft pick to All-Star manager: Schneider reflects on journey",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/john-schneider-on-managing-all-star-game",
-      "pubDate": "2026-07-13T14:39:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "draft",
-        "personnel",
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/john-schneider-on-managing-all-star-game"
-        }
-      ]
-    },
-    {
-      "title": "2026 MLB Draft: Ranking the five best draft classes",
-      "summary": "The Chicago White Sox took the best player at No. 1, but let's go deeper into this weekend's selections",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-draft-ranking-five-best-classes/\n                    ",
-      "pubDate": "2026-07-13T14:30:34.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-draft-ranking-five-best-classes/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Stream Padres games on PADRES.TV for low price of $54.99",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/padres-tv-2026-season",
-      "pubDate": "2026-07-13T13:04:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/padres-tv-2026-season"
-        }
-      ]
-    },
-    {
-      "title": "Price drop! Stream Mets games through the MLB App",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/sny-mets-mlb-2026-stream",
-      "pubDate": "2026-07-13T13:02:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/sny-mets-mlb-2026-stream"
-        }
-      ]
-    },
-    {
-      "title": "MLB Draft winners, losers, grades; Ranking the World Cup semifinalists",
-      "summary": "Plus takeaways from the NBA Summer League's opening weekend",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-draft-winners-losers-grades-ranking-the-world-cup-semifinalists/\n                    ",
-      "pubDate": "2026-07-13T12:52:07.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-draft-winners-losers-grades-ranking-the-world-cup-semifinalists/\n                    "
         }
       ]
     }
