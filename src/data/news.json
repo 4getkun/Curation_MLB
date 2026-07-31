@@ -1,7 +1,613 @@
 {
-  "generatedAt": "2026-07-31T18:51:20.548Z",
+  "generatedAt": "2026-07-31T20:16:47.235Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Rangers Designate Marco Gonzales For Assignment",
+      "summary": "The Rangers announced that shortstop Corey Seager has been reinstated from the 10-day injured list, as expected. They also recalled right-hander Luis Curvelo and activated righty Chase Silseth, who wa…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/rangers-designate-marco-gonzales-for-assignment.html",
+      "pubDate": "2026-07-31T20:10:35.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/rangers-designate-marco-gonzales-for-assignment.html"
+        }
+      ]
+    },
+    {
+      "title": "Trade rumors: Mets, Adley, Skubal, Mize, more",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-31",
+      "pubDate": "2026-07-31T20:05:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-31"
+        }
+      ]
+    },
+    {
+      "title": "Landon Harmon has the chance to be the Washington Nationals next great pitching prospect",
+      "summary": "Landon Harmon is healthy again and showing what made him a highly touted prospect in the 2025 draft",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/landon-harmon-chance-washington-nationals-200000147.html",
+      "pubDate": "2026-07-31T20:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/landon-harmon-chance-washington-nationals-200000147.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB rumors: Mets scratch Freddy Peralta as trade interest picks up; Brewers would take on Tarik Skubal salary",
+      "summary": "We're headed into the final weekend before Monday's trade deadline",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-mets-aj-minter-dodgers-tarik-skubal-clay-holmes-cardinals-red-sox-astros/\n                    ",
+      "pubDate": "2026-07-31T19:57:20.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-mets-aj-minter-dodgers-tarik-skubal-clay-holmes-cardinals-red-sox-astros/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Austin Riley returns to the lineup for the Braves against the Nationals",
+      "summary": "Riley got a day to watch from the bench. Hopefully it was beneficial, because he’s starting tonight.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/austin-riley-returns-lineup-braves-195651686.html",
+      "pubDate": "2026-07-31T19:56:51.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/austin-riley-returns-lineup-braves-195651686.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB trade deadline: White Sox continue their search for starting pitching",
+      "summary": "Chicago is casting a wide net in its search for playoff-caliber rotation reinforcements.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/mlb-trade-deadline-white-sox-continue-their-search-for-starting-pitching-195439525.html",
+      "pubDate": "2026-07-31T19:54:39.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/mlb-trade-deadline-white-sox-continue-their-search-for-starting-pitching-195439525.html"
+        }
+      ]
+    },
+    {
+      "title": "Rumor: Guardians in on Taylor Ward",
+      "summary": "A rumor? In this economy?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/rumor-guardians-taylor-ward-195216263.html",
+      "pubDate": "2026-07-31T19:52:16.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/rumor-guardians-taylor-ward-195216263.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers vs Red Sox Prediction: Odds, recent stats, trends, and best bets for July 31",
+      "summary": "Los Angeles Dodgers vs Boston Red Sox Preview",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-vs-red-sox-prediction-193807062.html",
+      "pubDate": "2026-07-31T19:38:07.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers",
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-vs-red-sox-prediction-193807062.html"
+        }
+      ]
+    },
+    {
+      "title": "Angels Promote Luke Murphy",
+      "summary": "July 31: The Angels have made it officially, announcing they selected Murphy’s contract today. July 30: The Angels will select reliever Luke Murphy onto the MLB roster, reports Taylor Blake Ward of Ba…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/angels-expected-to-promote-luke-murphy.html",
+      "pubDate": "2026-07-31T19:37:58.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/angels-expected-to-promote-luke-murphy.html"
+        }
+      ]
+    },
+    {
+      "title": "New York Yankees interested in Reds catcher Tyler Stephenson, per reports",
+      "summary": "Could Cincinnati’s longtime backstop be headed to the Bronx?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/york-yankees-interested-reds-catcher-193635414.html",
+      "pubDate": "2026-07-31T19:36:35.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/york-yankees-interested-reds-catcher-193635414.html"
+        }
+      ]
+    },
+    {
+      "title": "Two-start pitchers: Cam Schlittler leads a star-studded group of options as we hit the trade deadline",
+      "summary": "Chris Sale, Christian Scott and Jared Jones are among the projected two-start pitchers for the upcoming week.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/two-start-pitchers-cam-schlittler-193532025.html",
+      "pubDate": "2026-07-31T19:35:32.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/two-start-pitchers-cam-schlittler-193532025.html"
+        }
+      ]
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: Astros vs. Rangers, White Sox vs. Rays and more",
+      "summary": "Find best bets and props for the biggest games in sports on Friday from the SportsLine Projection Model and top CBS Sports experts",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-astros-vs-rangers-white-sox-vs-rays-and-more/\n                    ",
+      "pubDate": "2026-07-31T19:30:40.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "astros",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-astros-vs-rangers-white-sox-vs-rays-and-more/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Showing improvement at Triple-A, Painter to start tonight for Phillies in Baltimore",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/andrew-painter-start-for-phillies-in-baltimore",
+      "pubDate": "2026-07-31T19:28:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/andrew-painter-start-for-phillies-in-baltimore"
+        }
+      ]
+    },
+    {
+      "title": "MLB trade deadline: What&#39;s ahead for the Braves, Mets and Phillies?",
+      "summary": "These three NL East teams could be major players in the hours before Monday's deadline.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/mlb-trade-deadline-whats-ahead-for-the-braves-mets-and-phillies-192756238.html",
+      "pubDate": "2026-07-31T19:27:56.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/mlb-trade-deadline-whats-ahead-for-the-braves-mets-and-phillies-192756238.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers Willing To Pay Remainder Of Salary In Potential Skubal Trade",
+      "summary": "Amid ample speculation about the Brewers making a play for reigning two-time AL Cy Young Award winner Tarik Skubal, Ken Rosenthal of The Athletic reports that owner Mark Attanasio would be willing to…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/tarik-skubal-trade-rumors-brewers-pay-full-salary.html",
+      "pubDate": "2026-07-31T19:27:25.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/tarik-skubal-trade-rumors-brewers-pay-full-salary.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees Interested In Tyler Stephenson",
+      "summary": "The Yankees are known to be looking for catching help and have checked in on Reds catcher Tyler Stephenson, reports Jon Heyman of The New York Post. Heyman also mentions Adley Rutschman of the Orioles…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/yankees-interested-in-tyler-stephenson.html",
+      "pubDate": "2026-07-31T19:25:17.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/yankees-interested-in-tyler-stephenson.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB trade deadline notebook: What we're hearing on the Red Sox, Giants, George Springer and more",
+      "summary": "The Red Sox could move on from a controversial starter even as they buy, while the Giants are having trouble selling",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-trade-deadline-notebook-red-sox-jarren-duran-giants-blue-jays-george-springer-nationals-luis-garcia/\n                    ",
+      "pubDate": "2026-07-31T19:18:15.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-trade-deadline-notebook-red-sox-jarren-duran-giants-blue-jays-george-springer-nationals-luis-garcia/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Fantasy baseball waiver wire: Max Clark is here, Kade Anderson could be next",
+      "summary": "Eric Samulski and James Schiano discuss their favorite fantasy baseball waiver wire adds for the weekend.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/fantasy-baseball-waiver-wire-max-191407483.html",
+      "pubDate": "2026-07-31T19:14:07.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/fantasy-baseball-waiver-wire-max-191407483.html"
+        }
+      ]
+    },
+    {
+      "title": "Tarik Skubal Next Team Odds: Braves Enter the Mix in Lefty’s Sweepstakes",
+      "summary": "Tarik Skubal next team odds are rounding into shape as the MLB trade deadline approaches. Our Kalshi market analysis looks at the Dodgers and others.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/tarik-skubal-next-team-odds-131800859.html",
+      "pubDate": "2026-07-31T19:11:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/tarik-skubal-next-team-odds-131800859.html"
+        }
+      ]
+    },
+    {
+      "title": "Rays hopeful McClanahan (back) requires brief IL stint for recurring issue",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/shane-mcclanahan-injured-list-back-injury",
+      "pubDate": "2026-07-31T19:08:37.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/shane-mcclanahan-injured-list-back-injury"
+        }
+      ]
+    },
+    {
+      "title": "Athletics To Select Jonathan Ornelas",
+      "summary": "The Athletics are calling up infielder Jonathan Ornelas, reports Francys Romero of BeisbolFR. The A’s will need to make a move, or moves, to make room for him on both the active and 40-man rosters. Or…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/athletics-to-select-jonathan-ornelas.html",
+      "pubDate": "2026-07-31T19:06:07.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/athletics-to-select-jonathan-ornelas.html"
+        }
+      ]
+    },
+    {
+      "title": "Craig Breslow needs to understand the difference between buying and adding at the Red Sox trade deadline",
+      "summary": "The Boston Red Sox appear poised to make a splash in significant fashion at the trade deadline. Whether you’ve followed that path through the big-name national reporters or the latest round of reports…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/craig-breslow-needs-understand-difference-190451164.html",
+      "pubDate": "2026-07-31T19:04:51.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/craig-breslow-needs-understand-difference-190451164.html"
+        }
+      ]
+    },
+    {
+      "title": "Mize scratched by Tigers as a non-injury precaution in advance of Trade Deadline",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/casey-mize-scratched-by-tigers-before-trade-deadline",
+      "pubDate": "2026-07-31T19:04:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/casey-mize-scratched-by-tigers-before-trade-deadline"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers welcome Red Sox for three game set",
+      "summary": "After taking two of three from the Seattle Mariners, the Los Angeles Dodgers now welcome the surging Boston Red Sox. Boston now sits in third place in the AL East, seven games behind the Tampa Bay Ray…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-welcome-red-sox-three-190300850.html",
+      "pubDate": "2026-07-31T19:03:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers",
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-welcome-red-sox-three-190300850.html"
+        }
+      ]
+    },
+    {
+      "title": "White Sox vs Rays Prediction, Picks & Odds for Today&#39;s MLB Game",
+      "summary": "White Sox vs Rays predictions, odds, and picks for tonight's series opener at Tropicana Field. Free MLB picks for Friday, July 31.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/white-sox-vs-rays-prediction-132900926.html",
+      "pubDate": "2026-07-31T18:55:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/white-sox-vs-rays-prediction-132900926.html"
+        }
+      ]
+    },
+    {
+      "title": "Front Office Subscriber Chat With Anthony Franco",
+      "summary": "MLBTR’s Anthony Franco is holding a live chat, exclusively for Trade Rumors Front Office subscribers! Unlock Subscriber-Exclusive Articles Like This One With a Trade Rumors Front Office Subscription B…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/07/front-office-subscriber-chat-with-anthony-franco-today-at-200pm-central-80.html",
+      "pubDate": "2026-07-31T18:52:29.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/07/front-office-subscriber-chat-with-anthony-franco-today-at-200pm-central-80.html"
+        }
+      ]
+    },
+    {
+      "title": "Peralta scratched by Mets with Trade Deadline looming on Monday (sources)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/freddy-peralta-scratched-by-mets-before-trade-deadline",
+      "pubDate": "2026-07-31T18:46:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/freddy-peralta-scratched-by-mets-before-trade-deadline"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/freddy-peralta-scratched-by-mets-before-trade-deadline"
+        }
+      ]
+    },
     {
       "title": "Mets Scratch Freddy Peralta From Start Due To Increasing Trade Interest",
       "summary": "Right-hander Freddy Peralta was the scheduled starter for the Mets tonight. However, Joel Sherman of The New York Post reports that he is being scratched from that start as trade interest picks up. Pe…",
@@ -23,6 +629,26 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/07/mets-scratch-freddy-peralta-from-start-due-to-increasing-trade-interest.html"
+        }
+      ]
+    },
+    {
+      "title": "Tigers vs Athletics Prediction, Picks & Odds for Tonight&#39;s MLB Game",
+      "summary": "Series opening odds and predictions for Tigers vs. Athletics on Friday, July 31.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/tigers-vs-athletics-prediction-picks-141000657.html",
+      "pubDate": "2026-07-31T18:39:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/tigers-vs-athletics-prediction-picks-141000657.html"
         }
       ]
     },
@@ -72,33 +698,6 @@
       ]
     },
     {
-      "title": "Peralta scratched by Mets with Trade Deadline looming on Monday (sources)",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/freddy-peralta-scratched-by-mets-before-trade-deadline",
-      "pubDate": "2026-07-31T18:28:52.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/freddy-peralta-scratched-by-mets-before-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/freddy-peralta-scratched-by-mets-before-trade-deadline"
-        }
-      ]
-    },
-    {
       "title": "Rockies series preview: Coors Field is not a pitcher’s friend",
       "summary": "These are two of the worst pitching staffs in baseball",
       "titleJa": null,
@@ -121,14 +720,34 @@
       ]
     },
     {
-      "title": "MLB rumors: Mets scratch Freddy Peralta as trade interest picks up; Brewers would take on Tarik Skubal salary",
-      "summary": "We're headed into the final weekend before Monday's trade deadline",
+      "title": "MLB Player Props & Best Bets for Today, July 31",
+      "summary": "Colby Marchio is dishing out his favorite MLB player props for Friday, July 31, featuring CJ Abrams and Hunter Goodman.",
       "titleJa": null,
       "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-mets-aj-minter-dodgers-tarik-skubal-clay-holmes-cardinals-red-sox-astros/\n                    ",
-      "pubDate": "2026-07-31T18:15:14.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
+      "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-181400428.html",
+      "pubDate": "2026-07-31T18:14:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-181400428.html"
+        }
+      ]
+    },
+    {
+      "title": "Freddy Peralta won&#39;t pitch for Mets Friday as trade interest intensifies",
+      "summary": "Freddy Peralta, who was initially listed as the Mets' Friday night starter against the Marlins at Citi Field, has been scratched as trade interest in him has picked up.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/freddy-peralta-wont-pitch-mets-180755438.html",
+      "pubDate": "2026-07-31T18:07:55.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
       "teams": [
         "mets"
       ],
@@ -138,9 +757,9 @@
       ],
       "sources": [
         {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-mets-aj-minter-dodgers-tarik-skubal-clay-holmes-cardinals-red-sox-astros/\n                    "
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/freddy-peralta-wont-pitch-mets-180755438.html"
         }
       ]
     },
@@ -505,29 +1124,6 @@
       ]
     },
     {
-      "title": "Front Office Subscriber Chat With Anthony Franco: TODAY At 2:00pm Central",
-      "summary": "MLBTR’s Anthony Franco will be holding a live chat today at 2:00 pm Central, exclusively for Trade Rumors Front Office subscribers! Unlock Subscriber-Exclusive Articles Like This One With a Trade Rumo…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/front-office-subscriber-chat-with-anthony-franco-today-at-200pm-central-80.html",
-      "pubDate": "2026-07-31T16:52:29.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/front-office-subscriber-chat-with-anthony-franco-today-at-200pm-central-80.html"
-        }
-      ]
-    },
-    {
       "title": "Jeff Passan talks whether anyone can top the Dodgers for Tarik Skubal, the insane asking price for Mason Miller, how much the Mets will sell & more",
       "summary": "On this episode of Baseball Bar-B-Cast, Jake and Jordan are joined by Jeff Passan to talk all things MLB Trade Deadline, including whether anyone can stop the Dodgers from landing Tarik Skubal, the Pa…",
       "titleJa": null,
@@ -738,30 +1334,6 @@
           "name": "CBS Sports MLB",
           "sourceId": "cbssports-mlb",
           "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-dodgers-red-sox-mlb-betting-friday/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Tarik Skubal Next Team Odds: Braves Emerge as Major Player in Lefty&#39;s Sweepstakes",
-      "summary": "Tarik Skubal next team odds are rounding into shape as the MLB trade deadline approaches. Our Kalshi market analysis looks at the Dodgers and others.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/tarik-skubal-next-team-odds-131800859.html",
-      "pubDate": "2026-07-31T16:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/tarik-skubal-next-team-odds-131800859.html"
         }
       ]
     },
@@ -984,53 +1556,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/where-did-max-clark-high-155657261.html"
-        }
-      ]
-    },
-    {
-      "title": "Mize scratched by Tigers as a non-injury precaution in advance of Trade Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/casey-mize-scratched-by-tigers-before-trade-deadline",
-      "pubDate": "2026-07-31T15:45:10.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/casey-mize-scratched-by-tigers-before-trade-deadline"
-        }
-      ]
-    },
-    {
-      "title": "Trade rumors: Mets, Adley, Skubal, Mize, more",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-31",
-      "pubDate": "2026-07-31T15:42:45.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-31"
         }
       ]
     },
@@ -1573,26 +2098,6 @@
       ]
     },
     {
-      "title": "Showing improvement at Triple-A, Painter to start for Phillies in Baltimore (source)",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/andrew-painter-start-for-phillies-in-baltimore",
-      "pubDate": "2026-07-31T14:44:52.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/andrew-painter-start-for-phillies-in-baltimore"
-        }
-      ]
-    },
-    {
       "title": "Brewers 2026 Trade Deadline Tracker",
       "summary": "Check back here for all Brewers-related rumors leading up to the deadline",
       "titleJa": null,
@@ -1879,26 +2384,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/white-sox-vs-rays-prediction-141127771.html"
-        }
-      ]
-    },
-    {
-      "title": "Tigers vs Athletics Prediction, Picks & Odds for Tonight&#39;s MLB Game",
-      "summary": "Casey Mize has been solid for the Tigers, and our expert MLB predictions expect Mize to lead the Tigers to a strong road win over the Athletics.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/tigers-vs-athletics-prediction-picks-141000657.html",
-      "pubDate": "2026-07-31T14:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/tigers-vs-athletics-prediction-picks-141000657.html"
         }
       ]
     },
@@ -6866,28 +7351,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-165800907.html"
-        }
-      ]
-    },
-    {
-      "title": "Angels Expected To Promote Luke Murphy",
-      "summary": "The Angels will select reliever Luke Murphy onto the MLB roster, reports Taylor Blake Ward of Baseball America. The Halos are off today and probably won’t officially announce the move until tomorrow.…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/angels-expected-to-promote-luke-murphy.html",
-      "pubDate": "2026-07-30T16:52:58.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/angels-expected-to-promote-luke-murphy.html"
         }
       ]
     },
@@ -88048,480 +88511,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mlb-cracks-down-dugout-ipads-002203772.html"
-        }
-      ]
-    },
-    {
-      "title": "Phillies reliever Brad Keller out for season with torn UCL, surgery possible",
-      "summary": "If Keller requires Tommy John surgery, he could miss most if not all of the 2027 season as well.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/phillies-reliever-brad-keller-season-000231505.html",
-      "pubDate": "2026-07-17T00:02:31.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/phillies-reliever-brad-keller-season-000231505.html"
-        }
-      ]
-    },
-    {
-      "title": "Arizona Diamondbacks Series Preview #32 : Diamondbacks vs Cardinals",
-      "summary": "The NL Wild Card Race. At the All-Star break, the Diamondbacks are fighting the Cardinals and the Pirates over which team will be in best position to contend with the Marlins for the third Wild Card p…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/arizona-diamondbacks-series-preview-32-000000718.html",
-      "pubDate": "2026-07-17T00:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/arizona-diamondbacks-series-preview-32-000000718.html"
-        }
-      ]
-    },
-    {
-      "title": "Orioles Place Blaze Alexander On Injured List",
-      "summary": "July 16: Baltimore has officially placed Alexander on the 10-day injured list, retroactive to July 13. First baseman Christian Encarnacion-Strand was recalled from Triple-A Norfolk to take his place o…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/orioles-blaze-alexander-suffers-fractured-hand-on-hbp.html",
-      "pubDate": "2026-07-16T23:57:29.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/orioles-blaze-alexander-suffers-fractured-hand-on-hbp.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers have too much at stake, collectively and individually, to become complacent",
-      "summary": "Jayne Kamin-Oncea-Imagn ImagesNEW YORK – Trevor Bauer. Andruw Jones. Jason Schmidt. Scott Kazmir. If something doesn’t change, Kyle Tucker’s name will be alongside theirs on the list of the worst...",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-too-much-stake-collectively-235703312.html",
-      "pubDate": "2026-07-16T23:57:03.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-too-much-stake-collectively-235703312.html"
-        }
-      ]
-    },
-    {
-      "title": "Aaron Judge specter looms over start of Yankees’ second half",
-      "summary": "As most of his teammates enjoyed a break to gear up for the second half, Aaron Judge was trying to find out much of it he will be able to play in.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/aaron-judge-specter-looms-over-234144241.html",
-      "pubDate": "2026-07-16T23:41:44.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/aaron-judge-specter-looms-over-234144241.html"
-        }
-      ]
-    },
-    {
-      "title": "The Mariners 2027 regular season schedule is here",
-      "summary": "The M’s have plenty still to do in 2026, but next year is ready for them.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mariners-2027-regular-season-schedule-232948689.html",
-      "pubDate": "2026-07-16T23:29:48.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mariners-2027-regular-season-schedule-232948689.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets announce 2027 regular season schedule",
-      "summary": "The real question is: Will there be baseball games come March 25?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-announce-2027-regular-season-232006483.html",
-      "pubDate": "2026-07-16T23:20:06.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-announce-2027-regular-season-232006483.html"
-        }
-      ]
-    },
-    {
-      "title": "Atlanta Braves off day chat and discussion: July 16",
-      "summary": "One last off day and then the second half begins.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/atlanta-braves-off-day-open-230637065.html",
-      "pubDate": "2026-07-16T23:06:37.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/atlanta-braves-off-day-open-230637065.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB Mailbag: Cardinals, Horwitz, Pirates, Mariners, Mets, Rushing",
-      "summary": "This week’s MLB Mailbag will tackle several Cardinals questions from readers, in addition to quandaries on the Pirates’ lineup and trade targets, the Mariners’ pitching staff and lineup needs, the Met…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/mlb-mailbag-cardinals-horwitz-pirates-mariners-mets-rushing.html",
-      "pubDate": "2026-07-16T22:39:45.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/mlb-mailbag-cardinals-horwitz-pirates-mariners-mets-rushing.html"
-        }
-      ]
-    },
-    {
-      "title": "Buster Posey’s ‘frank evaluation’ of Tony Vitello hints at Giants manager’s standing",
-      "summary": "Buster Posey's \"frank evaluation\" of Giants manager Tony Vitello suggests that Vitello isn't on the hot seat despite the Giants' disappointing season.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/buster-posey-frank-evaluation-tony-222142587.html",
-      "pubDate": "2026-07-16T22:21:42.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/buster-posey-frank-evaluation-tony-222142587.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB&#39;s 6 biggest storylines post All-Star break: Tarik Skubal&#39;s future, Shohei Ohtani&#39;s push for Cy Young and Aaron Judge&#39;s return will dominate baseball",
-      "summary": "Also: Will this trade deadline be a total snoozefest? Is the AL MVP race a three-man derby with Bobby Witt Jr., Yordan Alvarez and Junior Caminero? And will there be a labor strife breakthrough?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/mlbs-6-biggest-storylines-post-all-star-break-tarik-skubals-future-shohei-ohtanis-push-for-cy-young-and-aaron-judges-return-will-dominate-baseball-221142338.html",
-      "pubDate": "2026-07-16T22:11:42.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [
-        "trade",
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/mlbs-6-biggest-storylines-post-all-star-break-tarik-skubals-future-shohei-ohtanis-push-for-cy-young-and-aaron-judges-return-will-dominate-baseball-221142338.html"
-        }
-      ]
-    },
-    {
-      "title": "Poor air quality moves time of Phillies-Mets, threatens several Friday games",
-      "summary": "Smoke from Canadian wildfires has the potential to impact several MLB games as teams return to play on July 16-17.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/poor-air-quality-moves-time-220937203.html",
-      "pubDate": "2026-07-16T22:09:37.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/poor-air-quality-moves-time-220937203.html"
-        }
-      ]
-    },
-    {
-      "title": "The Maine Christmas tree farmer who played a pivotal role in discovering Jackie Robinson",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/clyde-sukeforth-scouted-jackie-robinson-roberto-clemente",
-      "pubDate": "2026-07-16T22:09:22.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/clyde-sukeforth-scouted-jackie-robinson-roberto-clemente"
-        }
-      ]
-    },
-    {
-      "title": "Lance McCullers didn’t want to leave Astros — until the owner called him",
-      "summary": "Lance McCullers Jr.’s 14-year run with the Astros organization came to an end this week when he accepted a trade to the Brewers on Wednesday.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/lance-mccullers-didn-t-want-220433133.html",
-      "pubDate": "2026-07-16T22:04:33.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/lance-mccullers-didn-t-want-220433133.html"
-        }
-      ]
-    },
-    {
-      "title": "Semien reinstated from IL, absent from starting lineup; Short DFA'd",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/marcus-semien-reinstated-from-injured-list-by-mets",
-      "pubDate": "2026-07-16T22:02:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/marcus-semien-reinstated-from-injured-list-by-mets"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/marcus-semien-reinstated-from-injured-list-by-mets"
-        }
-      ]
-    },
-    {
-      "title": "Mets have informed teams they&#39;re open for business ahead of trade deadline, and deals could come sooner than later",
-      "summary": "A rival executive said the Mets informed their team that the sale is on, and that everyone but young stars Carson Benge, A.J. Ewing, Christian Scott, Nolan McLean and the obvious, Juan Soto, is availa…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-informed-teams-theyre-open-215028271.html",
-      "pubDate": "2026-07-16T21:50:28.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-informed-teams-theyre-open-215028271.html"
-        }
-      ]
-    },
-    {
-      "title": "How Keller's season-ending injury impacts Phillies' 'pen, Deadline plans",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/brad-keller-has-right-elbow-ucl-tear",
-      "pubDate": "2026-07-16T21:44:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/brad-keller-has-right-elbow-ucl-tear"
-        }
-      ]
-    },
-    {
-      "title": "Home Run Derby on Netflix draws worst ratings in more than two decades",
-      "summary": "The Home Run Derby saw plenty of baseballs leave the yard — and even more viewers leave the broadcast.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/home-run-derby-netflix-draws-214230555.html",
-      "pubDate": "2026-07-16T21:42:30.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/home-run-derby-netflix-draws-214230555.html"
-        }
-      ]
-    },
-    {
-      "title": "Athletics Notes: Deadline, Lopez, Guerra",
-      "summary": "The Athletics recently went ice cold, a fact acknowledged general manager David Forst today. “Unfortunately, it’s colored a lot by the way we played the past three weeks,” Forst said of the club’s fir…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/athletics-notes-deadline-lopez-guerra.html",
-      "pubDate": "2026-07-16T21:30:16.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/athletics-notes-deadline-lopez-guerra.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets&#39; Clay Holmes &#39;inching closer&#39; to rehab assignment",
-      "summary": "Mets interim manager Andy Green gave a positive update on Clay Holmes, and said the right-hander is \"inching closer\" to a rehab assignment.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-clay-holmes-inching-closer-212949939.html",
-      "pubDate": "2026-07-16T21:29:49.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-clay-holmes-inching-closer-212949939.html"
-        }
-      ]
-    },
-    {
-      "title": "Biggest games, things to know from Dodgers’ 2027 schedule release",
-      "summary": "Major League Baseball released its full-season schedule for the 2027 campaign on Thursday.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/biggest-games-things-know-dodgers-212312716.html",
-      "pubDate": "2026-07-16T21:23:12.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/biggest-games-things-know-dodgers-212312716.html"
         }
       ]
     }
