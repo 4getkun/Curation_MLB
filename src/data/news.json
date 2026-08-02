@@ -1,22 +1,642 @@
 {
-  "generatedAt": "2026-08-02T04:51:59.889Z",
+  "generatedAt": "2026-08-02T07:29:16.358Z",
   "count": 4000,
   "items": [
     {
-      "title": "Peterson a success for Cubs' pitching group as club seeks more arms at Deadline",
+      "title": "Dodgers scored Tarik Skubal because they win every mind game | Opinion",
+      "summary": "Back-to-back World Series champions may have fleeced Tigers in deal for Cy Young ace.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-scored-tarik-skubal-because-070944621.html",
+      "pubDate": "2026-08-02T07:09:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade",
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-scored-tarik-skubal-because-070944621.html"
+        }
+      ]
+    },
+    {
+      "title": "Clark crushes 1st career homer in Tigers' win, shining alongside McGonigle",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/david-peterson-continues-strong-work-since-joining-cubs",
-      "pubDate": "2026-08-02T04:45:15.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
+      "link": "https://www.mlb.com/news/max-clark-hits-first-major-league-home-run-for-tigers",
+      "pubDate": "2026-08-02T06:47:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/max-clark-hits-first-major-league-home-run-for-tigers"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers rotation after addition of Tarik Skubal: A look at LA&#39;s pitching staff",
+      "summary": "The Los Angeles Dodgers continue to assemble the strongest collection of pitchers in MLB.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-rotation-addition-tarik-skubal-062323075.html",
+      "pubDate": "2026-08-02T06:23:23.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-rotation-addition-tarik-skubal-062323075.html"
+        }
+      ]
+    },
+    {
+      "title": "FIVE aces? Skubal joins Yamamoto and crew as LA's three-peat plan hits next gear",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-makes-first-career-start-against-red-sox",
+      "pubDate": "2026-08-02T06:17:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/yoshinobu-yamamoto-makes-first-career-start-against-red-sox"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-makes-first-career-start-against-red-sox"
+        }
+      ]
+    },
+    {
+      "title": "Benches clear at end of Tigers-A's game over bunt single",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/benches-clear-at-end-of-tigers-a-s-game",
+      "pubDate": "2026-08-02T06:08:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/benches-clear-at-end-of-tigers-a-s-game"
+        }
+      ]
+    },
+    {
+      "title": "Tigers say farewell to back-to-back Cy winner Skubal, get 3 highly touted prospects from LA",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tarik-skubal-traded-from-tigers-to-dodgers-for-three-prospects",
+      "pubDate": "2026-08-02T06:07:48.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tarik-skubal-traded-from-tigers-to-dodgers-for-three-prospects"
+        }
+      ]
+    },
+    {
+      "title": "Tigers reach hollow ending to Tarik Skubal era, begin to turn the page with trade to Dodgers",
+      "summary": "No matter the new players headed to Detroit, it's impossible not to look at this result as a disappointment for the Tigers and their fans.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/tigers-reach-hollow-ending-to-tarik-skubal-era-begin-to-turn-the-page-with-trade-to-dodgers-060049773.html",
+      "pubDate": "2026-08-02T06:00:49.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/tigers-reach-hollow-ending-to-tarik-skubal-era-begin-to-turn-the-page-with-trade-to-dodgers-060049773.html"
+        }
+      ]
+    },
+    {
+      "title": "Cubs Minor League Wrap: Pelicans shut out Charleston, 6-0",
+      "summary": "Two relievers rehab with Iowa. South Bend and Myrtle Beach win.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-minor-league-wrap-pelicans-054549626.html",
+      "pubDate": "2026-08-02T05:45:49.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
       "teams": [
         "cubs"
       ],
       "players": [],
       "topics": [],
       "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-minor-league-wrap-pelicans-054549626.html"
+        }
+      ]
+    },
+    {
+      "title": "Where the trade market stands in wake of Skubal deal",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-trade-market-post-tarik-skubal-to-dodgers",
+      "pubDate": "2026-08-02T05:39:13.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-trade-market-post-tarik-skubal-to-dodgers"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tarik-skubal-dodgers-tigers-trade",
+      "pubDate": "2026-08-02T05:39:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tarik-skubal-dodgers-tigers-trade"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/tarik-skubal-dodgers-tigers-trade"
+        }
+      ]
+    },
+    {
+      "title": "Shaikin: Dodgers traded just 3 minor leaguers for Tarik Skubal. Why couldn&#39;t your team do that?",
+      "summary": "MLB fans like to complain the Dodgers are ruining baseball, but many other teams could have met the price the Dodgers paid to acquire Tarik Skubal.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/shaikin-dodgers-traded-just-3-053354403.html",
+      "pubDate": "2026-08-02T05:33:54.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/shaikin-dodgers-traded-just-3-053354403.html"
+        }
+      ]
+    },
+    {
+      "title": "With trade chip Arraez out (cramping), Basabe steps up with 4 RBI night",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/luis-arraez-scratched-from-giants-lineup-due-to-cramping",
+      "pubDate": "2026-08-02T05:33:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/luis-arraez-scratched-from-giants-lineup-due-to-cramping"
+        }
+      ]
+    },
+    {
+      "title": "When will Tarik Skubal make first start with Dodgers? Possible date",
+      "summary": "The Los Angeles Dodgers acquired pitcher Tarik Skubal on Saturday, Aug. 1. Here's when he could pitch in Dodger blue.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/tarik-skubal-first-start-dodgers-053018203.html",
+      "pubDate": "2026-08-02T05:30:18.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/tarik-skubal-first-start-dodgers-053018203.html"
+        }
+      ]
+    },
+    {
+      "title": "Women's Professional Baseball League debuts -- LA Queens win opener",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/los-angeles-queens-win-first-women-s-professional-baseball-league-game",
+      "pubDate": "2026-08-02T05:24:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/los-angeles-queens-win-first-women-s-professional-baseball-league-game"
+        }
+      ]
+    },
+    {
+      "title": "Rafaela's 2-HR night extends Red Sox surge",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ceddanne-rafaela-hits-two-home-runs-in-red-sox-win-over-dodgers",
+      "pubDate": "2026-08-02T05:23:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ceddanne-rafaela-hits-two-home-runs-in-red-sox-win-over-dodgers"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/ceddanne-rafaela-hits-two-home-runs-in-red-sox-win-over-dodgers"
+        }
+      ]
+    },
+    {
+      "title": "Tarik Skubal trade: Let&#39;s look at the Dodgers&#39; preposterous rotation with a new ace aboard",
+      "summary": "Tarik Skubal is the new jewel of a rotation that did not need him.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/tarik-skubal-trade-lets-look-at-the-dodgers-preposterous-rotation-with-a-new-ace-aboard-052206723.html",
+      "pubDate": "2026-08-02T05:22:06.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/tarik-skubal-trade-lets-look-at-the-dodgers-preposterous-rotation-with-a-new-ace-aboard-052206723.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers acquire Tarik Skubal in blockbuster trade: Two-time Cy Young winner joins vaunted Los Angeles rotation",
+      "summary": "Skubal will head west as the Dodgers aim for a third straight World Series title",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/tarik-skubal-dodgers-trade-tigers/\n                    ",
+      "pubDate": "2026-08-02T05:12:54.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade",
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/tarik-skubal-dodgers-trade-tigers/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Scouting the prospects traded to Detroit for Tarik Skubal",
+      "summary": "Let’s take a deeper dive into the Tigers return from the Skubal trade.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/scouting-prospects-traded-detroit-tarik-051100881.html",
+      "pubDate": "2026-08-02T05:11:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/scouting-prospects-traded-detroit-tarik-051100881.html"
+        }
+      ]
+    },
+    {
+      "title": "A’s Late Comeback Not Enough in 8-6 Loss to Tigers",
+      "summary": "Another Home Defeat",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/comeback-not-enough-8-6-051055237.html",
+      "pubDate": "2026-08-02T05:10:55.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/comeback-not-enough-8-6-051055237.html"
+        }
+      ]
+    },
+    {
+      "title": "Tarik Skubal trade guarantees Dodgers another World Series crown | Opinion",
+      "summary": "Back-to-back World Series champion Dodgers land the best pitcher on the planet in Skubal.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/tarik-skubal-trade-guarantees-dodgers-051029472.html",
+      "pubDate": "2026-08-02T05:10:29.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/tarik-skubal-trade-guarantees-dodgers-051029472.html"
+        }
+      ]
+    },
+    {
+      "title": "Tarik Skubal trade grades: Dodgers get an easy A for adding ace; Tigers throw in the towel",
+      "summary": "Detroit got a fine return package, but they never should have gotten to this point",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/tarik-skubal-trade-grades-dodgers-tigers/\n                    ",
+      "pubDate": "2026-08-02T05:05:34.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/tarik-skubal-trade-grades-dodgers-tigers/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Who won Tarik Skubal trade? Grades for Dodgers and Tigers",
+      "summary": "Chasing a third straight title, the Dodgers land Tarik Skubal in trade with Tigers.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/won-tarik-skubal-trade-grades-050458950.html",
+      "pubDate": "2026-08-02T05:04:58.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/won-tarik-skubal-trade-grades-050458950.html"
+        }
+      ]
+    },
+    {
+      "title": "Tarik Skubal trade winners and losers: Dodgers just keep getting better; MLB scores easy (if faulty) narrative",
+      "summary": "Other suitors, including the Brewers, Rays, Braves, Cubs and Phillies, are now left scrambling to pivot",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/tarik-skubal-trade-winners-losers-dodgers-tigers-brewers-mlb-salary-cap/\n                    ",
+      "pubDate": "2026-08-02T05:03:43.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "cubs",
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/tarik-skubal-trade-winners-losers-dodgers-tigers-brewers-mlb-salary-cap/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Cronenworth, Padres walk off Giants to keep things rolling ahead of Deadline",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jake-cronenworth-hits-walk-off-single-in-padres-win-over-giants",
+      "pubDate": "2026-08-02T05:03:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jake-cronenworth-hits-walk-off-single-in-padres-win-over-giants"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/jake-cronenworth-hits-walk-off-single-in-padres-win-over-giants"
+        }
+      ]
+    },
+    {
+      "title": "Max Clark cracks first MLB homer as Tigers survive late scare",
+      "summary": "The game featured Max Clark’s first big-league home run, and another shaky outing from a once-reliable reliever.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/max-clark-cracks-first-mlb-050150872.html",
+      "pubDate": "2026-08-02T05:01:50.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/max-clark-cracks-first-mlb-050150872.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers To Acquire Tarik Skubal",
+      "summary": "The Dodgers are acquiring left-hander Tarik Skubal from the Tigers, reports Jeff Passan of ESPN. Detroit will receive right-hander River Ryan, outfielder Zyhir Hope, and righty Brady Smith, adds Passa…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/dodgers-to-acquire-tarik-skubal.html",
+      "pubDate": "2026-08-02T04:55:33.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/dodgers-to-acquire-tarik-skubal.html"
+        }
+      ]
+    },
+    {
+      "title": "Goodman, Castro hope to remain with Rockies beyond Deadline",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/hunter-goodman-willi-castro-s-home-runs-lead-rockies-to-win-over-royals",
+      "pubDate": "2026-08-02T04:52:00.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/hunter-goodman-willi-castro-s-home-runs-lead-rockies-to-win-over-royals"
+        }
+      ]
+    },
+    {
+      "title": "Peterson a success for Cubs' pitching group as club seeks more arms at Deadline",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/david-peterson-continues-strong-work-since-joining-cubs",
+      "pubDate": "2026-08-02T04:45:15.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/david-peterson-continues-strong-work-since-joining-cubs"
+        },
         {
           "name": "MLB.com (Cubs)",
           "sourceId": "mlb-com-cubs",
@@ -72,6 +692,28 @@
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/jose-soriano-scratched-trade-deadline"
+        }
+      ]
+    },
+    {
+      "title": "Gasser, bullpen shut down Angels in 3-1 victory",
+      "summary": "Brewers move back into baseball's best record thanks to dominant pitching and timely hitting",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/gasser-bullpen-shut-down-angels-043724708.html",
+      "pubDate": "2026-08-02T04:37:24.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/gasser-bullpen-shut-down-angels-043724708.html"
         }
       ]
     },
@@ -138,31 +780,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/braves-acquire-lane-thomas-royals-042210369.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers acquire Tarik Skubal in blockbuster trade: Two-time Cy Young winner joins vaunted Los Angeles rotation",
-      "summary": "Skubal will head west as the Dodgers aim for a third straight World Series title",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/tarik-skubal-dodgers-trade-tigers/\n                    ",
-      "pubDate": "2026-08-02T04:01:56.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade",
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/tarik-skubal-dodgers-trade-tigers/\n                    "
         }
       ]
     },
@@ -331,6 +948,28 @@
       ]
     },
     {
+      "title": "White Sox Minor League Update: August 1, 2026",
+      "summary": "The Knights imploded early and the Barons were nearly no-hit, but the Dash and Cannon Ballers took home wins Saturday",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/white-sox-minor-league-august-035200525.html",
+      "pubDate": "2026-08-02T03:52:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/white-sox-minor-league-august-035200525.html"
+        }
+      ]
+    },
+    {
       "title": "Braves acquire OF Thomas, LHP Falter from Royals",
       "summary": "",
       "titleJa": null,
@@ -443,31 +1082,6 @@
       ]
     },
     {
-      "title": "Cronenworth, Padres walk off Giants to keep things rolling ahead of Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/jake-cronenworth-hits-walk-off-single-in-padres-win-over-giants",
-      "pubDate": "2026-08-02T03:47:06.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/jake-cronenworth-hits-walk-off-single-in-padres-win-over-giants"
-        },
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/jake-cronenworth-hits-walk-off-single-in-padres-win-over-giants"
-        }
-      ]
-    },
-    {
       "title": "Dodgers acquire Tarik Skubal from Tigers, per reports",
       "summary": "The Dodgers’ quest for the first threepeat in Major League Baseball in a quarter-century saw them shop in the high end during the free agent market. Now they’ve acquired the best player available at t…",
       "titleJa": null,
@@ -517,56 +1131,6 @@
       ]
     },
     {
-      "title": "Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/tarik-skubal-dodgers-tigers-trade",
-      "pubDate": "2026-08-02T03:39:42.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/tarik-skubal-dodgers-tigers-trade"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/tarik-skubal-dodgers-tigers-trade"
-        }
-      ]
-    },
-    {
-      "title": "Red-hot Rafaela keeps Red Sox rolling with 2-HR night",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/ceddanne-rafaela-hits-two-home-runs-in-red-sox-win-over-dodgers",
-      "pubDate": "2026-08-02T03:37:07.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/ceddanne-rafaela-hits-two-home-runs-in-red-sox-win-over-dodgers"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/ceddanne-rafaela-hits-two-home-runs-in-red-sox-win-over-dodgers"
-        }
-      ]
-    },
-    {
       "title": "Dodgers acquire Tarik Skubal from Tigers in MLB trade deadline bombshell",
       "summary": "Skubal is widely expected the largest contract ever for a pitcher when he hits free agency this offseason.",
       "titleJa": null,
@@ -592,29 +1156,7 @@
       ]
     },
     {
-      "title": "Dodgers To Acquire Tarik Skubal",
-      "summary": "The Dodgers are acquiring left-hander Tarik Skubal from the Tigers, reports Jeff Passan of ESPN. Detroit will receive right-hander River Ryan, outfielder Zyhir Hope, and righty Brady Smith, adds Passa…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/dodgers-to-acquire-tarik-skubal.html",
-      "pubDate": "2026-08-02T03:33:33.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/dodgers-to-acquire-tarik-skubal.html"
-        }
-      ]
-    },
-    {
-      "title": "Add baserunning to Yordan's MVP case as dash home on WP provides winner",
+      "title": "Add baserunning to Yordan's MVP case as dash home on wild pitch provides winner",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -735,30 +1277,6 @@
       ]
     },
     {
-      "title": "Long ball bites Yamamoto again, despite going 8 vs. Sox",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-makes-first-career-start-against-red-sox",
-      "pubDate": "2026-08-02T03:23:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "yamamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-makes-first-career-start-against-red-sox"
-        }
-      ]
-    },
-    {
       "title": "Mariners to trade Luis Castillo to White Sox for three players",
       "summary": "The Rock rolls out of Seattle; Seranthony Dominguez, Nolan Jones, and Boston Smith roll in",
       "titleJa": null,
@@ -801,30 +1319,6 @@
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/white-sox-look-to-make-playoffs-consecutive-100-loss-seasons"
-        }
-      ]
-    },
-    {
-      "title": "Goodman, Castro shine in Rockies win, boosting trade value",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/hunter-goodman-willi-castro-s-home-runs-lead-rockies-to-win-over-royals",
-      "pubDate": "2026-08-02T03:20:27.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/hunter-goodman-willi-castro-s-home-runs-lead-rockies-to-win-over-royals"
         }
       ]
     },
@@ -946,6 +1440,50 @@
       ]
     },
     {
+      "title": "Matt Chapman’s timeline unclear after Giants star suffers setback",
+      "summary": "SAN DIEGO — An injury that initially wasn’t supposed to force Matt Chapman to miss more than the minimum 10 days has kept the Giants third baseman sidelined for more...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/matt-chapman-timeline-unclear-giants-030014239.html",
+      "pubDate": "2026-08-02T03:00:14.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/matt-chapman-timeline-unclear-giants-030014239.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers acquiring Tarik Skubal from Tigers in seismic blockbuster as Yankees fall short",
+      "summary": "The Tarik Skubal sweepstakes seemed to be cresting Saturday night with a growing sense that the Dodgers were frontrunners.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-acquiring-tarik-skubal-tigers-025916718.html",
+      "pubDate": "2026-08-02T02:59:16.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-acquiring-tarik-skubal-tigers-025916718.html"
+        }
+      ]
+    },
+    {
       "title": "Cubs rally off Yankees’ bullpen to waste Jones and Fried’s best efforts",
       "summary": "The Cubbies came out on top tonight to even the series.",
       "titleJa": null,
@@ -986,6 +1524,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mlb-trade-deadline-tracker-viva-024831984.html"
+        }
+      ]
+    },
+    {
+      "title": "Braves acquiring Lane Thomas from Royals ahead of trade deadline as right-handed bat domino falls",
+      "summary": "Cross one right-handed hitting option off the list of names for the Yankees to possibly pursue ahead of the deadline.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/braves-acquiring-lane-thomas-royals-024637418.html",
+      "pubDate": "2026-08-02T02:46:37.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-acquiring-lane-thomas-royals-024637418.html"
         }
       ]
     },
@@ -1332,22 +1892,26 @@
       ]
     },
     {
-      "title": "Arraez (cramping) held out of lineup with Deadline days away",
-      "summary": "",
+      "title": "2026 MLB Trade Tracker",
+      "summary": "The 2026 MLB trade deadline is Monday, August 3rd at 5pm central time. The biggest blockbuster occurred around 10:30pm on the prior Saturday night, with Tarik Skubal joining the Dodgers to form the ga…",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/news/luis-arraez-scratched-from-giants-lineup-due-to-cramping",
-      "pubDate": "2026-08-02T01:33:50.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
+      "link": "https://www.mlbtraderumors.com/2026/08/2026-mlb-trade-tracker.html",
+      "pubDate": "2026-08-02T01:30:27.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "dodgers"
+      ],
       "players": [],
-      "topics": [],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/luis-arraez-scratched-from-giants-lineup-due-to-cramping"
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/2026-mlb-trade-tracker.html"
         }
       ]
     },
@@ -87945,550 +88509,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/chris-bassitt-transferred-to-60-day-injured-list-by-orioles"
-        }
-      ]
-    },
-    {
-      "title": "Another Good Start to a Doubleheader",
-      "summary": "Guardians lose a game in a doubleheader. Again",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/another-good-start-doubleheader-194803118.html",
-      "pubDate": "2026-07-18T19:48:03.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/another-good-start-doubleheader-194803118.html"
-        }
-      ]
-    },
-    {
-      "title": "Diamondbacks Place Lourdes Gurriel Jr. On 10-Day IL; Select Gerardo Carrillo",
-      "summary": "The Diamondbacks announced that outfielder Lourdes Gurriel Jr. has been placed on the 10-day injured list with a strained right adductor. Catcher Adrian Del Castillo was called up to take Gurriel’s sp…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/diamondbacks-place-lourdes-gurriel-jr-on-10-day-il-select-gerardo-carrillo.html",
-      "pubDate": "2026-07-18T19:45:56.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/diamondbacks-place-lourdes-gurriel-jr-on-10-day-il-select-gerardo-carrillo.html"
-        }
-      ]
-    },
-    {
-      "title": "St. Louis Cardinals Game Discussion vs Arizona Diamondbacks Saturday",
-      "summary": "The St. Louis Cardinals will play game 2 in Arizona Saturday afternoon as Dustin May takes the mound for the Cardinals hoping to win the series versus the Diamondbacks. Arizona will try to foil that p…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/st-louis-cardinals-game-discussion-194500198.html",
-      "pubDate": "2026-07-18T19:45:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/st-louis-cardinals-game-discussion-194500198.html"
-        }
-      ]
-    },
-    {
-      "title": "Saturday afternoon Orioles game thread: at Astros, 4:10 ET",
-      "summary": "Trevor Rogers starts and Christian Encarnacion-Strand makes his O’s debut as the Birds go for six in a row.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/saturday-afternoon-orioles-game-thread-194000028.html",
-      "pubDate": "2026-07-18T19:40:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/saturday-afternoon-orioles-game-thread-194000028.html"
-        }
-      ]
-    },
-    {
-      "title": "Royals vs Padres, July 18 game discussion",
-      "summary": "Here’s the good news: After winning a wild game last night, the Royals have a shot to take the series with a W this afternoon. The bad news: They’re going to have to do it with Randy Dobnak taking a t…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/royals-vs-padres-july-18-194000978.html",
-      "pubDate": "2026-07-18T19:40:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/royals-vs-padres-july-18-194000978.html"
-        }
-      ]
-    },
-    {
-      "title": "Anthony Rizzo gets home run ball in Wrigley Field bleachers as Cubs commemorate 2016 World Series champs",
-      "summary": "Rizzo nearly caught a home run ball in September 2025, sitting in the left-field bleachers after his retirement was celebrated by the Cubs.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/anthony-rizzo-gets-home-run-ball-in-wrigley-field-bleachers-as-cubs-commemorate-2016-world-series-champs-193942444.html",
-      "pubDate": "2026-07-18T19:39:42.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/anthony-rizzo-gets-home-run-ball-in-wrigley-field-bleachers-as-cubs-commemorate-2016-world-series-champs-193942444.html"
-        }
-      ]
-    },
-    {
-      "title": "'It's family': Burns commits to Reds in one of largest deals in club history",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/chase-burns-discusses-contract-extension-with-reds",
-      "pubDate": "2026-07-18T19:38:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/chase-burns-discusses-contract-extension-with-reds"
-        }
-      ]
-    },
-    {
-      "title": "D-backs vs. Cardinals Discussion",
-      "summary": "Today’s Lineups CARDINALS DIAMONDBACKS JJ Wetherholt – 2B Ketel Marte – 2B Ivan Herrera – DH Geraldo Perdomo – SS Alec Burleson – 1B Corbin Carroll – RF Jordan Walker – RF Gabriel Moreno – DH Lars Noo…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/d-backs-vs-cardinals-discussion-193000662.html",
-      "pubDate": "2026-07-18T19:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/d-backs-vs-cardinals-discussion-193000662.html"
-        }
-      ]
-    },
-    {
-      "title": "WATCH: Anthony Rizzo snags homer from Cubs' Michael Busch in right field bleachers at Wrigley Field",
-      "summary": "Rizzo was in Chicago to celebrate the Cubs' 2016 World Series victory",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/cubs-anthony-rizzo-michael-busch-home-run-wrigley-field/\n                    ",
-      "pubDate": "2026-07-18T19:18:22.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/cubs-anthony-rizzo-michael-busch-home-run-wrigley-field/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Game Thread: White Sox (51-45) at Blue Jays (45-52)",
-      "summary": "Undefeated in the post-All Star season!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-thread-white-sox-51-191750382.html",
-      "pubDate": "2026-07-18T19:17:50.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "bluejays",
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-thread-white-sox-51-191750382.html"
-        }
-      ]
-    },
-    {
-      "title": "Will Smith To Remain On Dodgers’ IL Until At Least Mid-August",
-      "summary": "Dodgers catcher Will Smith hasn’t played since June 5 due to an inflamed disc in his neck, and continued soreness in his neck while taking swings last week led to the team shutting Smith down for a we…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/will-smith-to-remain-on-dodgers-il-until-at-least-mid-august.html",
-      "pubDate": "2026-07-18T19:17:35.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/will-smith-to-remain-on-dodgers-il-until-at-least-mid-august.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers Re-Sign Charlie Barnes",
-      "summary": "TODAY: Barnes re-signed with the Dodgers on a new minor league deal, according to the MLB.com transaction tracker. Barnes has been assigned to Triple-A. JULY 15: Barnes elected free agency, MLBTR has…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/dodgers-outright-charlie-barnes.html",
-      "pubDate": "2026-07-18T19:16:25.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade",
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/dodgers-outright-charlie-barnes.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets’ Christian Scott opens up on how he got past his low point and driving force behind post-injury success",
-      "summary": "Christian Scott, the Mets young righty who looks like he could become a rotation staple, takes a swing at some Q&A with Post columnist Steve Serby.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-christian-scott-opens-got-191316980.html",
-      "pubDate": "2026-07-18T19:13:16.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-christian-scott-opens-got-191316980.html"
-        }
-      ]
-    },
-    {
-      "title": "San Diego Padres at Kansas City Royals",
-      "summary": "Your game thread for July 18, 2026.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/san-diego-padres-kansas-city-191000788.html",
-      "pubDate": "2026-07-18T19:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/san-diego-padres-kansas-city-191000788.html"
-        }
-      ]
-    },
-    {
-      "title": "Game 98 Game Day Thread – Texas Rangers @ Atlanta Braves",
-      "summary": "Back to business (but for real this time)",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-98-game-day-thread-191000709.html",
-      "pubDate": "2026-07-18T19:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-98-game-day-thread-191000709.html"
-        }
-      ]
-    },
-    {
-      "title": "Pittsburgh Pirates vs. Cleveland Guardians: Braxton Ashcraft vs. Joey Cantillo",
-      "summary": "The Pirates are on the road looking to grab a win today.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-cleveland-guardians-191000111.html",
-      "pubDate": "2026-07-18T19:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-cleveland-guardians-191000111.html"
-        }
-      ]
-    },
-    {
-      "title": "Rays Reacts Results: Grading the 2026 Draft",
-      "summary": "Following an objectively well ranked haul for the Rays — who had the no. 2 overall pick — we asked for your take on a Rays 2026 MLB Draft that was quite young and full of pitchers. Did you like the ha…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rays-reacts-results-grading-2026-190837922.html",
-      "pubDate": "2026-07-18T19:08:37.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rays-reacts-results-grading-2026-190837922.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves vs Rangers Game Thread: 7/18/2026",
-      "summary": "Join us and discuss tonight’s matchup of two intriguing pitchers in the comments below! Game Info Game Date/Time: Saturday, July 18, 4:10 p.m. ET Location: Truist Park, Atlanta, GA TV: BravesVision St…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-vs-rangers-game-thread-190000287.html",
-      "pubDate": "2026-07-18T19:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-vs-rangers-game-thread-190000287.html"
-        }
-      ]
-    },
-    {
-      "title": "Game Discussion: Milwaukee Brewers (60-37) vs. Miami Marlins (52-46)",
-      "summary": "Brice Turang was scratched from the lineup late as the Brewers will try to take the series",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-discussion-milwaukee-brewers-60-185844296.html",
-      "pubDate": "2026-07-18T18:58:44.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-discussion-milwaukee-brewers-60-185844296.html"
-        }
-      ]
-    },
-    {
-      "title": "Cubs unveil Champions Gate during 10-year anniversary of 2016 World Series team",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/cubs-unveil-champions-gate-and-honor-2016-world-series-team",
-      "pubDate": "2026-07-18T18:54:00.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/cubs-unveil-champions-gate-and-honor-2016-world-series-team"
-        }
-      ]
-    },
-    {
-      "title": "Astros vs. Orioles Game Discussion: 7/18/2026",
-      "summary": "TODAY’S GAME: The Astros will play their 100th game of the season today as they host the Orioles for the middle game of their three-game series at Daikin Park. RHP Spencer Arrighetti (7-5) will get hi…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/astros-vs-orioles-game-discussion-185150118.html",
-      "pubDate": "2026-07-18T18:51:50.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/astros-vs-orioles-game-discussion-185150118.html"
-        }
-      ]
-    },
-    {
-      "title": "White Sox @ Jays Game Thread",
-      "summary": "A win would be nice, or at least score a bunch of runs. The Jays are honoring the players from our World Series wins today. And the Joe Carter statue is being unveiled. Being honest, I don’t see us ha…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/white-sox-jays-game-thread-184046931.html",
-      "pubDate": "2026-07-18T18:40:46.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/white-sox-jays-game-thread-184046931.html"
-        }
-      ]
-    },
-    {
-      "title": "Brandon Woodruff needs another surgery following latest injury",
-      "summary": "Brandon Woodruff fully intends to return to pitching despite needing another surgery",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/brandon-woodruff-needs-another-surgery-following-latest-injury-183336128.html",
-      "pubDate": "2026-07-18T18:33:36.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/brandon-woodruff-needs-another-surgery-following-latest-injury-183336128.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees fans don’t foresee a World Series return",
-      "summary": "The majority surveyed just don’t think that this club has the juice.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-fans-don-t-foresee-183000345.html",
-      "pubDate": "2026-07-18T18:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-fans-don-t-foresee-183000345.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets Notes: Plan to manage Carson Benge and A.J. Ewing down stretch, injury updates",
-      "summary": "Mets interim manager Andy Green hit on several topics ahead of Saturday afternoon’s game in Philadelphia against the Phillies, including injury updates and a potentially crowded outfield.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-notes-plan-manage-carson-182008764.html",
-      "pubDate": "2026-07-18T18:20:08.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "injury",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-notes-plan-manage-carson-182008764.html"
         }
       ]
     }
