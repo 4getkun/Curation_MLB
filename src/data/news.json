@@ -1,22 +1,49 @@
 {
-  "generatedAt": "2026-08-07T06:48:48.017Z",
+  "generatedAt": "2026-08-07T08:09:38.922Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Gaslamp Ball Reacts Survey: Were Padres’ deadline moves what you thought they would be?",
+      "summary": "GM A.J. Preller committed to the Padres and got them some rotation help for the stretch run.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/gaslamp-ball-reacts-survey-were-071822586.html",
+      "pubDate": "2026-08-07T07:18:22.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/gaslamp-ball-reacts-survey-were-071822586.html"
+        }
+      ]
+    },
     {
       "title": "Padres even season series with D-backs, gain ground in Wild Card race",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/padres-beat-d-backs-in-key-national-league-wild-card-battle",
+      "link": "https://www.mlb.com/news/padres-beat-d-backs-in-key-national-league-wild-card-battle",
       "pubDate": "2026-08-07T06:13:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/padres-beat-d-backs-in-key-national-league-wild-card-battle"
+        },
         {
           "name": "MLB.com (Padres)",
           "sourceId": "mlb-com-padres",
@@ -640,6 +667,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/top-2026-draft-pick-roch-cholowsky-first-pro-home-run"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/top-2026-draft-pick-roch-cholowsky-first-pro-home-run"
         }
       ]
     },
@@ -660,6 +692,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/twins-4-royals-3-hits-024329085.html"
+        }
+      ]
+    },
+    {
+      "title": "Nolan McLean battles through worst Mets start in months despite sweep",
+      "summary": "Nolan McLean allowed five runs in his worst start since May, but the Mets still beat the Guardians 13-6 to complete a three-game sweep.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/nolan-mclean-battles-worst-mets-024241484.html",
+      "pubDate": "2026-08-07T02:42:41.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/nolan-mclean-battles-worst-mets-024241484.html"
         }
       ]
     },
@@ -50505,7 +50559,9 @@
       "pubDate": "2026-07-30T23:00:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "whitesox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -88969,49 +89025,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/washington-nationals-upcoming-series-d-153000891.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees Birthday of the Day: Joe Oliver",
-      "summary": "Wishing a happy 61st to a 13-year big-league backstop who partially closed out his career with the Yankees.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-birthday-day-joe-oliver-153000938.html",
-      "pubDate": "2026-07-24T15:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-birthday-day-joe-oliver-153000938.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves&#39; Ronald Acuña Jr. could return from the IL for the series in Baltimore",
-      "summary": "Atlanta right fielder Ronald Acuña Jr. could be activated from the injured list and return to the lineup for the team’s three-game series in Baltimore, Atlanta manager Walt Weiss said.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-ronald-acu-jr-could-152311055.html",
-      "pubDate": "2026-07-24T15:23:11.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-ronald-acu-jr-could-152311055.html"
         }
       ]
     }
