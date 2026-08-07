@@ -1,7 +1,76 @@
 {
-  "generatedAt": "2026-08-07T05:29:31.536Z",
+  "generatedAt": "2026-08-07T06:48:48.017Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Padres even season series with D-backs, gain ground in Wild Card race",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/padres/news/padres-beat-d-backs-in-key-national-league-wild-card-battle",
+      "pubDate": "2026-08-07T06:13:00.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/padres-beat-d-backs-in-key-national-league-wild-card-battle"
+        }
+      ]
+    },
+    {
+      "title": "Podcast: It took 13 innings, but Red Sox win 8th straight",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/07/bf7fae4c-d024fa5a-5021f1df-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "pubDate": "2026-08-07T06:10:35.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/07/bf7fae4c-d024fa5a-5021f1df-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Red Sox trailed in the 9th, 10th, 11th and 12th ... and still won their 8th straight",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/red-sox-walk-it-off-in-13-innings-to-win-8th-straight",
+      "pubDate": "2026-08-07T05:23:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/red-sox-walk-it-off-in-13-innings-to-win-8th-straight"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/red-sox-walk-it-off-in-13-innings-to-win-8th-straight"
+        }
+      ]
+    },
     {
       "title": "Bats come alive, but White Sox drop 13-inning heartbreaker at Fenway",
       "summary": "",
@@ -230,28 +299,6 @@
       ]
     },
     {
-      "title": "Key takeaways: Padres 5, D-backs 1",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/padres-beat-d-backs-in-key-national-league-wild-card-battle",
-      "pubDate": "2026-08-07T04:38:51.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/padres-beat-d-backs-in-key-national-league-wild-card-battle"
-        }
-      ]
-    },
-    {
       "title": "White Sox lose a 13-inning heartbreaker in Boston",
       "summary": "Chicago falls, 12-11, as Boston completes the sweep",
       "titleJa": null,
@@ -402,31 +449,6 @@
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/arjun-nimmala-first-hits-angels-organization-double-a"
-        }
-      ]
-    },
-    {
-      "title": "Red Sox trailed in the 9th, 10th, 11th and 12th ... and still won their 8th straight",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/red-sox-walk-it-off-in-13-innings-to-win-8th-straight",
-      "pubDate": "2026-08-07T03:59:17.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/red-sox-walk-it-off-in-13-innings-to-win-8th-straight"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/red-sox-walk-it-off-in-13-innings-to-win-8th-straight"
         }
       ]
     },
@@ -853,6 +875,52 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/purple-row-dark-rockies-relation-020000240.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers pitcher Gavin Stone makes first start in nearly 2 years",
+      "summary": "Gavin Stone last pitched in a regular season game for the Dodgers in Aug. 2024. Los Angeles Dodgers pitcher Gavin Stone was the team’s workhorse two seasons ago. In 2024,...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-pitcher-gavin-stone-makes-015815505.html",
+      "pubDate": "2026-08-07T01:58:15.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-pitcher-gavin-stone-makes-015815505.html"
+        }
+      ]
+    },
+    {
+      "title": "Chris Russo goes scorched earth on Pete Crow-Armstrong for ‘derogatory’ Babe Ruth ‘never existed’ theory",
+      "summary": "Cubs All-Star Pete Crow-Armstrong is feeling the bite of one Mad Dog.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/chris-russo-goes-scorched-earth-014235298.html",
+      "pubDate": "2026-08-07T01:42:35.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/chris-russo-goes-scorched-earth-014235298.html"
         }
       ]
     },
@@ -2652,6 +2720,26 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mariners-game-116-preview-discussion-194000344.html"
+        }
+      ]
+    },
+    {
+      "title": "'That's how you do it, son': The Griffeys recall iconic B2B HRs, with some trash talk",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/griffeys-join-6-1-1-podcast",
+      "pubDate": "2026-08-06T19:36:01.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/griffeys-join-6-1-1-podcast"
         }
       ]
     },
@@ -41836,7 +41924,9 @@
       "pubDate": "2026-08-01T06:45:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "redsox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -88922,97 +89012,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/braves-ronald-acu-jr-could-152311055.html"
-        }
-      ]
-    },
-    {
-      "title": "Red Sox Minor Lines: Franklin Arias homers in final Double-A game",
-      "summary": "Worcester: W, 15-1 (BOX SCORE) Many will love the Franklin Arias move to Triple-A so he can showcase his power and contact tools at the next level, facing guys who have pitched in the Majors before. O…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/red-sox-minor-lines-franklin-152237653.html",
-      "pubDate": "2026-07-24T15:22:37.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/red-sox-minor-lines-franklin-152237653.html"
-        }
-      ]
-    },
-    {
-      "title": "Rockies All-Star catcher Hunter Goodman tunes out trade buzz, keeps up power surge as deadline nears",
-      "summary": "If the trade rumors prove accurate, Hunter Goodman soon could be receiving a big promotion in the standings. Should that happen, though, it comes with a price — saying so long to teammates bonded thro…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rockies-star-catcher-hunter-goodman-151919009.html",
-      "pubDate": "2026-07-24T15:19:19.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "trade",
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rockies-star-catcher-hunter-goodman-151919009.html"
-        }
-      ]
-    },
-    {
-      "title": "Why the Cardinals' rotation deserves more recognition",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/cardinals-rotation-has-been-an-underrated-strength",
-      "pubDate": "2026-07-24T15:08:54.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/cardinals-rotation-has-been-an-underrated-strength"
-        }
-      ]
-    },
-    {
-      "title": "Which of these 6 paths will Padres take at Trade Deadline?",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/padres-potential-2026-trade-deadline-approaches",
-      "pubDate": "2026-07-24T15:07:39.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/padres-potential-2026-trade-deadline-approaches"
         }
       ]
     }
