@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-08-08T17:55:06.956Z",
+  "generatedAt": "2026-08-08T18:27:09.381Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Rockies Reacts Results: The Rockies passed the trade deadline",
+      "summary": "The vast majority of voters gave them a “good or satisfactory” grade",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/rockies-reacts-results-rockies-passed-180000211.html",
+      "pubDate": "2026-08-08T18:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/rockies-reacts-results-rockies-passed-180000211.html"
+        }
+      ]
+    },
     {
       "title": "Giants 3B Matt Chapman likely to undergo season-ending surgery for hernia, core muscle tear",
       "summary": "Chapman has been on the injured list since July 1 and is scheduled to visit a specialist in Philadelphia before expected surgery.",
@@ -448,6 +472,11 @@
           "name": "CBS Sports MLB",
           "sourceId": "cbssports-mlb",
           "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-cardinals-rockies-ufc-fight-night-saturday/\n                    "
+        },
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-cardinals-vs-rockies-ufc-fight-night-saturday/\n                    "
         }
       ]
     },
@@ -88875,26 +88904,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/sb-nation-reacts-results-e-030000156.html"
-        }
-      ]
-    },
-    {
-      "title": "Martinez does it again, Díaz reaches 1,000 career hits as Rays shut out Guardians",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/nick-martinez-s-scoreless-start-leads-rays-past-guardians",
-      "pubDate": "2026-07-26T02:56:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/nick-martinez-s-scoreless-start-leads-rays-past-guardians"
         }
       ]
     }
