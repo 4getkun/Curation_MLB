@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-08T06:39:26.599Z",
+  "generatedAt": "2026-08-08T07:42:54.108Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Dodgers' skid reaches 7 games as Díaz struggles with slider",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/dodgers-losing-streak-reaches-7-games",
+      "pubDate": "2026-08-08T06:38:00.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-losing-streak-reaches-7-games"
+        }
+      ]
+    },
     {
       "title": "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
       "summary": "",
@@ -90,6 +112,30 @@
           "name": "MLB.com (Padres)",
           "sourceId": "mlb-com-padres",
           "link": "https://www.mlb.com/padres/news/robbie-ray-battles-through-padres-debut-in-loss-to-astros"
+        }
+      ]
+    },
+    {
+      "title": "Top prospect Salas keeps raking at Triple-A, swats first tater",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/padres/news/padres-top-prospect-ethan-salas-hits-first-triple-a-homer",
+      "pubDate": "2026-08-08T06:06:00.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/padres-top-prospect-ethan-salas-hits-first-triple-a-homer"
         }
       ]
     },
@@ -618,28 +664,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/waldschmidt-walk-off-homer-lifts-043811619.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers' losing skid reaches 7 games when D-backs walk off vs. Díaz",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-losing-streak-reaches-7-games",
-      "pubDate": "2026-08-08T04:37:59.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-losing-streak-reaches-7-games"
         }
       ]
     },
@@ -1342,6 +1366,26 @@
       ]
     },
     {
+      "title": "Brewers minor leaguer makes catch of the year bid with unbelievable home run robbery",
+      "summary": "The catch of the year in professional baseball might have come in the Double-A Southern League on Friday night.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brewers-minor-leaguer-makes-catch-031534865.html",
+      "pubDate": "2026-08-08T03:15:34.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brewers-minor-leaguer-makes-catch-031534865.html"
+        }
+      ]
+    },
+    {
       "title": "White Sox promise fans tickets to future game after Ja Rule concert canceled",
       "summary": "The Chicago White Sox announced during their game against the Cleveland Guardians that Ja Rule's post-game concert was canceled.",
       "titleJa": null,
@@ -1689,6 +1733,50 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season"
+        }
+      ]
+    },
+    {
+      "title": "Marcus Semien’s homer powers Mets past Pirates to match season high with fourth straight win",
+      "summary": "Despite his lack of productivity this season, Marcus Semien still has occasional bursts that offer the Mets hope his bat still has life.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/marcus-semien-homer-powers-mets-022757553.html",
+      "pubDate": "2026-08-08T02:27:57.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/marcus-semien-homer-powers-mets-022757553.html"
+        }
+      ]
+    },
+    {
+      "title": "White Sox forced to remove starting pitcher in first inning after making bizarre mistake",
+      "summary": "White Sox pitcher Noah Schultz got yanked early from his start on Friday — but it had little to do with his performance.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/white-sox-forced-remove-starting-022356566.html",
+      "pubDate": "2026-08-08T02:23:56.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/white-sox-forced-remove-starting-022356566.html"
         }
       ]
     },
@@ -88881,98 +88969,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mets-notes-jorge-polanco-play-204337686.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers on Deck: Sunday, July 26 at Mets",
-      "summary": "The Dodgers conclude their nine-game road trip on Sunday, with Emmet Sheehan looking to rebound against the Mets at Citi Field. Sheehan allowed six runs in a loss to the Phillies on Monday, one more r…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-deck-sunday-july-26-204131375.html",
-      "pubDate": "2026-07-25T20:41:31.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers",
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-deck-sunday-july-26-204131375.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB rumors: Nationals could buy and sell at trade deadline; does Juan Soto's injury change plans for Mets?",
-      "summary": "Here are the latest rumors for Major League Baseball with the trade deadline approaching on Aug. 3",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-nationals-athletics/\n                    ",
-      "pubDate": "2026-07-25T20:35:05.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "trade",
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-nationals-athletics/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Yankees, Brewers Have Shown Interest In CJ Abrams",
-      "summary": "Nationals shortstop CJ Abrams has drawn some trade interest from the Yankees and is “expected to” get some interest from the Brewers as well, as per The Athletic’s Spencer Nusbaum and Will Sammon. Mil…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/yankees-brewers-have-shown-interest-in-cj-abrams.html",
-      "pubDate": "2026-07-25T20:33:49.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/yankees-brewers-have-shown-interest-in-cj-abrams.html"
-        }
-      ]
-    },
-    {
-      "title": "Chicago Cubs vs. Pittsburgh Pirates preview, Saturday 7/25, 5:40 CT",
-      "summary": "The Cubs go for the series win against a very tough pitching opponent.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/chicago-cubs-vs-pittsburgh-pirates-203100237.html",
-      "pubDate": "2026-07-25T20:31:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/chicago-cubs-vs-pittsburgh-pirates-203100237.html"
         }
       ]
     }
