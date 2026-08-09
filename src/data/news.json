@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T07:48:20.312Z",
+  "generatedAt": "2026-08-09T08:34:02.461Z",
   "count": 4000,
   "items": [
     {
@@ -566,6 +566,30 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/diamondbacks-michael-soroka-expected-to-return-monday.html"
+        }
+      ]
+    },
+    {
+      "title": "Mets get positive news on Carson Benge injury",
+      "summary": "He received a break Saturday, but not the kind that appears likely to send him to the injured list.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-positive-news-carson-benge-034550197.html",
+      "pubDate": "2026-08-09T03:45:50.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-positive-news-carson-benge-034550197.html"
         }
       ]
     },
@@ -88832,28 +88856,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/colorado-rockies-milwaukee-brewers-overflow-201117133.html"
-        }
-      ]
-    },
-    {
-      "title": "Jacob Misiorowski sets Brewers franchise record for strikeouts with performance not seen since 1920",
-      "summary": "Misiorowski struck out the first seven Rockies hitters and 12 of the first 13",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/jacob-misiorowski-strikeouts-brewers-record/\n                    ",
-      "pubDate": "2026-07-26T20:02:24.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/jacob-misiorowski-strikeouts-brewers-record/\n                    "
         }
       ]
     }
