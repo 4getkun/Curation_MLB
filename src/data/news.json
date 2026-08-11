@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-11T08:46:49.507Z",
+  "generatedAt": "2026-08-11T09:54:16.086Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Yankees news: Chisholm, rest of squad “incredibly frustrated”",
+      "summary": "Offense feeling the pinch; team doc pays tribute; young Yanks could be the key; Scherzer, Cole record history",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-news-chisholm-rest-squad-090000319.html",
+      "pubDate": "2026-08-11T09:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-news-chisholm-rest-squad-090000319.html"
+        }
+      ]
+    },
     {
       "title": "Podcast: NL Wild Card contenders delivering nightly drama",
       "summary": "",
@@ -734,6 +754,29 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/adley-rutschman-to-make-debut-with-red-sox-on-tuesday-vs-blue-jays-after-lingering-wrist-injury-043438857.html"
+        }
+      ]
+    },
+    {
+      "title": "Scoreboard error leads to double-play that throws Blue Jays-Red Sox game into chaos",
+      "summary": "The incorrect number of outs shown on the Rogers Centre scoreboard sent the game spiraling into chaos that led to a more than 15-minute delay as the umps tried to ascertain the situation.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/scoreboard-error-leads-double-play-043254644.html",
+      "pubDate": "2026-08-11T04:32:54.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays",
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/scoreboard-error-leads-double-play-043254644.html"
         }
       ]
     },
@@ -88824,48 +88867,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/07/giants-sending-casey-schmitt-for-imaging-on-left-knee.html"
-        }
-      ]
-    },
-    {
-      "title": "Athletics&#39; Shea Langeliers, Mark Leiter Jr. to have season-ending surgeries",
-      "summary": "The A’s injury report indicated Shea Langeliers will have surgery for a torn meniscus in his right knee and Mark Leiter Jr. will have surgery to repair a right hip impingement.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/athletics-shea-langeliers-mark-leiter-155205405.html",
-      "pubDate": "2026-07-28T15:52:05.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/athletics-shea-langeliers-mark-leiter-155205405.html"
-        }
-      ]
-    },
-    {
-      "title": "Free MLB home run picks, odds for July 28: Bryce Harper in expert's best bets for Tuesday HR player props",
-      "summary": "SportsLine's Jacob Fetner reveals his best MLB home run props picks for Tuesday, July 28",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-july-28-bryce-harper-expert-best-bets-for-tuesday-hr-player-props/\n                    ",
-      "pubDate": "2026-07-28T15:50:58.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-july-28-bryce-harper-expert-best-bets-for-tuesday-hr-player-props/\n                    "
         }
       ]
     }
