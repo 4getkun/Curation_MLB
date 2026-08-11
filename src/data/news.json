@@ -1,22 +1,185 @@
 {
-  "generatedAt": "2026-08-11T06:12:56.786Z",
+  "generatedAt": "2026-08-11T07:44:53.100Z",
   "count": 4000,
   "items": [
     {
-      "title": "Tonight's MiLB at Field of Dreams game is loaded with top prospects",
+      "title": "Gore strikes out nine in first start after welcoming daughter",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/milb-at-field-of-dreams-game-2026",
-      "pubDate": "2026-08-11T06:07:00.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
+      "link": "https://www.mlb.com/news/mackenzie-gore-posts-strong-start-as-rangers-beat-angels",
+      "pubDate": "2026-08-11T07:03:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mackenzie-gore-posts-strong-start-as-rangers-beat-angels"
+        }
+      ]
+    },
+    {
+      "title": "Feeling urgency after tough road trip, Dodgers conjure some clutch magic",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals",
+      "pubDate": "2026-08-11T06:49:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals"
+        }
+      ]
+    },
+    {
+      "title": "This. Team.: Rays 10, Athletics 6",
+      "summary": "With the Yankees sitting idle, and at first pitch, the Red Sox losing a one-run game to the Blue Jays, tonight felt like the perfect opportunity to gain ground on both teams in the AL East pennant rac…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/team-rays-10-athletics-6-064242293.html",
+      "pubDate": "2026-08-11T06:42:42.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
       "teams": [
-        "cubs"
+        "bluejays",
+        "redsox"
       ],
       "players": [],
       "topics": [],
       "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/team-rays-10-athletics-6-064242293.html"
+        }
+      ]
+    },
+    {
+      "title": "Skubal gets 'nerves' in 1st LA start as Dodger: 'This one was special to me'",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tarik-skubal-dodger-stadium-debut-with-dodgers",
+      "pubDate": "2026-08-11T06:32:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tarik-skubal-dodger-stadium-debut-with-dodgers"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/tarik-skubal-dodger-stadium-debut-with-dodgers"
+        }
+      ]
+    },
+    {
+      "title": "Detmers much better in second start after staying with Angels at Deadline",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/angels/news/reid-detmers-bounces-back-with-strong-start-for-angels",
+      "pubDate": "2026-08-11T06:28:55.000Z",
+      "source": "MLB.com (Angels)",
+      "sourceId": "mlb-com-angels",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/reid-detmers-bounces-back-with-strong-start-for-angels"
+        }
+      ]
+    },
+    {
+      "title": "Rays stay rolling as 8-run 8th secures 7th straight win",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/rays-win-seventh-straight-game-with-eight-run-eighth",
+      "pubDate": "2026-08-11T06:28:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/rays-win-seventh-straight-game-with-eight-run-eighth"
+        }
+      ]
+    },
+    {
+      "title": "Down to their final strike, Smith saves Astros in 9th ... then Peña wins it in 10th",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jeremy-pena-astros-beat-giants-in-extra-innings",
+      "pubDate": "2026-08-11T06:20:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jeremy-pena-astros-beat-giants-in-extra-innings"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/jeremy-pena-astros-beat-giants-in-extra-innings"
+        }
+      ]
+    },
+    {
+      "title": "Watch MiLB at Field of Dreams tonight on MLB Network",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
+      "pubDate": "2026-08-11T06:07:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026"
+        },
         {
           "name": "MLB.com (Cubs)",
           "sourceId": "mlb-com-cubs",
@@ -156,28 +319,6 @@
       ]
     },
     {
-      "title": "Gore strikes out nine as Rangers beat Angels in extras to open series",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mackenzie-gore-posts-strong-start-as-rangers-beat-angels",
-      "pubDate": "2026-08-11T05:18:29.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mackenzie-gore-posts-strong-start-as-rangers-beat-angels"
-        }
-      ]
-    },
-    {
       "title": "60-59 – Rangers beat Angels 4-1 at the teeth pulling convention",
       "summary": "The roller coaster goes back above .500",
       "titleJa": null,
@@ -218,31 +359,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/royals-bullpen-melts-down-again-050829808.html"
-        }
-      ]
-    },
-    {
-      "title": "Back home after tough road trip, Dodgers conjure some clutch magic",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals",
-      "pubDate": "2026-08-11T05:07:10.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals"
         }
       ]
     },
@@ -418,9 +534,7 @@
       "pubDate": "2026-08-11T04:49:22.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [
-        "whitesox"
-      ],
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
@@ -428,6 +542,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/white-sox-jordan-hicks-midseason-reinvention"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-jordan-hicks-midseason-reinvention"
         }
       ]
     },
@@ -519,26 +638,6 @@
       ]
     },
     {
-      "title": "Rays stay rolling as 8-run 8th secures 7th straight win",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/rays-win-seventh-straight-game-with-eight-run-eighth",
-      "pubDate": "2026-08-11T04:42:41.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/rays-win-seventh-straight-game-with-eight-run-eighth"
-        }
-      ]
-    },
-    {
       "title": "Astros Bats Come to Life Late, Topple Giants 6-3/10",
       "summary": "Different venue, different result. Astros 6. Giants 3. It took extra innings, it took perseverance, and it took Jeremy Pena breaking out of a 0-24 slump. It also took a three-hit night from Cam Smith.…",
       "titleJa": null,
@@ -557,28 +656,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/astros-bats-come-life-topple-043801463.html"
-        }
-      ]
-    },
-    {
-      "title": "Smith saves Astros in 9th, Peña wins it in 10th",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/jeremy-pena-astros-beat-giants-in-extra-innings",
-      "pubDate": "2026-08-11T04:37:57.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/jeremy-pena-astros-beat-giants-in-extra-innings"
         }
       ]
     },
@@ -655,31 +732,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/dean-kremer-tosses-7-inning-quality-start-against-former-team"
-        }
-      ]
-    },
-    {
-      "title": "Skubal gets first taste of pitching for Dodger Stadium home crowd",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/tarik-skubal-dodger-stadium-debut-with-dodgers",
-      "pubDate": "2026-08-11T04:18:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/tarik-skubal-dodger-stadium-debut-with-dodgers"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/tarik-skubal-dodger-stadium-debut-with-dodgers"
         }
       ]
     },
@@ -780,7 +832,7 @@
       ]
     },
     {
-      "title": "Painter deals work of art with no-hit bid into sixth inning",
+      "title": "Painter crafts work of art with no-hit bid into sixth inning",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -958,6 +1010,26 @@
       ]
     },
     {
+      "title": "Anthony Volpe makes good first Yankees impression with second base experiment underway",
+      "summary": "The process of making Anthony Volpe more defensively versatile — and perhaps more useful to the Yankees — is underway.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/anthony-volpe-makes-good-first-031701520.html",
+      "pubDate": "2026-08-11T03:17:01.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/anthony-volpe-makes-good-first-031701520.html"
+        }
+      ]
+    },
+    {
       "title": "Mets’ Kodai Senga continues strong transition to high-leverage role, locking down first career save",
       "summary": "Kodai Senga continued to excel in his new high-leverage bullpen role, locking down his first carer save with Devin Williams sidelined on Monday.",
       "titleJa": null,
@@ -1008,6 +1080,28 @@
       ]
     },
     {
+      "title": "Dodgers overcome Tarik Skubal’s forgettable home debut with comeback win",
+      "summary": "Los Angeles Dodgers pitcher Tarik Skubal (29) opens the game between the Kansas City Royals and Los Angeles Dodgers at Dodger Stadium in Los Angeles, Calif., on Monday, Aug. 10,...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-overcome-tarik-skubal-forgettable-030040565.html",
+      "pubDate": "2026-08-11T03:00:40.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-overcome-tarik-skubal-forgettable-030040565.html"
+        }
+      ]
+    },
+    {
       "title": "Braves can’t overcome Elder implosion, lack of longball in 8-5 loss to Mets",
       "summary": "Bryce Elder giving up homers and the Braves not hitting homers is a bad combo",
       "titleJa": null,
@@ -1046,6 +1140,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/st-louis-cardinals-furious-rally-025205225.html"
+        }
+      ]
+    },
+    {
+      "title": "Brett Baty’s first career grand slam keeps runs coming for red-hot Mets in win over Braves",
+      "summary": "Monday night, the Mets used Brett Baty’s first-inning grand slam as the propeller in their latest strong offensive showing, an 8-5 victory over the Braves at Truist Park.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brett-baty-first-career-grand-025148715.html",
+      "pubDate": "2026-08-11T02:51:48.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brett-baty-first-career-grand-025148715.html"
         }
       ]
     },
@@ -47257,7 +47373,9 @@
       "pubDate": "2026-08-03T19:37:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "whitesox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -88749,114 +88867,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/guardians-trade-target-ty-france-153355424.html"
-        }
-      ]
-    },
-    {
-      "title": "Padres Reacts Survey Results: Mason Miller can bring haul, but his departure could leave hole",
-      "summary": "Padres will have decisions to make at the trade deadline.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/padres-reacts-survey-results-mason-153243591.html",
-      "pubDate": "2026-07-28T15:32:43.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/padres-reacts-survey-results-mason-153243591.html"
-        }
-      ]
-    },
-    {
-      "title": "Rays Reacts: Will the Rays win the AL East…?",
-      "summary": "With the August 3 trade deadline holding the potential to swing the season for the Tampa Bay Rays, let’s ponder the Rays trajectory. As things stand, the Rays (62-43) hold a 2.5 game lead over the Yan…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rays-reacts-rays-win-al-153042284.html",
-      "pubDate": "2026-07-28T15:30:42.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rays-reacts-rays-win-al-153042284.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees Birthday of the Day: Elmer Miller",
-      "summary": "Miller became the first player in franchise history to bat, record a hit, and score a run in the World Series.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-birthday-day-elmer-miller-153000402.html",
-      "pubDate": "2026-07-28T15:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-birthday-day-elmer-miller-153000402.html"
-        }
-      ]
-    },
-    {
-      "title": "Reds place Spencer Steer on 10-day injured list with right wrist sprain",
-      "summary": "Spencer Steer fouled a pitch off the end of his bat in the fifth inning.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/reds-place-spencer-steer-10-152525935.html",
-      "pubDate": "2026-07-28T15:25:25.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/reds-place-spencer-steer-10-152525935.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB Predictions and Moneyline Picks for Tuesday, July 28",
-      "summary": "Here are the MLB moneyline leans and insights from Colby Marchio. Check out the underdogs he's backing on July 28!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-predictions-moneyline-picks-tuesday-152200765.html",
-      "pubDate": "2026-07-28T15:22:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-predictions-moneyline-picks-tuesday-152200765.html"
         }
       ]
     }
