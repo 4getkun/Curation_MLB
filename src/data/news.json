@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-11T07:44:53.100Z",
+  "generatedAt": "2026-08-11T08:46:49.507Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Podcast: NL Wild Card contenders delivering nightly drama",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/11/2172f4f3-214e94bc-0ec3c9e6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "pubDate": "2026-08-11T07:26:35.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/11/2172f4f3-214e94bc-0ec3c9e6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        }
+      ]
+    },
     {
       "title": "Gore strikes out nine in first start after welcoming daughter",
       "summary": "",
@@ -712,6 +734,30 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/adley-rutschman-to-make-debut-with-red-sox-on-tuesday-vs-blue-jays-after-lingering-wrist-injury-043438857.html"
+        }
+      ]
+    },
+    {
+      "title": "Kodai Senga gets first MLB save in place of injured closer — but Mets teammate costs him keepsake ball",
+      "summary": "Senga pitched a scoreless ninth and wanted the baseball as a keepsake from his first MLB save.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/kodai-senga-gets-first-mlb-043146453.html",
+      "pubDate": "2026-08-11T04:31:46.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [
+        "senga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/kodai-senga-gets-first-mlb-043146453.html"
         }
       ]
     },
@@ -88820,53 +88866,6 @@
           "name": "CBS Sports MLB",
           "sourceId": "cbssports-mlb",
           "link": "\n                                                https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-july-28-bryce-harper-expert-best-bets-for-tuesday-hr-player-props/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Why Tucker has struggled -- and what may be turning around",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/explaining-kyle-tuckers-2026-struggles",
-      "pubDate": "2026-07-28T15:50:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/explaining-kyle-tuckers-2026-struggles"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/explaining-kyle-tuckers-2026-struggles"
-        }
-      ]
-    },
-    {
-      "title": "Guardians Trade Target: Ty France",
-      "summary": "Vive le France!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/guardians-trade-target-ty-france-153355424.html",
-      "pubDate": "2026-07-28T15:33:55.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/guardians-trade-target-ty-france-153355424.html"
         }
       ]
     }
