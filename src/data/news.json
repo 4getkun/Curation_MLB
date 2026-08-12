@@ -1,7 +1,76 @@
 {
-  "generatedAt": "2026-08-12T06:52:19.257Z",
+  "generatedAt": "2026-08-12T09:38:39.962Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Yankees news: Giancarlo Stanton runs bases as rehab continues",
+      "summary": "Stanton getting close; Yanks get $2.6 billion investment; Gil at Hudson Valley; veteran reliever released at Triple-A",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-news-giancarlo-stanton-runs-090000313.html",
+      "pubDate": "2026-08-12T09:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-news-giancarlo-stanton-runs-090000313.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Rockies injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
+      "pubDate": "2026-08-12T07:03:00.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Muncy delivers AGAIN with bases loaded -- this time with walk-off in 10th",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/max-muncy-walks-off-royals-in-10th-inning",
+      "pubDate": "2026-08-12T06:56:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/max-muncy-walks-off-royals-in-10th-inning"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/max-muncy-walks-off-royals-in-10th-inning"
+        }
+      ]
+    },
     {
       "title": "High-altitude rehab start may have been key to Snell's 10-K return from elbow surgery",
       "summary": "",
@@ -258,27 +327,24 @@
       ]
     },
     {
-      "title": "Muncy delivers again with bases loaded, this time with walk-off in 10th",
-      "summary": "",
+      "title": "Dodgers rally for dramatic walk-off win over Royals after blowing late lead",
+      "summary": "Max Muncy #13 of the Los Angeles Dodgers celebrates after hitting a walk-off RBI single against the Kansas City Royals during the tenth inning at Dodger Stadium on Tuesday, August...",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/news/max-muncy-walks-off-royals-in-10th-inning",
-      "pubDate": "2026-08-12T05:14:35.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
+      "link": "https://sports.yahoo.com/articles/dodgers-rally-dramatic-walk-off-051515276.html",
+      "pubDate": "2026-08-12T05:15:15.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
       "players": [],
       "topics": [],
       "sources": [
         {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/max-muncy-walks-off-royals-in-10th-inning"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/max-muncy-walks-off-royals-in-10th-inning"
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-rally-dramatic-walk-off-051515276.html"
         }
       ]
     },
@@ -498,6 +564,48 @@
       ]
     },
     {
+      "title": "Aaron Boone believes sticking with Trent Grisham in center is ‘best way to go’ despite defensive limitation",
+      "summary": "Among 59 outfielders who had seen at least 10 opportunities in center this season, Trent Grisham ranked 59th in sprint speed.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/aaron-boone-believes-sticking-trent-045709967.html",
+      "pubDate": "2026-08-12T04:57:09.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/aaron-boone-believes-sticking-trent-045709967.html"
+        }
+      ]
+    },
+    {
+      "title": "Nate Lavender has ‘proven himself out here’ in overhauled Mets bullpen",
+      "summary": "The lefty entered Tuesday with three scoreless outings in as many appearances, spanning 3 ¹/₃ innings, with only one hit allowed and five strikeouts.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/nate-lavender-proven-himself-overhauled-044644783.html",
+      "pubDate": "2026-08-12T04:46:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/nate-lavender-proven-himself-overhauled-044644783.html"
+        }
+      ]
+    },
+    {
       "title": "11 moments and sights that made MiLB at Field of Dreams magical",
       "summary": "",
       "titleJa": null,
@@ -567,6 +675,26 @@
       ]
     },
     {
+      "title": "Yankees ‘haven’t moved the goalposts’ as they face uphill battle in division against Rays",
+      "summary": "The Yankees woke up Tuesday six games back of first-place Tampa Bay in the AL East.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-haven-t-moved-goalposts-043759570.html",
+      "pubDate": "2026-08-12T04:37:59.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-haven-t-moved-goalposts-043759570.html"
+        }
+      ]
+    },
+    {
       "title": "Whisenhunt rights early struggles, matches career-high 5 2/3 innings in Giants win",
       "summary": "",
       "titleJa": null,
@@ -583,6 +711,26 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/carson-whisenhunt-pitches-career-high-5-2-3-innings-in-giants-win"
+        }
+      ]
+    },
+    {
+      "title": "Ryan Weathers delivers fourth straight stellar start as his Yankees rotation future remains uncertain",
+      "summary": "But the solid work by Weathers allowed the Yankees to come back in the bottom of the seventh, when they finally broke through against the Mariners with four runs.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/ryan-weathers-delivers-fourth-straight-043017494.html",
+      "pubDate": "2026-08-12T04:30:17.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/ryan-weathers-delivers-fourth-straight-043017494.html"
         }
       ]
     },
@@ -734,6 +882,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/blown-rays-12-4-041130198.html"
+        }
+      ]
+    },
+    {
+      "title": "Blake Snell makes dominant return to Dodgers rotation with 10 strikeouts vs Royals",
+      "summary": "Dave Roberts said multiple times in recent days that Dodgers pitcher Blake Snell looks like a man “on a mission.”",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/blake-snell-makes-dominant-return-035600463.html",
+      "pubDate": "2026-08-12T03:56:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/blake-snell-makes-dominant-return-035600463.html"
         }
       ]
     },
@@ -929,6 +1099,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/cubs-minor-league-wrap-heaven-033304040.html"
+        }
+      ]
+    },
+    {
+      "title": "Paul Skenes removed after just 65 pitches — and without hitting 97 mph — in latest troubling start",
+      "summary": "Paul Skenes hasn't been his Cy Young Award self this season, and Tuesday's start almost bordered on the shocking.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/paul-skenes-removed-just-65-032637696.html",
+      "pubDate": "2026-08-12T03:26:37.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/paul-skenes-removed-just-65-032637696.html"
         }
       ]
     },
@@ -1159,6 +1351,26 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/nationals-to-select-jackson-kent.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees offense puts together rare big inning — with a little dose of luck — to beat Mariners",
+      "summary": "The frigid Yankees lineup finally broke through, stacking five knocks and one walk together to score four runs in the seventh inning to seize a 4-1 comeback victory over the Mariners in front of 41,40…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-offense-puts-together-rare-023751021.html",
+      "pubDate": "2026-08-12T02:37:51.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-offense-puts-together-rare-023751021.html"
         }
       ]
     },
@@ -1931,30 +2143,6 @@
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
-      "title": "Latest Rockies injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
-      "pubDate": "2026-08-12T00:51:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
         }
       ]
     },
@@ -88567,212 +88755,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/wednesday-bantering-jays-notes-161428835.html"
-        }
-      ]
-    },
-    {
-      "title": "Blue Jays&#39; Vladimir Guerrero Jr. leaves game with right hamstring tightness",
-      "summary": "Vladimir Guerrero Jr. is hitting .265 with six homers and 44 RBIs this season.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/blue-jays-vladimir-guerrero-jr-160902138.html",
-      "pubDate": "2026-07-29T16:09:02.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/blue-jays-vladimir-guerrero-jr-160902138.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves vs. Mets prediction: Odds, recent stats, trends, and best bets on July 29",
-      "summary": "Atlanta Braves vs. New York Mets Betting Preview for July 29",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-vs-mets-prediction-odds-160806810.html",
-      "pubDate": "2026-07-29T16:08:06.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-vs-mets-prediction-odds-160806810.html"
-        }
-      ]
-    },
-    {
-      "title": "Texas Rangers&#39; Corey Seager homers in Double-A rehab, flashes glove after month out with back issue",
-      "summary": "Corey Seager is on the injured list for the third time this season, and has missed 52 games for Texas — one more than he has played for the AL West-leading Rangers. They are 24-28 without the two-time…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/texas-rangers-corey-seager-homers-160544851.html",
-      "pubDate": "2026-07-29T16:05:44.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/texas-rangers-corey-seager-homers-160544851.html"
-        }
-      ]
-    },
-    {
-      "title": "The Dodgers discovered Mike Piazza, then came to despise him",
-      "summary": "The fact that Mike Piazza is a metalhead really fits with this beef. I believe it’s quite metal to shake out your mullet and be like, “The Dodgers drafted me when no one else would, but f-you corporat…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-discovered-mike-piazza-then-160200227.html",
-      "pubDate": "2026-07-29T16:02:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-discovered-mike-piazza-then-160200227.html"
-        }
-      ]
-    },
-    {
-      "title": "Colorado Rockies 2026 MLB Trade Deadline Tracker, July 29",
-      "summary": "Here’s a space to bring together the rumors and trades of the day.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/colorado-rockies-2026-mlb-trade-160000938.html",
-      "pubDate": "2026-07-29T16:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/colorado-rockies-2026-mlb-trade-160000938.html"
-        }
-      ]
-    },
-    {
-      "title": "Tigers’ Tarik Skubal on schedule to face Orioles with trade deadline approaching",
-      "summary": "Tarik Skubal still is the ace of the Detroit Tigers’ pitching staff as far as manager A.J. Hinch is concerned.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/tigers-tarik-skubal-schedule-face-155703936.html",
-      "pubDate": "2026-07-29T15:57:03.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/tigers-tarik-skubal-schedule-face-155703936.html"
-        }
-      ]
-    },
-    {
-      "title": "Marlins Open To Offers On Several Controllable Players",
-      "summary": "The Marlins’ recent 12-game losing streak put a serious dent in their postseason hopes and ostensibly changed president of baseball operations Peter Bendix’s course at the deadline. While Miami isn’t…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/marlins-trade-rumors-otto-lopez-xavier-edwards-heriberto-hernandez.html",
-      "pubDate": "2026-07-29T15:55:03.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/marlins-trade-rumors-otto-lopez-xavier-edwards-heriberto-hernandez.html"
-        }
-      ]
-    },
-    {
-      "title": "Tarik Skubal trade rumors: Contract details, stats for Tigers&#39; Cy Young ace",
-      "summary": "The Detroit Tigers could trade two-time AL Cy Young winner Tarik Skubal at the MLB trade deadline due to his contract situation. Here's the latest:",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/tarik-skubal-trade-rumors-contract-155453425.html",
-      "pubDate": "2026-07-29T15:54:53.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/tarik-skubal-trade-rumors-contract-155453425.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees vs. White Sox prediction: Odds, recent stats, trends, and best bets for July 29",
-      "summary": "New York Yankees vs. Chicago White Sox Betting Preview for July 29",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-vs-white-sox-prediction-155033485.html",
-      "pubDate": "2026-07-29T15:50:33.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-vs-white-sox-prediction-155033485.html"
         }
       ]
     }
