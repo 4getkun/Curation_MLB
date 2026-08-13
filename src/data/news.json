@@ -1,14 +1,107 @@
 {
-  "generatedAt": "2026-08-13T05:29:19.253Z",
+  "generatedAt": "2026-08-13T06:57:26.681Z",
   "count": 4000,
   "items": [
     {
-      "title": "Klassen picks up first MLB win as Angels beat Rangers",
+      "title": "Latest Dodgers injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
+      "pubDate": "2026-08-13T06:36:00.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers&#39; Freddie Freeman appears to avoid serious injury in fall down dugout steps",
+      "summary": "Dodgers' Freddie Freeman says he is sore basically everywhere, but appears to have escaped serious injury after falling into Royals dugout.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-freddie-freeman-appears-avoid-063055087.html",
+      "pubDate": "2026-08-13T06:30:55.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-freddie-freeman-appears-avoid-063055087.html"
+        }
+      ]
+    },
+    {
+      "title": "Freeman smiles through 'total body soreness' after scary tumble into opposing dugout",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/freddie-freeman-falls-into-royals-dugout-attempting-catch",
+      "pubDate": "2026-08-13T06:23:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/freddie-freeman-falls-into-royals-dugout-attempting-catch"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/freddie-freeman-falls-into-royals-dugout-attempting-catch"
+        }
+      ]
+    },
+    {
+      "title": "Everything to know about tonight's MLB at Field of Dreams Game on Netflix",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup",
+      "pubDate": "2026-08-13T06:23:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup"
+        }
+      ]
+    },
+    {
+      "title": "Klassen picks up first MLB win by going into attack mode",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlb.com/angels/news/george-klassen-picks-up-first-mlb-win",
-      "pubDate": "2026-08-13T05:24:04.000Z",
+      "pubDate": "2026-08-13T06:19:00.000Z",
       "source": "MLB.com (Angels)",
       "sourceId": "mlb-com-angels",
       "teams": [
@@ -21,6 +114,152 @@
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/george-klassen-picks-up-first-mlb-win"
+        }
+      ]
+    },
+    {
+      "title": "Fantasy Baseball Closer Report: Devin Williams sidelined with shoulder strain, Jacob Webb thriving for Cubs",
+      "summary": "Jorge Montanez breaks down the last week in saves from around the league with updated closer rankings.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/fantasy-baseball-closer-report-devin-060156129.html",
+      "pubDate": "2026-08-13T06:01:56.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/fantasy-baseball-closer-report-devin-060156129.html"
+        }
+      ]
+    },
+    {
+      "title": "The story of 'Moonlight' Graham, a Minnesota doctor who got a tantalizing taste of the bigs",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/biography-of-field-of-dreams-moonlight-graham",
+      "pubDate": "2026-08-13T05:44:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/biography-of-field-of-dreams-moonlight-graham"
+        }
+      ]
+    },
+    {
+      "title": "Podcast: It felt like October at Petco",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/13/ef532eb7-dc43d702-d897d3b6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "pubDate": "2026-08-13T05:41:10.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/13/ef532eb7-dc43d702-d897d3b6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        }
+      ]
+    },
+    {
+      "title": "The real ghosts of baseball past",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/field-of-dreams-real-life-players-and-events",
+      "pubDate": "2026-08-13T05:41:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/field-of-dreams-real-life-players-and-events"
+        }
+      ]
+    },
+    {
+      "title": "The woman who found the Field of Dreams",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/who-found-the-field-of-dreams",
+      "pubDate": "2026-08-13T05:40:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/who-found-the-field-of-dreams"
+        }
+      ]
+    },
+    {
+      "title": "W.P. Kinsella: The voice behind 'Field of Dreams'",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/how-w-p-kinsella-s-novel-turned-into-field-of-dreams",
+      "pubDate": "2026-08-13T05:40:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/how-w-p-kinsella-s-novel-turned-into-field-of-dreams"
+        }
+      ]
+    },
+    {
+      "title": "11 Field of Dreams facts you never knew",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/field-of-dreams-facts-you-may-not-have-known",
+      "pubDate": "2026-08-13T05:39:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/field-of-dreams-facts-you-may-not-have-known"
         }
       ]
     },
@@ -205,31 +444,6 @@
       ]
     },
     {
-      "title": "Freeman takes scary tumble into opposing dugout, exits later",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/freddie-freeman-falls-into-royals-dugout-attempting-catch",
-      "pubDate": "2026-08-13T04:50:21.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/freddie-freeman-falls-into-royals-dugout-attempting-catch"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/freddie-freeman-falls-into-royals-dugout-attempting-catch"
-        }
-      ]
-    },
-    {
       "title": "Dodgers use long balls to finish the sweep",
       "summary": "Royals swept by the Dodgers",
       "titleJa": null,
@@ -292,6 +506,30 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/dodgers-1b-freddie-freeman-exits-game-after-scary-fall-down-steps-into-dodger-stadium-dugout-044700491.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers 1B Freddie Freeman day-to-day with &#39;total body soreness&#39; after scary fall down dugout steps",
+      "summary": "Freeman initially stayed in the game, but was pulled for a pinch-hitter in the bottom of the eighth.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/dodgers-1b-freddie-freeman-day-to-day-with-total-body-soreness-after-scary-fall-down-dugout-steps-044700491.html",
+      "pubDate": "2026-08-13T04:47:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/dodgers-1b-freddie-freeman-day-to-day-with-total-body-soreness-after-scary-fall-down-dugout-steps-044700491.html"
         }
       ]
     },
@@ -572,7 +810,7 @@
       ]
     },
     {
-      "title": "The Cubs never doubted Alex Bregman and neither did he. His three-homer game shows why.",
+      "title": "Alex Bregman stays red-hot as Chicago Cubs continue march up MLB standings",
       "summary": "Alex Bregman is more locked in than any hitter in the major leagues, launching three homers in his latest outing.",
       "titleJa": null,
       "summaryJa": null,
@@ -775,6 +1013,26 @@
       ]
     },
     {
+      "title": "Trent Grisham belts two homers as Yankees enjoy needed offensive explosion in win over Mariners",
+      "summary": "For weeks (or arguably months) without Aaron Judge and to a lesser extent Cody Bellinger and Giancarlo Stanton, the Yankees lineup has looked asleep.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/trent-grisham-belts-two-homers-024727051.html",
+      "pubDate": "2026-08-13T02:47:27.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/trent-grisham-belts-two-homers-024727051.html"
+        }
+      ]
+    },
+    {
       "title": "Mighty Mahle and Braves bombs secure series win versus the Mets, 6-3",
       "summary": "Taking AA apology forms at the door.",
       "titleJa": null,
@@ -969,6 +1227,28 @@
       ]
     },
     {
+      "title": "Dedniel Nunez’s latest Mets chance hits another bump with ugly outing in loss to Braves",
+      "summary": "The Mets were shut out Monday — and before that Saturday in Pittsburgh. In their six victories on the trip, they averaged 8.3 runs. On this night, they did not place a runner in scoring position until…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dedniel-nunez-latest-mets-chance-020201278.html",
+      "pubDate": "2026-08-13T02:02:01.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dedniel-nunez-latest-mets-chance-020201278.html"
+        }
+      ]
+    },
+    {
       "title": "Purple Row After Dark: What should the Rockies start, stop and continue doing?",
       "summary": "Let’s give structured feedback to the Rockies down the final stretch",
       "titleJa": null,
@@ -1144,26 +1424,22 @@
       ]
     },
     {
-      "title": "Latest Dodgers injuries & transactions",
-      "summary": "",
+      "title": "Three fans get tackled by security after storming field at Yankees game in wild scene",
+      "summary": "Three fans caused a brief delay in the Yankees’ game Wednesday, sprinting into right field before getting tackled to the ground by security in the fifth inning.",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
-      "pubDate": "2026-08-13T01:25:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
+      "link": "https://sports.yahoo.com/articles/three-fans-tackled-security-storming-012003079.html",
+      "pubDate": "2026-08-13T01:20:03.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
       "players": [],
-      "topics": [
-        "injury"
-      ],
+      "topics": [],
       "sources": [
         {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/three-fans-tackled-security-storming-012003079.html"
         }
       ]
     },
@@ -1446,26 +1722,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/cardinals-beat-zack-wheeler-for-series-win-over-phillies"
-        }
-      ]
-    },
-    {
-      "title": "Everything to know about the 2026 MLB at Field of Dreams Game on Netflix",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup",
-      "pubDate": "2026-08-13T00:02:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup"
         }
       ]
     },
@@ -88469,260 +88725,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/yankees-sequence-week-david-bednar-133000910.html"
-        }
-      ]
-    },
-    {
-      "title": "Jake Gelof’s first professional three-homer game",
-      "summary": "Three homers guaranteed Jake Gelof as Player of the Day for a second consecutive game, as the Drillers beat the Naturals",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/jake-gelof-first-professional-three-133000294.html",
-      "pubDate": "2026-07-30T13:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/jake-gelof-first-professional-three-133000294.html"
-        }
-      ]
-    },
-    {
-      "title": "Cubs vs. Cardinals prediction: Odds, recent stats, trends, and best bets on July 30",
-      "summary": "Chicago Cubs vs. St. Louis Cardinals Betting Preview for July 30",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cubs-vs-cardinals-prediction-odds-132647979.html",
-      "pubDate": "2026-07-30T13:26:47.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cubs-vs-cardinals-prediction-odds-132647979.html"
-        }
-      ]
-    },
-    {
-      "title": "Tigers To Promote Max Clark",
-      "summary": "The Tigers are calling up top outfield prospect Max Clark, reports Emily Waldon of Baseball America and Just Baseball Media. Clark, the No. 3 overall pick in the 2023 draft, currently ranks as the No.…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/tigers-call-up-max-clark-top-prospect.html",
-      "pubDate": "2026-07-30T13:19:38.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/tigers-call-up-max-clark-top-prospect.html"
-        }
-      ]
-    },
-    {
-      "title": "What's behind unheralded Brewer's breakout? Elite bat speed is just the start",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/garrett-mitchell-breakout-season-2026",
-      "pubDate": "2026-07-30T13:05:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/garrett-mitchell-breakout-season-2026"
-        }
-      ]
-    },
-    {
-      "title": "Cardinals 3, Cubs 2: Pete Crow-Armstrong homers in the 10th, but…",
-      "summary": "PCA’s two-run shot and great pitching by Matthew Boyd went for naught.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cardinals-3-cubs-2-pete-130000223.html",
-      "pubDate": "2026-07-30T13:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cardinals-3-cubs-2-pete-130000223.html"
-        }
-      ]
-    },
-    {
-      "title": "Will the Braves curtail Austin Riley’s playing time?",
-      "summary": "Will enough be enough?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-curtail-austin-riley-playing-130000985.html",
-      "pubDate": "2026-07-30T13:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-curtail-austin-riley-playing-130000985.html"
-        }
-      ]
-    },
-    {
-      "title": "How aggressive should the Phillies be at the trade deadline?",
-      "summary": "So many problems, so little prospects",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/aggressive-phillies-trade-deadline-130000008.html",
-      "pubDate": "2026-07-30T13:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/aggressive-phillies-trade-deadline-130000008.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB trade deadline matchmaker; how NFL stars Bijan Robinson, Jahmyr Gibbs can reset RB market",
-      "summary": "Plus, who will follow LeBron James as the next face of the NBA?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-trade-deadline-nfl-bijan-robinson-jahmyr-gibbs-rb-market/\n                    ",
-      "pubDate": "2026-07-30T12:51:39.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-trade-deadline-nfl-bijan-robinson-jahmyr-gibbs-rb-market/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Thoughts on a 3-0 Rangers loss",
-      "summary": "Rays 3, Rangers 0",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/thoughts-3-0-rangers-loss-124859843.html",
-      "pubDate": "2026-07-30T12:48:59.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/thoughts-3-0-rangers-loss-124859843.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets vs. Marlins: How to watch on SNY on July 30, 2026",
-      "summary": "Here's how to watch the Mets game on SNY.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-vs-marlins-watch-sny-124000247.html",
-      "pubDate": "2026-07-30T12:40:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-vs-marlins-watch-sny-124000247.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets Morning News: Mets split doubleheader with Braves",
-      "summary": "Your Thursday morning dose of Mets and Major League Baseball news, notes, and links.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-morning-news-mets-split-123000123.html",
-      "pubDate": "2026-07-30T12:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-morning-news-mets-split-123000123.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees Rivalry Roundup: Rays blank Rangers, bolster AL East lead",
-      "summary": "Recapping how the Yankees’ top AL opponents fared on July 29th.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-rivalry-roundup-rays-blank-123000354.html",
-      "pubDate": "2026-07-30T12:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-rivalry-roundup-rays-blank-123000354.html"
         }
       ]
     }
