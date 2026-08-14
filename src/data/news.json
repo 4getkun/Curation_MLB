@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-08-14T06:53:33.308Z",
+  "generatedAt": "2026-08-14T08:09:24.621Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Díaz blows third save in a week, and LA misses chance to tie for NL's best record",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/edwin-diaz-blows-third-save-in-last-four-outings",
+      "pubDate": "2026-08-14T07:08:53.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/edwin-diaz-blows-third-save-in-last-four-outings"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/edwin-diaz-blows-third-save-in-last-four-outings"
+        }
+      ]
+    },
+    {
+      "title": "Brew Crew rallies in 9th to stun Dodgers: 'That's Brewers baseball right there'",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
+      "pubDate": "2026-08-14T07:02:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record"
+        }
+      ]
+    },
     {
       "title": "Trout throws it back to 2018 with another big night for hot-hitting Halos",
       "summary": "",
@@ -90,28 +137,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/dodgers-massive-problem-name-edwin-052730126.html"
-        }
-      ]
-    },
-    {
-      "title": "Brew Crew rallies in 9th to stun Dodgers, stay atop NL",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
-      "pubDate": "2026-08-14T05:18:40.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record"
         }
       ]
     },
@@ -583,6 +608,26 @@
       ]
     },
     {
+      "title": "Carlos Rodon looks dominant in possible final rehab start before Yankees return",
+      "summary": "The Yankees star looks like a pitcher ready for a return to the majors.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/carlos-rodon-looks-dominant-possible-025615411.html",
+      "pubDate": "2026-08-14T02:56:15.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/carlos-rodon-looks-dominant-possible-025615411.html"
+        }
+      ]
+    },
+    {
       "title": "Check out every kernel of detail in Harper's head-to-toe corn-themed apparel",
       "summary": "",
       "titleJa": null,
@@ -619,6 +664,26 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/phillies-7-twins-1-ll-023624118.html"
+        }
+      ]
+    },
+    {
+      "title": "Kyle Schwarber belts two Field of Dreams home runs — with help of Twins outfielder’s blunder",
+      "summary": "Kyle Schwarber's second home run during Thursday's MLB Field of Dreams Game came with a little help from the field.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/kyle-schwarber-belts-two-field-023620545.html",
+      "pubDate": "2026-08-14T02:36:20.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/kyle-schwarber-belts-two-field-023620545.html"
         }
       ]
     },
@@ -32683,7 +32748,9 @@
       "pubDate": "2026-08-08T17:26:04.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "dodgers"
+      ],
       "players": [
         "yamamoto"
       ],
@@ -88505,82 +88572,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mlb-lineup-report-luis-laras-135915692.html"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Milwaukee Brewers vs. Los Angeles Angels on MLB Sunday Leadoff: Live stream/TV info, preview",
-      "summary": "The NL Central-leading Brewers head to Los Angeles for a Sunday Leadoff clash with the Angels on Peacock and NBCSN.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/watch-milwaukee-brewers-vs-los-133851300.html",
-      "pubDate": "2026-07-31T13:38:51.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/watch-milwaukee-brewers-vs-los-133851300.html"
-        }
-      ]
-    },
-    {
-      "title": "The Opener: Clemens, Seager, Peralta",
-      "summary": "Dodgers two-way star Shohei Ohtani was out of the starting nine on Thursday due to nagging knee issues. The injury is keeping him from pitching, but wasn’t supposed to knock him out of the lineup. Man…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/the-opener-clemens-seager-peralta.html",
-      "pubDate": "2026-07-31T13:38:08.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/the-opener-clemens-seager-peralta.html"
-        }
-      ]
-    },
-    {
-      "title": "10 years since Astros plucked Yordan from Dodgers",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/yordan-alvarez-2016-trade-astros-dodgers-10-years-later",
-      "pubDate": "2026-07-31T13:34:01.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "astros",
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/yordan-alvarez-2016-trade-astros-dodgers-10-years-later"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/yordan-alvarez-2016-trade-astros-dodgers-10-years-later"
         }
       ]
     }
