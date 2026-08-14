@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-14T08:09:24.621Z",
+  "generatedAt": "2026-08-14T09:33:57.315Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Yankees news: Spencer goes to the swing doctor",
+      "summary": "Spencer Jones’ work on his swing; Rob Refsynder retires; are the Yanks “sleeping giants”; Jazz’s rough 2026.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-news-spencer-goes-swing-090000076.html",
+      "pubDate": "2026-08-14T09:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-news-spencer-goes-swing-090000076.html"
+        }
+      ]
+    },
     {
       "title": "Díaz blows third save in a week, and LA misses chance to tie for NL's best record",
       "summary": "",
@@ -334,6 +356,28 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/twins-lose-to-phillies-in-2026-mlb-field-of-dreams-game"
+        }
+      ]
+    },
+    {
+      "title": "Max Muncy becomes Dodger Stadium home run king in loss to Brewers",
+      "summary": "The Dodgers couldn’t hold onto a late lead on Thursday night against the Milwaukee Brewers. But with a history-making swing, Max Muncy at least gave one. Summoned from the bench...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/max-muncy-becomes-dodger-stadium-043932967.html",
+      "pubDate": "2026-08-14T04:39:32.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/max-muncy-becomes-dodger-stadium-043932967.html"
         }
       ]
     },
@@ -88530,48 +88574,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mariners-news-j-minter-max-140000764.html"
-        }
-      ]
-    },
-    {
-      "title": "Guardians Trade Target: Reid Detmers",
-      "summary": "A long-targeted interest of mine",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/guardians-trade-target-reid-detmers-140000454.html",
-      "pubDate": "2026-07-31T14:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/guardians-trade-target-reid-detmers-140000454.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB Lineup Report: Luis Lara&#39;s opportunity, Max Clark set to debut",
-      "summary": "A weekly look at lineup trends around MLB and the impact in fantasy baseball leagues.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-lineup-report-luis-laras-135915692.html",
-      "pubDate": "2026-07-31T13:59:15.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-lineup-report-luis-laras-135915692.html"
         }
       ]
     }
