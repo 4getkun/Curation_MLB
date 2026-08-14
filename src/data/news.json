@@ -1,7 +1,194 @@
 {
-  "generatedAt": "2026-08-14T21:47:59.474Z",
+  "generatedAt": "2026-08-14T22:15:23.676Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Suzuki powers Holmes' first win with Cubs",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/clay-holmes-seiya-suzuki-lead-cubs-win-vs-cardinals",
+      "pubDate": "2026-08-14T22:05:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "suzuki"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/clay-holmes-seiya-suzuki-lead-cubs-win-vs-cardinals"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/clay-holmes-seiya-suzuki-lead-cubs-win-vs-cardinals"
+        }
+      ]
+    },
+    {
+      "title": "Nationals to move CJ Abrams from shortstop to second base, manager Blake Butera announces",
+      "summary": "Abrams was the National League All-Star starter at shortstop, but he's one of the worst at the position defensively.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/nationals-to-move-cj-abrams-from-shortstop-to-second-base-manager-blake-butera-announces-220026843.html",
+      "pubDate": "2026-08-14T22:00:26.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel",
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/nationals-to-move-cj-abrams-from-shortstop-to-second-base-manager-blake-butera-announces-220026843.html"
+        }
+      ]
+    },
+    {
+      "title": "Cardinals To Promote Joshua Báez",
+      "summary": "The Cardinals are going to promote outfield prospect Joshua Báez. Manager Oli Marmol tells reporters, including Derrick Goold of the St. Louis Post-Dispatch, that Báez will be in tomorrow’s lineup. Mi…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/cardinals-to-promote-joshua-baez.html",
+      "pubDate": "2026-08-14T22:00:11.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/cardinals-to-promote-joshua-baez.html"
+        }
+      ]
+    },
+    {
+      "title": "Nationals Moving CJ Abrams To Second Base",
+      "summary": "Nationals manager Blake Butera announced to the media today that CJ Abrams will be gradually moving from shortstop to second base. He will still play shortstop on occasion but Nasim Nuñez will be the…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/nationals-moving-cj-abrams-to-second-base.html",
+      "pubDate": "2026-08-14T21:50:33.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/nationals-moving-cj-abrams-to-second-base.html"
+        }
+      ]
+    },
+    {
+      "title": "Cubs 3, Cardinals 0: Clay Holmes’ pitching and a Seiya Suzuki three-run homer",
+      "summary": "A key three-run homer, great pitching and strong defense gave the Cubs the win.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-3-cardinals-0-clay-215000765.html",
+      "pubDate": "2026-08-14T21:50:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [
+        "suzuki"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-3-cardinals-0-clay-215000765.html"
+        }
+      ]
+    },
+    {
+      "title": "Cardinals calling up No. 3 prospect Báez, slugger to debut at Wrigley",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/joshua-baez-being-called-up-saturday-to-make-mlb-debut",
+      "pubDate": "2026-08-14T21:47:48.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/joshua-baez-being-called-up-saturday-to-make-mlb-debut"
+        }
+      ]
+    },
+    {
+      "title": "Latest Mets injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/mets/news/mets-injuries-and-roster-moves",
+      "pubDate": "2026-08-14T21:42:00.000Z",
+      "source": "MLB.com (Mets)",
+      "sourceId": "mlb-com-mets",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/mets-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Boston Red Sox vs. Pittsburgh Pirates: Jake Bennett vs. Bubba Chandler",
+      "summary": "The Pirates are at PNC Park looking to grab a win today.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/boston-red-sox-vs-pittsburgh-214000270.html",
+      "pubDate": "2026-08-14T21:40:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/boston-red-sox-vs-pittsburgh-214000270.html"
+        }
+      ]
+    },
     {
       "title": "Latest Blue Jays injuries & transactions",
       "summary": "",
@@ -23,28 +210,6 @@
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
-      "title": "Nationals Moving CJ Abrams To Second Base",
-      "summary": "Nationals manager Blake Butera announced to the media today that CJ Abrams will be gradually moving from shortstop to second base. He will still play shortstop on occasion but Nasim Nuñez will be the…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/nationals-moving-cj-abrams-to-second-base.html",
-      "pubDate": "2026-08-14T21:35:33.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/nationals-moving-cj-abrams-to-second-base.html"
         }
       ]
     },
@@ -87,29 +252,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/washington-nationals-planning-move-cj-212000198.html"
-        }
-      ]
-    },
-    {
-      "title": "Cardinals To Promote Joshua Báez",
-      "summary": "The Cardinals are going to promote outfield prospect Joshua Báez. Manager Oli Marmol tells reporters, including Derrick Goold of the St. Louis Post-Dispatch, that Báez will be in tomorrow’s lineup. Mi…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/cardinals-to-promote-joshua-baez.html",
-      "pubDate": "2026-08-14T21:18:11.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/cardinals-to-promote-joshua-baez.html"
         }
       ]
     },
@@ -198,33 +340,6 @@
       ]
     },
     {
-      "title": "Suzuki powers Holmes' first win with Cubs",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/clay-holmes-seiya-suzuki-lead-cubs-win-vs-cardinals",
-      "pubDate": "2026-08-14T21:11:58.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [
-        "suzuki"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/clay-holmes-seiya-suzuki-lead-cubs-win-vs-cardinals"
-        },
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/clay-holmes-seiya-suzuki-lead-cubs-win-vs-cardinals"
-        }
-      ]
-    },
-    {
       "title": "Padres take win streak on road to open 3-game set with Guardians",
       "summary": "FriarWatch: August 14 Edition",
       "titleJa": null,
@@ -243,6 +358,30 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/padres-win-streak-road-open-211000842.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB Home Run Props & Predictions Tonight: Best HR Picks & Parlay for Aug. 14",
+      "summary": "Colby Marchio breaks down his favorite MLB home run picks for Friday, Aug. 14, featuring sluggers like Shohei Ohtani and Yordan Alvarez.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-home-run-props-predictions-173100100.html",
+      "pubDate": "2026-08-14T21:06:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-home-run-props-predictions-173100100.html"
         }
       ]
     },
@@ -1305,26 +1444,24 @@
       ]
     },
     {
-      "title": "MLB Home Run Props & Predictions Today: Best HR Picks & Parlay for Aug. 14",
-      "summary": "Colby Marchio breaks down his favorite MLB home run picks for Friday, Aug. 14, featuring sluggers like Shohei Ohtani and Yordan Alvarez.",
+      "title": "Giants to host 2028 MLB All-Star Game despite Summer Olympics controversy",
+      "summary": "The MLB All-Star Game is scheduled to be held in San Francisco. The event is moving forward despite an ongoing dispute with the MLB Players Association and 2028 Summer Olympic...",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-home-run-props-predictions-173100100.html",
-      "pubDate": "2026-08-14T17:31:00.000Z",
+      "link": "https://sports.yahoo.com/articles/giants-host-2028-mlb-star-174447851.html",
+      "pubDate": "2026-08-14T17:44:47.000Z",
       "source": "Yahoo Sports MLB",
       "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
       ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
       "sources": [
         {
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-home-run-props-predictions-173100100.html"
+          "link": "https://sports.yahoo.com/articles/giants-host-2028-mlb-star-174447851.html"
         }
       ]
     },
@@ -24219,30 +24356,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-philadelphia-233000702.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Mets injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/mets-injuries-and-roster-moves",
-      "pubDate": "2026-08-10T23:29:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/mets-injuries-and-roster-moves"
         }
       ]
     },
@@ -88404,129 +88517,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/final-series-trade-deadline-begins-011000770.html"
-        }
-      ]
-    },
-    {
-      "title": "Astros Move Tatsuya Imai To Bullpen",
-      "summary": "The Astros are moving Tatsuya Imai to the bullpen beginning with this weekend’s series against Texas, manager Joe Espada told reporters (link via Chandler Rome of The Athletic). Houston has not yet an…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/07/astros-move-tatsuya-imai-to-bullpen.html",
-      "pubDate": "2026-08-01T01:07:19.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "astros"
-      ],
-      "players": [
-        "imai"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/07/astros-move-tatsuya-imai-to-bullpen.html"
-        }
-      ]
-    },
-    {
-      "title": "Ohtani (knee) returns to lineup for opener vs. Red Sox",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shohei-ohtani-knee-returns-to-dodgers-lineup",
-      "pubDate": "2026-08-01T00:59:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "redsox",
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shohei-ohtani-knee-returns-to-dodgers-lineup"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-knee-returns-to-dodgers-lineup"
-        }
-      ]
-    },
-    {
-      "title": "Mize scratched by Tigers as a non-injury precaution in advance of Trade Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/casey-mize-scratched-by-tigers-before-trade-deadline",
-      "pubDate": "2026-08-01T00:55:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/casey-mize-scratched-by-tigers-before-trade-deadline"
-        }
-      ]
-    },
-    {
-      "title": "Athletics ink son of franchise icon Mark McGwire to minor league deal",
-      "summary": "The Athletics signed Max McGwire, son of former MLB slugger and A's icon Mark McGwire, to a minor league contract earlier this week.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/athletics-ink-son-franchise-icon-004539678.html",
-      "pubDate": "2026-08-01T00:45:39.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/athletics-ink-son-franchise-icon-004539678.html"
-        }
-      ]
-    },
-    {
-      "title": "San Francisco Giants at San Diego Padres",
-      "summary": "Your game thread for July 31, 2026.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/san-francisco-giants-san-diego-004500034.html",
-      "pubDate": "2026-08-01T00:45:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/san-francisco-giants-san-diego-004500034.html"
         }
       ]
     }
