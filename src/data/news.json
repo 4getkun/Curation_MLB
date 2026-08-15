@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:45:59.489Z",
+  "generatedAt": "2026-08-15T11:13:50.552Z",
   "count": 4000,
   "items": [
     {
@@ -135,6 +135,32 @@
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers"
+        }
+      ]
+    },
+    {
+      "title": "Mets’ Kodai Senga showing signs of success as late-inning reliever",
+      "summary": "Kodai Senga, whose first three short-inning relief outings came on the road, picked up the save in the Mets' 4-1 win over the Nationals.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-kodai-senga-showing-signs-063148330.html",
+      "pubDate": "2026-08-15T06:31:48.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [
+        "senga"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-kodai-senga-showing-signs-063148330.html"
         }
       ]
     },
@@ -88502,26 +88528,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/news-guardians-trade-heuer-naylor-135753051.html"
-        }
-      ]
-    },
-    {
-      "title": "Minor League Recap – Akron Pitchers Strike Out Fourteen, Alfonsin Rosario Hits First AAA Home Run",
-      "summary": "Minor League Recap for Friday, July 31st, 2026",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/minor-league-recap-akron-pitchers-135613475.html",
-      "pubDate": "2026-08-01T13:56:13.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/minor-league-recap-akron-pitchers-135613475.html"
         }
       ]
     }
