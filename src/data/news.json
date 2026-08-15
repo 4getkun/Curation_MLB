@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T07:06:35.214Z",
+  "generatedAt": "2026-08-15T07:50:24.963Z",
   "count": 4000,
   "items": [
     {
@@ -21,6 +21,60 @@
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/zac-veen-homers-into-mccovey-cove-in-rockies-win-over-giants"
+        }
+      ]
+    },
+    {
+      "title": "Ohtani throws off mound; Smith, Rushing take batting practice",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/shohei-ohtani-will-smith-dalton-rushing-injury-updates",
+      "pubDate": "2026-08-15T06:53:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/shohei-ohtani-will-smith-dalton-rushing-injury-updates"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-will-smith-dalton-rushing-injury-updates"
+        }
+      ]
+    },
+    {
+      "title": "Yamamoto dominates through 6, then Díaz gets redemption with a save",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers",
+      "pubDate": "2026-08-15T06:35:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers"
         }
       ]
     },
@@ -224,7 +278,7 @@
       ]
     },
     {
-      "title": "Yoshinobu Yamamoto shines, Edwin Díaz struggles in Dodgers&#39; win over Brewers",
+      "title": "Edwin Díaz feels he&#39;s &#39;going in a good direction&#39; after escaping jam in Dodgers&#39; win",
       "summary": "Yoshinobu Yamamoto gives up just four hits over six solid innings as the Dodgers overcome another shaky Edwin Díaz performance to beat Milwaukee 3-1.",
       "titleJa": null,
       "summaryJa": null,
@@ -266,33 +320,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/nationals-moving-cj-abrams-to-second-base.html"
-        }
-      ]
-    },
-    {
-      "title": "Yamamoto continues dominance vs. Brewers and bullpen locks down the win",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers",
-      "pubDate": "2026-08-15T04:50:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [
-        "yamamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers"
         }
       ]
     },
@@ -575,33 +602,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/phillies-casey-lawrence-agree-to-minor-league-deal.html"
-        }
-      ]
-    },
-    {
-      "title": "Ohtani throws off mound; Smith, Rushing take batting practice",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shohei-ohtani-will-smith-dalton-rushing-injury-updates",
-      "pubDate": "2026-08-15T04:06:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shohei-ohtani-will-smith-dalton-rushing-injury-updates"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-will-smith-dalton-rushing-injury-updates"
         }
       ]
     },
