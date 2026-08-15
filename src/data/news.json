@@ -1,14 +1,81 @@
 {
-  "generatedAt": "2026-08-15T22:14:00.183Z",
+  "generatedAt": "2026-08-15T22:45:14.317Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Cardinals rookie Joshua Báez makes MLB history by homering in first three big-league at-bats",
+      "summary": "Báez led the minors in home runs before his promotion, and he showed off that power at Wrigley Field",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/joshua-baez-cardinals-mlb-history-home-run/\n                    ",
+      "pubDate": "2026-08-15T22:28:14.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/joshua-baez-cardinals-mlb-history-home-run/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "White Sox earn series win vs. rival Tigers but 'still have a lot more to go'",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/white-sox-win-series-vs-al-central-rival-tigers",
+      "pubDate": "2026-08-15T22:23:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/white-sox-win-series-vs-al-central-rival-tigers"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-win-series-vs-al-central-rival-tigers"
+        }
+      ]
+    },
+    {
+      "title": "Outdone by the Jays bullpen, Yankees relive painful memory",
+      "summary": "One run against the Blue Jays' bullpen with several opportunities left on the table leads to a deflating loss on the road",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/outdone-jays-bullpen-yankees-relive-221938265.html",
+      "pubDate": "2026-08-15T22:19:38.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/outdone-jays-bullpen-yankees-relive-221938265.html"
+        }
+      ]
+    },
     {
       "title": "Surging Blue Jays withstand Schlittler, take down Yankees",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlb.com/news/charles-mcadoo-drives-in-2-as-blue-jays-beat-yankees",
-      "pubDate": "2026-08-15T22:04:42.000Z",
+      "pubDate": "2026-08-15T22:17:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
       "teams": [],
@@ -24,6 +91,134 @@
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/charles-mcadoo-drives-in-2-as-blue-jays-beat-yankees"
+        }
+      ]
+    },
+    {
+      "title": "Angels Select Michael Fulmer",
+      "summary": "Right-hander Michael Fulmer is joining the Angels tonight against the Royals. The club announced the selection of Fulmer’s contract, along with the demotion of lefty Sammy Peralta back to Triple-A. Th…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/angels-select-michael-fulmer.html",
+      "pubDate": "2026-08-15T22:15:19.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/angels-select-michael-fulmer.html"
+        }
+      ]
+    },
+    {
+      "title": "Boston Red Sox vs. Pittsburgh Pirates: Sonny Gray vs. Jared Jones",
+      "summary": "The Pirates are at PNC Park looking to grab a win today.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/boston-red-sox-vs-pittsburgh-221500163.html",
+      "pubDate": "2026-08-15T22:15:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/boston-red-sox-vs-pittsburgh-221500163.html"
+        }
+      ]
+    },
+    {
+      "title": "San Diego Padres at Cleveland Guardians",
+      "summary": "Your game thread for August 15, 2026.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/san-diego-padres-cleveland-guardians-221000921.html",
+      "pubDate": "2026-08-15T22:10:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/san-diego-padres-cleveland-guardians-221000921.html"
+        }
+      ]
+    },
+    {
+      "title": "Game 124: Phillies at Twins",
+      "summary": "First Pitch: 6:10 pm CDT TV: Twins.TV Radio: TIBN / WCCO 830 / The Wolf 102.9 FM / Audacy The Twins have had a full Friday off to wash their nationally-televised Field of Dreams performance out of the…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-124-phillies-twins-221000469.html",
+      "pubDate": "2026-08-15T22:10:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-124-phillies-twins-221000469.html"
+        }
+      ]
+    },
+    {
+      "title": "Braves vs Diamondbacks Game Thread: 8/15/2026",
+      "summary": "Join us in the comments below as the Braves look to even the series! Game Info Game Time: Saturday, August 15, 7:15 PM ET Location: Truist Park, Atlanta, GA Watch: FOX Radio/Audio: 680 AM/93.7 FM The…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/braves-vs-diamondbacks-game-thread-220000088.html",
+      "pubDate": "2026-08-15T22:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-vs-diamondbacks-game-thread-220000088.html"
+        }
+      ]
+    },
+    {
+      "title": "Best MLB debuts of all-time: Where does Joshua Báez's three-homer performance fit in baseball history?",
+      "summary": "Báez homered in his first three MLB at-bats Saturday as the Cardinals topped the Cubs",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/best-mlb-debuts-of-all-time-joshua-baez/\n                    ",
+      "pubDate": "2026-08-15T21:57:30.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/best-mlb-debuts-of-all-time-joshua-baez/\n                    "
         }
       ]
     },
@@ -153,28 +348,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/orioles-vs-rays-discussion-214000130.html"
-        }
-      ]
-    },
-    {
-      "title": "Angels Select Michael Fulmer",
-      "summary": "Right-hander Michael Fulmer is joining the Angels tonight against the Royals. The club announced the selection of Fulmer’s contract, along with the demotion of lefty Sammy Peralta back to Triple-A. Th…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/angels-select-michael-fulmer.html",
-      "pubDate": "2026-08-15T21:38:19.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/angels-select-michael-fulmer.html"
         }
       ]
     },
@@ -327,26 +500,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/red-sox-pirates-time-regain-212319525.html"
-        }
-      ]
-    },
-    {
-      "title": "Cardinals rookie Joshua Báez makes MLB history by homering in first three big-league at-bats",
-      "summary": "Báez led the minors in home runs before his promotion, and he showed off that power at Wrigley Field",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/joshua-baez-cardinals-mlb-history-home-run/\n                    ",
-      "pubDate": "2026-08-15T21:19:18.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/joshua-baez-cardinals-mlb-history-home-run/\n                    "
         }
       ]
     },
@@ -659,31 +812,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/jonathan-ornelas-acquired-by-brewers-via-trade"
-        }
-      ]
-    },
-    {
-      "title": "White Sox win series vs. Tigers amid battle in AL Central",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/white-sox-win-series-vs-al-central-rival-tigers",
-      "pubDate": "2026-08-15T20:04:46.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/white-sox-win-series-vs-al-central-rival-tigers"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/white-sox-win-series-vs-al-central-rival-tigers"
         }
       ]
     },
@@ -1300,6 +1428,31 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/braves-look-even-series-behind-180000663.html"
+        }
+      ]
+    },
+    {
+      "title": "Andrew Friedman reveals the 90 minutes Tarik Skubal trade got real",
+      "summary": "The pursuit for Tarik Skubal began approximately nine months ago. At Major League Baseball’s GM meetings in early November, the Los Angeles Dodgers made it known that they wanted to...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/andrew-friedman-reveals-90-minutes-175646011.html",
+      "pubDate": "2026-08-15T17:56:46.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/andrew-friedman-reveals-90-minutes-175646011.html"
         }
       ]
     },
@@ -88376,163 +88529,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/giants-call-nate-furman-place-001716070.html"
-        }
-      ]
-    },
-    {
-      "title": "Giants Select Nate Furman",
-      "summary": "The Giants selected the contract of infielder Nate Furman, per a team announcement. Jesus Rodriguez is heading to the injured list with an elbow injury. San Francisco has an opening on the 40-man rost…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/giants-to-select-nate-furman.html",
-      "pubDate": "2026-08-02T00:11:07.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/giants-to-select-nate-furman.html"
-        }
-      ]
-    },
-    {
-      "title": "8/1 Gamethread: Giants @ Padres",
-      "summary": "Tyler Mahle vs. Walker Buehler.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/8-1-gamethread-giants-padres-001000713.html",
-      "pubDate": "2026-08-02T00:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/8-1-gamethread-giants-padres-001000713.html"
-        }
-      ]
-    },
-    {
-      "title": "Mariners 4, Twins 3: Slow bats, Lewis miscue dooms Twins",
-      "summary": "A defensive miscue leads to a disappointing Twins loss.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mariners-4-twins-3-slow-235042900.html",
-      "pubDate": "2026-08-01T23:50:42.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mariners-4-twins-3-slow-235042900.html"
-        }
-      ]
-    },
-    {
-      "title": "Taylor's recent power surge adds more juice to trade talk",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/tyrone-taylor-homers-ahead-of-2026-trade-deadline",
-      "pubDate": "2026-08-01T23:46:26.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/tyrone-taylor-homers-ahead-of-2026-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/tyrone-taylor-homers-ahead-of-2026-trade-deadline"
-        }
-      ]
-    },
-    {
-      "title": "Athletics Select Ben Bowden, DFA Connor Thomas",
-      "summary": "6:40 pm: To make room for Bowden on their 40-man roster, the Athletics have designated Connor Thomas for assignment. They claimed the left-hander off waivers from the Braves earlier this week and opti…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/athletics-select-ben-bowden.html",
-      "pubDate": "2026-08-01T23:40:24.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/athletics-select-ben-bowden.html"
-        }
-      ]
-    },
-    {
-      "title": "Pitching great, offense can’t create, White Sox shut out by Rays",
-      "summary": "Great pitching job wasted in 1-0 setback",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/pitching-great-offense-t-create-234001369.html",
-      "pubDate": "2026-08-01T23:40:01.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/pitching-great-offense-t-create-234001369.html"
-        }
-      ]
-    },
-    {
-      "title": "San Francisco Giants at San Diego Padres",
-      "summary": "Your game thread for August1, 2026.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/san-francisco-giants-san-diego-234000984.html",
-      "pubDate": "2026-08-01T23:40:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/san-francisco-giants-san-diego-234000984.html"
         }
       ]
     }
