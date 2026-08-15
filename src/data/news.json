@@ -1,7 +1,193 @@
 {
-  "generatedAt": "2026-08-15T18:19:07.339Z",
+  "generatedAt": "2026-08-15T18:53:59.775Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Latest Rockies injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
+      "pubDate": "2026-08-15T18:40:00.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Cards No. 3 prospect Báez debuting vs. rival Cubs",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/joshua-baez-mlb-debut",
+      "pubDate": "2026-08-15T18:37:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/joshua-baez-mlb-debut"
+        }
+      ]
+    },
+    {
+      "title": "Judge plays catch for first time, marking key step in rehab",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/aaron-judge-plays-catch-for-first-time-during-rehab",
+      "pubDate": "2026-08-15T18:36:51.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/aaron-judge-plays-catch-for-first-time-during-rehab"
+        }
+      ]
+    },
+    {
+      "title": "Yankees&#39; Aaron Judge played catch on Friday for first time during rehab",
+      "summary": "Yankees slugger Aaron Judge played catch for the first time during his rehab process on Friday.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-aaron-judge-played-catch-182235556.html",
+      "pubDate": "2026-08-15T18:22:35.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-aaron-judge-played-catch-182235556.html"
+        }
+      ]
+    },
+    {
+      "title": "Struggling Edwin Díaz working on mechanics amid chaotic Dodgers bullpen stretch",
+      "summary": "LOS ANGLES — Edwin Díaz likely won’t be available to pitch for the remainder of the weekend against the Milwaukee Brewers, after pitching on each of the last two nights, with extended outings both nig…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/struggling-edwin-d-az-working-182200229.html",
+      "pubDate": "2026-08-15T18:22:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/struggling-edwin-d-az-working-182200229.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest White Sox injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves",
+      "pubDate": "2026-08-15T18:20:00.000Z",
+      "source": "MLB.com (White Sox)",
+      "sourceId": "mlb-com-whitesox",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "pubDate": "2026-08-15T18:18:00.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "After long journey through injuries in Minors, Tiedemann called up to make MLB debut",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays",
+      "pubDate": "2026-08-15T18:14:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/ricky-tiedemann-call-up-blue-jays"
+        }
+      ]
+    },
     {
       "title": "Minor league update for 8/14/26",
       "summary": "Friday in the Rangers minor league system",
@@ -43,6 +229,11 @@
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/cam-schlitter-dylan-cease-pitch-in-yankees-blue-jays-series"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/cam-schlittler-dylan-cease-pitch-in-yankees-blue-jays-series"
         }
       ]
     },
@@ -85,30 +276,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/braves-look-even-series-behind-180000663.html"
-        }
-      ]
-    },
-    {
-      "title": "Cards No. 3 prospect Báez debuting vs. rival Cubs",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/joshua-baez-mlb-debut",
-      "pubDate": "2026-08-15T17:54:08.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/joshua-baez-mlb-debut"
         }
       ]
     },
@@ -156,6 +323,26 @@
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-out-of-blue-jays-lineup-vs-yankees-on-august-15-2026"
+        }
+      ]
+    },
+    {
+      "title": "MLB Home Run Props & Predictions Today: Best HR Picks & Parlay for Aug. 15",
+      "summary": "Best MLB home run props and predictions for Saturday, August 15, featuring Jac Caglianone, Pete Alonso, and Kyle Schwarber.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-home-run-props-predictions-174300373.html",
+      "pubDate": "2026-08-15T17:43:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-home-run-props-predictions-174300373.html"
         }
       ]
     },
@@ -488,34 +675,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/chicago-cubs-vs-st-louis-163100639.html"
-        }
-      ]
-    },
-    {
-      "title": "After long journey through injuries in Minors, Tiedemann called up to make MLB debut",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays",
-      "pubDate": "2026-08-15T16:29:51.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/ricky-tiedemann-call-up-blue-jays"
         }
       ]
     },
@@ -955,6 +1114,30 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/giants-outright-eddys-leonard.html"
+        }
+      ]
+    },
+    {
+      "title": "Shohei Ohtani’s mound absence has contributed to Dodgers’ bullpen problems",
+      "summary": "Shohei Ohtani's absence has forced the Dodgers to choose between carrying a sixth starting pitcher or an eighth reliever -- and it's created problems.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/shohei-ohtani-mound-absence-contributed-144004495.html",
+      "pubDate": "2026-08-15T14:40:04.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/shohei-ohtani-mound-absence-contributed-144004495.html"
         }
       ]
     },
@@ -2945,30 +3128,6 @@
       ]
     },
     {
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "pubDate": "2026-08-15T02:38:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
       "title": "Cubs Minor League Wrap: Smokies hang on to beat Trash Pandas, 5-4",
       "summary": "Knoxville and South Bend win. Myrtle Beach loses. Iowa gets rain.",
       "titleJa": null,
@@ -3593,30 +3752,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/jobe-jittery-sox-bats-boom-013008995.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Rockies injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
-      "pubDate": "2026-08-15T01:18:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
         }
       ]
     },
@@ -6288,30 +6423,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/yankees-rotation-depth-inventory-august-170000305.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest White Sox injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves",
-      "pubDate": "2026-08-14T16:55:00.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/white-sox-injuries-and-roster-moves"
         }
       ]
     },
@@ -88440,110 +88551,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/yankees-top-defensive-plays-july-200000701.html"
-        }
-      ]
-    },
-    {
-      "title": "Texas Rangers lineup for August 1, 2026",
-      "summary": "The second of three in Houston",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-1-195533435.html",
-      "pubDate": "2026-08-01T19:55:33.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-1-195533435.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees vs Cubs Prediction, Picks & Odds for Tonight&#39;s MLB Game",
-      "summary": "As the Yankees visit the Cubs on August 1, 2026, and I’m backing New York behind Max Fried while the weather pushes me Under in our picks, odds & expert predictions.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-vs-cubs-prediction-picks-130200110.html",
-      "pubDate": "2026-08-01T19:51:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-vs-cubs-prediction-picks-130200110.html"
-        }
-      ]
-    },
-    {
-      "title": "Mariners Game #112 Preview and Discussion: 8/1/26, Twins at Mariners",
-      "summary": "The Mariners open August languishing in third in the AL West",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mariners-game-112-preview-discussion-194849948.html",
-      "pubDate": "2026-08-01T19:48:49.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mariners-game-112-preview-discussion-194849948.html"
-        }
-      ]
-    },
-    {
-      "title": "Drake Baldwin leads off again, facing the righty Miles Mikolas",
-      "summary": "The Braves go back to Drake Baldwin at the top of their batting order, facing a veteran righty starter",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/drake-baldwin-leads-off-again-194509339.html",
-      "pubDate": "2026-08-01T19:45:09.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/drake-baldwin-leads-off-again-194509339.html"
-        }
-      ]
-    },
-    {
-      "title": "Game Thread: The White Sox were a huge help last week",
-      "summary": "And I would appreciate even more help if that’s alright with everyone.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-thread-white-sox-were-194500142.html",
-      "pubDate": "2026-08-01T19:45:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-thread-white-sox-were-194500142.html"
         }
       ]
     }
