@@ -1,14 +1,39 @@
 {
-  "generatedAt": "2026-08-15T02:10:39.195Z",
+  "generatedAt": "2026-08-15T03:10:53.189Z",
   "count": 4000,
   "items": [
     {
-      "title": "Campusano, Bogaerts combine for 6 RBIs to push Padres' win streak to 6",
+      "title": "Guerrero exits, in concussion protocol after collision on chaotic play",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/luis-campusano-padres-beat-guardians-series-opener",
-      "pubDate": "2026-08-15T02:08:35.000Z",
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-exits-game-after-collision-at-third",
+      "pubDate": "2026-08-15T03:07:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/vladimir-guerrero-jr-exits-game-after-collision-at-third"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-exits-game-after-collision-at-third"
+        }
+      ]
+    },
+    {
+      "title": "Musgrove stretches out to 70 pitches in 3rd rehab start",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/padres/news/joe-musgrove-makes-third-rehab-start",
+      "pubDate": "2026-08-15T03:03:02.000Z",
       "source": "MLB.com (Padres)",
       "sourceId": "mlb-com-padres",
       "teams": [
@@ -20,7 +45,335 @@
         {
           "name": "MLB.com (Padres)",
           "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/joe-musgrove-makes-third-rehab-start"
+        }
+      ]
+    },
+    {
+      "title": "Vargas homers twice as White Sox power up to open critical series with Tigers",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/white-sox-hit-4-home-runs-in-win-over-tigers",
+      "pubDate": "2026-08-15T02:51:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/white-sox-hit-4-home-runs-in-win-over-tigers"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-hit-4-home-runs-in-win-over-tigers"
+        }
+      ]
+    },
+    {
+      "title": "Latest Astros injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves",
+      "pubDate": "2026-08-15T02:48:00.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Burrows works scoreless start in Triple-A rehab appearance",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/mike-burrows-makes-rehab-appearance-in-triple-a",
+      "pubDate": "2026-08-15T02:43:42.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/mike-burrows-makes-rehab-appearance-in-triple-a"
+        }
+      ]
+    },
+    {
+      "title": "Key takeaways: Blue Jays 3, Yankees 1",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/blue-jays-beat-yankees-to-gain-ground-in-wild-card-race",
+      "pubDate": "2026-08-15T02:39:00.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/blue-jays-beat-yankees-to-gain-ground-in-wild-card-race"
+        }
+      ]
+    },
+    {
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "pubDate": "2026-08-15T02:38:00.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Cubs Minor League Wrap: Smokies hang on to beat Trash Pandas, 5-4",
+      "summary": "Knoxville and South Bend win. Myrtle Beach loses. Iowa gets rain.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-minor-league-wrap-smokies-023640323.html",
+      "pubDate": "2026-08-15T02:36:40.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-minor-league-wrap-smokies-023640323.html"
+        }
+      ]
+    },
+    {
+      "title": "Glasnow strikes out 8 in sharp rehab start, expects to make one more",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/tyler-glasnow-strikes-out-8-in-rehab-start",
+      "pubDate": "2026-08-15T02:33:32.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/tyler-glasnow-strikes-out-8-in-rehab-start"
+        }
+      ]
+    },
+    {
+      "title": "Gunnar Henderson and Dylan Beavers come up clutch in 6-5 win over Rays",
+      "summary": "A strong offensive showing and a nervy 9th inning added up to O’s fourth straight win vs. Tampa.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/gunnar-henderson-dylan-beavers-come-023046102.html",
+      "pubDate": "2026-08-15T02:30:46.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/gunnar-henderson-dylan-beavers-come-023046102.html"
+        }
+      ]
+    },
+    {
+      "title": "Henderson heating up with 4-for-4 night as O's snap Rays' win streak at 9",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/gunnar-henderson-leads-orioles-to-win-over-rays",
+      "pubDate": "2026-08-15T02:25:59.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/gunnar-henderson-leads-orioles-to-win-over-rays"
+        }
+      ]
+    },
+    {
+      "title": "Boone ejected by home-plate ump after arguing strike call on García",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/aaron-boone-ejected-from-yankees-blue-jays",
+      "pubDate": "2026-08-15T02:23:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/aaron-boone-ejected-from-yankees-blue-jays"
+        }
+      ]
+    },
+    {
+      "title": "Offense fails to show up in Yanks’ series opener against Jays",
+      "summary": "Another dud performance from the offense dooms the start of the road trip.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/offense-fails-show-yanks-series-022241501.html",
+      "pubDate": "2026-08-15T02:22:41.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/offense-fails-show-yanks-series-022241501.html"
+        }
+      ]
+    },
+    {
+      "title": "Friday Night Orioles Victory GIF Party",
+      "summary": "The Orioles won their Friday night game. You know what must be done.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/friday-night-orioles-victory-gif-022119527.html",
+      "pubDate": "2026-08-15T02:21:19.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/friday-night-orioles-victory-gif-022119527.html"
+        }
+      ]
+    },
+    {
+      "title": "Blue Jays kick off comeback win over Yankees with wild error-filled RBI, finish with Alejandro Kirk homer",
+      "summary": "George Springer found a game-tying run thanks to Luis García losing his glove...and quickly overthrowing the ball.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/blue-jays-kick-off-comeback-win-over-yankees-with-wild-error-filled-rbi-finish-with-alejandro-kirk-homer-021257897.html",
+      "pubDate": "2026-08-15T02:12:57.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/blue-jays-kick-off-comeback-win-over-yankees-with-wild-error-filled-rbi-finish-with-alejandro-kirk-homer-021257897.html"
+        }
+      ]
+    },
+    {
+      "title": "Campusano, Bogaerts combine for 6 RBIs to push Padres' win streak to 6",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/luis-campusano-padres-beat-guardians-series-opener",
+      "pubDate": "2026-08-15T02:08:35.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/luis-campusano-padres-beat-guardians-series-opener"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
           "link": "https://www.mlb.com/padres/news/luis-campusano-padres-beat-guardians-series-opener"
+        }
+      ]
+    },
+    {
+      "title": "Pfaadt, bullpen blow away Braves to earn road win",
+      "summary": "The D-backs offense was frustrating most of the night, but Pfaadt was up to the task and delivered the W",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pfaadt-bullpen-blow-away-braves-020717234.html",
+      "pubDate": "2026-08-15T02:07:17.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pfaadt-bullpen-blow-away-braves-020717234.html"
         }
       ]
     },
@@ -43,6 +396,28 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/tigers-michael-siani-agree-to-minor-league-contract.html"
+        }
+      ]
+    },
+    {
+      "title": "Big fifth inning propels White Sox to big division win",
+      "summary": "Friday’s win gives the South Siders the lead in the season series over Detroit",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/big-fifth-inning-propels-white-020640308.html",
+      "pubDate": "2026-08-15T02:06:40.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/big-fifth-inning-propels-white-020640308.html"
         }
       ]
     },
@@ -178,73 +553,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/braves-blanked-diamondbacks-series-opener-015822210.html"
-        }
-      ]
-    },
-    {
-      "title": "Key takeaways: Blue Jays 3, Yankees 1",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/blue-jays-beat-yankees-to-gain-ground-in-wild-card-race",
-      "pubDate": "2026-08-15T01:55:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/blue-jays-beat-yankees-to-gain-ground-in-wild-card-race"
-        }
-      ]
-    },
-    {
-      "title": "Boone ejected by home-plate ump after arguing strike call on García",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/aaron-boone-ejected-from-yankees-blue-jays",
-      "pubDate": "2026-08-15T01:53:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/aaron-boone-ejected-from-yankees-blue-jays"
-        }
-      ]
-    },
-    {
-      "title": "Guerrero exits after collision at third on chaotic run-scoring play",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-exits-game-after-collision-at-third",
-      "pubDate": "2026-08-15T01:52:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/vladimir-guerrero-jr-exits-game-after-collision-at-third"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-exits-game-after-collision-at-third"
         }
       ]
     },
@@ -490,31 +798,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/abner-uribe-on-injured-list-with-right-forearm-strain"
-        }
-      ]
-    },
-    {
-      "title": "Vargas homers twice as White Sox power up to open critical series with Tigers",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/white-sox-hit-4-home-runs-in-win-over-tigers",
-      "pubDate": "2026-08-15T01:31:32.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/white-sox-hit-4-home-runs-in-win-over-tigers"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/white-sox-hit-4-home-runs-in-win-over-tigers"
         }
       ]
     },
@@ -1000,30 +1283,6 @@
       ]
     },
     {
-      "title": "Latest Astros injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves",
-      "pubDate": "2026-08-14T23:27:00.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
       "title": "Cardinals calling up No. 3 prospect Báez, slugger to debut at Wrigley",
       "summary": "",
       "titleJa": null,
@@ -1443,6 +1702,26 @@
       ]
     },
     {
+      "title": "Orioles’ Pete Alonso hitting leadoff for first time ever in curious decision",
+      "summary": "Pete Alonso is doing something Friday night that he’s never done before.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/orioles-pete-alonso-hitting-leadoff-223138132.html",
+      "pubDate": "2026-08-14T22:31:38.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/orioles-pete-alonso-hitting-leadoff-223138132.html"
+        }
+      ]
+    },
+    {
       "title": "GameThread: Detroit Tigers vs. Chicago White Sox, 6:40 p.m.",
       "summary": "Detroit Tigers (59-61) vs. Chicago White Sox (62-58) Time/Place: 6:40 p.m., Comerica ParkSB Nation Site: South Side SoxMedia: Detroit SportsNet, MLB.TV, Tigers Radio NetworkPitching Matchup: RHP Jacks…",
       "titleJa": null,
@@ -1847,30 +2126,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/boston-red-sox-vs-pittsburgh-214000270.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "pubDate": "2026-08-14T21:40:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
         }
       ]
     },
@@ -88261,269 +88516,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/twins-win-vs-mariners-with-trade-deadline-looming"
-        }
-      ]
-    },
-    {
-      "title": "Padres solidify status as buyers at Deadline with commanding win over Giants",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/padres-defeat-giants-looking-to-buy-at-trade-deadline",
-      "pubDate": "2026-08-01T06:11:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/padres-defeat-giants-looking-to-buy-at-trade-deadline"
-        }
-      ]
-    },
-    {
-      "title": "Tigers' top prospect Clark lives up to hype with three-hit debut",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/max-clark-callup-by-tigers",
-      "pubDate": "2026-08-01T06:11:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/max-clark-callup-by-tigers"
-        }
-      ]
-    },
-    {
-      "title": "Mariners write some sad, bad poetry, lose to Twins 5-3",
-      "summary": "Mariners keep stumbling, tumbling, as Twins go rumbling in 5-3 win",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mariners-write-sad-bad-poetry-061038883.html",
-      "pubDate": "2026-08-01T06:10:38.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mariners-write-sad-bad-poetry-061038883.html"
-        }
-      ]
-    },
-    {
-      "title": "Doyle returns to Rockies outfield group generating Deadline interest",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/brenton-doyle-activated-from-injured-list",
-      "pubDate": "2026-08-01T06:06:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/brenton-doyle-activated-from-injured-list"
-        }
-      ]
-    },
-    {
-      "title": "What does it mean to be in first place on Aug. 1?",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/what-the-standings-on-august-1st-mean",
-      "pubDate": "2026-08-01T06:04:22.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/what-the-standings-on-august-1st-mean"
-        }
-      ]
-    },
-    {
-      "title": "Twins acquiring veteran starter Kremer from Orioles",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/twins-trade-for-dean-kremer-from-orioles",
-      "pubDate": "2026-08-01T06:04:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/twins-trade-for-dean-kremer-from-orioles"
-        }
-      ]
-    },
-    {
-      "title": "Sugano dazzles in potential last start for Rockies ahead of Deadline",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/tomoyuki-sugano-leads-rockies-to-win-over-royals",
-      "pubDate": "2026-08-01T06:03:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [
-        "sugano"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/tomoyuki-sugano-leads-rockies-to-win-over-royals"
-        }
-      ]
-    },
-    {
-      "title": "Astros beat Rangers to take division lead, season series against rival",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/astros-beat-rangers-to-take-over-first-in-american-league-west",
-      "pubDate": "2026-08-01T05:53:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/astros-beat-rangers-to-take-over-first-in-american-league-west"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/astros-beat-rangers-to-take-over-first-in-american-league-west"
-        }
-      ]
-    },
-    {
-      "title": "The Jesús Made Game: 5 hits, 2 homers, 7 RBIs for MLB's No. 1 prospect",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/brewers-top-prospect-jesus-made-5-hits-2-homers-7-rbi-double-a",
-      "pubDate": "2026-08-01T05:52:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/brewers-top-prospect-jesus-made-5-hits-2-homers-7-rbi-double-a"
-        }
-      ]
-    },
-    {
-      "title": "Drohan sharp in Brewers' winning start to 17-day gauntlet",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shane-drohan-strikes-out-7-to-lead-brewers-past-angels",
-      "pubDate": "2026-08-01T05:47:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shane-drohan-strikes-out-7-to-lead-brewers-past-angels"
-        }
-      ]
-    },
-    {
-      "title": "Twins acquire Dean Kremer from Orioles ahead of deadline",
-      "summary": "The Minnesota Twins took another step in their desire to contend this week.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/twins-acquire-dean-kremer-orioles-053644828.html",
-      "pubDate": "2026-08-01T05:36:44.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/twins-acquire-dean-kremer-orioles-053644828.html"
-        }
-      ]
-    },
-    {
-      "title": "De Paula, Hope, Sirota: Dodgers' vaunted prospect trio ALL go deep at Double-A",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-prospects-josue-de-paula-zyhir-hope-mike-sirota-homer-same-game",
-      "pubDate": "2026-08-01T05:36:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-prospects-josue-de-paula-zyhir-hope-mike-sirota-homer-same-game"
         }
       ]
     }
