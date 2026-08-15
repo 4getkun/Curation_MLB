@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-08-15T05:48:50.027Z",
+  "generatedAt": "2026-08-15T06:25:52.156Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Dodgers 2026 game results",
+      "summary": "Keeping track of every game this season, all in one place",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
+      "pubDate": "2026-08-15T06:01:50.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
+        }
+      ]
+    },
+    {
+      "title": "Steady Schanuel ties career high with 4 RBIs in Halos' loss",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/angels/news/nolan-schanuel-records-4-rbis-in-angels-loss-to-royals",
+      "pubDate": "2026-08-15T05:51:33.000Z",
+      "source": "MLB.com (Angels)",
+      "sourceId": "mlb-com-angels",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/nolan-schanuel-records-4-rbis-in-angels-loss-to-royals"
+        }
+      ]
+    },
     {
       "title": "Christian Walk(off)! Astros slugger's winning blast caps 5-run 10th in wild win",
       "summary": "",
@@ -249,28 +293,6 @@
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers 2026 game results",
-      "summary": "Keeping track of every game this season, all in one place",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
-      "pubDate": "2026-08-15T04:48:44.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
         }
       ]
     },
@@ -1376,6 +1398,30 @@
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Yankees’ Aaron Boone gets tossed for 50th career ejection — then gets fired up",
+      "summary": "Aaron Boone didn't get to see the end of Friday's Yankees-Blue Jays game from the dugout.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-aaron-boone-gets-tossed-013639301.html",
+      "pubDate": "2026-08-15T01:36:39.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-aaron-boone-gets-tossed-013639301.html"
         }
       ]
     },
@@ -88474,52 +88520,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/tigers-look-clinch-road-series-132641108.html"
-        }
-      ]
-    },
-    {
-      "title": "ICYMI in Mets Land: New York falls short against Marlins; latest trade deadline buzz",
-      "summary": "Here's what happened in Mets Land on Friday, in case you missed it...",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/icymi-mets-land-york-falls-132549779.html",
-      "pubDate": "2026-08-01T13:25:49.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/icymi-mets-land-york-falls-132549779.html"
-        }
-      ]
-    },
-    {
-      "title": "Out of the cornfield, and into the playoff hunt",
-      "summary": "Enjoy the ride, White Sox fans!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cornfield-playoff-hunt-131200398.html",
-      "pubDate": "2026-08-01T13:12:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cornfield-playoff-hunt-131200398.html"
         }
       ]
     }
