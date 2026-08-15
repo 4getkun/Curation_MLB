@@ -1,7 +1,120 @@
 {
-  "generatedAt": "2026-08-15T04:54:49.194Z",
+  "generatedAt": "2026-08-15T05:18:26.493Z",
   "count": 4000,
   "items": [
+    {
+      "title": "McNeil stops just short of cycle as A's begin to play spoiler",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jeff-mcneil-s-four-hits-lead-a-s-past-rangers",
+      "pubDate": "2026-08-15T04:54:38.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jeff-mcneil-s-four-hits-lead-a-s-past-rangers"
+        }
+      ]
+    },
+    {
+      "title": "Veen makes another splash as Rockies win 3rd straight",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/zac-veen-homers-into-mccovey-cove-in-rockies-win-over-giants",
+      "pubDate": "2026-08-15T04:54:33.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/zac-veen-homers-into-mccovey-cove-in-rockies-win-over-giants"
+        }
+      ]
+    },
+    {
+      "title": "Nationals Moving CJ Abrams To Second Base",
+      "summary": "Nationals manager Blake Butera announced to the media today that CJ Abrams will be gradually moving from shortstop to second base. He will still play shortstop on occasion but Nasim Nuñez will be the…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/nationals-moving-cj-abrams-to-second-base.html",
+      "pubDate": "2026-08-15T04:50:33.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/nationals-moving-cj-abrams-to-second-base.html"
+        }
+      ]
+    },
+    {
+      "title": "Yamamoto continues dominance vs. Brewers and bullpen locks down the win",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers",
+      "pubDate": "2026-08-15T04:50:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers 2026 game results",
+      "summary": "Keeping track of every game this season, all in one place",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
+      "pubDate": "2026-08-15T04:48:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
+        }
+      ]
+    },
     {
       "title": "Latest Padres injuries and transactions",
       "summary": "",
@@ -65,6 +178,30 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/christian-walkers-3-run-walk-off-homer-leads-astros-over-mariners-in-the-10th-inning-044707279.html"
+        }
+      ]
+    },
+    {
+      "title": "Shohei Ohtani throws bullpen session as pitching progression ramps up",
+      "summary": "Dodgers star Shohei Ohtani is ramping up his throwing program after playing catch regularly over the past week.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/shohei-ohtani-throws-bullpen-session-044706171.html",
+      "pubDate": "2026-08-15T04:47:06.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/shohei-ohtani-throws-bullpen-session-044706171.html"
         }
       ]
     },
@@ -238,33 +375,6 @@
       ]
     },
     {
-      "title": "Yamamoto powers through high pitch count to limit Crew to 1 run in 6 innings",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers",
-      "pubDate": "2026-08-15T04:09:49.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [
-        "yamamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers"
-        }
-      ]
-    },
-    {
       "title": "Phillies, Casey Lawrence Agree To Minor League Deal",
       "summary": "The Phillies are signing right-hander Casey Lawrence to a minor league contract, according to the MLB.com transaction tracker. He’ll report to Triple-A Lehigh Valley. Lawrence, a Pennsylvania native w…",
       "titleJa": null,
@@ -408,16 +518,19 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/blue-jays-beat-yankees-to-gain-ground-in-wild-card-race",
+      "link": "https://www.mlb.com/news/blue-jays-beat-yankees-to-gain-ground-in-wild-card-race",
       "pubDate": "2026-08-15T03:39:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/blue-jays-beat-yankees-to-gain-ground-in-wild-card-race"
+        },
         {
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
@@ -721,6 +834,30 @@
       ]
     },
     {
+      "title": "Misiorowski looking to bring the heat vs. Ohtani, Dodgers in NLCS rematch",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jacob-misiorowski-faces-dodgers-for-second-time-in-career",
+      "pubDate": "2026-08-15T02:27:51.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jacob-misiorowski-faces-dodgers-for-second-time-in-career"
+        }
+      ]
+    },
+    {
       "title": "Boone ejected by home-plate ump after arguing strike call on García",
       "summary": "",
       "titleJa": null,
@@ -799,11 +936,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/blue-jays-kick-off-comeback-win-over-yankees-with-wild-error-filled-play-finish-with-alejandro-kirk-homer-021257897.html"
-        },
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/blue-jays-kick-off-comeback-win-over-yankees-with-wild-error-filled-rbi-finish-with-alejandro-kirk-homer-021257897.html"
         }
       ]
     },
@@ -1355,6 +1487,28 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/brewers-place-abner-uribe-on-injured-list.html"
+        }
+      ]
+    },
+    {
+      "title": "Heliot Ramos’ early Yankees returns are disappointing — but underlying numbers tell different story",
+      "summary": "Heliot Ramos knows why the Yankees acquired him at the trade deadline: to help lift up a scuffling offense.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/heliot-ramos-early-yankees-returns-004555025.html",
+      "pubDate": "2026-08-15T00:45:55.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/heliot-ramos-early-yankees-returns-004555025.html"
         }
       ]
     },
@@ -2437,28 +2591,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/nationals-to-move-all-star-cj-abrams-from-shortstop-to-second-base-220026843.html"
-        }
-      ]
-    },
-    {
-      "title": "Nationals Moving CJ Abrams To Second Base",
-      "summary": "Nationals manager Blake Butera announced to the media today that CJ Abrams will be gradually moving from shortstop to second base. He will still play shortstop on occasion but Nasim Nuñez will be the…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/nationals-moving-cj-abrams-to-second-base.html",
-      "pubDate": "2026-08-14T21:50:33.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/nationals-moving-cj-abrams-to-second-base.html"
         }
       ]
     },
@@ -6582,28 +6714,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/brewers-come-alive-ninth-steal-055930906.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers 2026 game results",
-      "summary": "Keeping track of every game this season, all in one place",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
-      "pubDate": "2026-08-14T05:28:58.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
         }
       ]
     },
@@ -88412,119 +88522,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/the-opener-trade-buzz-clark-astros.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers trade rumors: Latest on Tarik Skubal, Teoscar Hernandez and more",
-      "summary": "The Los Angeles Dodgers remain a team to watch ahead of the MLB trade deadline. Here's the latest rumors about the club.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-trade-rumors-latest-tarik-123524735.html",
-      "pubDate": "2026-08-01T12:35:24.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-trade-rumors-latest-tarik-123524735.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees potential trade target: José Soriano",
-      "summary": "The Angels’ breakout starter offers an impressive sinker and club control through 2028",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-potential-trade-target-jos-123000253.html",
-      "pubDate": "2026-08-01T12:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-potential-trade-target-jos-123000253.html"
-        }
-      ]
-    },
-    {
-      "title": "Orioles news: Hot stove already heating up in Baltimore",
-      "summary": "Kremer gets dealt, Elias speaks about the deadline, and the O’s earn another impressive win.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/orioles-news-hot-stove-already-123000176.html",
-      "pubDate": "2026-08-01T12:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/orioles-news-hot-stove-already-123000176.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves News: Spencer Schwellenbach update, Bryce Elder solid, and more",
-      "summary": "Atlanta Braves news and notes from Friday.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-news-spencer-schwellenbach-bryce-121508629.html",
-      "pubDate": "2026-08-01T12:15:08.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-news-spencer-schwellenbach-bryce-121508629.html"
-        }
-      ]
-    },
-    {
-      "title": "Rays Trade Candidate: Adley Rutschman? In this economy?",
-      "summary": "There have been some rumblings that Adley Rutschman could be a trade target for the Rays following the 2026 All-Star Game. Rutschman and Drew Rasmussen were college teammates at Oregon State, while Br…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rays-trade-candidate-adley-rutschman-121441660.html",
-      "pubDate": "2026-08-01T12:14:41.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rays-trade-candidate-adley-rutschman-121441660.html"
         }
       ]
     }
