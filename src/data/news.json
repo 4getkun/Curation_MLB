@@ -1,7 +1,120 @@
 {
-  "generatedAt": "2026-08-16T19:16:37.248Z",
+  "generatedAt": "2026-08-16T19:41:52.684Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Latest Red Sox injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves",
+      "pubDate": "2026-08-16T19:32:00.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Arenado exits early in Atlanta with left trunk discomfort",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/nolan-arenado-exits-d-backs-game-with-injury",
+      "pubDate": "2026-08-16T19:32:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/nolan-arenado-exits-d-backs-game-with-injury"
+        }
+      ]
+    },
+    {
+      "title": "Orioles strengthen Wild Card position with 3rd straight win vs. AL-best Rays",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/orioles-score-10-runs-defeat-rays-third-straight-game",
+      "pubDate": "2026-08-16T19:27:11.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/orioles-score-10-runs-defeat-rays-third-straight-game"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers Place Justin Wrobleski On Injured List",
+      "summary": "The Dodgers announced this afternoon that they are placing left-hander Justin Wrobleski on the injured list with left forearm inflammation. Right-hander Kyle Hurt is being recalled in a corresponding…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/dodgers-place-justin-wrobleski-on-injured-list.html",
+      "pubDate": "2026-08-16T19:24:46.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/dodgers-place-justin-wrobleski-on-injured-list.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Rockies injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
+      "pubDate": "2026-08-16T19:18:00.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
+        }
+      ]
+    },
     {
       "title": "Latest Astros injuries & transactions",
       "summary": "",
@@ -31,16 +144,19 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/edward-cabrera-returns-from-injured-list-vs-cardinals",
+      "link": "https://www.mlb.com/news/edward-cabrera-returns-from-injured-list-vs-cardinals",
       "pubDate": "2026-08-16T19:10:25.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/edward-cabrera-returns-from-injured-list-vs-cardinals"
+        },
         {
           "name": "MLB.com (Cubs)",
           "sourceId": "mlb-com-cubs",
@@ -67,6 +183,68 @@
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
           "link": "https://www.mlb.com/bluejays/news/spencer-arrighetti-pitches-3-2-3-innings-in-rehab-start"
+        }
+      ]
+    },
+    {
+      "title": "Colorado Rockies vs. San Francisco Giants game discussion: Gabriel Hughes vs. Blade Tidwell",
+      "summary": "The standings aren’t pretty, but there is still plenty on the table for the Rockies in Sunday’s rubber match.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/colorado-rockies-vs-san-francisco-190500135.html",
+      "pubDate": "2026-08-16T19:05:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/colorado-rockies-vs-san-francisco-190500135.html"
+        }
+      ]
+    },
+    {
+      "title": "Game #124: Rangers at Athletics Game Thread",
+      "summary": "Wrapping up the home stand",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-124-rangers-athletics-game-190500914.html",
+      "pubDate": "2026-08-16T19:05:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-124-rangers-athletics-game-190500914.html"
+        }
+      ]
+    },
+    {
+      "title": "Game 125 Game Day Thread – Texas Rangers @ West Sacramento Athletics",
+      "summary": "A game that (presumably) won’t end at midnight",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-125-game-day-thread-190500778.html",
+      "pubDate": "2026-08-16T19:05:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-125-game-day-thread-190500778.html"
         }
       ]
     },
@@ -250,30 +428,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/top-10-tommy-john-surgery-success-stories-c295719048"
-        }
-      ]
-    },
-    {
-      "title": "Latest Rockies injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
-      "pubDate": "2026-08-16T18:23:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
         }
       ]
     },
@@ -711,30 +865,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/cody-bellinger-set-to-begin-rehab-assignment"
-        }
-      ]
-    },
-    {
-      "title": "Latest Red Sox injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves",
-      "pubDate": "2026-08-16T17:18:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves"
         }
       ]
     },
@@ -88293,150 +88423,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/mlb-trade-deadline-mets-pull-plug-on-freddy-peralta-deal-him-to-rays-175359280.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets trading Freddy Peralta to Rays",
-      "summary": "The Mets are trading Freddy Peralta to the Rays, ending the short tenure of a pitcher who was acquired from the Brewers this past offseason.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-trading-freddy-peralta-rays-175315198.html",
-      "pubDate": "2026-08-02T17:53:15.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-trading-freddy-peralta-rays-175315198.html"
-        },
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-trade-freddy-peralta-rays-180126481.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees vs Cubs: Gerrit Cole vs Colin Rea",
-      "summary": "Cole and the Yanks look for a series win against the Cubs",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-vs-cubs-gerrit-cole-175000826.html",
-      "pubDate": "2026-08-02T17:50:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-vs-cubs-gerrit-cole-175000826.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets recall Robert Stock and Bryce Conley, DFA Kevin Herget and MJ Melendez",
-      "summary": "The roster is preparing for big moves.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-recall-robert-stock-bryce-173815727.html",
-      "pubDate": "2026-08-02T17:38:15.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-recall-robert-stock-bryce-173815727.html"
-        }
-      ]
-    },
-    {
-      "title": "DIAMONDBACKS AT GUARDIANS: Kelly vs. Williams, discussion",
-      "summary": "Please salvage this. Please.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/diamondbacks-guardians-kelly-vs-williams-173232342.html",
-      "pubDate": "2026-08-02T17:32:32.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/diamondbacks-guardians-kelly-vs-williams-173232342.html"
-        }
-      ]
-    },
-    {
-      "title": "Game Thread: White Sox (58-52) at Rays (65-45)",
-      "summary": "A series win is in the crosshairs for the first-place South Siders",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-thread-white-sox-58-173040529.html",
-      "pubDate": "2026-08-02T17:30:40.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-thread-white-sox-58-173040529.html"
-        }
-      ]
-    },
-    {
-      "title": "Padres have checked in on Kodai Senga as trade deadline approaches",
-      "summary": "The Padres have checked in on right-handed pitcher Kodai Senga, per a report by Joel Sherman. The 33-year-old has struggled mightily this year, as he has an 8.66 ERA and a 6.50 FIP in 44.2 innings of…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/padres-checked-kodai-senga-trade-173013511.html",
-      "pubDate": "2026-08-02T17:30:13.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres",
-        "mets"
-      ],
-      "players": [
-        "senga"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/padres-checked-kodai-senga-trade-173013511.html"
         }
       ]
     }
