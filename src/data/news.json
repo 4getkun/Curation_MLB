@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-16T08:54:48.950Z",
+  "generatedAt": "2026-08-16T09:20:47.658Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Yankees news: Aaron Judge throws a baseball",
+      "summary": "Aaron Judge cleared to throw; Gerrit Cole is set for obscure record; scouting reports from Double-A",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-news-aaron-judge-throws-090000143.html",
+      "pubDate": "2026-08-16T09:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-news-aaron-judge-throws-090000143.html"
+        }
+      ]
+    },
     {
       "title": "Electric arm Jays acquired in Hoffman trade flashes potential at High-A",
       "summary": "",
@@ -88448,30 +88468,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/benches-clear-at-end-of-tigers-a-s-game"
-        }
-      ]
-    },
-    {
-      "title": "Tigers reach hollow ending to Tarik Skubal era, begin to turn the page with trade to Dodgers",
-      "summary": "No matter the new players headed to Detroit, it's impossible not to look at this result as a disappointment for the Tigers and their fans.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/tigers-reach-hollow-ending-to-tarik-skubal-era-begin-to-turn-the-page-with-trade-to-dodgers-060049773.html",
-      "pubDate": "2026-08-02T06:00:49.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/tigers-reach-hollow-ending-to-tarik-skubal-era-begin-to-turn-the-page-with-trade-to-dodgers-060049773.html"
         }
       ]
     }
