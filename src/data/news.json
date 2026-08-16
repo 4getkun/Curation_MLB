@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-08-16T09:49:41.202Z",
+  "generatedAt": "2026-08-16T10:15:38.806Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Today on Pinstripe Alley – 8/16/26",
+      "summary": "Can we avoid a sweep north of the border?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/today-pinstripe-alley-8-16-100000779.html",
+      "pubDate": "2026-08-16T10:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/today-pinstripe-alley-8-16-100000779.html"
+        }
+      ]
+    },
+    {
+      "title": "Brady Smith leaves start with injury, Rainer goes deep again",
+      "summary": "Scores, news, and notes, from around the Detroit Tigers’ farm system for Saturday, August 15, 2026.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brady-smith-leaves-start-injury-100000218.html",
+      "pubDate": "2026-08-16T10:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brady-smith-leaves-start-injury-100000218.html"
+        }
+      ]
+    },
     {
       "title": "Yankees news: Aaron Judge throws a baseball",
       "summary": "Aaron Judge cleared to throw; Gerrit Cole is set for obscure record; scouting reports from Double-A",
@@ -88428,46 +88470,6 @@
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-makes-first-career-start-against-red-sox"
-        }
-      ]
-    },
-    {
-      "title": "MLB-leading Brewers pivot after Skubal as Deadline nears",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mlb-leading-brewers-adjust-trade-deadline-plans-after-tarik-skubal-trade",
-      "pubDate": "2026-08-02T06:11:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mlb-leading-brewers-adjust-trade-deadline-plans-after-tarik-skubal-trade"
-        }
-      ]
-    },
-    {
-      "title": "Benches clear at end of Tigers-A's game over bunt single",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/benches-clear-at-end-of-tigers-a-s-game",
-      "pubDate": "2026-08-02T06:08:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/benches-clear-at-end-of-tigers-a-s-game"
         }
       ]
     }
