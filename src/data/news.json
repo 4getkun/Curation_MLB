@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T11:13:42.631Z",
+  "generatedAt": "2026-08-16T11:42:54.381Z",
   "count": 4000,
   "items": [
     {
@@ -45,6 +45,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/tigers-try-prevent-home-sweep-110000777.html"
+        }
+      ]
+    },
+    {
+      "title": "Shaikin: For Dodgers&#39; Charley Steiner, a complete game three years in the making",
+      "summary": "For the first time since beating his cancer into remission, radio play-by-play broadcaster Charley Steiner called a complete game for the Dodgers.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/shaikin-dodgers-charley-steiner-complete-110000672.html",
+      "pubDate": "2026-08-16T11:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/shaikin-dodgers-charley-steiner-complete-110000672.html"
         }
       ]
     },
@@ -88426,30 +88448,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/josue-briceno-homers-twice-lakeland-100000647.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees news: Yanks in on Skubal, but lose out to Dodgers",
-      "summary": "Dodgers make deadline headliner with Skubal deal; Doval first of several trades expected; Yanks check in on Garcia Jr., Facundo turning heads in minors.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-news-yanks-skubal-lose-090000631.html",
-      "pubDate": "2026-08-02T09:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-news-yanks-skubal-lose-090000631.html"
         }
       ]
     }
