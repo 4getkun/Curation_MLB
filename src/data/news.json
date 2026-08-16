@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T04:58:40.088Z",
+  "generatedAt": "2026-08-16T05:30:35.448Z",
   "count": 4000,
   "items": [
     {
@@ -8,7 +8,7 @@
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlb.com/news/paul-skenes-start-pushed-back-until-wednesday-vs-tigers",
-      "pubDate": "2026-08-16T04:46:00.000Z",
+      "pubDate": "2026-08-16T05:20:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
       "teams": [],
@@ -19,6 +19,112 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/paul-skenes-start-pushed-back-until-wednesday-vs-tigers"
+        }
+      ]
+    },
+    {
+      "title": "This Red Sox prospect is crushing everything during his 2026 stateside debut",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/redsox/news/red-sox-prospect-franklin-primera-2026-breakout-season",
+      "pubDate": "2026-08-16T05:13:00.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/red-sox-prospect-franklin-primera-2026-breakout-season"
+        }
+      ]
+    },
+    {
+      "title": "D-backs finally putting pieces together as NL Wild Card battle heats up",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/nolan-arenado-eduardo-rodriguez-help-d-backs-win-series",
+      "pubDate": "2026-08-16T05:06:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/nolan-arenado-eduardo-rodriguez-help-d-backs-win-series"
+        }
+      ]
+    },
+    {
+      "title": "Detmers earns first home win with 11 K's in 8 scoreless frames",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/angels/news/reid-detmers-strikes-out-11-royals-in-win",
+      "pubDate": "2026-08-16T04:48:00.000Z",
+      "source": "MLB.com (Angels)",
+      "sourceId": "mlb-com-angels",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/reid-detmers-strikes-out-11-royals-in-win"
+        }
+      ]
+    },
+    {
+      "title": "How has Weathers been so good? By using one of his best pitches less",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ryan-weathers-using-fastball-less-for-yankees",
+      "pubDate": "2026-08-16T04:46:58.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ryan-weathers-using-fastball-less-for-yankees"
+        }
+      ]
+    },
+    {
+      "title": "Langford's long ball helps Rangers snap out of funk",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/wyatt-langford-hits-home-run-in-rangers-win-over-a-s",
+      "pubDate": "2026-08-16T04:46:36.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/wyatt-langford-hits-home-run-in-rangers-win-over-a-s"
         }
       ]
     },
@@ -49,16 +155,21 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/2026-mlb-division-races-since-all-star-break",
+      "link": "https://www.mlb.com/news/2026-mlb-division-races-since-all-star-break",
       "pubDate": "2026-08-16T04:40:54.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
       "teams": [],
       "players": [],
       "topics": [
         "milestone"
       ],
       "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/2026-mlb-division-races-since-all-star-break"
+        },
         {
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
@@ -78,6 +189,28 @@
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/2026-mlb-division-races-since-all-star-break"
+        }
+      ]
+    },
+    {
+      "title": "Donovan stars as Mariners put it all together for much-needed win over Astros",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mariners-put-together-complete-win-vs-astros",
+      "pubDate": "2026-08-16T04:37:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mariners-put-together-complete-win-vs-astros"
         }
       ]
     },
@@ -350,28 +483,6 @@
       ]
     },
     {
-      "title": "Detmers earns first home win with 11 K's in 8 scoreless frames",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/reid-detmers-strikes-out-11-royals-in-win",
-      "pubDate": "2026-08-16T03:56:55.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/reid-detmers-strikes-out-11-royals-in-win"
-        }
-      ]
-    },
-    {
       "title": "Sanders a revelation for O's as they eke out consecutive 1-run wins vs. Rays",
       "summary": "",
       "titleJa": null,
@@ -408,6 +519,31 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/diamondbacks-10-atlanta-3-nolan-034929896.html"
+        }
+      ]
+    },
+    {
+      "title": "Báez looks to build on historic 3-HR debut today vs. Cubs (3:15 p.m. ET, ABC/ESPN App)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/cardinals-cubs-series-finale-on-abc",
+      "pubDate": "2026-08-16T03:46:02.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/cardinals-cubs-series-finale-on-abc"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/cardinals-cubs-series-finale-on-abc"
         }
       ]
     },
@@ -639,26 +775,6 @@
       ]
     },
     {
-      "title": "D-backs finally putting pieces together to stay in Wild Card contention",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/nolan-arenado-eduardo-rodriguez-help-d-backs-win-series",
-      "pubDate": "2026-08-16T02:27:50.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/nolan-arenado-eduardo-rodriguez-help-d-backs-win-series"
-        }
-      ]
-    },
-    {
       "title": "Crooked numbers? In this environment?: Phillies 9, Twins 1",
       "summary": "Hey hey! Alec Bohm was great tonight",
       "titleJa": null,
@@ -790,28 +906,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/braves-pummeled-miserable-10-3-020545747.html"
-        }
-      ]
-    },
-    {
-      "title": "Mariners put it all together for much-needed win over Astros",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mariners-put-together-complete-win-vs-astros",
-      "pubDate": "2026-08-16T02:04:28.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mariners-put-together-complete-win-vs-astros"
         }
       ]
     },
@@ -88366,99 +88460,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/tarik-skubal-first-start-dodgers-053018203.html"
-        }
-      ]
-    },
-    {
-      "title": "Women's Professional Baseball League debuts -- LA Queens win opener",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/los-angeles-queens-win-first-women-s-professional-baseball-league-game",
-      "pubDate": "2026-08-02T05:24:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/los-angeles-queens-win-first-women-s-professional-baseball-league-game"
-        }
-      ]
-    },
-    {
-      "title": "Rafaela's 2-HR night extends Red Sox surge",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/ceddanne-rafaela-hits-two-home-runs-in-red-sox-win-over-dodgers",
-      "pubDate": "2026-08-02T05:23:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/ceddanne-rafaela-hits-two-home-runs-in-red-sox-win-over-dodgers"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/ceddanne-rafaela-hits-two-home-runs-in-red-sox-win-over-dodgers"
-        }
-      ]
-    },
-    {
-      "title": "Tarik Skubal trade: Let&#39;s look at the Dodgers&#39; preposterous rotation with a new ace aboard",
-      "summary": "Tarik Skubal is the new jewel of a rotation that did not need him.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/tarik-skubal-trade-lets-look-at-the-dodgers-preposterous-rotation-with-a-new-ace-aboard-052206723.html",
-      "pubDate": "2026-08-02T05:22:06.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/tarik-skubal-trade-lets-look-at-the-dodgers-preposterous-rotation-with-a-new-ace-aboard-052206723.html"
-        }
-      ]
-    },
-    {
-      "title": "Scouting the prospects traded to Detroit for Tarik Skubal",
-      "summary": "Let’s take a deeper dive into the Tigers return from the Skubal trade.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/scouting-prospects-traded-detroit-tarik-051100881.html",
-      "pubDate": "2026-08-02T05:11:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/scouting-prospects-traded-detroit-tarik-051100881.html"
         }
       ]
     }
