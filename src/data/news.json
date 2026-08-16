@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T07:09:23.610Z",
+  "generatedAt": "2026-08-16T07:52:47.854Z",
   "count": 4000,
   "items": [
     {
@@ -46707,7 +46707,9 @@
       "pubDate": "2026-08-08T04:54:49.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "cubs"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -47783,6 +47785,11 @@
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
           "link": "https://www.mlb.com/redsox/news/watch-minor-league-baseball-games-for-free-2026"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/watch-minor-league-baseball-games-for-free-2026"
         }
       ]
     },
