@@ -1,7 +1,80 @@
 {
-  "generatedAt": "2026-08-16T15:14:49.240Z",
+  "generatedAt": "2026-08-16T15:43:42.834Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Red Sox lose DH Masataka Yoshida, P Justin Slaten to injured list",
+      "summary": "Yoshida had been one of Boston's hottest hitters since the All-Star break and Slaten one of the team's most reliable relievers.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/red-sox-lose-dh-masataka-yoshida-p-justin-slaten-to-injured-list-152954179.html",
+      "pubDate": "2026-08-16T15:29:54.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [
+        "yoshida"
+      ],
+      "topics": [
+        "injury",
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/red-sox-lose-dh-masataka-yoshida-p-justin-slaten-to-injured-list-152954179.html"
+        }
+      ]
+    },
+    {
+      "title": "Yoshida (left hamstring strain), Slaten (elbow inflammation) go on injured list",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/redsox/news/masataka-yoshida-exits-with-left-leg-injury",
+      "pubDate": "2026-08-16T15:25:00.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [
+        "yoshida"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/masataka-yoshida-exits-with-left-leg-injury"
+        }
+      ]
+    },
+    {
+      "title": "Mike Yastrzemski moves up in order for series finale vs. Diamondbacks",
+      "summary": "His highest spot in the lineup in four months",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mike-yastrzemski-moves-order-series-151634588.html",
+      "pubDate": "2026-08-16T15:16:34.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mike-yastrzemski-moves-order-series-151634588.html"
+        }
+      ]
+    },
     {
       "title": "Diamondbacks Select Dennis Santana, Designate Philip Abner For Assignment",
       "summary": "The Diamondbacks are swapping out a pair of relievers before today’s game. The team announced that right-hander Dennis Santana has been selected from Triple-A Reno. Left-hander Philip Abner has been d…",
@@ -66,6 +139,66 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/junis-activated-gonzales-dfa-d-150000037.html"
+        }
+      ]
+    },
+    {
+      "title": "The Phillies promoted Alex McFarlane. You helped.",
+      "summary": "That was quick",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/phillies-promoted-alex-mcfarlane-helped-150000772.html",
+      "pubDate": "2026-08-16T15:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/phillies-promoted-alex-mcfarlane-helped-150000772.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees Birthday of the Day: Gene Woodling",
+      "summary": "The left fielder was one of just 12 players to play for the Yankees during the entire 1949-1953 five-peat.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-birthday-day-gene-woodling-150000255.html",
+      "pubDate": "2026-08-16T15:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-birthday-day-gene-woodling-150000255.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB Player Props & Best Bets for Today, August 16",
+      "summary": "Colby Marchio is handing out his favorite MLB player props for Sunday, Aug. 16, featuring Sean Burke, Eury Perez, and Dean Kremer.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-145100448.html",
+      "pubDate": "2026-08-16T14:51:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-145100448.html"
         }
       ]
     },
@@ -1476,32 +1609,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/guardians-secure-10-000th-win-in-franchise-history"
-        }
-      ]
-    },
-    {
-      "title": "Yoshida likely headed for IL stint due to left hamstring strain",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/masataka-yoshida-exits-with-left-leg-injury",
-      "pubDate": "2026-08-16T04:19:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [
-        "yoshida"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/masataka-yoshida-exits-with-left-leg-injury"
         }
       ]
     },
@@ -88316,114 +88423,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/snake-bytes-8-2-141514987.html"
-        }
-      ]
-    },
-    {
-      "title": "Brewers&#39; Trevor Megill on Dodgers getting Tarik Skubal: &#39;I don&#39;t think anybody&#39;s surprised&#39;",
-      "summary": "Milwaukee is competing with the Dodgers for the top record in the National League and Skubal could have been the difference in that race.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/brewers-trevor-megill-on-dodgers-getting-tarik-skubal-i-dont-think-anybodys-surprised-141503570.html",
-      "pubDate": "2026-08-02T14:15:03.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/brewers-trevor-megill-on-dodgers-getting-tarik-skubal-i-dont-think-anybodys-surprised-141503570.html"
-        }
-      ]
-    },
-    {
-      "title": "No Hope, but Josue De Paula homers twice for Tulsa",
-      "summary": "With Monday’s trade deadline looming, any lineup changes or pitching maneuvers get heavily scrutinized. Dodgers outfield prospects Zyhir Hope was slated to bat cleanup and Kendall George leading off f…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/no-hope-josue-paula-homers-140200141.html",
-      "pubDate": "2026-08-02T14:02:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/no-hope-josue-paula-homers-140200141.html"
-        }
-      ]
-    },
-    {
-      "title": "Giants vs Padres Prediction, Picks & Odds for Today&#39;s MLB Game",
-      "summary": "Our Giants vs. Padres predictions and MLB picks see value in backing San Diego to win its third straight game on Sunday, August 2.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/giants-vs-padres-prediction-picks-140200167.html",
-      "pubDate": "2026-08-02T14:02:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/giants-vs-padres-prediction-picks-140200167.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves Minor League Recap: John Gil Homers",
-      "summary": "Gil hit his first home run since June 21",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-minor-league-recap-john-140000084.html",
-      "pubDate": "2026-08-02T14:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-minor-league-recap-john-140000084.html"
-        }
-      ]
-    },
-    {
-      "title": "Mariners News: Luis Castillo, Tarik Skubal, and Camilo Doval",
-      "summary": "It’s Sunday, and if it’s Sunday, it’s Meet the Links.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mariners-news-luis-castillo-tarik-140000958.html",
-      "pubDate": "2026-08-02T14:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mariners-news-luis-castillo-tarik-140000958.html"
         }
       ]
     }
