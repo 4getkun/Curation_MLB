@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-08-16T05:30:35.448Z",
+  "generatedAt": "2026-08-16T06:28:15.843Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Electric arm Jays acquired in Hoffman trade flashes potential at High-A",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/dasan-hill-electric-stuff-blue-jays-trade-deadline",
+      "pubDate": "2026-08-16T05:26:00.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/dasan-hill-electric-stuff-blue-jays-trade-deadline"
+        }
+      ]
+    },
     {
       "title": "Skenes fine with extra rest as Bucs push his next start back to Wednesday",
       "summary": "",
@@ -193,7 +217,7 @@
       ]
     },
     {
-      "title": "Donovan stars as Mariners put it all together for much-needed win over Astros",
+      "title": "Donovan, Young star as Mariners put it all together for needed win over Astros",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -1017,6 +1041,28 @@
       ]
     },
     {
+      "title": "Jefry Yan unleashes wild strikeout dance prematurely in hilarious Mets moment: ‘That was funny’",
+      "summary": "He celebrated a bit too early.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/jefry-yan-unleashes-wild-strikeout-015502356.html",
+      "pubDate": "2026-08-16T01:55:02.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/jefry-yan-unleashes-wild-strikeout-015502356.html"
+        }
+      ]
+    },
+    {
       "title": "Contreras breaks out as Brewers beat Dodgers 4-1",
       "summary": "Brewers win behind good pitching and a couple of two-run homers",
       "titleJa": null,
@@ -1315,18 +1361,21 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/logan-henderson-vs-tarik-skubal-in-brewers-dodgers-series-finale",
+      "link": "https://www.mlb.com/news/logan-henderson-vs-tarik-skubal-in-brewers-dodgers-series-finale",
       "pubDate": "2026-08-16T00:39:33.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
       "players": [],
       "topics": [
         "trade"
       ],
       "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/logan-henderson-vs-tarik-skubal-in-brewers-dodgers-series-finale"
+        },
         {
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
@@ -88416,50 +88465,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/shaikin-dodgers-traded-just-3-053354403.html"
-        }
-      ]
-    },
-    {
-      "title": "With trade chip Arraez out (cramping), Basabe steps up with 4 RBI night",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/luis-arraez-scratched-from-giants-lineup-due-to-cramping",
-      "pubDate": "2026-08-02T05:33:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/luis-arraez-scratched-from-giants-lineup-due-to-cramping"
-        }
-      ]
-    },
-    {
-      "title": "When will Tarik Skubal make first start with Dodgers? Possible date",
-      "summary": "The Los Angeles Dodgers acquired pitcher Tarik Skubal on Saturday, Aug. 1. Here's when he could pitch in Dodger blue.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/tarik-skubal-first-start-dodgers-053018203.html",
-      "pubDate": "2026-08-02T05:30:18.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/tarik-skubal-first-start-dodgers-053018203.html"
         }
       ]
     }
