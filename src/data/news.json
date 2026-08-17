@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:19:54.699Z",
+  "generatedAt": "2026-08-17T11:48:09.414Z",
   "count": 4000,
   "items": [
     {
@@ -43,6 +43,30 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/chicago-cubs-history-unpacked-august-110000353.html"
+        }
+      ]
+    },
+    {
+      "title": "Swanson: Tarik Skubal&#39;s gritty starts would pay off if slumping Dodgers would wake up",
+      "summary": "Tarik Skubal has yet to have a Cy Young-caliber start for the Dodgers, but at least he's battling. The rest of the team is in a much worse funk.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/swanson-tarik-skubals-gritty-starts-110000657.html",
+      "pubDate": "2026-08-17T11:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/swanson-tarik-skubals-gritty-starts-110000657.html"
         }
       ]
     },
@@ -88413,28 +88437,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/breaking-news/article/blue-jays-reportedly-trade-kevin-gausman-to-cubs-signaling-sell-off-months-after-world-series-appearance-010508970.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers marvel at latest star addition in Tarik Skubal: ‘Special to be part of’",
-      "summary": "The way Miguel Rojas put it on Sunday, the Dodgers’ ascension to dynasty status has been built, in part, on sacrifice. There have been memorable examples, like when Freddie Freeman...",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-marvel-latest-star-addition-010037372.html",
-      "pubDate": "2026-08-03T01:00:37.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-marvel-latest-star-addition-010037372.html"
         }
       ]
     }
