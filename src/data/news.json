@@ -1,14 +1,176 @@
 {
-  "generatedAt": "2026-08-17T22:17:31.619Z",
+  "generatedAt": "2026-08-17T22:47:55.232Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Latest Cubs injuries and transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/cubs/news/cubs-injuries-and-roster-moves",
+      "pubDate": "2026-08-17T22:46:00.000Z",
+      "source": "MLB.com (Cubs)",
+      "sourceId": "mlb-com-cubs",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/cubs-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Shohei Ohtani will stay with Dodgers even if team is sold, says source",
+      "summary": "Shohei Ohtani will stay with the Los Angeles Dodgers even if the team is sold, according to a person close to the four-time MVP and two-way superstar.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/shohei-ohtani-stay-dodgers-even-223321327.html",
+      "pubDate": "2026-08-17T22:33:21.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/shohei-ohtani-stay-dodgers-even-223321327.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Red Sox injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves",
+      "pubDate": "2026-08-17T22:33:00.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "MLBTR Estimates 2026-27 Super Two Cutoff At 2.130 Years",
+      "summary": "The Super Two cutoff for the upcoming arbitration class is going to be around two years and 130 days, per the calculations of MLBTR contributor Ethan Hullihen, as of July 31. Notable transactions in A…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/mlbtr-estimates-2026-27-super-two-cutoff-at-2-130-years.html",
+      "pubDate": "2026-08-17T22:31:02.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/mlbtr-estimates-2026-27-super-two-cutoff-at-2-130-years.html"
+        }
+      ]
+    },
+    {
+      "title": "Stearns talks Senga's 9th-inning excellence, Green's future with Mets",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/mets/news/david-stearns-talks-kodai-senga-andy-green",
+      "pubDate": "2026-08-17T22:30:07.000Z",
+      "source": "MLB.com (Mets)",
+      "sourceId": "mlb-com-mets",
+      "teams": [
+        "mets"
+      ],
+      "players": [
+        "senga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/david-stearns-talks-kodai-senga-andy-green"
+        }
+      ]
+    },
+    {
+      "title": "D-backs @ Red Sox Discussion",
+      "summary": "Full lineups not yet available. Particularly Boston’s. Roster moves The Arizona Diamondbacks made the following roster moves. The D-backs’ 40-man roster remains at 40. A lot of moves to get through he…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/d-backs-red-sox-discussion-223000196.html",
+      "pubDate": "2026-08-17T22:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/d-backs-red-sox-discussion-223000196.html"
+        }
+      ]
+    },
+    {
+      "title": "Burleson retakes RBI lead, Mathews racks up K's as Cards win twin bill opener",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/cardinals-beat-reds-in-opening-game-of-doubleheader",
+      "pubDate": "2026-08-17T22:22:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/cardinals-beat-reds-in-opening-game-of-doubleheader"
+        }
+      ]
+    },
     {
       "title": "Pirates Designate Johnathan Rodríguez For Assignment",
       "summary": "The Pirates announced that outfielder Johnathan Rodríguez has been designated for assignment. That opens a 40-man spot for outfielder Oneil Cruz to be reinstated from the 60-day injured list, as move…",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlbtraderumors.com/2026/08/pirates-designate-johnathan-rodriguez-for-assignment.html",
-      "pubDate": "2026-08-17T22:08:25.000Z",
+      "pubDate": "2026-08-17T22:20:25.000Z",
       "source": "MLB Trade Rumors",
       "sourceId": "mlbtraderumors",
       "teams": [],
@@ -23,6 +185,169 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/pirates-designate-johnathan-rodriguez-for-assignment.html"
+        }
+      ]
+    },
+    {
+      "title": "St. Louis Cardinals vs Cincinnati Reds Game Discussion Monday Night",
+      "summary": "After the Cardinals won a close game 1, it’s game 2 of the St. Louis Cardinals day/night doubleheader against the Cincinnati Reds Monday night. First pitch scheduled for 5:40pm central time with the g…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-cincinnati-222000553.html",
+      "pubDate": "2026-08-17T22:20:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-cincinnati-222000553.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Padres injuries and transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves",
+      "pubDate": "2026-08-17T22:17:00.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for White Sox-Cubs, Mets-Padres, MLB on Monday",
+      "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB betting on Monday",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-white-sox-cubs-mets-padres-mlb-monday/\n                    ",
+      "pubDate": "2026-08-17T22:16:12.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-white-sox-cubs-mets-padres-mlb-monday/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Triple-A 3B Keys hits his way on Prospect Team of the Week",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/prospect-team-of-the-week-august-17-2026",
+      "pubDate": "2026-08-17T22:12:41.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/prospect-team-of-the-week-august-17-2026"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/prospect-team-of-the-week-august-17-2026"
+        }
+      ]
+    },
+    {
+      "title": "Mets vs. Padres: Lineups, broadcast info, and open thread, 8/17/26",
+      "summary": "Nolan McLean takes the mound as the Mets start a series against the Padres.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-vs-padres-lineups-broadcast-221000698.html",
+      "pubDate": "2026-08-17T22:10:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets",
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-vs-padres-lineups-broadcast-221000698.html"
+        }
+      ]
+    },
+    {
+      "title": "San Diego Padres at New York Mets",
+      "summary": "Your game thread for August 17, 2026.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/san-diego-padres-york-mets-221000739.html",
+      "pubDate": "2026-08-17T22:10:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets",
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/san-diego-padres-york-mets-221000739.html"
+        }
+      ]
+    },
+    {
+      "title": "Shohei Ohtani&#39;s return to mound could seal another NL MVP award",
+      "summary": "USA TODAY Sports' Bob Nightengale reports the Dodgers expect Shohei Ohtani to pitch again soon barring any setbacks. Here's what that could mean.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/shohei-ohtanis-return-mound-could-220858287.html",
+      "pubDate": "2026-08-17T22:08:58.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/shohei-ohtanis-return-mound-could-220858287.html"
         }
       ]
     },
@@ -94,8 +419,8 @@
       ]
     },
     {
-      "title": "It&#39;s been 1 year since Vladimir Guerrero Jr.&#39;s last regular-season homer in Toronto: Inside the power problem facing a Blue Jays star",
-      "summary": "Guerrero has hit a measly seven big flies during the 2026 season. Last year in the postseason alone, he mashed eight taters.",
+      "title": "It&#39;s been 1 year since Vladimir Guerrero Jr.&#39;s last regular-season homer in Toronto: Inside the power problem facing the Blue Jays&#39; star",
+      "summary": "Guerrero has hit just 7 big flies in 2026. Last year, he mashed 8 taters in the postseason alone.",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://sports.yahoo.com/mlb/article/its-been-1-year-since-vladimir-guerrero-jrs-last-regular-season-homer-in-toronto-inside-the-power-problem-facing-a-blue-jays-star-215649883.html",
@@ -154,30 +479,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/game-thread-liam-hicks-appreciation-214500056.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Red Sox injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves",
-      "pubDate": "2026-08-17T21:44:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves"
         }
       ]
     },
@@ -269,30 +570,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/gamethread-8-17-marlins-phillies-213000076.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Cubs injuries and transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/cubs/news/cubs-injuries-and-roster-moves",
-      "pubDate": "2026-08-17T21:27:00.000Z",
-      "source": "MLB.com (Cubs)",
-      "sourceId": "mlb-com-cubs",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/cubs-injuries-and-roster-moves"
         }
       ]
     },
@@ -582,26 +859,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mlb-power-rankings-brewers-statement-205218894.html"
-        }
-      ]
-    },
-    {
-      "title": "Burleson retakes RBI lead, Mathews racks up K's as Cards win twin bill opener",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/cardinals-beat-reds-in-opening-game-of-doubleheader",
-      "pubDate": "2026-08-17T20:50:20.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/cardinals-beat-reds-in-opening-game-of-doubleheader"
         }
       ]
     },
@@ -2444,6 +2701,11 @@
           "name": "CBS Sports MLB",
           "sourceId": "cbssports-mlb",
           "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-cubs-white-sox-tigers-pirates-mlb-monday/\n                    "
+        },
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-cubs-white-sox-pirates-tigers-mlb-monday/\n                    "
         }
       ]
     },
@@ -11755,30 +12017,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/why-isnt-kyle-tucker-dodgers-231751125.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Padres injuries and transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves",
-      "pubDate": "2026-08-15T23:14:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves"
         }
       ]
     },
@@ -35839,7 +36077,9 @@
       "pubDate": "2026-08-11T22:56:32.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "mets"
+      ],
       "players": [
         "senga"
       ],
@@ -87953,229 +88193,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/mariners-to-acquire-taylor-ward.html"
-        }
-      ]
-    },
-    {
-      "title": "Mariners acquire OF Taylor Ward for Alex Hoppe and two minor league arms",
-      "summary": "Seattle gets a right-handed bat at last.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mariners-acquire-taylor-ward-alex-172229588.html",
-      "pubDate": "2026-08-03T17:22:29.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mariners-acquire-taylor-ward-alex-172229588.html"
-        }
-      ]
-    },
-    {
-      "title": "Angels deal Soriano to Blue Jays, Suter to Braves, Adell to Guardians",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/jose-soriano-arjun-nimmala-angels-blue-jays-trade",
-      "pubDate": "2026-08-03T17:20:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "bluejays",
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/jose-soriano-arjun-nimmala-angels-blue-jays-trade"
-        },
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/jose-soriano-arjun-nimmala-angels-blue-jays-trade"
-        }
-      ]
-    },
-    {
-      "title": "Mets 2026 trade deadline tracker",
-      "summary": "Keep track of the Mets’ busy deadline day right here.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-2026-trade-deadline-tracker-171817385.html",
-      "pubDate": "2026-08-03T17:18:17.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-2026-trade-deadline-tracker-171817385.html"
-        }
-      ]
-    },
-    {
-      "title": "Phillies Designate Three Players For Assignment",
-      "summary": "The Phillies have designated catcher Payton Henry and relievers Lou Trivino and Nolan Hoffman for assignment, the team announced. That trio of DFAs clears the road for this morning’s acquisitions of L…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/phillies-designate-three-players-for-assignment.html",
-      "pubDate": "2026-08-03T17:16:57.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/phillies-designate-three-players-for-assignment.html"
-        }
-      ]
-    },
-    {
-      "title": "Rangers designate Chris Martin for assignment",
-      "summary": "The Rangers have designated relief pitcher Chris Martin for assignment",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rangers-designate-chris-martin-assignment-170814406.html",
-      "pubDate": "2026-08-03T17:08:14.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rangers-designate-chris-martin-assignment-170814406.html"
-        }
-      ]
-    },
-    {
-      "title": "Rangers designate Chris Martin for assignment",
-      "summary": "The Rangers have designated relief pitcher Chris Martin for assignment",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rangers-designate-chris-martin-for-assignment-170814406.html",
-      "pubDate": "2026-08-03T17:08:14.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rangers-designate-chris-martin-for-assignment-170814406.html"
-        }
-      ]
-    },
-    {
-      "title": "The Dodgers aren't the biggest villains in the Tarik Skubal trade -- the cowardly teams who let it happen are",
-      "summary": "Baseball's problem isn't that the Dodgers traded for Tarik Skubal, it's who let the trade happen",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/dodgers-villains-tarik-skubal-trade-brewers-tigers/\n                    ",
-      "pubDate": "2026-08-03T17:07:35.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/dodgers-villains-tarik-skubal-trade-brewers-tigers/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Giants-Rangers Series Preview: Trades! Trades! Trades!",
-      "summary": "Will both teams be shells of themselves by the time this series starts?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/giants-rangers-series-preview-trades-170709039.html",
-      "pubDate": "2026-08-03T17:07:09.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/giants-rangers-series-preview-trades-170709039.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers vs. Cubs prediction: Odds, recent stats, trends, and best bets on August 3",
-      "summary": "Los Angeles Dodgers vs. Chicago Cubs Betting Preview for August 3",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-vs-cubs-prediction-odds-170333039.html",
-      "pubDate": "2026-08-03T17:03:33.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs",
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-vs-cubs-prediction-odds-170333039.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 MLB Trade Deadline: Child of Open Thread",
-      "summary": "More trade deadline thread!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/2026-mlb-trade-deadline-child-170127300.html",
-      "pubDate": "2026-08-03T17:01:27.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/2026-mlb-trade-deadline-child-170127300.html"
         }
       ]
     }
