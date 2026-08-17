@@ -1,7 +1,274 @@
 {
-  "generatedAt": "2026-08-17T15:48:16.777Z",
+  "generatedAt": "2026-08-17T16:19:46.459Z",
   "count": 4000,
   "items": [
+    {
+      "title": "As White Sox-Cubs series takes center stage, the Windy City envisions an all-Chicago World Series",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/white-sox-cubs-world-series-matchup-possibility",
+      "pubDate": "2026-08-17T16:13:24.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/white-sox-cubs-world-series-matchup-possibility"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-cubs-world-series-matchup-possibility"
+        }
+      ]
+    },
+    {
+      "title": "The Week Ahead for Atlanta: The most grueling road trip of the season",
+      "summary": "The Braves are probably going to be sick of airplanes by the time this week is over",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/week-ahead-atlanta-most-grueling-160904288.html",
+      "pubDate": "2026-08-17T16:09:04.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/week-ahead-atlanta-most-grueling-160904288.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers Week 21: Not good enough",
+      "summary": "The Dodgers technically had a winning week, but did so in such underwhelming fashion thanks to an offense that hasn’t pulled its weight for nearly two months. Los Angeles scored six and five runs in t…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-week-21-not-good-160700144.html",
+      "pubDate": "2026-08-17T16:07:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-week-21-not-good-160700144.html"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Cubs update: Seiya Suzuki, Alex Bregman, Clay Holmes",
+      "summary": "Here’s who was hot and not for the Cubs over the past week.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/chicago-cubs-seiya-suzuki-alex-160000675.html",
+      "pubDate": "2026-08-17T16:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [
+        "suzuki"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/chicago-cubs-seiya-suzuki-alex-160000675.html"
+        }
+      ]
+    },
+    {
+      "title": "Colorado Rockies prospect rankings, mid-season 2026: numbers 25-21",
+      "summary": "Three pitchers, one infielder and one outfielder make up the next five!",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/colorado-rockies-prospect-rankings-mid-160000577.html",
+      "pubDate": "2026-08-17T16:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/colorado-rockies-prospect-rankings-mid-160000577.html"
+        }
+      ]
+    },
+    {
+      "title": "Monday Stat Party: The Beat (It) Goes On",
+      "summary": "Senga, the Savior?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/monday-stat-party-beat-goes-160000688.html",
+      "pubDate": "2026-08-17T16:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [
+        "senga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/monday-stat-party-beat-goes-160000688.html"
+        }
+      ]
+    },
+    {
+      "title": "Cincinnati Reds set to take on St. Louis Cardinals in doubleheader Monday",
+      "summary": "Newly promoted lefty Kent Emanuel gets the start in Game 1.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cincinnati-reds-set-st-louis-160000017.html",
+      "pubDate": "2026-08-17T16:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cincinnati-reds-set-st-louis-160000017.html"
+        }
+      ]
+    },
+    {
+      "title": "AT L Braves",
+      "summary": "Now Throw Your Hands In the Air, And Wave ‘Em Like You Just Don’t Care",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/l-braves-160000169.html",
+      "pubDate": "2026-08-17T16:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/l-braves-160000169.html"
+        }
+      ]
+    },
+    {
+      "title": "Braves biweekly: Dwelling in the dog days of August",
+      "summary": "Dylan Dodd’s Dog Days",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/braves-biweekly-dwelling-dog-days-160000477.html",
+      "pubDate": "2026-08-17T16:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-biweekly-dwelling-dog-days-160000477.html"
+        }
+      ]
+    },
+    {
+      "title": "Twins Outright Alex Jackson",
+      "summary": "Twins catcher Alex Jackson went unclaimed on waivers following his recent DFA and has been assigned outright to Triple-A St. Paul, per the transaction log at MLB.com. As a player with more than three…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/twins-outright-alex-jackson-catcher.html",
+      "pubDate": "2026-08-17T15:49:13.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/twins-outright-alex-jackson-catcher.html"
+        }
+      ]
+    },
+    {
+      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Cubs-White Sox, Tigers-Pirates, MLB on Monday",
+      "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for MLB betting on Monday",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-cubs-white-sox-tigers-pirates-mlb-monday/\n                    ",
+      "pubDate": "2026-08-17T15:35:53.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "cubs",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-cubs-white-sox-tigers-pirates-mlb-monday/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Dodgers vs Rockies Prediction: Odds, recent stats, trends, and best bets for August 17",
+      "summary": "Los Angeles Dodgers vs Colorado Rockies Game Preview",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-vs-rockies-prediction-odds-153441339.html",
+      "pubDate": "2026-08-17T15:34:41.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers",
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-vs-rockies-prediction-odds-153441339.html"
+        }
+      ]
+    },
     {
       "title": "After nearly 2,000 attempts, the Oswalt MVP '05 perfecto has been pitched!",
       "summary": "",
@@ -44320,7 +44587,9 @@
       "pubDate": "2026-08-10T00:54:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "whitesox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -88027,262 +88296,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mlb-news-trade-deadline-tarik-120000639.html"
-        }
-      ]
-    },
-    {
-      "title": "Kansas City Royals news: The trade deadline is today",
-      "summary": "Will the Royals make any more moves?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/kansas-city-royals-news-trade-120000584.html",
-      "pubDate": "2026-08-03T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/kansas-city-royals-news-trade-120000584.html"
-        }
-      ]
-    },
-    {
-      "title": "Orioles minor league recap 8/3: Bassitt makes another rehab start",
-      "summary": "And Evan Yates has a strong day on the mound for Chesapeake.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/orioles-minor-league-recap-8-120000377.html",
-      "pubDate": "2026-08-03T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/orioles-minor-league-recap-8-120000377.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 MLB Trade Deadline Final countdown Open Thread",
-      "summary": "The countdown to the deadline is underway.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/2026-mlb-trade-deadline-final-120000376.html",
-      "pubDate": "2026-08-03T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/2026-mlb-trade-deadline-final-120000376.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 NL Central Power Rankings: Week 19",
-      "summary": "Crew stays on top with trade deadline set for Monday afternoon",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/2026-nl-central-power-rankings-120000075.html",
-      "pubDate": "2026-08-03T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/2026-nl-central-power-rankings-120000075.html"
-        }
-      ]
-    },
-    {
-      "title": "The St. Louis Cardinals should trade Andre Pallante this deadline",
-      "summary": "I find this deadline kind of fascinating. It is officially Chaim Bloom’s first deadline, although I am sure he was involved in last year’s deadline. But that alone makes it interesting. I also feel li…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/st-louis-cardinals-trade-andre-120000739.html",
-      "pubDate": "2026-08-03T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/st-louis-cardinals-trade-andre-120000739.html"
-        }
-      ]
-    },
-    {
-      "title": "Which series are Giants fans most interested in this week?",
-      "summary": "A new week of Giants baseball starts today. Which series are Giants fans most interested in this week?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/series-giants-fans-most-interested-120000010.html",
-      "pubDate": "2026-08-03T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/series-giants-fans-most-interested-120000010.html"
-        }
-      ]
-    },
-    {
-      "title": "New York Yankees vs. St. Louis Cardinals: Series Preview",
-      "summary": "The Yankees welcome a Cardinals team that has been surprisingly feisty on the road this season.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/york-yankees-vs-st-louis-120000522.html",
-      "pubDate": "2026-08-03T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/york-yankees-vs-st-louis-120000522.html"
-        }
-      ]
-    },
-    {
-      "title": "Atlanta Braves News: Atlanta Acquires Tyler Mahle, Weekend Sweep of Nationals, More",
-      "summary": "Big Day Ahead for the Braves.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/atlanta-braves-news-atlanta-acquires-115810543.html",
-      "pubDate": "2026-08-03T11:58:10.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/atlanta-braves-news-atlanta-acquires-115810543.html"
-        }
-      ]
-    },
-    {
-      "title": "Red Sox Minor Lines: Draftees Jake Schaffner and Owen Hull introduce themselves",
-      "summary": "Worcester: W, 4-1 (BOX SCORE) The pitching staff did an awesome job of shutting the Tides (Orioles AAA) down and it’s at least a little bit notable that Tyler Uberstine took the ninth here in a save s…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/red-sox-minor-lines-draftees-113157111.html",
-      "pubDate": "2026-08-03T11:31:57.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/red-sox-minor-lines-draftees-113157111.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB Predictions and Moneyline Picks for Monday, August 3",
-      "summary": "Moneyline leans and insights for Monday, August 3 from Colby Marchio. Check out the teams he's backing this evening!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-predictions-moneyline-picks-monday-111700302.html",
-      "pubDate": "2026-08-03T11:17:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-predictions-moneyline-picks-monday-111700302.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB trade deadline live updates: San Francisco Giants rumors",
-      "summary": "Everything you need to know about the San Francisco Giants for the Aug. 3 MLB deadline, including live news, updates and rumors.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-trade-deadline-live-updates-110323368.html",
-      "pubDate": "2026-08-03T11:03:23.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-trade-deadline-live-updates-110323368.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets Daily Prospect Report, 8/3/26: Is this goodbye?",
-      "summary": "Catch up on all the Mets prospects in yesterday’s minor league action!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-daily-prospect-report-8-110000368.html",
-      "pubDate": "2026-08-03T11:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-daily-prospect-report-8-110000368.html"
         }
       ]
     }
