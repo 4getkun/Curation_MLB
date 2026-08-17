@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T07:56:04.429Z",
+  "generatedAt": "2026-08-17T08:37:02.094Z",
   "count": 4000,
   "items": [
     {
@@ -176,6 +176,28 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/mariners-bullpen-shines-to-clinch-series-win-vs-astros"
+        }
+      ]
+    },
+    {
+      "title": "Yankees’ Gerrit Cole remembers Tommy John as trailblazer for ‘venturing into the unknown’ with surgery",
+      "summary": "As a recent beneficiary of the surgery named after Tommy John, Gerrit Cole joined in those remembering the former Yankees lefty.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-gerrit-cole-remembers-tommy-034714231.html",
+      "pubDate": "2026-08-17T03:47:14.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-gerrit-cole-remembers-tommy-034714231.html"
         }
       ]
     },
@@ -88430,33 +88452,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/fans-think-yankees-acquisition-luis-000703891.html"
-        }
-      ]
-    },
-    {
-      "title": "Astros win 6th straight, firing on all cylinders with Deadline looming",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/yordan-alvarez-astros-win-heading-into-trade-deadline",
-      "pubDate": "2026-08-03T00:06:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/yordan-alvarez-astros-win-heading-into-trade-deadline"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/yordan-alvarez-astros-win-heading-into-trade-deadline"
         }
       ]
     }
