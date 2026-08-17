@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T06:59:55.765Z",
+  "generatedAt": "2026-08-17T07:56:04.429Z",
   "count": 4000,
   "items": [
     {
@@ -198,6 +198,30 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/braves-prospect-dixon-williams-career-high-10-rbi-high-a"
+        }
+      ]
+    },
+    {
+      "title": "Luis Torrens homers again as his increased Mets usage keeps paying off",
+      "summary": "The reason the Mets valued Luis Torrens enough to sign him to a two-year extension earlier this season was because of his glove.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/luis-torrens-homers-again-increased-033514174.html",
+      "pubDate": "2026-08-17T03:35:14.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/luis-torrens-homers-again-increased-033514174.html"
         }
       ]
     },
@@ -88433,31 +88457,6 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/yordan-alvarez-astros-win-heading-into-trade-deadline"
-        }
-      ]
-    },
-    {
-      "title": "Inside the aggressive push Andrew Friedman and Dodgers made to acquire Tarik Skubal",
-      "summary": "Andrew Friedman, the Dodgers' president of baseball operations, provides insight into how the team acquired Tarik Skubal, the biggest prize of the trade deadline.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/inside-aggressive-push-andrew-friedman-000248572.html",
-      "pubDate": "2026-08-03T00:02:48.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/inside-aggressive-push-andrew-friedman-000248572.html"
         }
       ]
     }
