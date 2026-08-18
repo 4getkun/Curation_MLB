@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-18T06:31:35.446Z",
+  "generatedAt": "2026-08-18T07:31:57.684Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Podcast: From start to finish, PCA electrifies in epic Crosstown Showdown",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/18/3ee55077-8a80e81b-1b6f0a09-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "pubDate": "2026-08-18T06:15:56.000Z",
+      "source": "MLB.com (Cubs)",
+      "sourceId": "mlb-com-cubs",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/18/3ee55077-8a80e81b-1b6f0a09-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        }
+      ]
+    },
     {
       "title": "PCA secures 2nd straight 30-30 season -- boosts MVP case -- in epic way",
       "summary": "",
@@ -1036,6 +1058,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/nolan-mclean-mets-bullpen-keep-022808740.html"
+        }
+      ]
+    },
+    {
+      "title": "Diamondbacks’ Ketel Marte moved to restricted list after going AWOL in Boston",
+      "summary": "Arizona reportedly waited until the last possible second to announce the move, as they hoped the All-Star second baseman would arrive in time for the game.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/diamondbacks-ketel-marte-moved-restricted-022343984.html",
+      "pubDate": "2026-08-18T02:23:43.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/diamondbacks-ketel-marte-moved-restricted-022343984.html"
         }
       ]
     },
@@ -88135,53 +88179,6 @@
           "name": "CBS Sports MLB",
           "sourceId": "cbssports-mlb",
           "link": "\n                                                https://www.cbssports.com/mlb/news/adley-rutschman-trade-grades-red-sox-orioles/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Dodgers vs Cubs Prediction, Picks & Odds: Who Will Win Tonight&#39;s MLB Game",
-      "summary": "Dodgers vs. Cubs predictions and MLB picks for today's series at Wrigley Field.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-vs-cubs-prediction-picks-140700157.html",
-      "pubDate": "2026-08-03T21:01:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs",
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-vs-cubs-prediction-picks-140700157.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves trade Joey Bart to White Sox, per report",
-      "summary": "Guess this means Sean Murphy will be returning soon.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-trade-joey-bart-white-205928520.html",
-      "pubDate": "2026-08-03T20:59:28.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-trade-joey-bart-white-205928520.html"
         }
       ]
     }
