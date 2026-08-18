@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T07:31:57.684Z",
+  "generatedAt": "2026-08-18T08:28:00.001Z",
   "count": 4000,
   "items": [
     {
@@ -536,6 +536,29 @@
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
           "link": "https://www.mlb.com/redsox/news/cam-schlittler-jacob-misiorowski-lead-fifth-2026-cy-young-poll"
+        }
+      ]
+    },
+    {
+      "title": "Nolan McLean twirls six-inning gem after Carson Benge, A.J. Ewing erase rocky start",
+      "summary": "It was a charmed life indeed for Nolan McLean, who watched two other rookies — Carson Benge and A.J. Ewing — combine to nail three runners at the plate in the Mets’ 2-1 victory over the Padres at Citi…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/nolan-mclean-twirls-six-inning-035951770.html",
+      "pubDate": "2026-08-18T03:59:51.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets",
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/nolan-mclean-twirls-six-inning-035951770.html"
         }
       ]
     },
@@ -88155,30 +88178,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/orioles-trade-tyler-wells-rays-210907303.html"
-        }
-      ]
-    },
-    {
-      "title": "Adley Rutschman trade grades: Red Sox get A for upgrade with AL East bonus; Orioles staring down ugly truth",
-      "summary": "Rutschman, who has had a down 2026, is under team control through next season",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/adley-rutschman-trade-grades-red-sox-orioles/\n                    ",
-      "pubDate": "2026-08-03T21:06:18.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/adley-rutschman-trade-grades-red-sox-orioles/\n                    "
         }
       ]
     }
