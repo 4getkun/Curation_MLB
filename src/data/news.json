@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-18T09:56:33.966Z",
+  "generatedAt": "2026-08-18T10:24:03.056Z",
   "count": 4000,
   "items": [
+    {
+      "title": "How much will the Yankees’ offense improve?",
+      "summary": "Can the Yankee offense find the heights it reached earlier this season?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/much-yankees-offense-improve-100000515.html",
+      "pubDate": "2026-08-18T10:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/much-yankees-offense-improve-100000515.html"
+        }
+      ]
+    },
     {
       "title": "Yankees news: Fried to the IL as Rodón returns",
       "summary": "Fried hits IL with bone bruise, Rodón steps into rotation; Gomez and Luciano have taken big strides; Tommy John’s lasting impact on the game.",
@@ -1196,7 +1216,7 @@
     },
     {
       "title": "Carson Benge’s big right arm is star again as rolling Mets nip Padres",
-      "summary": "Carson Benge's arm unloaded twice in the first inning Monday set the tone for the night: Two Padres were thrown out at the plate. Run prevention was also in full force an inning later, when A.J. Ewing…",
+      "summary": "Carson Benge's arm unloaded twice in the first inning Monday, setting the tone for the night.",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://sports.yahoo.com/articles/carson-benge-big-arm-star-020844120.html",
@@ -88157,30 +88177,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/braves-red-sox-to-swap-eli-white-for-tyler-uberstine.html"
-        }
-      ]
-    },
-    {
-      "title": "Angels trade deadline winners and losers: Halos finally look towards the future",
-      "summary": "After years of fruitlessly buying at the deadline, the Angels have finally gotten honest with themselves.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/angels-trade-deadline-winners-losers-210929753.html",
-      "pubDate": "2026-08-03T21:09:29.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/angels-trade-deadline-winners-losers-210929753.html"
         }
       ]
     }
