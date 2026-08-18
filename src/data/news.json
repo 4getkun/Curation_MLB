@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-18T10:24:03.056Z",
+  "generatedAt": "2026-08-18T10:54:28.231Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Cubs current record, schedule, MLB standings, broadcast information",
+      "summary": "Here you will always be able to find the most up-to-date information on who the Cubs are playing, when and where, and what TV channel you can find the game on.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html",
+      "pubDate": "2026-08-18T10:15:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html"
+        }
+      ]
+    },
     {
       "title": "How much will the Yankees’ offense improve?",
       "summary": "Can the Yankee offense find the heights it reached earlier this season?",
@@ -8602,28 +8624,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/61-64-rangers-west-coast-224921510.html"
-        }
-      ]
-    },
-    {
-      "title": "Cubs current record, schedule, MLB standings, broadcast information",
-      "summary": "Here you will always be able to find the most up-to-date information on who the Cubs are playing, when and where, and what TV channel you can find the game on.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html",
-      "pubDate": "2026-08-16T22:45:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html"
         }
       ]
     },
