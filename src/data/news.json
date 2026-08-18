@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-08-18T11:19:21.897Z",
+  "generatedAt": "2026-08-18T11:49:08.123Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Guardians News: Looking for 10,001",
+      "summary": "News and Notes for Tuesday, August 18th, 2026",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/guardians-news-looking-10-001-113000121.html",
+      "pubDate": "2026-08-18T11:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/guardians-news-looking-10-001-113000121.html"
+        }
+      ]
+    },
+    {
+      "title": "The Red Sox are about to make a major mistake with Trevor Story",
+      "summary": "Story claims he could return as soon as Friday",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/red-sox-major-mistake-trevor-111242702.html",
+      "pubDate": "2026-08-18T11:12:42.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/red-sox-major-mistake-trevor-111242702.html"
+        }
+      ]
+    },
     {
       "title": "Phillies news: Dave Dombrowski, postseason, Padres sale",
       "summary": "Dave Dombrowski will not be eligible for the Wawa Kid’s Meal promotion.",
@@ -1279,7 +1321,7 @@
       ]
     },
     {
-      "title": "Diamondbacks’ Ketel Marte moved to restricted list after going AWOL in Boston",
+      "title": "Ketel Marte doesn’t show up to game as Diamondbacks scramble to replace him",
       "summary": "Arizona reportedly waited until the last possible second to announce the move, as they hoped the All-Star second baseman would arrive in time for the game.",
       "titleJa": null,
       "summaryJa": null,
@@ -88117,58 +88159,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/phillies-to-move-bryce-harper-to-outfield.html"
-        }
-      ]
-    },
-    {
-      "title": "Cubs acquire RHP Clay Holmes and OF Tyrone Taylor from Mets",
-      "summary": "The Cubs continued to remake their pitching staff with Mets starter Clay Holmes and adding a backup outfielder.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cubs-acquire-rhp-clay-holmes-211738195.html",
-      "pubDate": "2026-08-03T21:17:38.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs",
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cubs-acquire-rhp-clay-holmes-211738195.html"
-        }
-      ]
-    },
-    {
-      "title": "Cubs add left-hander Garrett in trade with Marlins",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/braxton-garrett-traded-to-cubs-from-marlins",
-      "pubDate": "2026-08-03T21:17:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/braxton-garrett-traded-to-cubs-from-marlins"
-        },
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/braxton-garrett-traded-to-cubs-from-marlins"
         }
       ]
     }
