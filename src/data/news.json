@@ -1,7 +1,107 @@
 {
-  "generatedAt": "2026-08-18T05:52:59.178Z",
+  "generatedAt": "2026-08-18T06:31:35.446Z",
   "count": 4000,
   "items": [
+    {
+      "title": "PCA secures 2nd straight 30-30 season -- boosts MVP case -- in epic way",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-records-second-straight-30-30-season",
+      "pubDate": "2026-08-18T06:12:42.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/pete-crow-armstrong-records-second-straight-30-30-season"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/pete-crow-armstrong-records-second-straight-30-30-season"
+        }
+      ]
+    },
+    {
+      "title": "Only thing missing from Johnston's pitching debut for Rox? A 500-foot Ohtani HR",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/troy-johnston-makes-first-mlb-pitching-appearance-for-rockies",
+      "pubDate": "2026-08-18T05:54:25.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies",
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/troy-johnston-makes-first-mlb-pitching-appearance-for-rockies"
+        }
+      ]
+    },
+    {
+      "title": "Lorenzen DFA'd by Rockies after struggling at Coors -- and away from it",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/michael-lorenzen-designated-for-assignment-by-rockies",
+      "pubDate": "2026-08-18T05:52:00.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/michael-lorenzen-designated-for-assignment-by-rockies"
+        }
+      ]
+    },
+    {
+      "title": "Latest Dodgers injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
+      "pubDate": "2026-08-18T05:31:00.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
+        }
+      ]
+    },
     {
       "title": "Ohtani hits 878 feet of HRs ... and eyes possible bullpen session Tuesday",
       "summary": "",
@@ -982,6 +1082,29 @@
       ]
     },
     {
+      "title": "Carson Benge’s big right arm is star again as rolling Mets nip Padres",
+      "summary": "Carson Benge's arm unloaded twice in the first inning Monday set the tone for the night: Two Padres were thrown out at the plate. Run prevention was also in full force an inning later, when A.J. Ewing…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/carson-benge-big-arm-star-020844120.html",
+      "pubDate": "2026-08-18T02:08:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets",
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/carson-benge-big-arm-star-020844120.html"
+        }
+      ]
+    },
+    {
       "title": "Stellar defense secures a Mets win against Padres",
       "summary": "Nolan McLean was helped by some incredible outfield defense to ensure a Mets win.",
       "titleJa": null,
@@ -1164,30 +1287,6 @@
       ]
     },
     {
-      "title": "Latest Dodgers injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
-      "pubDate": "2026-08-18T00:41:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
       "title": "Latest Rockies injuries & transactions",
       "summary": "",
       "titleJa": null,
@@ -1230,30 +1329,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/max-fried-bone-bruise-left-elbow"
-        }
-      ]
-    },
-    {
-      "title": "Lorenzen DFA'd by Rockies after struggling at Coors -- and away from it",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/michael-lorenzen-designated-for-assignment-by-rockies",
-      "pubDate": "2026-08-18T00:31:51.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/michael-lorenzen-designated-for-assignment-by-rockies"
         }
       ]
     },
@@ -88107,75 +88182,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/braves-trade-joey-bart-white-205928520.html"
-        }
-      ]
-    },
-    {
-      "title": "Astros Have Discussed Foster Griffin",
-      "summary": "The Astros subtracted from their rotation depth when they swapped Spencer Arrighetti to the Blue Jays for center fielder Daulton Varsho. Houston now finds itself in the pitching market, according to B…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/astros-have-discussed-foster-griffin.html",
-      "pubDate": "2026-08-03T20:56:57.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "astros",
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/astros-have-discussed-foster-griffin.html"
-        }
-      ]
-    },
-    {
-      "title": "White Sox Acquire Joey Bart",
-      "summary": "The White Sox have landed catcher Joey Bart from the Braves, ESPN’s Jeff Passan reports. MLB.com’s Mark Feinsand writes that right-hander Duncan Davitt (who designated for assignment earlier today) is…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/white-sox-acquire-joey-bart.html",
-      "pubDate": "2026-08-03T20:56:38.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/white-sox-acquire-joey-bart.html"
-        }
-      ]
-    },
-    {
-      "title": "Rays trade for Orioles reliever RHP Tyler Wells",
-      "summary": "It is Wells with my soul…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rays-trade-for-orioles-reliever-rhp-tyler-wells-205615274.html",
-      "pubDate": "2026-08-03T20:56:15.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rays-trade-for-orioles-reliever-rhp-tyler-wells-205615274.html"
         }
       ]
     }
