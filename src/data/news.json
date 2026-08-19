@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-19T11:19:00.767Z",
+  "generatedAt": "2026-08-19T11:48:49.040Z",
   "count": 4000,
   "items": [
+    {
+      "title": "How Red Sox pitcher Payton Tolle became an ace",
+      "summary": "In Payton Tolle’s season debut against the New York Yankees, he threw a 2-2 changeup to Giancarlo Stanton with the bases loaded. It was the first changeup he threw all season, and Stanton, like everyb…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/red-sox-pitcher-payton-tolle-113320630.html",
+      "pubDate": "2026-08-19T11:33:20.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/red-sox-pitcher-payton-tolle-113320630.html"
+        }
+      ]
+    },
     {
       "title": "Most expensive MLB stadiums to visit in 2026",
       "summary": "Rising costs have priced some fans out of attending MLB games.",
@@ -107,6 +129,29 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/tigers-look-rubber-match-pirates-110000208.html"
+        }
+      ]
+    },
+    {
+      "title": "Orioles news: Major injury updates for several key O’s players",
+      "summary": "Back-to-back losses, Mancini retires, and Bautista to head out on a rehab assignment.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/orioles-news-major-injury-updates-110000772.html",
+      "pubDate": "2026-08-19T11:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/orioles-news-major-injury-updates-110000772.html"
         }
       ]
     },
@@ -87838,48 +87883,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/seattle-mariners-minor-league-roundup-160500127.html"
-        }
-      ]
-    },
-    {
-      "title": "What we know and don't know about Brewers' bid for Skubal",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/brewers-tried-to-trade-for-tarik-skubal",
-      "pubDate": "2026-08-04T16:02:37.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/brewers-tried-to-trade-for-tarik-skubal"
-        }
-      ]
-    },
-    {
-      "title": "Here’s what the Cubs roster looks like after all the deadline deals",
-      "summary": "Jed Hoyer made a flurry of deadline deals. What did that do to the active roster?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cubs-roster-looks-deadline-deals-160000460.html",
-      "pubDate": "2026-08-04T16:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cubs-roster-looks-deadline-deals-160000460.html"
         }
       ]
     }
