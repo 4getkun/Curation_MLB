@@ -1,26 +1,224 @@
 {
-  "generatedAt": "2026-08-19T15:55:23.184Z",
+  "generatedAt": "2026-08-19T16:23:18.904Z",
   "count": 4000,
   "items": [
     {
-      "title": "Antonacci takes painful path to White Sox history",
+      "title": "5 big questions about Joshua Báez's future",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/sam-antonacci-matches-white-sox-record-for-hit-by-pitches",
-      "pubDate": "2026-08-19T15:54:46.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
+      "link": "https://www.mlb.com/news/how-joshua-baez-fits-in-cardinals-long-term-plans",
+      "pubDate": "2026-08-19T16:11:12.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/how-joshua-baez-fits-in-cardinals-long-term-plans"
+        }
+      ]
+    },
+    {
+      "title": "Padres’ Fernando Tatis Jr. favors robbing home runs over hitting them in 5-2 win over the Mets",
+      "summary": "Fernando Tatis Jr.'s biggest contribution in the game came in the field during the second inning, when he reached over the wall in right field and pulled back Francisco Lindor’s potential slam.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/padres-fernando-tatis-jr-favors-160948107.html",
+      "pubDate": "2026-08-19T16:09:48.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
       "teams": [
-        "whitesox"
+        "mets",
+        "padres"
       ],
       "players": [],
       "topics": [],
       "sources": [
         {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/padres-fernando-tatis-jr-favors-160948107.html"
+        }
+      ]
+    },
+    {
+      "title": "Cardinals vs Reds Prediction: Odds, recent stats, trends, and best bets for August 19",
+      "summary": "St. Louis Cardinals vs Cincinnati Reds Game Preview",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cardinals-vs-reds-prediction-odds-160626376.html",
+      "pubDate": "2026-08-19T16:06:26.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cardinals-vs-reds-prediction-odds-160626376.html"
+        }
+      ]
+    },
+    {
+      "title": "Rangers’ Jacob deGrom could start against Nationals a week after exiting early with triceps fatigue",
+      "summary": "The oft-injured Jacob deGrom has a chance to match last season’s total of 30 starts, the first time he had reached that number since making 32 in each of his Cy Young Award seasons with the New York M…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/rangers-jacob-degrom-could-start-160152564.html",
+      "pubDate": "2026-08-19T16:01:52.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/rangers-jacob-degrom-could-start-160152564.html"
+        }
+      ]
+    },
+    {
+      "title": "Colorado Rockies prospect rankings, mid-season 2026: numbers 15-11",
+      "summary": "A 2026 first-rounder and three Rule 5-eligible prospects are in the next five!",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/colorado-rockies-prospect-rankings-mid-160000362.html",
+      "pubDate": "2026-08-19T16:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/colorado-rockies-prospect-rankings-mid-160000362.html"
+        }
+      ]
+    },
+    {
+      "title": "The Royals went all-in on college pitchers in 2018. How did it turn out?",
+      "summary": "In 2018, the Royals received two compensatory draft picks for the departure of free agents Lorenzo Cain and Eric Hosmer, in addition to a Competitive Balance Round A pick, giving them 5 of the top 60…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/royals-went-college-pitchers-2018-160000488.html",
+      "pubDate": "2026-08-19T16:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/royals-went-college-pitchers-2018-160000488.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees Birthday of the Day: Bobby Richardson",
+      "summary": "The only World Series MVP from the losing team turns 91 today.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-birthday-day-bobby-richardson-160000631.html",
+      "pubDate": "2026-08-19T16:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-birthday-day-bobby-richardson-160000631.html"
+        }
+      ]
+    },
+    {
+      "title": "Report: Phillies sign Nestor Cortes to major league contract",
+      "summary": "Major league depth, baby",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/report-phillies-sign-nestor-cortes-155713796.html",
+      "pubDate": "2026-08-19T15:57:13.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/report-phillies-sign-nestor-cortes-155713796.html"
+        }
+      ]
+    },
+    {
+      "title": "Antonacci takes painful path to White Sox history",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/sam-antonacci-matches-white-sox-record-for-hit-by-pitches",
+      "pubDate": "2026-08-19T15:54:46.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/sam-antonacci-matches-white-sox-record-for-hit-by-pitches"
+        },
+        {
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/sam-antonacci-matches-white-sox-record-for-hit-by-pitches"
+        }
+      ]
+    },
+    {
+      "title": "Yankees’ Cody Bellinger nears rehab games and Aaron Boone hopes Max Fried setback is minor",
+      "summary": "Cody Bellinger has been on the 10-day injured list with a left hamstring strain since July 26.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-cody-bellinger-nears-rehab-155047045.html",
+      "pubDate": "2026-08-19T15:50:47.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-cody-bellinger-nears-rehab-155047045.html"
         }
       ]
     },
@@ -188,6 +386,26 @@
       ]
     },
     {
+      "title": "Marlins vs Phillies Prediction, Picks & Odds for Today&#39;s MLB Game",
+      "summary": "Marlins vs Phillies predictions, odds, and picks for tonight's game between NL East rivals. Free MLB picks for Wednesday, August 19.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/marlins-vs-phillies-prediction-picks-152800375.html",
+      "pubDate": "2026-08-19T15:28:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/marlins-vs-phillies-prediction-picks-152800375.html"
+        }
+      ]
+    },
+    {
       "title": "MLB Network documentary on baseball's role after 9/11 to premiere Sept. 10",
       "summary": "",
       "titleJa": null,
@@ -224,6 +442,26 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/fernando-tatis-jr-robbed-grand-152713018.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB Strikeout Props & Pitcher Best Bets for Today, Aug. 19",
+      "summary": "Josh Inglis' favorite MLB strikeout and pitcher props for Wednesday, August 19, include Chris Bassitt, Sandy Alcantara, and Drew Rasmussen.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-strikeout-props-pitcher-best-151800051.html",
+      "pubDate": "2026-08-19T15:18:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-strikeout-props-pitcher-best-151800051.html"
         }
       ]
     },
@@ -502,8 +740,8 @@
       ]
     },
     {
-      "title": "Mets place Jorge Polanco on IL due to recurring left ankle bursitis",
-      "summary": "The Mets are placing designated hitter Jorge Polanco back on the 10-day IL due to left ankle bursitis, an injury that cost him significant time earlier this season.",
+      "title": "Mets&#39; Jorge Polanco to have surgery after landing on IL due to recurring left ankle bursitis",
+      "summary": "The Mets are placing designated hitter Jorge Polanco back on the 10-day IL due to left ankle bursitis, an injury that cost him significant time earlier this season, and he will undergo surgery.",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://sports.yahoo.com/articles/mets-place-jorge-polanco-il-144146881.html",
@@ -87620,250 +87858,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/what-to-expect-from-yankees-prospect-george-lombard-jr-in-mlb"
-        }
-      ]
-    },
-    {
-      "title": "Fantasy Baseball: Players to deal for and deal away before Yahoo&#39;s default trade deadline",
-      "summary": "Now's the time to make a fantasy baseball trade that could send shockwaves throughout your league.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-players-to-deal-for-and-deal-away-before-yahoos-default-trade-deadline-195801651.html",
-      "pubDate": "2026-08-04T19:58:01.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-players-to-deal-for-and-deal-away-before-yahoos-default-trade-deadline-195801651.html"
-        }
-      ]
-    },
-    {
-      "title": "Mariners Release Mitch Garver, Rob Refsnyder",
-      "summary": "The Mariners have released catcher Mitch Garver and outfielder Rob Refsnyder, per Ryan Divish of The Seattle Times. Refsnyder will be replaced by Taylor Ward, who was acquired in a trade yesterday. Ca…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/mariners-release-mitch-garver-rob-refsnyder.html",
-      "pubDate": "2026-08-04T19:55:15.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/mariners-release-mitch-garver-rob-refsnyder.html"
-        }
-      ]
-    },
-    {
-      "title": "Here's the latest on Aaron Judge's rib injury",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/aaron-judge-rib-injury-latest-news",
-      "pubDate": "2026-08-04T19:53:59.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/aaron-judge-rib-injury-latest-news"
-        }
-      ]
-    },
-    {
-      "title": "Drake Baldwin leads off, Ronald Acuña Jr. back in right field in Marlins series opener",
-      "summary": "Fish fry needed for the vibes.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/drake-baldwin-leads-off-ronald-195331854.html",
-      "pubDate": "2026-08-04T19:53:31.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/drake-baldwin-leads-off-ronald-195331854.html"
-        }
-      ]
-    },
-    {
-      "title": "Pivetta exits rehab outing with apparent injury; Musgrove throws 2 2/3 IP",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/nick-pivetta-injury-rehab-appearance",
-      "pubDate": "2026-08-04T19:50:05.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/nick-pivetta-injury-rehab-appearance"
-        },
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/nick-pivetta-injury-rehab-appearance"
-        }
-      ]
-    },
-    {
-      "title": "Royals Claim Connor Thomas",
-      "summary": "The Royals claimed left-hander Connor Thomas off waivers and optioned him to Triple-A Omaha, per a team announcement. Kansas City had an open 40-man spot after designating Matt Strahm for assignment e…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/royals-claim-connor-thomas-waivers-athletics.html",
-      "pubDate": "2026-08-04T19:44:59.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/royals-claim-connor-thomas-waivers-athletics.html"
-        }
-      ]
-    },
-    {
-      "title": "Bobby Witt is back, Matt Strahm a Royal no more",
-      "summary": "Bobby Witt returns from the IL and Matt Strahm got cut",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/bobby-witt-back-matt-strahm-193825115.html",
-      "pubDate": "2026-08-04T19:38:25.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/bobby-witt-back-matt-strahm-193825115.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees Promote George Lombard Jr.",
-      "summary": "August 4: The Yankees have now officially announced Lombard’s selection to the roster. August 3: The Yankees are set to select the contract of top prospect George Lombard Jr., according to Jack Curry…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/yankees-to-promote-george-lombard-jr.html",
-      "pubDate": "2026-08-04T19:33:08.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/yankees-to-promote-george-lombard-jr.html"
-        }
-      ]
-    },
-    {
-      "title": "Series Preview: Mets at Guardians",
-      "summary": "The New York Mets come to town to face the new look Cleveland Guardians. The Mets are 47-66 with a -58 run differential, 27th in wRC+ at 92, and 15th in team ERA at 4.15 (4.00 FIP). The Guardians are…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/series-preview-mets-guardians-193107909.html",
-      "pubDate": "2026-08-04T19:31:07.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/series-preview-mets-guardians-193107909.html"
-        }
-      ]
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Dodgers vs. Cubs, Pirates vs. Brewers and more",
-      "summary": "Find best bets for the biggest games in sports on Tuesday from the SportsLine Projection Model and top CBS Sports experts",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-dodgers-vs-cubs-pirates-vs-brewers-and-more/\n                    ",
-      "pubDate": "2026-08-04T19:30:42.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "cubs",
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-dodgers-vs-cubs-pirates-vs-brewers-and-more/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Mets Designate Bryce Conley For Assignment",
-      "summary": "The Mets announced a series of moves to fill in their roster after their deadline sale. Most of them were previously reported. In an additional move, right-hander Bryce Conley was designated for assig…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/mets-designate-bryce-conley-for-assignment.html",
-      "pubDate": "2026-08-04T19:30:16.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/mets-designate-bryce-conley-for-assignment.html"
         }
       ]
     }
