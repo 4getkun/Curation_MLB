@@ -1,7 +1,89 @@
 {
-  "generatedAt": "2026-08-20T17:22:01.397Z",
+  "generatedAt": "2026-08-20T17:54:32.574Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Royals vs Athletics August 20th game discussion",
+      "summary": "In which the Royals attempt to sweep their predecessor.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/royals-vs-athletics-august-20th-174000330.html",
+      "pubDate": "2026-08-20T17:40:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/royals-vs-athletics-august-20th-174000330.html"
+        }
+      ]
+    },
+    {
+      "title": "SB Nation Reacts: David Peterson should go back in the Cubs rotation",
+      "summary": "The Cubs left-hander will be getting another chance at starting.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/sb-nation-reacts-david-peterson-173000386.html",
+      "pubDate": "2026-08-20T17:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/sb-nation-reacts-david-peterson-173000386.html"
+        }
+      ]
+    },
+    {
+      "title": "Thursday Trivia Time",
+      "summary": "A trivia question on this Thursday",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/thursday-trivia-time-173000722.html",
+      "pubDate": "2026-08-20T17:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/thursday-trivia-time-173000722.html"
+        }
+      ]
+    },
+    {
+      "title": "Game Discussion: Milwaukee Brewers (78-49) vs. Seattle Mariners (60-67)",
+      "summary": "Robert Gasser starts for the Crew in Thursday’s rubber match",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-discussion-milwaukee-brewers-78-172533568.html",
+      "pubDate": "2026-08-20T17:25:33.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-discussion-milwaukee-brewers-78-172533568.html"
+        }
+      ]
+    },
     {
       "title": "Phillies Claim Andrew Hoffmann",
       "summary": "The Phillies announced that they have claimed right-hander Andrew Hoffmann off waivers from the Diamondbacks and optioned him to Triple-A Lehigh Valley. He had been designated for assignment by Arizon…",
@@ -76,20 +158,45 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/jesus-sanchez-takes-responsibility-for-defensive-miscues-in-loss",
+      "link": "https://www.mlb.com/news/jesus-sanchez-takes-responsibility-for-defensive-miscues-in-loss",
       "pubDate": "2026-08-20T17:00:20.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jesus-sanchez-takes-responsibility-for-defensive-miscues-in-loss"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/jesus-sanchez-takes-responsibility-for-defensive-miscues-in-loss"
+        }
+      ]
+    },
+    {
+      "title": "Mets building a foundation and belief for 2027 with inspiring late-season play",
+      "summary": "When you squint just a bit at the Mets' recent play, it's easy to see that this has been coming together for months, and that many of the players who are helping to author this change should figure pr…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-building-foundation-belief-2027-170000409.html",
+      "pubDate": "2026-08-20T17:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
       "teams": [
-        "bluejays"
+        "mets"
       ],
       "players": [],
       "topics": [],
       "sources": [
         {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/jesus-sanchez-takes-responsibility-for-defensive-miscues-in-loss"
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-building-foundation-belief-2027-170000409.html"
         }
       ]
     },
@@ -132,6 +239,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/jays-rays-game-thread-165623204.html"
+        }
+      ]
+    },
+    {
+      "title": "Adell eyeing quick return after powering through knee injury",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jo-adell-nearing-return-from-knee-injury",
+      "pubDate": "2026-08-20T16:48:42.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jo-adell-nearing-return-from-knee-injury"
         }
       ]
     },
@@ -183,6 +312,26 @@
       ]
     },
     {
+      "title": "MLB Player Props & Best Bets for Today, Aug. 20",
+      "summary": "Colby Marchio is handing out his favorite MLB player props for Thursday, Aug. 20, featuring Taylor Trammell, Pete Alonso, and Grant Holmes.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-162100740.html",
+      "pubDate": "2026-08-20T16:21:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-162100740.html"
+        }
+      ]
+    },
+    {
       "title": "St. Louis Cardinals vs Cincinnati Reds Game Discussion Thursday",
       "summary": "The St. Louis Cardinals wrap up the Cincinnati part of their road trip Thursday afternoon as they take on the Reds at Great American Ball Park. Michael McGreevy will start the game for the Cardinals w…",
       "titleJa": null,
@@ -199,6 +348,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-cincinnati-162000456.html"
+        }
+      ]
+    },
+    {
+      "title": "Today in White Sox History: August 20",
+      "summary": "A harmonica soothes the Yankees after a four-game sweep at Comiskey Park",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/today-white-sox-history-august-161800619.html",
+      "pubDate": "2026-08-20T16:18:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/today-white-sox-history-august-161800619.html"
         }
       ]
     },
@@ -332,6 +503,30 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mlb-expert-picks-baseball-predictions-160100145.html"
+        }
+      ]
+    },
+    {
+      "title": "Colorado Rockies prospect rankings, mid-season 2026: numbers 10 to 7",
+      "summary": "We’ve entered the Top 10 with an infielder, an outfielder and a pitcher.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/colorado-rockies-prospect-rankings-mid-160000985.html",
+      "pubDate": "2026-08-20T16:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/colorado-rockies-prospect-rankings-mid-160000985.html"
         }
       ]
     },
@@ -666,7 +861,7 @@
       ]
     },
     {
-      "title": "250 for 250: Top 10 moments of baserunning brilliance",
+      "title": "Ranking the Top 10 moments of baserunning brilliance",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -2306,6 +2501,26 @@
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Jensen to wear special cleats designed by kids from Children's Mercy",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/carter-jensen-to-wear-cleats-designed-by-kids-from-children-s-mercy",
+      "pubDate": "2026-08-20T05:42:53.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/carter-jensen-to-wear-cleats-designed-by-kids-from-children-s-mercy"
         }
       ]
     },
@@ -87530,223 +87745,6 @@
           "name": "MLB.com (Cubs)",
           "sourceId": "mlb-com-cubs",
           "link": "https://www.mlb.com/cubs/news/edward-cabrera-begins-minor-league-rehab-for-cubs"
-        }
-      ]
-    },
-    {
-      "title": "Sean Murphy, Lane Thomas in lineup and Dubón at SS for Braves",
-      "summary": "Today’s lineup in a first of its kind for this season. Will this be the new norm?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/sean-murphy-lane-thomas-lineup-193955797.html",
-      "pubDate": "2026-08-05T19:39:55.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/sean-murphy-lane-thomas-lineup-193955797.html"
-        }
-      ]
-    },
-    {
-      "title": "Royals acquire Jacob Berry from the Marlins",
-      "summary": "The third baseman was once the #6 pick in the draft.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/royals-acquire-jacob-berry-marlins-193809952.html",
-      "pubDate": "2026-08-05T19:38:09.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/royals-acquire-jacob-berry-marlins-193809952.html"
-        }
-      ]
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: White Sox vs. Red Sox, Padres vs. Diamondbacks and more",
-      "summary": "Find best bets for the biggest games in sports on Wednesday from the SportsLine Projection Model and top CBS Sports experts",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-white-sox-vs-red-sox-padres-vs-diamondbacks-and-more/\n                    ",
-      "pubDate": "2026-08-05T19:30:41.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "padres",
-        "whitesox",
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-white-sox-vs-red-sox-padres-vs-diamondbacks-and-more/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "MLB Player Props & Best Bets for Today, August 5",
-      "summary": "Colby Marchio is dishing out his favorite MLB player props for Wednesday, August 5, featuring Reid Detmers dealing against the Orioles.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-190700265.html",
-      "pubDate": "2026-08-05T19:07:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-player-props-best-bets-190700265.html"
-        }
-      ]
-    },
-    {
-      "title": "Mike Tauchman Opts Out Of Mets Deal",
-      "summary": "The Mets released veteran outfielder Mike Tauchman from his minor league deal today, per Francys Romero of BeisbolFR.com. The New York Post’s Jon Heyman adds that Tauchman was actually granted his rel…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/mike-tauchman-opts-out-of-mets-deal.html",
-      "pubDate": "2026-08-05T19:04:55.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/mike-tauchman-opts-out-of-mets-deal.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves ticket sales and The Battery are strong but BravesVision is understated in financial report",
-      "summary": "Income from ticket sales and The Battery are really growing. The Braves reportedly raised prices on season tickets, and are reaping financial benefits. The Battery and Pennant Park are packed nearly t…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://finance.yahoo.com/media-advertising/articles/braves-ticket-battery-strong-bravesvision-190000338.html",
-      "pubDate": "2026-08-05T19:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://finance.yahoo.com/media-advertising/articles/braves-ticket-battery-strong-bravesvision-190000338.html"
-        }
-      ]
-    },
-    {
-      "title": "It’s time to call Jesus Luzardo a true Phillies ace",
-      "summary": "Luzardo has become one of baseball’s elite starters.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/time-call-jesus-luzardo-true-190000460.html",
-      "pubDate": "2026-08-05T19:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/time-call-jesus-luzardo-true-190000460.html"
-        }
-      ]
-    },
-    {
-      "title": "Blue Jays&#39; Trey Yesavage, once an AL Rookie of the Year favorite, lands on 15-day IL due to knee inflammation",
-      "summary": "Yesavage is again sidelined, this time after feeling \"a little pinch\" in his left knee while warming up on Tuesday.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/blue-jays-trey-yesavage-once-an-al-rookie-of-the-year-favorite-lands-on-15-day-il-with-knee-inflammation-185910421.html",
-      "pubDate": "2026-08-05T18:59:10.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "injury",
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/blue-jays-trey-yesavage-once-an-al-rookie-of-the-year-favorite-lands-on-15-day-il-with-knee-inflammation-185910421.html"
-        }
-      ]
-    },
-    {
-      "title": "Abimelec Ortiz will be exciting for Washington Nationals fans to watch down the stretch",
-      "summary": "Abimelec Ortiz, the Nats new 1B will be one of the better hitters in the lineup going forward",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/abimelec-ortiz-exciting-washington-nationals-185000319.html",
-      "pubDate": "2026-08-05T18:50:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/abimelec-ortiz-exciting-washington-nationals-185000319.html"
-        }
-      ]
-    },
-    {
-      "title": "What to expect from Guardians No. 2 prospect Genao in the big leagues",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/what-to-expect-from-guardians-prospect-angel-genao-in-mlb",
-      "pubDate": "2026-08-05T18:43:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/what-to-expect-from-guardians-prospect-angel-genao-in-mlb"
         }
       ]
     }
