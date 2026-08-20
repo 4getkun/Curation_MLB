@@ -1,14 +1,106 @@
 {
-  "generatedAt": "2026-08-20T18:28:55.694Z",
+  "generatedAt": "2026-08-20T19:11:15.117Z",
   "count": 4000,
   "items": [
     {
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "pubDate": "2026-08-20T18:59:00.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Injuries: Judge, Dodgers, Vladdy, Peña, K. Marte, Royals",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "pubDate": "2026-08-20T18:58:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/baseball-injury-updates"
+        }
+      ]
+    },
+    {
+      "title": "Red Sox News & Links: Trevor Story could return this weekend against Giants",
+      "summary": "The Red Sox pitching staff is limping towards the finish line this season, as is almost every single pitching staff in baseball in 2026. Thankfully, with a postseason spot essentially locked down (you…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/red-sox-news-links-trevor-185320223.html",
+      "pubDate": "2026-08-20T18:53:20.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/red-sox-news-links-trevor-185320223.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees Sequence(s) of the Week: Carlos Rodón (8/18)",
+      "summary": "Rodón looked sharp in his first start back from a seven-week injury absence.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-sequence-week-carlos-rod-183000789.html",
+      "pubDate": "2026-08-20T18:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-sequence-week-carlos-rod-183000789.html"
+        }
+      ]
+    },
+    {
       "title": "Athletics Claim Johnathan Rodríguez",
-      "summary": "The Athletics announced that they have claimed outfielder Johnathan Rodríguez off waivers from the Pirates and optioned him to Triple-A Las Vegas. Outfielder Tyler Soderstrom has been transferred to t…",
+      "summary": "The Athletics announced that they have claimed outfielder Johnathan Rodríguez off waivers from the Pirates and optioned him to Triple-A Las Vegas. Pittsburgh designated him for assignment earlier this…",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlbtraderumors.com/2026/08/athletics-claim-johnathan-rodriguez.html",
-      "pubDate": "2026-08-20T18:14:08.000Z",
+      "pubDate": "2026-08-20T18:25:08.000Z",
       "source": "MLB Trade Rumors",
       "sourceId": "mlbtraderumors",
       "teams": [],
@@ -237,30 +329,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/phillies-claim-andrew-hoffmann.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "pubDate": "2026-08-20T17:04:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
         }
       ]
     },
@@ -3363,31 +3431,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/twins-complete-sweep-of-braves"
-        }
-      ]
-    },
-    {
-      "title": "Injuries: Judge, Dodgers, Vladdy, Peña, K. Marte, Red Sox",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "pubDate": "2026-08-20T03:48:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "dodgers",
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/baseball-injury-updates"
         }
       ]
     },
@@ -87695,55 +87738,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/shohei-ohtani-pete-crow-armstrong-203928261.html"
-        }
-      ]
-    },
-    {
-      "title": "Padres vs Diamondbacks Prediction, Picks & Odds for Tonight&#39;s MLB Game",
-      "summary": "Our Padres vs. Diamondbacks predictions back Casey Mize in his San Diego debut. The Padres look to win their fifth game over their last six.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/padres-vs-diamondbacks-prediction-picks-201800998.html",
-      "pubDate": "2026-08-05T20:18:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/padres-vs-diamondbacks-prediction-picks-201800998.html"
-        }
-      ]
-    },
-    {
-      "title": "Pete Crow-Armstrong becomes first Cubs player with consecutive 25-HR, 25-SB seasons as Dodgers&#39; skid reaches 6 games",
-      "summary": "PCA put on a show in this week's NL MVP showdown against Shohei Ohtani.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/pete-crow-armstrong-becomes-first-cubs-player-to-nab-consecutive-25-hr-25-sb-seasons-as-dodgers-skid-reaches-6-games-201309723.html",
-      "pubDate": "2026-08-05T20:13:09.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs",
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/pete-crow-armstrong-becomes-first-cubs-player-to-nab-consecutive-25-hr-25-sb-seasons-as-dodgers-skid-reaches-6-games-201309723.html"
         }
       ]
     }
