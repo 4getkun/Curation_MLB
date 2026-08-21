@@ -1,22 +1,228 @@
 {
-  "generatedAt": "2026-08-21T23:16:52.563Z",
+  "generatedAt": "2026-08-21T23:46:18.064Z",
   "count": 4000,
   "items": [
     {
-      "title": "Blue Jays expect Vlad back Saturday for pivotal Yankees series",
+      "title": "Robert returns to South Side for 1st time as visitor",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
-      "pubDate": "2026-08-21T23:02:04.000Z",
+      "link": "https://www.mlb.com/whitesox/news/luis-robert-jr-miguel-vargas-reunite-mets-white-sox",
+      "pubDate": "2026-08-21T23:42:44.000Z",
+      "source": "MLB.com (White Sox)",
+      "sourceId": "mlb-com-whitesox",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/luis-robert-jr-miguel-vargas-reunite-mets-white-sox"
+        }
+      ]
+    },
+    {
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "pubDate": "2026-08-21T23:32:00.000Z",
       "source": "MLB.com (Blue Jays)",
       "sourceId": "mlb-com-bluejays",
       "teams": [
         "bluejays"
       ],
       "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Astros vs. A’s Game Discussion: 8/21/2026",
+      "summary": "TONIGHT’S GAME: The first-place Houston Astros (64-64), who own a slim 1.0-game lead in the AL West over the Rangers, will open a huge three-game weekend series against the A’s (49-79) tonight at Daik…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/astros-vs-game-discussion-8-233000976.html",
+      "pubDate": "2026-08-21T23:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
       "topics": [],
       "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/astros-vs-game-discussion-8-233000976.html"
+        }
+      ]
+    },
+    {
+      "title": "Rafael Devers booed by Red Sox fans in first game at Fenway Park since trade to Giants",
+      "summary": "Devers protested switching positions and criticized the Red Sox front office before being traded to San Francisco.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/rafael-devers-booed-by-red-sox-fans-in-first-game-at-fenway-park-since-trade-to-giants-232549580.html",
+      "pubDate": "2026-08-21T23:25:49.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "trade",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/rafael-devers-booed-by-red-sox-fans-in-first-game-at-fenway-park-since-trade-to-giants-232549580.html"
+        }
+      ]
+    },
+    {
+      "title": "Game Thread: Mets (58-70) at White Sox (66-61)",
+      "summary": "South Siders look to build on slim division lead against the Metropolitans tonight",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-thread-mets-58-70-232200644.html",
+      "pubDate": "2026-08-21T23:22:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-thread-mets-58-70-232200644.html"
+        }
+      ]
+    },
+    {
+      "title": "Start of Friday&#39;s Mets-White Sox game delayed due to impending weather",
+      "summary": "The White Sox announced that the start of Friday's game with the Mets will be delayed due to impending weather.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/start-fridays-mets-white-sox-231732750.html",
+      "pubDate": "2026-08-21T23:17:32.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/start-fridays-mets-white-sox-231732750.html"
+        }
+      ]
+    },
+    {
+      "title": "Kade Anderson set to join list of biggest pitching debuts of the past 20+ years",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/biggest-pitching-prospect-debuts",
+      "pubDate": "2026-08-21T23:17:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/biggest-pitching-prospect-debuts"
+        }
+      ]
+    },
+    {
+      "title": "Game 129 Game Day Thread – Anaheim Angels @ Texas Rangers",
+      "summary": "Subscribe to Apple TV: We’ve got Ted Lasso, Harrison Ford, and Cody Freeman",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-129-game-day-thread-231500505.html",
+      "pubDate": "2026-08-21T23:15:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-129-game-day-thread-231500505.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers on Deck: Saturday, August 22 vs. Pirates",
+      "summary": "Tarik Skubal makes his fourth start with the Dodgers on Saturday afternoon at Dodger Stadium. The left-hander has a 3.18 ERA with 19 strikeouts and six walks in his three starts as a Dodger, covering…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-deck-saturday-august-22-231126431.html",
+      "pubDate": "2026-08-21T23:11:26.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-deck-saturday-august-22-231126431.html"
+        }
+      ]
+    },
+    {
+      "title": "Blue Jays expect Vlad back Saturday for pivotal Yankees series",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
+      "pubDate": "2026-08-21T23:02:04.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return"
+        },
         {
           "name": "MLB.com (Blue Jays)",
           "sourceId": "mlb-com-bluejays",
@@ -95,16 +301,19 @@
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/rafael-devers-makes-his-return-to-fenway-park",
+      "link": "https://www.mlb.com/news/rafael-devers-makes-his-return-to-fenway-park",
       "pubDate": "2026-08-21T22:58:50.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/rafael-devers-makes-his-return-to-fenway-park"
+        },
         {
           "name": "MLB.com (Red Sox)",
           "sourceId": "mlb-com-redsox",
@@ -136,7 +345,7 @@
     },
     {
       "title": "Cubs Designate Owen Miller For Assignment",
-      "summary": "The Cubs announced that Daniel Palencia has been reinstated from the 60-day injured list, a move that was previously reported. Infielder Gabriel Arias, who was recently claimed off waivers, has also b…",
+      "summary": "The Cubs announced they’ve designated infielder Owen Miller for assignment and optioned right-hander Javier Assad to Triple-A Iowa. Those are the corresponding moves to reinstate Daniel Palencia from…",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlbtraderumors.com/2026/08/cubs-designate-owen-miller-for-assignment.html",
@@ -148,7 +357,6 @@
       ],
       "players": [],
       "topics": [
-        "injury",
         "roster"
       ],
       "sources": [
@@ -6428,30 +6636,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/patrick-bailey-got-revenge-giants-211627389.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "pubDate": "2026-08-20T21:14:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves"
         }
       ]
     },
@@ -48334,7 +48518,9 @@
       "pubDate": "2026-08-13T22:12:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "whitesox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -87389,186 +87575,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/bernie-dugout-open-thread-8-110000023.html"
-        }
-      ]
-    },
-    {
-      "title": "Giants-Tigers Series Preview",
-      "summary": "Are the Tigers going to be okay after trading away Tarik Skubal & Casey Mize? The Giants might provide false security.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/giants-tigers-series-preview-104347665.html",
-      "pubDate": "2026-08-07T10:43:47.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/giants-tigers-series-preview-104347665.html"
-        }
-      ]
-    },
-    {
-      "title": "Cody Bellinger recalls 2007 Little League World Series trip: &#39;It was so fun&#39;",
-      "summary": "As the Little League World Series begins soon, New York Yankees slugger Cody Bellinger revisits his trip to Williamsport in 2007.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cody-bellinger-recalls-2007-little-100223064.html",
-      "pubDate": "2026-08-07T10:02:23.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cody-bellinger-recalls-2007-little-100223064.html"
-        }
-      ]
-    },
-    {
-      "title": "Pirates to honor former All-Star Josh Harrison",
-      "summary": "JHay is coming home to Pittsburgh!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/pirates-honor-former-star-josh-100212375.html",
-      "pubDate": "2026-08-07T10:02:12.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/pirates-honor-former-star-josh-100212375.html"
-        }
-      ]
-    },
-    {
-      "title": "Zyhir Hope hits first HR since Skubal trade",
-      "summary": "Scores, news, and notes, from around the Detroit Tigers’ farm system for Thursday, August 6, 2026.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/zyhir-hope-hits-first-hr-100000467.html",
-      "pubDate": "2026-08-07T10:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/zyhir-hope-hits-first-hr-100000467.html"
-        }
-      ]
-    },
-    {
-      "title": "Today on Pinstripe Alley – 8/7/26",
-      "summary": "Gearing up as the Braves come to town.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/today-pinstripe-alley-8-7-100000633.html",
-      "pubDate": "2026-08-07T10:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/today-pinstripe-alley-8-7-100000633.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees news: Lombard Jr. in good company to start career",
-      "summary": "Family history helping top prospect; Warren fighting against bullpen; Headrick that good; all the injury updates",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-news-lombard-jr-good-090000149.html",
-      "pubDate": "2026-08-07T09:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury",
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-news-lombard-jr-good-090000149.html"
-        }
-      ]
-    },
-    {
-      "title": "Gaslamp Ball Reacts Survey: Were Padres’ deadline moves what you thought they would be?",
-      "summary": "GM A.J. Preller committed to the Padres and got them some rotation help for the stretch run.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/gaslamp-ball-reacts-survey-were-071822586.html",
-      "pubDate": "2026-08-07T07:18:22.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/gaslamp-ball-reacts-survey-were-071822586.html"
-        }
-      ]
-    },
-    {
-      "title": "Padres even season series with D-backs, gain ground in Wild Card race",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/padres-beat-d-backs-in-key-national-league-wild-card-battle",
-      "pubDate": "2026-08-07T06:13:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/padres-beat-d-backs-in-key-national-league-wild-card-battle"
-        },
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/padres-beat-d-backs-in-key-national-league-wild-card-battle"
         }
       ]
     }
