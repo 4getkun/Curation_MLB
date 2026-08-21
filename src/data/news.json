@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-08-21T05:02:52.100Z",
+  "generatedAt": "2026-08-21T05:55:56.551Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Astros suffer most lopsided loss in nearly 3 years against Angels",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/astros-blown-out-in-15-run-loss-to-angels",
+      "pubDate": "2026-08-21T05:16:25.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [
+        "astros",
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/astros-blown-out-in-15-run-loss-to-angels"
+        }
+      ]
+    },
+    {
+      "title": "Latest Astros injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves",
+      "pubDate": "2026-08-21T05:16:00.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves"
+        }
+      ]
+    },
     {
       "title": "Mariners To Promote Kade Anderson",
       "summary": "The Mariners are calling up Kade Anderson to make his MLB debut on Saturday against the Cubs, reports Jeff Passan of ESPN. Bryan Woo had been slated to start that game and will be presumably be pushed…",
@@ -655,6 +702,30 @@
       ]
     },
     {
+      "title": "Former Dodgers infielder Santiago Espinal signs with NL West rival",
+      "summary": "The Los Angeles Dodgers boast several veterans on the roster, but Santiago Espinal became an unexpected addition after cracking the Opening Day roster.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/former-dodgers-infielder-santiago-espinal-012644623.html",
+      "pubDate": "2026-08-21T01:26:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/former-dodgers-infielder-santiago-espinal-012644623.html"
+        }
+      ]
+    },
+    {
       "title": "Rangers’ Jacob deGrom reaches 2,000 strikeouts in 2nd-fewest games and innings pitched",
       "summary": "The right-hander fanned the first two batters against the Washington Nationals on Thursday night to achieve the milestone.",
       "titleJa": null,
@@ -693,6 +764,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/series-preview-milwaukee-brewers-vs-011030679.html"
+        }
+      ]
+    },
+    {
+      "title": "What Mets would need to do to turn nice stretch into a miracle playoff run",
+      "summary": "Admit it, Mets fans. You have at least considered the possibility.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-turn-nice-stretch-miracle-010710159.html",
+      "pubDate": "2026-08-21T01:07:10.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-turn-nice-stretch-miracle-010710159.html"
         }
       ]
     },
@@ -1415,30 +1508,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/braves-twins-white-sox-series-223512970.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Astros injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves",
-      "pubDate": "2026-08-20T22:34:00.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves"
         }
       ]
     },
@@ -87643,73 +87712,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/look-yankees-lineup-puts-familiar-035751230.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees’ offense quieted on a rainy night against Cardinals",
-      "summary": "The Yankees left the offense in the clubhouse after the rain delay.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-offense-quieted-rainy-night-035321711.html",
-      "pubDate": "2026-08-06T03:53:21.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-offense-quieted-rainy-night-035321711.html"
-        }
-      ]
-    },
-    {
-      "title": "Jays Beat Astros 5-4",
-      "summary": "That was unexpectedly fun, given the pitching matchup. The suddenly lukewarm Jays are 3.0 out of the third wildcard and a mere seven games below .500. It took a while to figure Hunter Brown out. A Jes…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/jays-beat-astros-5-4-035234778.html",
-      "pubDate": "2026-08-06T03:52:34.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/jays-beat-astros-5-4-035234778.html"
-        }
-      ]
-    },
-    {
-      "title": "'Vintage Sonny' earns AL-leading 14th win as Sox's latest streak reaches 7",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/sonny-gray-earns-14th-win-as-red-sox-beat-white-sox",
-      "pubDate": "2026-08-06T03:52:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/sonny-gray-earns-14th-win-as-red-sox-beat-white-sox"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/sonny-gray-earns-14th-win-as-red-sox-beat-white-sox"
         }
       ]
     }
