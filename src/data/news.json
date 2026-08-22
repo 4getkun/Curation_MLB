@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-08-22T08:55:20.785Z",
+  "generatedAt": "2026-08-22T09:20:22.545Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Around the Empire: Spencer Jones keeps on raking",
+      "summary": "Jones stays hot; Fried throws off mound; McMahon to the IL; Lombard keeps impressing; Eli Morgan signs minor league deal",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/around-empire-spencer-jones-keeps-090000539.html",
+      "pubDate": "2026-08-22T09:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/around-empire-spencer-jones-keeps-090000539.html"
+        }
+      ]
+    },
     {
       "title": "Jays Lose 3-1 to Yankees",
       "summary": "Cam Schlittler was always going to be a tough assignment. They managed six hits and three walks off him, which under most circumstances you’d have to say was a good day, but couldn’t push more than on…",
@@ -436,6 +459,28 @@
           "name": "MLB.com (Padres)",
           "sourceId": "mlb-com-padres",
           "link": "https://www.mlb.com/padres/news/ty-france-randy-vasquez-lead-padres-in-win-over-twins"
+        }
+      ]
+    },
+    {
+      "title": "Rafael Devers hits homer in return to Boston after mixed reaction",
+      "summary": "It's been a while, but Red Sox fans have seen this before.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/rafael-devers-hits-homer-return-050211114.html",
+      "pubDate": "2026-08-22T05:02:11.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/rafael-devers-hits-homer-return-050211114.html"
         }
       ]
     },
@@ -87584,52 +87629,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/japanada-phillies-vs-blue-jays-165900039.html"
-        }
-      ]
-    },
-    {
-      "title": "Tarik Skubal&#39;s Dodgers debut draws highest MLB rating on TNT networks in nearly 2 decades",
-      "summary": "The Dodgers continue to captivate baseball fans.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/tarik-skubals-dodgers-debut-draws-highest-mlb-rating-on-tnt-networks-in-nearly-2-decades-165812765.html",
-      "pubDate": "2026-08-07T16:58:12.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/tarik-skubals-dodgers-debut-draws-highest-mlb-rating-on-tnt-networks-in-nearly-2-decades-165812765.html"
-        }
-      ]
-    },
-    {
-      "title": "Blue Jays’ Trey Yesavage Seeing Specialist For Knee Injury",
-      "summary": "Imaging on Blue Jays right-hander Trey Yesavage‘s left knee revealed a meniscus issue, per Arden Zwelling of Sportsnet. Yesavage will head to Texas on Monday to visit a specialist. The righty was plac…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/blue-jays-trey-yesavage-seeing-specialist-for-knee-injury.html",
-      "pubDate": "2026-08-07T16:49:06.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/blue-jays-trey-yesavage-seeing-specialist-for-knee-injury.html"
         }
       ]
     }
