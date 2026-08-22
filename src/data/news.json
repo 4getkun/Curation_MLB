@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:47:15.867Z",
+  "generatedAt": "2026-08-22T11:14:42.057Z",
   "count": 4000,
   "items": [
     {
@@ -82,6 +82,30 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/jays-lose-3-1-yankees-071139061.html"
+        }
+      ]
+    },
+    {
+      "title": "Mets reliever ‘excited’ to be pitching again after Tommy John surgery scare",
+      "summary": "Austin Warren thought his season was over last month and he was potentially headed to Tommy John surgery.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-reliever-excited-pitching-again-064825414.html",
+      "pubDate": "2026-08-22T06:48:25.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-reliever-excited-pitching-again-064825414.html"
         }
       ]
     },
@@ -87607,26 +87631,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/yankees-sequence-week-ryan-weathers-170000882.html"
-        }
-      ]
-    },
-    {
-      "title": "Golden Jubilee: Mariners vs. Rays Series Preview",
-      "summary": "The Mariners celebrate their 50th anniversary with a date with the Rays.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/golden-jubilee-mariners-vs-rays-170000217.html",
-      "pubDate": "2026-08-07T17:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/golden-jubilee-mariners-vs-rays-170000217.html"
         }
       ]
     }
