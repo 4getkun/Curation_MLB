@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-08-22T21:15:14.412Z",
+  "generatedAt": "2026-08-22T21:43:53.998Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Jays Hang On To Beat Yankees",
+      "summary": "Blue Jays 4 Yankees 3 Well, that will get your blood pressure up. Bottom of the ninth, Jays up by one. Louis Varland in. Jazz Chisholm Jr. leads off with a double to the wall in center. But he strikes…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/jays-hang-beat-yankees-213216914.html",
+      "pubDate": "2026-08-22T21:32:16.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/jays-hang-beat-yankees-213216914.html"
+        }
+      ]
+    },
+    {
+      "title": "Cardinals place Dobbins (flexor strain) on IL, recall Mathews to start at Philly",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/hunter-dobbins-cardinals-injured-list-right-flexor-strain",
+      "pubDate": "2026-08-22T21:17:43.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/hunter-dobbins-cardinals-injured-list-right-flexor-strain"
+        }
+      ]
+    },
+    {
+      "title": "Yankees’ Ryan Weathers Removed With Left Forearm Discomfort",
+      "summary": "Yankees lefty Ryan Weathers was pulled from his outing on Saturday against the Blue Jays with forearm discomfort, per a team announcement. He’s headed for imaging. Weathers was removed with one out an…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/yankees-ryan-weathers-removed-with-left-forearm-discomfort.html",
+      "pubDate": "2026-08-22T21:17:40.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/yankees-ryan-weathers-removed-with-left-forearm-discomfort.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Astros injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves",
+      "pubDate": "2026-08-22T21:15:00.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves"
+        }
+      ]
+    },
     {
       "title": "Blue Jays snap Yankees’ winning streak, Ryan Weathers exits with injury",
       "summary": "The Bombers’ rally fell short, and their starter departed early with a foreboding arm injury.",
@@ -27,6 +117,51 @@
       ]
     },
     {
+      "title": "Vlad Jr. returns from IL as Blue Jays continue pivotal series vs. Yanks",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
+      "pubDate": "2026-08-22T21:08:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-concussion-il-blue-jays-return"
+        }
+      ]
+    },
+    {
+      "title": "Brewers hold Braves to one run for second straight game, pick up MLB-best 81st win",
+      "summary": "Jake Bauers’ two-run homer gave Logan Henderson all the run support he needed",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brewers-hold-braves-one-run-210512211.html",
+      "pubDate": "2026-08-22T21:05:12.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brewers-hold-braves-one-run-210512211.html"
+        }
+      ]
+    },
+    {
       "title": "Dylan Cease boosts Cy Young case against Yankees",
       "summary": "",
       "titleJa": null,
@@ -45,6 +180,11 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/dylan-cease-boosts-cy-young-case-against-yankees"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/dylan-cease-boosts-cy-young-case-against-yankees"
         }
       ]
     },
@@ -618,7 +758,7 @@
       ]
     },
     {
-      "title": "Yankees&#39; Ryan Weathers leaves Saturday&#39;s game vs. Blue Jays with left forearm discomfort",
+      "title": "Yankees&#39; Ryan Weathers exits Saturday&#39;s game vs. Blue Jays with left forearm discomfort",
       "summary": "Yankees left-hander Ryan Weathers was forced to leave Saturday's start against the Blue Jays in the top of the fourth inning.",
       "titleJa": null,
       "summaryJa": null,
@@ -636,31 +776,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/yankees-ryan-weathers-leaves-saturdays-185350315.html"
-        }
-      ]
-    },
-    {
-      "title": "Vlad Jr. returns from IL as Blue Jays continue pivotal series vs. Yanks",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
-      "pubDate": "2026-08-22T18:11:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-concussion-il-blue-jays-return"
         }
       ]
     },
@@ -5770,30 +5885,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/mlb-mailbag-cubs-outfield-rays-catchers-yankees-skubal-detmers-lowe-kwan.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Astros injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves",
-      "pubDate": "2026-08-21T22:23:00.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves"
         }
       ]
     },
@@ -45553,7 +45644,9 @@
       "pubDate": "2026-08-15T03:39:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "bluejays"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -87478,92 +87571,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/brewers-prospect-mark-coley-ii-incredible-catch-home-run-robbery"
-        }
-      ]
-    },
-    {
-      "title": "Payton Tolle strikes out 14 A&#39;s as Red Sox run winning streak to 9",
-      "summary": "Payton Tolle had a career-best night on the mound while the Red Sox's bats did big damage. Boston has now won nine in a row.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/payton-tolle-strikes-14-red-014633707.html",
-      "pubDate": "2026-08-08T01:46:33.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/payton-tolle-strikes-14-red-014633707.html"
-        }
-      ]
-    },
-    {
-      "title": "How to watch San Francisco Giants vs. Detroit Tigers",
-      "summary": "The Giants welcome the Tigers to Oracle Park tonight to begin a three-game series.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/watch-san-francisco-giants-vs-014500370.html",
-      "pubDate": "2026-08-08T01:45:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/watch-san-francisco-giants-vs-014500370.html"
-        }
-      ]
-    },
-    {
-      "title": "Pivetta discusses early rehab exit: 'Just didn't feel right'",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/nick-pivetta-discusses-elbow-injury-after-leaving-rehab-start",
-      "pubDate": "2026-08-08T01:39:07.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/nick-pivetta-discusses-elbow-injury-after-leaving-rehab-start"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers vs. D-backs game chat",
-      "summary": "The Dodgers (69-46) look to snap their six-game losing streak in the desert when they open a three-game series against the D-backs (61-55) Friday night. Roki Sasaki (5-5, 4.64 ERA, 1.30) makes his 20t…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-vs-d-backs-game-013000334.html",
-      "pubDate": "2026-08-08T01:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "sasaki"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-vs-d-backs-game-013000334.html"
         }
       ]
     }
