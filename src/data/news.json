@@ -1,10 +1,126 @@
 {
-  "generatedAt": "2026-08-22T06:28:10.964Z",
+  "generatedAt": "2026-08-22T07:09:57.610Z",
   "count": 4000,
   "items": [
     {
-      "title": "Tommy Edman&#39;s walk-off heroics power Dodgers past Pirates in extras",
-      "summary": "After the Dodgers' bullpen gives up a two-run lead, Tommy Edman drives in Kiké Hernández on a single in the 10th inning of a 5-4 win over Pittsburgh.",
+      "title": "'Just got to keep fighting': Mariners walk off in extras thanks to Rivas",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/leo-rivas-hits-walk-off-single-as-mariners-win-vs-cubs",
+      "pubDate": "2026-08-22T06:43:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/leo-rivas-hits-walk-off-single-as-mariners-win-vs-cubs"
+        }
+      ]
+    },
+    {
+      "title": "Latest Dodgers injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
+      "pubDate": "2026-08-22T06:41:00.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Pages fractures hand on hit-by-pitch, expected to miss at least 4 weeks",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/andy-pages-exits-game-after-hit-by-pitch",
+      "pubDate": "2026-08-22T06:38:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/andy-pages-exits-game-after-hit-by-pitch"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/andy-pages-exits-game-after-hit-by-pitch"
+        }
+      ]
+    },
+    {
+      "title": "Cubs give Mariners a charity “win” for Players Weekend",
+      "summary": "Players Weekend features three themes this year, celebrating off-field interests, charities and causes, and the people who helped the players succeed. The Cubs leaned into category number two tonight,…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-mariners-charity-win-players-063206387.html",
+      "pubDate": "2026-08-22T06:32:06.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-mariners-charity-win-players-063206387.html"
+        }
+      ]
+    },
+    {
+      "title": "Happy Birthday, you're outta here! Counsell tossed over balk call",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/craig-counsell-ejected-on-birthday-over-balk-call",
+      "pubDate": "2026-08-22T06:24:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/craig-counsell-ejected-on-birthday-over-balk-call"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/craig-counsell-ejected-on-birthday-over-balk-call"
+        }
+      ]
+    },
+    {
+      "title": "Tommy Edman lifts Dodgers to walk-off win, but Andy Pages will miss time with fracture",
+      "summary": "Tommy Edman drives in Kiké Hernández on a single in the 10th inning of the Dodgers' 5-4 win over Pittsburgh, but Andy Pages likely will miss four weeks.",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://sports.yahoo.com/articles/tommy-edmans-walk-off-heroics-060422270.html",
@@ -201,6 +317,21 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/mlb-bullpens-that-are-built-for-stretch-run"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/mlb-bullpens-that-are-built-for-stretch-run"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/mlb-bullpens-that-are-built-for-stretch-run"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/mlb-bullpens-that-are-built-for-stretch-run"
         }
       ]
     },
@@ -221,6 +352,21 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/10-slow-starters-who-have-turned-their-2026-seasons-around"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/10-slow-starters-who-have-turned-their-2026-seasons-around"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/10-slow-starters-who-have-turned-their-2026-seasons-around"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/10-slow-starters-who-have-turned-their-2026-seasons-around"
         }
       ]
     },
@@ -248,26 +394,6 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/hayden-wesneski-throws-five-scoreless-innings"
-        }
-      ]
-    },
-    {
-      "title": "Rivas the extra-innings hero for Mariners in walk-off win",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/leo-rivas-hits-walk-off-single-as-mariners-win-vs-cubs",
-      "pubDate": "2026-08-22T05:17:37.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/leo-rivas-hits-walk-off-single-as-mariners-win-vs-cubs"
         }
       ]
     },
@@ -519,31 +645,6 @@
       ]
     },
     {
-      "title": "Andy Pages exits game with left hand contusion after hit by pitch in 3rd frame",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/andy-pages-exits-game-after-hit-by-pitch",
-      "pubDate": "2026-08-22T04:13:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/andy-pages-exits-game-after-hit-by-pitch"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/andy-pages-exits-game-after-hit-by-pitch"
-        }
-      ]
-    },
-    {
       "title": "Certain horrors",
       "summary": "Willson Contreras’s 3-run homer is going to haunt Logan Webb’s dreams for a long time.",
       "titleJa": null,
@@ -580,31 +681,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/going-streaking-041203285.html"
-        }
-      ]
-    },
-    {
-      "title": "Happy Birthday, you're outta here! Counsell tossed over balk call",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/craig-counsell-ejected-on-birthday-over-balk-call",
-      "pubDate": "2026-08-22T04:04:48.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/craig-counsell-ejected-on-birthday-over-balk-call"
-        },
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/craig-counsell-ejected-on-birthday-over-balk-call"
         }
       ]
     },
@@ -984,6 +1060,28 @@
       ]
     },
     {
+      "title": "Kyle Tucker receives supportive ovation from Dodger Stadium crowd",
+      "summary": "He has been the Dodgers’ least-productive, most-disappointing and highest-scrutinized player all season long. He has previously been booed both at home and on the road. He has been criticized, chastis…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/kyle-tucker-receives-supportive-ovation-024712197.html",
+      "pubDate": "2026-08-22T02:47:12.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/kyle-tucker-receives-supportive-ovation-024712197.html"
+        }
+      ]
+    },
+    {
       "title": "Toglia exits Friday game after dislocating right shoulder on diving catch",
       "summary": "",
       "titleJa": null,
@@ -1022,30 +1120,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/tigers-help-extend-kansas-city-024550255.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Dodgers injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
-      "pubDate": "2026-08-22T02:41:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
         }
       ]
     },
@@ -1091,6 +1165,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mets-walked-off-white-sox-024010780.html"
+        }
+      ]
+    },
+    {
+      "title": "Spencer Jones’ homer helps Yankees top Blue Jays — and inch toward top of AL East",
+      "summary": "The Yankees have won five straight mostly through continued pitching excellence but also with the beginnings of life from their offense.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/spencer-jones-homer-helps-yankees-023819575.html",
+      "pubDate": "2026-08-22T02:38:19.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/spencer-jones-homer-helps-yankees-023819575.html"
         }
       ]
     },
@@ -2143,7 +2239,7 @@
       ]
     },
     {
-      "title": "This Ray wearing Players' Weekend cleats from ... Lisa Simpson?",
+      "title": "Richie Palacios’ Players' Weekend cleats came straight from ... Lisa Simpson?",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -87536,72 +87632,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/2026-high-school-all-american-game-rosters-announced"
-        }
-      ]
-    },
-    {
-      "title": "Use DraftKings promo code to get $150 bonus bets by targeting Yankees-Braves, Cardinals-Rockies, MLB on Friday",
-      "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for MLB betting on Friday",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-yankees-braves-cardinals-rockies-mlb-friday/\n                    ",
-      "pubDate": "2026-08-07T16:30:51.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-yankees-braves-cardinals-rockies-mlb-friday/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "5 Mets whose play down the stretch could impact 2027 roster in a big way",
-      "summary": "Marcus Semien, Jorge Polanco, and Kodai Senga are among the Mets to keep an eye on down the stretch, and whose successes or failures could help shape the 2027 roster.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/5-mets-whose-play-down-163000329.html",
-      "pubDate": "2026-08-07T16:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [
-        "senga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/5-mets-whose-play-down-163000329.html"
-        }
-      ]
-    },
-    {
-      "title": "Rays vs Mariners Prediction, Picks & Odds for Today&#39;s MLB Game",
-      "summary": "I'm backing Drew Rasmussen in my Rays vs. Mariners prediction to get the job done on the road against Logan Gilbert.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rays-vs-mariners-prediction-picks-160900641.html",
-      "pubDate": "2026-08-07T16:09:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rays-vs-mariners-prediction-picks-160900641.html"
         }
       ]
     }
