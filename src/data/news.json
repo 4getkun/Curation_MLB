@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-22T09:20:22.545Z",
+  "generatedAt": "2026-08-22T09:49:24.234Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Today on Pinstripe Alley – 8/22/26",
+      "summary": "Another Yankees/Jays rumble is on deck this afternoon.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/today-pinstripe-alley-8-22-093000212.html",
+      "pubDate": "2026-08-22T09:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/today-pinstripe-alley-8-22-093000212.html"
+        }
+      ]
+    },
     {
       "title": "Around the Empire: Spencer Jones keeps on raking",
       "summary": "Jones stays hot; Fried throws off mound; McMahon to the IL; Lombard keeps impressing; Eli Morgan signs minor league deal",
@@ -437,6 +457,28 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/hayden-wesneski-throws-five-scoreless-innings"
+        }
+      ]
+    },
+    {
+      "title": "Cam Schlittler bolsters Cy Young case even without his Yankees best",
+      "summary": "Even without his usual pinpoint control, Schlittler was good enough to smother Toronto in a 3-1 Bombers victory Friday night.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cam-schlittler-bolsters-cy-young-051325686.html",
+      "pubDate": "2026-08-22T05:13:25.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cam-schlittler-bolsters-cy-young-051325686.html"
         }
       ]
     },
@@ -87585,50 +87627,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/reds-come-dc-nationals-look-170000659.html"
-        }
-      ]
-    },
-    {
-      "title": "Alex Rodriguez: Prodigal Son, Villain, Mariner",
-      "summary": "27 years of hindsight on $252,000,000",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/alex-rodriguez-prodigal-son-villain-170000734.html",
-      "pubDate": "2026-08-07T17:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/alex-rodriguez-prodigal-son-villain-170000734.html"
-        }
-      ]
-    },
-    {
-      "title": "Japanada: Phillies vs. Blue Jays series preview",
-      "summary": "Kazuma Okamoto has brought his talents to Canada to mixed results",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/japanada-phillies-vs-blue-jays-165900039.html",
-      "pubDate": "2026-08-07T16:59:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [
-        "okamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/japanada-phillies-vs-blue-jays-165900039.html"
         }
       ]
     }
