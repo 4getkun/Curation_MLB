@@ -1,26 +1,406 @@
 {
-  "generatedAt": "2026-08-21T23:46:18.064Z",
+  "generatedAt": "2026-08-22T00:52:06.985Z",
   "count": 4000,
   "items": [
     {
-      "title": "Robert returns to South Side for 1st time as visitor",
+      "title": "Marte, D-backs have 'very productive meeting,' hope to get back to baseball",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/luis-robert-jr-miguel-vargas-reunite-mets-white-sox",
-      "pubDate": "2026-08-21T23:42:44.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
+      "link": "https://www.mlb.com/news/ketel-marte-productive-meeting-with-diamondbacks",
+      "pubDate": "2026-08-22T00:36:46.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ketel-marte-productive-meeting-with-diamondbacks"
+        }
+      ]
+    },
+    {
+      "title": "Dobbins exits after Pallante (elbow inflammation) placed on IL",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/andre-pallante-placed-on-injured-list-with-elbow-inflammation",
+      "pubDate": "2026-08-22T00:28:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/andre-pallante-placed-on-injured-list-with-elbow-inflammation"
+        }
+      ]
+    },
+    {
+      "title": "Latest Rockies injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
+      "pubDate": "2026-08-22T00:21:00.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
       "teams": [
-        "whitesox"
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "GUARDIANS AT ROCKIES: Gordon vs. Cantillo, discussion",
+      "summary": "Let's get one",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/guardians-rockies-gordon-vs-cantillo-001922219.html",
+      "pubDate": "2026-08-22T00:19:22.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
       ],
       "players": [],
       "topics": [],
       "sources": [
         {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/guardians-rockies-gordon-vs-cantillo-001922219.html"
+        }
+      ]
+    },
+    {
+      "title": "Mariners Activate Carlos Vargas",
+      "summary": "The Mariners announced that reliever Carlos Vargas is back from the 60-day injured list. Seattle optioned Nick Davila to Triple-A Tacoma to clear a bullpen spot and transferred Matt Brash to the 60-da…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/mariners-activate-carlos-vargas.html",
+      "pubDate": "2026-08-22T00:18:16.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/mariners-activate-carlos-vargas.html"
+        }
+      ]
+    },
+    {
+      "title": "Miz outduels Sale in battle of aces that lived up to the hype",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jacob-misiorowski-scoreless-start-vs-braves",
+      "pubDate": "2026-08-22T00:16:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jacob-misiorowski-scoreless-start-vs-braves"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Cubs vs. Seattle Mariners preview, Friday 8/21, 9:10 CT",
+      "summary": "The Cubs open a three-game series at T-Mobile Park.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/chicago-cubs-vs-seattle-mariners-000100344.html",
+      "pubDate": "2026-08-22T00:01:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/chicago-cubs-vs-seattle-mariners-000100344.html"
+        }
+      ]
+    },
+    {
+      "title": "GameThread: Detroit Tigers vs. Kansas City Royals, 8:10 p.m.",
+      "summary": "Detroit Tigers (61-64) vs. Kansas City Royals (55-74) Time/Place: 8:10 p.m., Kauffman Stadium SB Nation Site: Royals ReviewMedia: Detroit SportsNet, MLB.TV, Tigers Radio NetworkPitching Matchup: RHP T…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/gamethread-detroit-tigers-vs-kansas-000000633.html",
+      "pubDate": "2026-08-22T00:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/gamethread-detroit-tigers-vs-kansas-000000633.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Padres injuries and transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves",
+      "pubDate": "2026-08-21T23:58:00.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Misiorowski outduels Sale as Brewers squeak out 2-1 win over Braves",
+      "summary": "In a pitchers’ duel between aces, the Brewers came out on top",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/misiorowski-outduels-sale-brewers-squeak-234903194.html",
+      "pubDate": "2026-08-21T23:49:03.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/misiorowski-outduels-sale-brewers-squeak-234903194.html"
+        }
+      ]
+    },
+    {
+      "title": "A's place Wilson (shoulder) on IL; Kurtz (thumb) also out for rest of season",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jacob-wilson-nick-kurtz-expected-to-miss-rest-of-2026-season",
+      "pubDate": "2026-08-21T23:47:24.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jacob-wilson-nick-kurtz-expected-to-miss-rest-of-2026-season"
+        }
+      ]
+    },
+    {
+      "title": "This Ray wearing Players' Weekend cleats from ... Lisa Simpson?",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/richie-palacios-has-lisa-simpson-cleats-for-players-weekend",
+      "pubDate": "2026-08-21T23:45:53.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/richie-palacios-has-lisa-simpson-cleats-for-players-weekend"
+        }
+      ]
+    },
+    {
+      "title": "Robert returns to South Side for 1st time as visitor",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/luis-robert-jr-miguel-vargas-reunite-mets-white-sox",
+      "pubDate": "2026-08-21T23:42:44.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/luis-robert-jr-miguel-vargas-reunite-mets-white-sox"
+        },
+        {
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/luis-robert-jr-miguel-vargas-reunite-mets-white-sox"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/luis-robert-jr-miguel-vargas-reunite-mets-white-sox"
+        }
+      ]
+    },
+    {
+      "title": "Mets&#39; Luis Robert Jr. reflects on career with White Sox, return to Chicago, another injury-riddled season",
+      "summary": "For the first time since getting traded to the Mets in the offseason, Luis Robert Jr. returns to the South Side of Chicago where he began his career and played for six seasons.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-luis-robert-jr-reflects-234202887.html",
+      "pubDate": "2026-08-21T23:42:02.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [
+        "trade",
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-luis-robert-jr-reflects-234202887.html"
+        }
+      ]
+    },
+    {
+      "title": "Devers 'very happy to be back' at Fenway with Giants",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/rafael-devers-makes-his-return-to-fenway-park",
+      "pubDate": "2026-08-21T23:42:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/rafael-devers-makes-his-return-to-fenway-park"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/rafael-devers-makes-his-return-to-fenway-park"
+        }
+      ]
+    },
+    {
+      "title": "Cleveland Guardians @ Colorado Rockies game discussion: Joey Castillo vs. Tanner Gordon",
+      "summary": "Tonight, the Rockies will look to stop their losing skid.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cleveland-guardians-colorado-rockies-game-234000117.html",
+      "pubDate": "2026-08-21T23:40:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cleveland-guardians-colorado-rockies-game-234000117.html"
+        }
+      ]
+    },
+    {
+      "title": "Royals vs Tigers, August 21 live discussion",
+      "summary": "It’s Noah Day!",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/royals-vs-tigers-august-21-234000007.html",
+      "pubDate": "2026-08-21T23:40:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/royals-vs-tigers-august-21-234000007.html"
+        }
+      ]
+    },
+    {
+      "title": "Kade Anderson joins Skenes, Strasburg as college aces to enjoy meteoric rise",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/kade-anderson-among-top-pitching-prospects-past-20-years",
+      "pubDate": "2026-08-21T23:40:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/kade-anderson-among-top-pitching-prospects-past-20-years"
         }
       ]
     },
@@ -293,31 +673,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/every-dodgers-transaction-throughout-2026-192830669.html"
-        }
-      ]
-    },
-    {
-      "title": "Devers 'very happy to be back' at Fenway with Giants",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/rafael-devers-makes-his-return-to-fenway-park",
-      "pubDate": "2026-08-21T22:58:50.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/rafael-devers-makes-his-return-to-fenway-park"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/rafael-devers-makes-his-return-to-fenway-park"
         }
       ]
     },
@@ -742,26 +1097,6 @@
       ]
     },
     {
-      "title": "Miz outduels Sale in battle of aces that lived up to the hype",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/jacob-misiorowski-scoreless-start-vs-braves",
-      "pubDate": "2026-08-21T22:34:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/jacob-misiorowski-scoreless-start-vs-braves"
-        }
-      ]
-    },
-    {
       "title": "MLB Mailbag: Cubs Outfield, Rays Catchers, Yankees, Skubal, Detmers, Lowe, Kwan",
       "summary": "This week’s MLBTR Mailbag will dig into the Cubs’ long-term outfield look, the Rays’ crop of catching talent, the Yankees’ 2027 payroll and roster pursuits, and possible contracts for some notable nam…",
       "titleJa": null,
@@ -871,30 +1206,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/braves-release-tyler-kinley.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Rockies injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
-      "pubDate": "2026-08-21T22:05:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
         }
       ]
     },
@@ -19352,30 +19663,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/royals-option-lucas-erceg.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Padres injuries and transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves",
-      "pubDate": "2026-08-18T22:12:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves"
         }
       ]
     },
@@ -87303,278 +87590,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mets-morning-news-post-deadline-120000638.html"
-        }
-      ]
-    },
-    {
-      "title": "How to watch the Cincinnati Reds vs Washington Nationals: Live stream info, schedule, preview",
-      "summary": "Live coverage begins at 12 PM ET on NBCSN and Peacock.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/watch-cincinnati-reds-vs-washington-120000960.html",
-      "pubDate": "2026-08-07T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/watch-cincinnati-reds-vs-washington-120000960.html"
-        }
-      ]
-    },
-    {
-      "title": "Best Brewers trade deadlines in history",
-      "summary": "Historically, July has never been a busy month for the Brewers, but the last 20 years certainly have been",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/best-brewers-trade-deadlines-history-120000037.html",
-      "pubDate": "2026-08-07T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/best-brewers-trade-deadlines-history-120000037.html"
-        }
-      ]
-    },
-    {
-      "title": "SF Giants News: Oracle Park promotions this weekend",
-      "summary": "Giants baseball is back at Oracle Park this weekend. Let’s see what fans can expect if they’re headed to a game.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/sf-giants-news-oracle-park-120000132.html",
-      "pubDate": "2026-08-07T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/sf-giants-news-oracle-park-120000132.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB News: Trade deadline grades, World Series odds, Tarik Skubal, Mike Krukow, Aaron Judge",
-      "summary": "Plus, a retiree blew away Phillies fans during his stint in the booth.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-news-trade-deadline-grades-120000092.html",
-      "pubDate": "2026-08-07T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-news-trade-deadline-grades-120000092.html"
-        }
-      ]
-    },
-    {
-      "title": "Orioles minor league recap 8/7: Dzierwa dominates, Kjerstad goes deep",
-      "summary": "Joseph Dzierwa continued to dominate Double-A, and Heston Kjerstad made his latest case for a return to Baltimore.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/orioles-minor-league-recap-8-120000242.html",
-      "pubDate": "2026-08-07T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/orioles-minor-league-recap-8-120000242.html"
-        }
-      ]
-    },
-    {
-      "title": "Minor league update for 8/6/26",
-      "summary": "Thursday’s minor league Rangers action",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/minor-league-8-6-26-113529504.html",
-      "pubDate": "2026-08-07T11:35:29.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/minor-league-8-6-26-113529504.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers injury updates: Great news for slumping LA",
-      "summary": "The Los Angeles Dodgers are nowhere near full strength, but there’s still a strong belief that the team will be ready for the postseason.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-injury-updates-great-news-113214562.html",
-      "pubDate": "2026-08-07T11:32:14.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-injury-updates-great-news-113214562.html"
-        }
-      ]
-    },
-    {
-      "title": "Guardians News: Maybe We Were the Under .500 Team All Along",
-      "summary": "News and Notes for Friday, August 7th, 2026",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/guardians-news-maybe-were-under-113000893.html",
-      "pubDate": "2026-08-07T11:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/guardians-news-maybe-were-under-113000893.html"
-        }
-      ]
-    },
-    {
-      "title": "The St. Louis Cardinals – Lessons learned from deadline deals",
-      "summary": "Dustin, we hardly knew ye.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/st-louis-cardinals-lessons-learned-111100635.html",
-      "pubDate": "2026-08-07T11:11:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/st-louis-cardinals-lessons-learned-111100635.html"
-        }
-      ]
-    },
-    {
-      "title": "Phillies News: Bryce Harper, Chase Utley, Field of Dreams",
-      "summary": "The alumni descend on CBP. And so do the Blue Jays.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/phillies-news-bryce-harper-chase-110000314.html",
-      "pubDate": "2026-08-07T11:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/phillies-news-bryce-harper-chase-110000314.html"
-        }
-      ]
-    },
-    {
-      "title": "Chicago Cubs history unpacked — August 7",
-      "summary": "Happy Birthday, Marc Pisciotta!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/chicago-cubs-history-unpacked-august-110000412.html",
-      "pubDate": "2026-08-07T11:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/chicago-cubs-history-unpacked-august-110000412.html"
-        }
-      ]
-    },
-    {
-      "title": "Orioles news: Time for a Texas showdown",
-      "summary": "It’s do or die weekend for the Orioles. They should try hitting.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/orioles-news-time-texas-showdown-110000789.html",
-      "pubDate": "2026-08-07T11:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/orioles-news-time-texas-showdown-110000789.html"
-        }
-      ]
-    },
-    {
-      "title": "Bernie’s Dugout Open Thread: 8/7-8/13",
-      "summary": "Here’s a fresh weekly open thread, just for you",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/bernie-dugout-open-thread-8-110000023.html",
-      "pubDate": "2026-08-07T11:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/bernie-dugout-open-thread-8-110000023.html"
         }
       ]
     }
