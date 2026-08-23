@@ -1,7 +1,163 @@
 {
-  "generatedAt": "2026-08-23T21:43:52.556Z",
+  "generatedAt": "2026-08-23T22:14:51.212Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Key takeaways: Red Sox 5, Giants 4",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/redsox/news/red-sox-strong-homestand-fenway-park",
+      "pubDate": "2026-08-23T22:09:04.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/red-sox-strong-homestand-fenway-park"
+        }
+      ]
+    },
+    {
+      "title": "Less is more? Simplified approach has Angels' rotation thriving",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/angels-starting-rotation-simplified-pitching-approach",
+      "pubDate": "2026-08-23T22:09:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/angels-starting-rotation-simplified-pitching-approach"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/angels-starting-rotation-simplified-pitching-approach"
+        }
+      ]
+    },
+    {
+      "title": "Double dose of good news: Belli back, Weathers likely to return in '26",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/cody-bellinger-yankees-hamstring-injury-rehab",
+      "pubDate": "2026-08-23T22:06:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/cody-bellinger-yankees-hamstring-injury-rehab"
+        }
+      ]
+    },
+    {
+      "title": "Nelson Velázquez Elects Free Agency",
+      "summary": "TODAY: The Astros announced that Velasquez cleared waivers, and chose free agency over an outright assignment (hat tip to Matt Kawahara of the Houston Chronicle). AUGUST 20: The Astros announced that…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/astros-designate-nelson-velazquez-for-assignment.html",
+      "pubDate": "2026-08-23T22:05:17.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/astros-designate-nelson-velazquez-for-assignment.html"
+        }
+      ]
+    },
+    {
+      "title": "Clutch Peters, stud pitching deliver White Sox key series win against Mets",
+      "summary": "Fortune swung the South Siders’ way in a dramatic, low-scoring affair",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/clutch-peters-stud-pitching-deliver-214654444.html",
+      "pubDate": "2026-08-23T21:46:54.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/clutch-peters-stud-pitching-deliver-214654444.html"
+        }
+      ]
+    },
+    {
+      "title": "McLean fires 6 scoreless innings, handles bases-loaded jam with ease",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/mets/news/nolan-mclean-pitches-six-scoreless-innings-vs-white-sox",
+      "pubDate": "2026-08-23T21:44:00.000Z",
+      "source": "MLB.com (Mets)",
+      "sourceId": "mlb-com-mets",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/nolan-mclean-pitches-six-scoreless-innings-vs-white-sox"
+        }
+      ]
+    },
+    {
+      "title": "Muncy's clutch homer seals series win after A's claw back from 6-0 hole",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/athletics-rally-from-six-run-deficit-for-series-win-vs-astros",
+      "pubDate": "2026-08-23T21:40:38.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/athletics-rally-from-six-run-deficit-for-series-win-vs-astros"
+        }
+      ]
+    },
     {
       "title": "Rangers end successful homestand on high note behind Quantrill's scoreless outing",
       "summary": "",
@@ -43,6 +199,26 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/every-dodgers-transaction-throughout-2026-192830669.html"
+        }
+      ]
+    },
+    {
+      "title": "Martinez twirls six innings of one-hit ball, carrying Rays to much-needed win",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/nick-martinez-rays-beat-orioles-in-series-finale",
+      "pubDate": "2026-08-23T21:37:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/nick-martinez-rays-beat-orioles-in-series-finale"
         }
       ]
     },
@@ -503,26 +679,6 @@
       ]
     },
     {
-      "title": "Martinez twirls six innings of one-hit ball in win over Orioles",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/nick-martinez-rays-beat-orioles-in-series-finale",
-      "pubDate": "2026-08-23T20:51:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/nick-martinez-rays-beat-orioles-in-series-finale"
-        }
-      ]
-    },
-    {
       "title": "Jays Lose To Yankees",
       "summary": "Jays 3 Yankees 8 Well, we weren’t going to win every series for the rest of the season. We’ve been on a very good run. Hopefully that ‘good run’ will continue after tomorrow. The game turned in the bo…",
       "titleJa": null,
@@ -582,28 +738,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mets-rally-fall-white-sox-205022286.html"
-        }
-      ]
-    },
-    {
-      "title": "McLean fires 6 scoreless innings, handles bases-loaded jam with ease",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/nolan-mclean-pitches-six-scoreless-innings-vs-white-sox",
-      "pubDate": "2026-08-23T20:47:00.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/nolan-mclean-pitches-six-scoreless-innings-vs-white-sox"
         }
       ]
     },
@@ -1065,31 +1199,6 @@
       ]
     },
     {
-      "title": "Less is more? Simplified approach has Angels' rotation thriving",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/angels-starting-rotation-simplified-pitching-approach",
-      "pubDate": "2026-08-23T19:29:06.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/angels-starting-rotation-simplified-pitching-approach"
-        },
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/angels-starting-rotation-simplified-pitching-approach"
-        }
-      ]
-    },
-    {
       "title": "Pages has surgery on fractured hand, expected to miss at least 4 weeks",
       "summary": "",
       "titleJa": null,
@@ -1376,26 +1485,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/8-23-gamethread-giants-red-184500882.html"
-        }
-      ]
-    },
-    {
-      "title": "Double dose of good news: Belli back, Weathers likely to return in '26",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/cody-bellinger-yankees-hamstring-injury-rehab",
-      "pubDate": "2026-08-23T18:45:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/cody-bellinger-yankees-hamstring-injury-rehab"
         }
       ]
     },
@@ -1707,6 +1796,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/game-thread-mets-59-71-175342755.html"
+        }
+      ]
+    },
+    {
+      "title": "Tarik Skubal gives 1-word verdict on bizarre new nickname from Dodgers star",
+      "summary": "Dodgers pitcher Tarik Skubal said he \"absolutely\" likes his bizarre new \"Scooby Doo Pa Pa\" nickname after earning his first win with LA on Saturday.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/tarik-skubal-gives-1-word-175024439.html",
+      "pubDate": "2026-08-23T17:50:24.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/tarik-skubal-gives-1-word-175024439.html"
         }
       ]
     },
@@ -16561,31 +16672,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/inner-confidence-bbl-nickname-inside-225542386.html"
-        }
-      ]
-    },
-    {
-      "title": "Astros Designate Nelson Velázquez For Assignment",
-      "summary": "The Astros announced that they have recalled infielder Raynel Delgado from Triple-A Sugar Land. Outfielder Nelson Velázquez has been designated for assignment as the corresponding move. These moves ap…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/astros-designate-nelson-velazquez-for-assignment.html",
-      "pubDate": "2026-08-20T22:55:17.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "trade",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/astros-designate-nelson-velazquez-for-assignment.html"
         }
       ]
     },
@@ -87441,94 +87527,6 @@
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/ozzie-guillen-s-number-13-retired-by-white-sox"
-        }
-      ]
-    },
-    {
-      "title": "Aaron Boone hints at Giancarlo Stanton progress in ambiguous Yankees sign",
-      "summary": "Giancarlo Stanton is progressing and “doing quite well,” according to manager Aaron Boone, who hinted but did not state that Stanton has reached a significant stage of his rehab.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/aaron-boone-hints-giancarlo-stanton-011259797.html",
-      "pubDate": "2026-08-09T01:12:59.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/aaron-boone-hints-giancarlo-stanton-011259797.html"
-        }
-      ]
-    },
-    {
-      "title": "Mike Clevinger Granted Release By Pirates",
-      "summary": "Right-hander Mike Clevinger has triggered an opt-out clause and has been released by the Pirates, per Colin Beazley of the Pittsburgh Post-Gazette. He’s free to sign with any team. Pittsburgh added Cl…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/mike-clevinger-granted-release-by-pirates.html",
-      "pubDate": "2026-08-09T01:12:24.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/mike-clevinger-granted-release-by-pirates.html"
-        }
-      ]
-    },
-    {
-      "title": "Robert Stock struggles, Mets offense shut out in loss to Pirates",
-      "summary": "Robert Stock could not duplicate his debut, allowing eight runs as the Mets dropped the second game of their series with the Pirates, 9-0, on Saturday night in Pittsburgh.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/robert-stock-struggles-mets-offense-011019119.html",
-      "pubDate": "2026-08-09T01:10:19.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/robert-stock-struggles-mets-offense-011019119.html"
-        }
-      ]
-    },
-    {
-      "title": "Blue Jays' red-hot top prospect Parker promoted to High-A",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/jojo-parker-promoted-to-high-a-vancouver",
-      "pubDate": "2026-08-09T01:01:52.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/jojo-parker-promoted-to-high-a-vancouver"
         }
       ]
     }
