@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T09:23:10.748Z",
+  "generatedAt": "2026-08-23T09:51:04.944Z",
   "count": 4000,
   "items": [
     {
@@ -160,6 +160,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/andy-pages-injury-creates-huge-052527070.html"
+        }
+      ]
+    },
+    {
+      "title": "Mets’ Luis Robert Jr. belts two homers in win over his ex-team",
+      "summary": "Luis Robert Jr.’s visit to his old stomping ground undoubtedly will be remembered as a highlight of his season.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-luis-robert-jr-belts-052103977.html",
+      "pubDate": "2026-08-23T05:21:03.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-luis-robert-jr-belts-052103977.html"
         }
       ]
     },
@@ -87559,26 +87581,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/yankees-rally-2-outs-9th-123749914.html"
-        }
-      ]
-    },
-    {
-      "title": "The Yankees are raising their defensive ceiling with George Lombard Jr.",
-      "summary": "The sky is the limit for the 21-year-old at the shortstop position, as he can make every play.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-raising-defensive-ceiling-george-123000455.html",
-      "pubDate": "2026-08-08T12:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-raising-defensive-ceiling-george-123000455.html"
         }
       ]
     }
