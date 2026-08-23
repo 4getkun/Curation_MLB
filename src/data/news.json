@@ -1,7 +1,120 @@
 {
-  "generatedAt": "2026-08-23T19:17:36.968Z",
+  "generatedAt": "2026-08-23T19:43:36.867Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Marlins celebrate beloved broadcaster with emotional Tommy Hutton Day",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/marlins-celebrate-tommy-hutton-day",
+      "pubDate": "2026-08-23T19:31:37.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/marlins-celebrate-tommy-hutton-day"
+        }
+      ]
+    },
+    {
+      "title": "Less is more? Simplified approach has Angels' rotation thriving",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/angels-starting-rotation-simplified-pitching-approach",
+      "pubDate": "2026-08-23T19:29:06.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/angels-starting-rotation-simplified-pitching-approach"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/angels-starting-rotation-simplified-pitching-approach"
+        }
+      ]
+    },
+    {
+      "title": "Pittsburgh Pirates vs. Los Angeles Dodgers: Lake Bachar vs. Blake Snell",
+      "summary": "The Pirates are on the road looking to grab a win today.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-los-angeles-191000487.html",
+      "pubDate": "2026-08-23T19:10:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-los-angeles-191000487.html"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota Twins at San Diego Padres",
+      "summary": "Your game thread for August 23, 2026.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/minnesota-twins-san-diego-padres-191000214.html",
+      "pubDate": "2026-08-23T19:10:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/minnesota-twins-san-diego-padres-191000214.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Dodgers injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
+      "pubDate": "2026-08-23T19:10:00.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
+        }
+      ]
+    },
     {
       "title": "Don't worry, she got everything back! White Sox fan catches walk-off, purse explodes",
       "summary": "",
@@ -24,6 +137,33 @@
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/white-sox-fan-loses-items-from-purse-while-retrieving-home-run-ball"
+        }
+      ]
+    },
+    {
+      "title": "Ohtani likely to return to mound for start during next homestand",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/shohei-ohtani-progress-toward-pitching-return",
+      "pubDate": "2026-08-23T19:06:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/shohei-ohtani-progress-toward-pitching-return"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-progress-toward-pitching-return"
         }
       ]
     },
@@ -4347,30 +4487,6 @@
       ]
     },
     {
-      "title": "Latest Dodgers injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
-      "pubDate": "2026-08-22T22:54:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
       "title": "Stanton strains left calf while running, might not return in 2026",
       "summary": "",
       "titleJa": null,
@@ -4640,33 +4756,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/dodgers-call-alek-thomas-andy-222851445.html"
-        }
-      ]
-    },
-    {
-      "title": "If it were up to Ohtani, he'd be pitching 'in a few days'",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shohei-ohtani-progress-toward-pitching-return",
-      "pubDate": "2026-08-22T22:26:41.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shohei-ohtani-progress-toward-pitching-return"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-progress-toward-pitching-return"
         }
       ]
     },
@@ -87475,94 +87564,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/york-mets-vs-pittsburgh-pirates-214000403.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets at Pirates: Lineups, broadcast info, and open thread, 8/8/26",
-      "summary": "Robert Stock gets another start for the Mets as they look to extend their winning streak.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-pirates-lineups-broadcast-open-214000831.html",
-      "pubDate": "2026-08-08T21:40:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-pirates-lineups-broadcast-open-214000831.html"
-        }
-      ]
-    },
-    {
-      "title": "Jays @ Phillies Game Thread",
-      "summary": "Game Two in Philadelphia. The news for the game is that Springer is scratched because of shoulder tightness. And Vlad is back in the lineup. Beyond that, Zack Wheeler was whining about the Jays wantin…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/jays-phillies-game-thread-213046011.html",
-      "pubDate": "2026-08-08T21:30:46.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/jays-phillies-game-thread-213046011.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets Notes: Brett Baty in right field again, Gabriel Arias&#39; role after call-up",
-      "summary": "Ahead of the Mets' game against the Pirates on Saturday evening, interim manager Andy Green spoke to the media and hit on a number of topics...",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-notes-brett-baty-field-212749097.html",
-      "pubDate": "2026-08-08T21:27:49.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-notes-brett-baty-field-212749097.html"
-        }
-      ]
-    },
-    {
-      "title": "Game Discussion: Milwaukee Brewers (72-44) vs. Minnesota Twins (58-59)",
-      "summary": "Brewers look to even series behind Gasser",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-discussion-milwaukee-brewers-72-212407843.html",
-      "pubDate": "2026-08-08T21:24:07.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-discussion-milwaukee-brewers-72-212407843.html"
         }
       ]
     }
