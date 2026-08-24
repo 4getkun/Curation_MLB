@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-08-24T03:30:05.649Z",
+  "generatedAt": "2026-08-24T04:23:10.189Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Little Leaguers begged for a HR from Harris, and he delivered at the perfect time",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mauricio-dubon-michael-harris-ii-braves-win-2026-little-league-classic",
+      "pubDate": "2026-08-24T03:43:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mauricio-dubon-michael-harris-ii-braves-win-2026-little-league-classic"
+        }
+      ]
+    },
+    {
+      "title": "MLB's No. 6 prospect achieves first 25/25 season for any Dodger in 2026",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/dodgers-prospect-josue-de-paula-25-homer-25-stolen-base-season",
+      "pubDate": "2026-08-24T03:27:43.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-prospect-josue-de-paula-25-homer-25-stolen-base-season"
+        }
+      ]
+    },
     {
       "title": "Felix Bautista Begins Minor League Rehab Assignment",
       "summary": "Felix Bautista threw 22 pitches today with Double-A Chesapeake, allowing a hit and three walks while retiring just one of five batters faced in the first game of his minor league rehab assignment. Mic…",
@@ -93,26 +137,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-24-2026"
-        }
-      ]
-    },
-    {
-      "title": "Clutch knocks from Dubón, Harris help Braves take Little League Classic",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mauricio-dubon-michael-harris-ii-braves-win-2026-little-league-classic",
-      "pubDate": "2026-08-24T02:37:54.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mauricio-dubon-michael-harris-ii-braves-win-2026-little-league-classic"
         }
       ]
     },
@@ -308,6 +332,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/cubs-minor-league-wrap-braxton-015407319.html"
+        }
+      ]
+    },
+    {
+      "title": "Tatis' power outage is officially over after 2-HR, 4-hit masterpiece",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/padres/news/fernando-tatis-jr-homers-twice-in-padres-win-over-twins",
+      "pubDate": "2026-08-24T01:49:31.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/fernando-tatis-jr-homers-twice-in-padres-win-over-twins"
         }
       ]
     },
@@ -87541,60 +87587,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/56-62-chart-044724185.html"
-        }
-      ]
-    },
-    {
-      "title": "Last Chance: Get ROCKIES.TV for $17.99 during August Sale",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/rockies-tv-august-2026-sale",
-      "pubDate": "2026-08-09T04:42:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/rockies-tv-august-2026-sale"
-        }
-      ]
-    },
-    {
-      "title": "Last Chance: Trade Deadline sale offers you the best deal for MLB.TV",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mlb-tv-trade-deadline-2026-sale",
-      "pubDate": "2026-08-09T04:41:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mlb-tv-trade-deadline-2026-sale"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/mlb-tv-trade-deadline-2026-sale"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/mlb-tv-trade-deadline-2026-sale"
         }
       ]
     }
