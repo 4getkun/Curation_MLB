@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:35:25.147Z",
+  "generatedAt": "2026-08-24T08:39:58.229Z",
   "count": 4000,
   "items": [
     {
@@ -43,6 +43,29 @@
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/dodgers-prospect-josue-de-paula-25-homer-25-stolen-base-season"
+        }
+      ]
+    },
+    {
+      "title": "Jared Young’s clutch hitting off bnech wasted by Mets after White Sox walk it off",
+      "summary": "Jared Young began the day on the bench but ended up producing the biggest Mets hit Sunday.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/jared-young-clutch-hitting-off-032517833.html",
+      "pubDate": "2026-08-24T03:25:17.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/jared-young-clutch-hitting-off-032517833.html"
         }
       ]
     },
@@ -87563,26 +87586,6 @@
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-gets-start-against-diamondbacks"
-        }
-      ]
-    },
-    {
-      "title": "Voice of the Mariners Rick Rizzs to be inducted into Mariners Hall of Fame in 2027",
-      "summary": "Long-time voice of the Mariners to join former broadcast partner Dave Niehaus in Mariners Hall of Fame",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/voice-mariners-rick-rizzs-inducted-051457151.html",
-      "pubDate": "2026-08-09T05:14:57.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/voice-mariners-rick-rizzs-inducted-051457151.html"
         }
       ]
     }
