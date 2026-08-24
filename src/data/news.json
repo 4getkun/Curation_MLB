@@ -1,7 +1,130 @@
 {
-  "generatedAt": "2026-08-24T22:51:09.288Z",
+  "generatedAt": "2026-08-24T23:16:57.063Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Astros Re-Sign Nelson Velázquez",
+      "summary": "The Astros re-signed outfielder Nelson Velázquez on a new major league deal, the team informed reporters (including Chandler Rome of The Athletic). Infielder Ray Delgado was optioned back to Triple-A…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/astros-re-sign-nelson-velazquez.html",
+      "pubDate": "2026-08-24T23:15:36.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "trade",
+        "roster",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/astros-re-sign-nelson-velazquez.html"
+        }
+      ]
+    },
+    {
+      "title": "Padres Select Dustin Harris",
+      "summary": "The Padres announced that they have selected the contract of outfielder Dustin Harris. Infielder Sung-Mun Song has been optioned to Triple-A El Paso in a corresponding active roster move. To open a 40…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/padres-select-dustin-harris.html",
+      "pubDate": "2026-08-24T23:00:28.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/padres-select-dustin-harris.html"
+        }
+      ]
+    },
+    {
+      "title": "2026 Fantasy Baseball Top 300: Yordan Alvarez stays on top, Andrew Painter reemerges",
+      "summary": "Hunting for saves? Kodai Senga, Mason Montgomery and Ben Joyce return to the rankings this week.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/2026-fantasy-baseball-top-300-045232474.html",
+      "pubDate": "2026-08-24T22:58:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [
+        "senga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/2026-fantasy-baseball-top-300-045232474.html"
+        }
+      ]
+    },
+    {
+      "title": "Michael Toglia’s season likely done as he heads for shoulder surgery",
+      "summary": "His shoulder dislocation needs to be medically repaired.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/michael-toglia-season-likely-done-225601336.html",
+      "pubDate": "2026-08-24T22:56:01.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/michael-toglia-season-likely-done-225601336.html"
+        }
+      ]
+    },
+    {
+      "title": "GM Dana Brown, Astros mutually agree to part ways",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/dana-brown-astros-part-ways",
+      "pubDate": "2026-08-24T22:47:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/dana-brown-astros-part-ways"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/dana-brown-astros-part-ways"
+        }
+      ]
+    },
     {
       "title": "Colt Emerson To Undergo Season-Ending Wrist Surgery",
       "summary": "Mariners infielder Colt Emerson is going to have season-ending surgery on his left wrist. Ryan Divish of The Seattle Times was among those to relay the news. Emerson is expected to be healthy by next…",
@@ -21,6 +144,28 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/colt-emerson-to-undergo-season-ending-surgery.html"
+        }
+      ]
+    },
+    {
+      "title": "Game 132 Game Day Thread – Texas Rangers @ Chicago White Sox",
+      "summary": "Battle of the division leaders",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-132-game-day-thread-224000018.html",
+      "pubDate": "2026-08-24T22:40:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-132-game-day-thread-224000018.html"
         }
       ]
     },
@@ -106,30 +251,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/atlanta-braves-off-day-chat-222908019.html"
-        }
-      ]
-    },
-    {
-      "title": "Padres Select Dustin Harris",
-      "summary": "The Padres announced that they have selected the contract of outfielder Dustin Harris. Infielder Sung-Mun Song has been optioned to Triple-A El Paso in a corresponding active roster move. To open a 40…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/padres-select-dustin-harris.html",
-      "pubDate": "2026-08-24T22:28:28.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/padres-select-dustin-harris.html"
         }
       ]
     },
@@ -1117,6 +1238,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/braves-option-jim-jarvis-recall-183645585.html"
+        }
+      ]
+    },
+    {
+      "title": "How Logan O’Hoppe’s MLB rise with Angels turned into the ‘most painful four years of my baseball life’",
+      "summary": "Logan O'HoppeLogan O’Hoppe’s MLB dream turned into a nightmare with the Angels. O’Hoppe, who was promoted after just 29 games for Double-A Rocket City in 2022, and was viewed as...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/logan-o-hoppe-mlb-rise-183447017.html",
+      "pubDate": "2026-08-24T18:34:47.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/logan-o-hoppe-mlb-rise-183447017.html"
         }
       ]
     },
@@ -2264,33 +2407,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/2026-brewers-week-review-week-144924943.html"
-        }
-      ]
-    },
-    {
-      "title": "GM Dana Brown, Astros mutually agree to part ways",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/dana-brown-astros-part-ways",
-      "pubDate": "2026-08-24T14:36:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/dana-brown-astros-part-ways"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/dana-brown-astros-part-ways"
         }
       ]
     },
@@ -40024,30 +40140,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/jacob-wilson-scratched-from-lineup-with-shoulder-soreness"
-        }
-      ]
-    },
-    {
-      "title": "2026 Fantasy Baseball Top 300: Ronald Acuña Jr. joins top three; Joshua Báez, Pedro Ramírez debut",
-      "summary": "Hunting for saves? Kodai Senga, Mason Montgomery and Ben Joyce return to the rankings this week.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/2026-fantasy-baseball-top-300-045232474.html",
-      "pubDate": "2026-08-18T00:05:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [
-        "senga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/2026-fantasy-baseball-top-300-045232474.html"
         }
       ]
     },
@@ -87484,90 +87576,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/houston-astros-san-diego-padres-232000486.html"
-        }
-      ]
-    },
-    {
-      "title": "Another Troy Melton gem leads to a Tigers victory in 10 innings",
-      "summary": "The much maligned bullpen bullied the Giants late to give the Tigers a chance to win.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/another-troy-melton-gem-leads-231937429.html",
-      "pubDate": "2026-08-09T23:19:37.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/another-troy-melton-gem-leads-231937429.html"
-        }
-      ]
-    },
-    {
-      "title": "Neto makes Miami homecoming in unfamiliar lineup spot",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/zach-neto-moved-to-cleanup-spot-in-angels-lineup",
-      "pubDate": "2026-08-09T23:11:56.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/zach-neto-moved-to-cleanup-spot-in-angels-lineup"
-        }
-      ]
-    },
-    {
-      "title": "North Carolina wins 2026 Little League Softball World Series",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/north-carolina-wins-2026-little-league-softball-world-series",
-      "pubDate": "2026-08-09T23:09:02.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/north-carolina-wins-2026-little-league-softball-world-series"
-        }
-      ]
-    },
-    {
-      "title": "Why The New GM Needs To “Clean House”",
-      "summary": "The A’s have won an amazing two in a whole row so spirits are high and hopes higher with the team looking like an actual team for 18 consecutive innings. Realistically, though, David Forst was fired —…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/why-gm-needs-clean-house-230746277.html",
-      "pubDate": "2026-08-09T23:07:46.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/why-gm-needs-clean-house-230746277.html"
         }
       ]
     }
