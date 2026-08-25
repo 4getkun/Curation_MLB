@@ -1,7 +1,140 @@
 {
-  "generatedAt": "2026-08-25T20:20:41.736Z",
+  "generatedAt": "2026-08-25T20:53:35.904Z",
   "count": 4000,
   "items": [
+    {
+      "title": "VOTE: Which slumping Yankee will break out?",
+      "summary": "One of these four players has to get hot, right?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/vote-slumping-yankee-break-203713779.html",
+      "pubDate": "2026-08-25T20:37:13.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/vote-slumping-yankee-break-203713779.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers Designate Jonathan Ornelas For Assignment",
+      "summary": "The Brewers announced that outfielder Sal Frelick has been reinstated from the 10-day injured list. Infielder/outfielder Jonathan Ornelas has been designated for assignment as the corresponding move.…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/08/brewers-designate-jonathan-ornelas-for-assignment.html",
+      "pubDate": "2026-08-25T20:35:27.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "injury",
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/08/brewers-designate-jonathan-ornelas-for-assignment.html"
+        }
+      ]
+    },
+    {
+      "title": "Watch Triple-A prospects play for FREE on Thursday",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/angels/news/watch-minor-league-baseball-games-for-free-2026",
+      "pubDate": "2026-08-25T20:35:00.000Z",
+      "source": "MLB.com (Angels)",
+      "sourceId": "mlb-com-angels",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/watch-minor-league-baseball-games-for-free-2026"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/watch-minor-league-baseball-games-for-free-2026"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/watch-minor-league-baseball-games-for-free-2026"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/watch-minor-league-baseball-games-for-free-2026"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/watch-minor-league-baseball-games-for-free-2026"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/watch-minor-league-baseball-games-for-free-2026"
+        }
+      ]
+    },
+    {
+      "title": "Mariners reinstate shortstop J.P. Crawford",
+      "summary": "The Mariners get their captain back; infielder Leo Rivas optioned to Tacoma",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mariners-reinstate-shortstop-jp-crawford-203310987.html",
+      "pubDate": "2026-08-25T20:33:10.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mariners-reinstate-shortstop-jp-crawford-203310987.html"
+        }
+      ]
+    },
+    {
+      "title": "Shane Bieber lands on IL in latest rotation hit as Blue Jays cling to playoff hopes",
+      "summary": "Toronto is currently two games out of the American League wild card",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/shane-bieber-injury-timeline-blue-jays-playoff-odds/\n                    ",
+      "pubDate": "2026-08-25T20:32:12.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/shane-bieber-injury-timeline-blue-jays-playoff-odds/\n                    "
+        }
+      ]
+    },
     {
       "title": "Rockies Select Mason Adams, Activate Hunter Goodman",
       "summary": "August 25: Colorado officially selected Mason Adams before Tuesday’s game against the Nationals. He’s a candidate to draw the start tonight. Blake Adams was sent back to Triple-A. The Rockies also act…",
@@ -21,6 +154,31 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/rockies-call-up-mason-adams-blake-adams.html"
+        }
+      ]
+    },
+    {
+      "title": "Injuries: Bieber, Yankees, Dodgers, Red Sox, Winn, Woodruff, Soto",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "pubDate": "2026-08-25T20:02:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "dodgers",
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/baseball-injury-updates"
         }
       ]
     },
@@ -87,6 +245,73 @@
       ]
     },
     {
+      "title": "Brewers get sparkplug Frelick back from injured list",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/brewers-sal-frelick-activated-off-injured-list",
+      "pubDate": "2026-08-25T19:47:27.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/brewers-sal-frelick-activated-off-injured-list"
+        }
+      ]
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: Guardians vs. Angels, Astros vs. Yankees and more",
+      "summary": "Find best bets for the biggest games in sports on Tuesday from the SportsLine Projection Model and top CBS Sports experts",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-angels-astros-vs-yankees-and-more/\n                    ",
+      "pubDate": "2026-08-25T19:35:11.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "astros",
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-angels-astros-vs-yankees-and-more/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Winn (thumb fracture) goes on IL; Gorman recalled",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/masyn-winn-placed-on-injured-list-nolan-gorman-recalled",
+      "pubDate": "2026-08-25T19:34:41.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/masyn-winn-placed-on-injured-list-nolan-gorman-recalled"
+        }
+      ]
+    },
+    {
       "title": "MLB Expert Picks & Baseball Predictions Aug. 25",
       "summary": "MLB expert picks and moneyline, run line, and Over/Under predictions for Aug. 25, featuring the Mariners, Blue Jays, and Dodgers.",
       "titleJa": null,
@@ -106,30 +331,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mlb-expert-picks-baseball-predictions-142500210.html"
-        }
-      ]
-    },
-    {
-      "title": "Brewers Designate Jonathan Ornelas For Assignment",
-      "summary": "The Brewers announced that outfielder Sal Frelick has been reinstated from the 10-day injured list. Infielder/outfielder Jonathan Ornelas has been designated for assignment as the corresponding move.…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/brewers-designate-jonathan-ornelas-for-assignment.html",
-      "pubDate": "2026-08-25T19:32:27.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "injury",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/brewers-designate-jonathan-ornelas-for-assignment.html"
         }
       ]
     },
@@ -3217,51 +3418,6 @@
       ]
     },
     {
-      "title": "Watch Triple-A prospects play for FREE on Thursday",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/watch-minor-league-baseball-games-for-free-2026",
-      "pubDate": "2026-08-25T05:28:00.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/watch-minor-league-baseball-games-for-free-2026"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/watch-minor-league-baseball-games-for-free-2026"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/watch-minor-league-baseball-games-for-free-2026"
-        },
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/watch-minor-league-baseball-games-for-free-2026"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/watch-minor-league-baseball-games-for-free-2026"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/watch-minor-league-baseball-games-for-free-2026"
-        }
-      ]
-    },
-    {
       "title": "Pederson ejected after ABS challenge denied, banging bat in Rangers' dugout",
       "summary": "",
       "titleJa": null,
@@ -3824,31 +3980,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/mariners-give-injury-updates-on-brendan-donovan-j-p-crawford"
-        }
-      ]
-    },
-    {
-      "title": "Injuries: Yankees, Dodgers, Red Sox, Woodruff, Soto, Abrams",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "pubDate": "2026-08-25T02:10:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "dodgers",
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/baseball-injury-updates"
         }
       ]
     },
@@ -87478,139 +87609,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/08/royals-sign-craig-kimbrel.html"
-        }
-      ]
-    },
-    {
-      "title": "Astros Claim OF Nelson Velazquez Off Waivers, DFA Whitcomb",
-      "summary": "The Houston Astros announced they have claimed OF Nelson Velazquez off waivers from the St. Louis Cardinals. To clear a spot for him on the 40-man roster, they have designated UT Shay Whitcomb for ass…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/astros-claim-nelson-velazquez-off-200041962.html",
-      "pubDate": "2026-08-10T20:00:41.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/astros-claim-nelson-velazquez-off-200041962.html"
-        }
-      ]
-    },
-    {
-      "title": "The Braxton Garrett trade by the numbers",
-      "summary": "Controllable pitching was pricy this deadline, so the Cubs invested in tomorrow.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braxton-garrett-trade-numbers-200000977.html",
-      "pubDate": "2026-08-10T20:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braxton-garrett-trade-numbers-200000977.html"
-        }
-      ]
-    },
-    {
-      "title": "Ask Pinstripe Alley: Yankees mailbag questions request",
-      "summary": "Are the Yankees ready for the dog days?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/ask-pinstripe-alley-yankees-mailbag-200000885.html",
-      "pubDate": "2026-08-10T20:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/ask-pinstripe-alley-yankees-mailbag-200000885.html"
-        }
-      ]
-    },
-    {
-      "title": "Free MLB home run picks, odds for August 10: Bryce Harper in expert's best bets for Monday HR player props",
-      "summary": "SportsLine's Jacob Fetner reveals his best MLB home run props picks for Monday, August 10",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-for-august-10-bryce-harper-in-experts-best-bets-monday-hr-player-props/\n                    ",
-      "pubDate": "2026-08-10T19:58:29.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-for-august-10-bryce-harper-in-experts-best-bets-monday-hr-player-props/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Trade Rumors Front Office Subscriber Chat Transcript",
-      "summary": "Steve Adams Good afternoon! Plenty to talk after last week’s deadline chaos. We’ll get going at 3pm CT, but feel free to start sending in questions anytime. Greetings — shall we begin? Anthopolous Did…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/trade-rumors-front-office-subscriber-chat-today-3pm-ct-22.html",
-      "pubDate": "2026-08-10T19:55:29.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/trade-rumors-front-office-subscriber-chat-today-3pm-ct-22.html"
-        }
-      ]
-    },
-    {
-      "title": "Diamondbacks vs Rockies Prediction: Odds, recent stats, trends, and best bets for August 10",
-      "summary": "Arizona Diamondbacks vs Colorado Rockies Game Preview",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/diamondbacks-vs-rockies-prediction-odds-195351656.html",
-      "pubDate": "2026-08-10T19:53:51.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/diamondbacks-vs-rockies-prediction-odds-195351656.html"
         }
       ]
     }
