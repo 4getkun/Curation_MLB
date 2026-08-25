@@ -1,7 +1,231 @@
 {
-  "generatedAt": "2026-08-25T23:19:23.338Z",
+  "generatedAt": "2026-08-25T23:46:47.410Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Phillies-themed episode of ‘Abbott Elementary’ earns Emmy nomination",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/phillies-themed-episode-of-abbott-elementary-earns-emmy-nomination",
+      "pubDate": "2026-08-25T23:34:39.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/phillies-themed-episode-of-abbott-elementary-earns-emmy-nomination"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Cubs vs. Arizona Diamondbacks preview, Tuesday 8/25, 8:40 CT",
+      "summary": "The Cubs go for the series win.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/chicago-cubs-vs-arizona-diamondbacks-233100274.html",
+      "pubDate": "2026-08-25T23:31:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/chicago-cubs-vs-arizona-diamondbacks-233100274.html"
+        }
+      ]
+    },
+    {
+      "title": "Smith begins rehab assignment in quest to rejoin LA for stretch run",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/will-smith-begins-rehab-assignment-with-triple-a-oklahoma-city",
+      "pubDate": "2026-08-25T23:28:07.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/will-smith-begins-rehab-assignment-with-triple-a-oklahoma-city"
+        }
+      ]
+    },
+    {
+      "title": "Crane: Astros needed change at top; Espada decision will come after season",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jim-crane-addresses-parting-with-dana-brown",
+      "pubDate": "2026-08-25T23:27:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jim-crane-addresses-parting-with-dana-brown"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/jim-crane-addresses-parting-with-dana-brown"
+        }
+      ]
+    },
+    {
+      "title": "O'Neill having MRI on shoulder after missing 2nd straight game",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tyler-oneill-orioles-shoulder-injury",
+      "pubDate": "2026-08-25T23:26:54.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tyler-oneill-orioles-shoulder-injury"
+        }
+      ]
+    },
+    {
+      "title": "Latest Rockies injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
+      "pubDate": "2026-08-25T23:25:00.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Latest Red Sox injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves",
+      "pubDate": "2026-08-25T23:23:00.000Z",
+      "source": "MLB.com (Red Sox)",
+      "sourceId": "mlb-com-redsox",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "St. Louis Cardinals vs Baltimore Orioles Game Discussion Tuesday",
+      "summary": "The St. Louis Cardinals return home for a brief homestand starting Tuesday night as they play host to the Baltimore Orioles. According to MLB.com, the Orioles will start RHP Chris Bassett. MLB.com con…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-baltimore-231931649.html",
+      "pubDate": "2026-08-25T23:19:31.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-baltimore-231931649.html"
+        }
+      ]
+    },
+    {
+      "title": "Rutschman out of Red Sox lineup due to elbow soreness",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-marlins",
+      "pubDate": "2026-08-25T23:18:40.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-marlins"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/adley-rutschman-out-of-red-sox-lineup-against-marlins"
+        }
+      ]
+    },
+    {
+      "title": "Orioles at Cardinals discussion",
+      "summary": "The O’s begin a nine-game road trip with a stop in St. Lous, where Chris Bassitt will toss the opener.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/orioles-cardinals-discussion-231500549.html",
+      "pubDate": "2026-08-25T23:15:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/orioles-cardinals-discussion-231500549.html"
+        }
+      ]
+    },
     {
       "title": "Game Thread: Rangers (66-66) at White Sox (68-63)",
       "summary": "Anthony Kay and the South Siders look to rebound from Monday’s rough loss",
@@ -21,28 +245,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/game-thread-rangers-66-66-231354922.html"
-        }
-      ]
-    },
-    {
-      "title": "Crane: Astros needed change at top; Espada decision will come after season",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/jim-crane-addresses-parting-with-dana-brown",
-      "pubDate": "2026-08-25T23:13:06.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/jim-crane-addresses-parting-with-dana-brown"
         }
       ]
     },
@@ -85,6 +287,30 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/masyn-winn-placed-on-injured-list-nolan-gorman-recalled"
+        }
+      ]
+    },
+    {
+      "title": "Latest Angels injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/angels/news/angels-injuries-and-roster-moves",
+      "pubDate": "2026-08-25T23:11:00.000Z",
+      "source": "MLB.com (Angels)",
+      "sourceId": "mlb-com-angels",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/angels-injuries-and-roster-moves"
         }
       ]
     },
@@ -933,6 +1159,28 @@
           "name": "CBS Sports MLB",
           "sourceId": "cbssports-mlb",
           "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-in-bonus-bets-mlb-braves-dodgers-college-football-tuesday/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Crawford activated from IL; Rivas optioned",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jp-crawford-activated-from-injured-list-by-mariners",
+      "pubDate": "2026-08-25T21:08:30.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "roster"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jp-crawford-activated-from-injured-list-by-mariners"
         }
       ]
     },
@@ -5271,30 +5519,6 @@
       ]
     },
     {
-      "title": "Latest Angels injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/angels/news/angels-injuries-and-roster-moves",
-      "pubDate": "2026-08-25T00:23:00.000Z",
-      "source": "MLB.com (Angels)",
-      "sourceId": "mlb-com-angels",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/angels-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
       "title": "Giants flip 19% of their roster; 3 to IL, 1 to bereavement, 1 optioned",
       "summary": "Giants send their Tugboat back to AAA and place a trio on the IL. Meanwhile, Bryce Eldridge is on the bereavement list.",
       "titleJa": null,
@@ -5486,30 +5710,6 @@
           "name": "MLB.com (Rockies)",
           "sourceId": "mlb-com-rockies",
           "link": "https://www.mlb.com/rockies/news/mason-adams-callup-for-mlb-debut"
-        }
-      ]
-    },
-    {
-      "title": "Latest Rockies injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
-      "pubDate": "2026-08-24T23:36:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
         }
       ]
     },
@@ -5896,30 +6096,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/atlanta-braves-off-day-chat-222908019.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Red Sox injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves",
-      "pubDate": "2026-08-24T22:25:00.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/red-sox-injuries-and-roster-moves"
         }
       ]
     },
@@ -87417,181 +87593,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/dodgers-reportedly-calling-up-reliever-seth-halvorsen-acquired-from-rockies-at-mlb-trade-deadline-225743105.html"
-        }
-      ]
-    },
-    {
-      "title": "Colorado Rockies recall Connor Norby, place Tyler Freeman on the IL",
-      "summary": "This will be Freeman’s second IL stint of 2026.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/colorado-rockies-select-contract-connor-225351805.html",
-      "pubDate": "2026-08-10T22:53:51.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/colorado-rockies-select-contract-connor-225351805.html"
-        }
-      ]
-    },
-    {
-      "title": "Rangers Place Nathan Eovaldi On IL With Elbow Inflammation",
-      "summary": "The Rangers announced that right-hander Nathan Eovaldi has been placed on the 15-day injured list, retroactive to August 9, due to right posterior elbow inflammation. Fellow righty Ben Peoples has bee…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/rangers-place-nathan-eovaldi-on-il-with-elbow-inflammation.html",
-      "pubDate": "2026-08-10T22:45:09.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/rangers-place-nathan-eovaldi-on-il-with-elbow-inflammation.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves vs Mets chat and discussion: Bryce Elder vs. Christian Scott",
-      "summary": "Bryce Elder vs. Christian Scott",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-vs-mets-chat-discussion-224500832.html",
-      "pubDate": "2026-08-10T22:45:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-vs-mets-chat-discussion-224500832.html"
-        }
-      ]
-    },
-    {
-      "title": "VOTE: Which fallen Yankees prospect has a better future on the team in 2027?",
-      "summary": "What lies ahead for Volpe and Domínguez with the Yankees?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/vote-fallen-yankees-prospect-better-224455327.html",
-      "pubDate": "2026-08-10T22:44:55.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/vote-fallen-yankees-prospect-better-224455327.html"
-        }
-      ]
-    },
-    {
-      "title": "Red Sox @ Blue Jays Game Thread",
-      "summary": "The first of four against the Red Sox. We do need some wins. Okamoto has the day off after fouling the ball off his knee yesterday. So Charles McAdoo gets to play third. He was on a hot stretch with t…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/red-sox-blue-jays-game-224411214.html",
-      "pubDate": "2026-08-10T22:44:11.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "bluejays",
-        "redsox"
-      ],
-      "players": [
-        "okamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/red-sox-blue-jays-game-224411214.html"
-        }
-      ]
-    },
-    {
-      "title": "Texas Rangers lineup for August 10, 2026",
-      "summary": "The first of four games in Anaheim",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-10-224104686.html",
-      "pubDate": "2026-08-10T22:41:04.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-10-224104686.html"
-        }
-      ]
-    },
-    {
-      "title": "Game 120: Orioles at Twins",
-      "summary": "First Pitch: 6:40 pm CDTTV: Twins.TVRadio: TIBN / WCCO 830 / The Wolf 102.9 FM / Audacy In the revenge tour we’ve all been waiting for, Dean Kremer faces his former team just days after they kicked hi…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-120-orioles-twins-224000764.html",
-      "pubDate": "2026-08-10T22:40:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-120-orioles-twins-224000764.html"
-        }
-      ]
-    },
-    {
-      "title": "Rangers add SP Nathan Eovaldi to IL with &#39;right posterior elbow inflammation&#39;",
-      "summary": "Eovaldi leads the Rangers with 10 wins this season.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/rangers-add-sp-nathan-eovaldi-to-il-with-right-posterior-elbow-inflammation-223829603.html",
-      "pubDate": "2026-08-10T22:38:29.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/rangers-add-sp-nathan-eovaldi-to-il-with-right-posterior-elbow-inflammation-223829603.html"
         }
       ]
     }
