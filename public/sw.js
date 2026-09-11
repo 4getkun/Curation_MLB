@@ -1,6 +1,6 @@
 // MLB Curation - Service Worker
 //
-// 静的サイト(GitHub Pages)なので、ビルド時にファイル名が変わる
+// 静的サイトなので、ビルド時にファイル名が変わる
 // アセット一覧を事前キャッシュする代わりに、「アクセスした分だけ
 // その場でキャッシュする(runtime caching)」方式にしている。
 // これによりビルドのたびにこのファイルを更新する必要がなくなる。
@@ -12,7 +12,8 @@
 //    (キャッシュがあれば即座に返しつつ、裏でネットワーク取得して更新)
 
 const CACHE_NAME = "mlb-curation-v1";
-const OFFLINE_URL = "/Curation_MLB/offline.html";
+// sw.js と同じフォルダの offline.html(公開パスが変わっても書き換え不要なように相対解決)
+const OFFLINE_URL = new URL("offline.html", self.location).pathname;
 
 self.addEventListener("install", (event) => {
   event.waitUntil(

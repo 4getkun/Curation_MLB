@@ -21,18 +21,36 @@ const pageTitle = title === "Curation MLB" ? title : `${title} | Curation MLB`;
 
 // TwitterやFacebook等のOGPクローラーはBASE_URLのようなサイト内相対パスを解釈できず、
 // 絶対URLでないとカードに画像が出ない。Astro.site は origin のみ(例:
-// "https://4getkun.github.io/")を返すため、リポジトリ名を含むbaseパス
+// "https://fourgetkun.com/")を返すため、baseパス
 // (withBase())と組み合わせて絶対URLを組み立てる。Astro.url.pathname は
-// ビルド時点で既にbaseを含んだ最終パスを返す(例: "/Curation_MLB/team/dodgers/")ので、
+// ビルド時点で既にbaseを含んだ最終パスを返す(例: "/mlb-news/team/dodgers/")ので、
 // そのままAstro.siteと結合すればページごとの正しい絶対URLになる。
 const ogImageAbsoluteUrl = new URL(withBase(`/${image}`), Astro.site).toString();
 const canonicalAbsoluteUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+// 公開トップの絶対URL(例: "https://fourgetkun.com/mlb-news/")。旧URLからの転送先に使う。
+const publicBaseUrl = new URL(withBase("/"), Astro.site).toString();
 ---
 
 <!doctype html>
 <html lang="ja">
   <head>
     <meta charset="UTF-8" />
+    <script is:inline define:vars={{ publicBaseUrl }}>
+      // 旧URL(GitHub Pages: 4getkun.github.io/Curation_MLB/...)で開かれたら、
+      // 同じページの新URL(fourgetkun.com/mlb-news/...)へ転送する。
+      // GitHub Pages は現在「配信元」としてだけ使っており、ここのHTMLは
+      // 公開側のbase(/mlb-news/)前提でリンクが組まれているため、
+      // github.io上ではCSS等が読み込めない。fourgetkun.com 経由の表示では何もしない。
+      if (location.hostname === "4getkun.github.io") {
+        location.replace(
+          publicBaseUrl +
+            location.pathname.replace(/^\/Curation_MLB\/?/, "") +
+            location.search +
+            location.hash,
+        );
+      }
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚾</text></svg>" />
     <meta name="generator" content={Astro.generator} />

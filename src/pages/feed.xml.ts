@@ -17,7 +17,7 @@ function escapeXml(str: string): string {
 
 export const GET: APIRoute = ({ site }) => {
   const base = import.meta.env.BASE_URL ?? "/";
-  const origin = site ? site.origin ?? site.toString().replace(/\/$/, "") : "https://4getkun.github.io";
+  const origin = site ? site.origin ?? site.toString().replace(/\/$/, "") : "https://fourgetkun.com";
   const siteUrl = `${origin}${base}`.replace(/\/+$/, "");
 
   const items = allNews.slice(0, 100);

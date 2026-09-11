@@ -1,5 +1,8 @@
 name: Build and deploy to GitHub Pages
 
+# 公開URLは https://fourgetkun.com/mlb-news/ 。GitHub Pages は配信元で、
+# fourgetkun-hub の Worker がここからプロキシして返す(README「公開の仕組み」参照)。
+#
 # 実行タイミング:
 #  - main への push(コード変更時)
 #  - 30分ごとのスケジュール実行(ニュースの自動更新のため)

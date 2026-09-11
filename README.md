@@ -4,8 +4,25 @@
 英語圏の信頼できる野球専門メディアのRSSを自動収集し、球団別・選手別・話題別に整理して掲載します。実験的な運営のため、記事は現在すべて英語の原文のまま掲載しています(AI日本語翻訳の仕組みはコードに実装済みですが、既定では無効です。詳細は後述)。
 Astro + Tailwind CSS で構築し、GitHub Pages の無料枠だけで完結するように作っています。姉妹サイト「[Curation NPB](https://github.com/4getkun/Curation_NPB)」と同じ設計思想です。
 
-- 公開URL(予定): https://4getkun.github.io/Curation_MLB/
+- 公開URL: https://fourgetkun.com/mlb-news/ (fourgetkun-hub 配下)
+- 配信元(GitHub Pages): https://4getkun.github.io/Curation_MLB/ — 直接開くと上の公開URLへ自動転送されます
 - リポジトリ: https://github.com/4getkun/Curation_MLB
+
+## 公開の仕組み(2026-09〜 fourgetkun.com 配下へ移行)
+
+ビルドとデプロイはこれまでどおり GitHub Actions → GitHub Pages で行い、GitHub Pages は「配信元」として残しています。
+利用者向けの公開URLは `https://fourgetkun.com/mlb-news/` で、fourgetkun-hub の Worker(`src/pages-proxy/proxy.js`)が
+`/mlb-news/*` へのリクエストを `https://4getkun.github.io/Curation_MLB/*` から取得して返すリバースプロキシになっています。
+
+- `astro.config.mjs` の `site` / `base` は公開側(`https://fourgetkun.com` / `/mlb-news`)に合わせています。
+  そのため GitHub Pages 上のHTMLを github.io のURLで直接開くとCSS等が読めませんが、`Base.astro` 冒頭の
+  インラインスクリプトが同じページの `fourgetkun.com/mlb-news/...` へ即座に転送します(旧URLの共有リンクも生きます)。
+- `fourgetkun.com/Curation_MLB/...` へのアクセスも hub 側で `/mlb-news/...` へ301転送します。
+- サイト発行のRSS(`feed.xml`)内のリンクも公開側URLになります。旧URL `4getkun.github.io/Curation_MLB/feed.xml` を購読中のリーダーもそのまま読めます。
+- 30分ごとの自動更新は GitHub Pages 側で完結するため、hub リポジトリへのコミットや Cloudflare 側の再ビルドは発生しません。
+  hub 側のエッジキャッシュは約5分なので、更新の反映は GitHub Pages のデプロイ完了から最大5分ほど遅れます。
+- 以下のセットアップ手順・ローカル確認のURL(`/Curation_MLB/`)は移行前の記述です。ローカル開発は
+  `npm run dev` → `http://localhost:4321/mlb-news/` で確認します。
 
 ## 特徴
 
