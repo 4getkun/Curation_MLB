@@ -1,14 +1,903 @@
 {
-  "generatedAt": "2026-09-13T20:06:15.795Z",
+  "generatedAt": "2026-09-13T22:30:23.889Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Latest Padres injuries and transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves",
+      "pubDate": "2026-09-13T22:22:00.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "San Diego Padres at San Francisco Giants",
+      "summary": "Your game thread for September 13, 2026.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/san-diego-padres-san-francisco-222000381.html",
+      "pubDate": "2026-09-13T22:20:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/san-diego-padres-san-francisco-222000381.html"
+        }
+      ]
+    },
+    {
+      "title": "Rockies GM Byrnes talks ups and downs of Colorado's season",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/rockies-general-manager-josh-byrnes-on-2026-performance",
+      "pubDate": "2026-09-13T22:15:32.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/rockies-general-manager-josh-byrnes-on-2026-performance"
+        }
+      ]
+    },
+    {
+      "title": "Painter firmly in pitching plans as Phils pursue top NL Wild Card",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/andrew-painter-s-strong-start-helps-phillies-beat-braves",
+      "pubDate": "2026-09-13T22:14:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/andrew-painter-s-strong-start-helps-phillies-beat-braves"
+        }
+      ]
+    },
+    {
+      "title": "Ballesteros, Neto's HRs a silver lining to end Angels' 9-game road trip",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/angels/news/moises-ballesteros-zach-neto-homer-in-angels-loss-to-nationals",
+      "pubDate": "2026-09-13T22:12:33.000Z",
+      "source": "MLB.com (Angels)",
+      "sourceId": "mlb-com-angels",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/moises-ballesteros-zach-neto-homer-in-angels-loss-to-nationals"
+        }
+      ]
+    },
+    {
+      "title": "Blue Jays&#39; Vladimir Guerrero Jr. finally hits first home run at Toronto&#39;s Rogers Centre in 2026, with six home games remaining",
+      "summary": "The Blue Jays' slugger had gone more than a year without hitting a home run in his home ballpark, and has only hit nine overall this season.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/blue-jays-vladimir-guerrero-jr-finally-hits-first-home-run-at-torontos-rogers-centre-in-2026-with-six-home-games-remaining-221122870.html",
+      "pubDate": "2026-09-13T22:11:22.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/blue-jays-vladimir-guerrero-jr-finally-hits-first-home-run-at-torontos-rogers-centre-in-2026-with-six-home-games-remaining-221122870.html"
+        }
+      ]
+    },
+    {
+      "title": "Pirates 4, Cubs 3: Matthew Boyd deserved better",
+      "summary": "And Miguel Amaya homered for the first time since Aug. 9, but it wasn’t enough.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pirates-4-cubs-3-matthew-221001813.html",
+      "pubDate": "2026-09-13T22:10:01.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pirates-4-cubs-3-matthew-221001813.html"
+        }
+      ]
+    },
+    {
+      "title": "Krall assumes responsibility for disappointing season, discusses future with Reds",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/nick-krall-discusses-reds-disappointing-2026-results",
+      "pubDate": "2026-09-13T22:09:16.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/nick-krall-discusses-reds-disappointing-2026-results"
+        }
+      ]
+    },
+    {
+      "title": "Home(r) at last! Vladdy goes deep in Toronto for first time in 2026",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026",
+      "pubDate": "2026-09-13T22:06:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026"
+        }
+      ]
+    },
+    {
+      "title": "Streaking Padres fight for postseason spot against Giants (7:20 ET on Peacock)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/sunday-night-baseball-on-peacock-nbc-for-2026-mlb-season",
+      "pubDate": "2026-09-13T21:57:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/sunday-night-baseball-on-peacock-nbc-for-2026-mlb-season"
+        }
+      ]
+    },
+    {
+      "title": "Immaculate! Tolle sets tone in first inning against Royals",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/payton-tolle-pitches-immaculate-first-inning-against-royals",
+      "pubDate": "2026-09-13T21:46:23.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/payton-tolle-pitches-immaculate-first-inning-against-royals"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/payton-tolle-pitches-immaculate-first-inning-against-royals"
+        }
+      ]
+    },
+    {
+      "title": "Cubs current record, schedule, MLB standings, broadcast information",
+      "summary": "Here you will always be able to find the most up-to-date information on who the Cubs are playing, when and where, and what TV channel you can find the game on.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html",
+      "pubDate": "2026-09-13T21:40:21.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html"
+        }
+      ]
+    },
+    {
+      "title": "Scott belongs in '27 rotation. How does the rest fall into place?",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/mets/news/christian-scott-continues-bid-for-2027-rotation-in-loss-to-yankees",
+      "pubDate": "2026-09-13T21:40:00.000Z",
+      "source": "MLB.com (Mets)",
+      "sourceId": "mlb-com-mets",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/christian-scott-continues-bid-for-2027-rotation-in-loss-to-yankees"
+        }
+      ]
+    },
+    {
+      "title": "Brewers unable to extend winning streak in 4-3 loss",
+      "summary": "Despite two home runs, the bullpen and offense fall short of extending the Brewers winning streak",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brewers-unable-extend-winning-streak-213557646.html",
+      "pubDate": "2026-09-13T21:35:57.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brewers-unable-extend-winning-streak-213557646.html"
+        }
+      ]
+    },
+    {
+      "title": "Tigers Notes: Verlander, Flaherty, Pérez",
+      "summary": "With retirement just around the corner, Tigers legend Justin Verlander has been making every effort to return to the mound before the end of the season. The 43-year-old righty, whose only appearance t…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/09/tigers-notes-verlander-flaherty-perez.html",
+      "pubDate": "2026-09-13T21:26:32.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/09/tigers-notes-verlander-flaherty-perez.html"
+        }
+      ]
+    },
+    {
+      "title": "Red Sox starter Payton Tolle opens game vs. Royals with immaculate inning",
+      "summary": "Tolle threw a perfect first inning, just 2 days after Diamondbacks reliever Justin Martinez also achieved the feat.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/red-sox-starter-payton-tolle-opens-game-vs-royals-with-immaculate-inning-212413806.html",
+      "pubDate": "2026-09-13T21:24:13.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/red-sox-starter-payton-tolle-opens-game-vs-royals-with-immaculate-inning-212413806.html"
+        }
+      ]
+    },
+    {
+      "title": "A challenging stretch? So far, Rays are rising to it",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jonathan-aranda-homers-twice-as-rays-complete-sweep-of-astros",
+      "pubDate": "2026-09-13T21:19:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jonathan-aranda-homers-twice-as-rays-complete-sweep-of-astros"
+        }
+      ]
+    },
+    {
+      "title": "Cubs hit home stretch aiming to secure NL's top Wild Card spot",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/cubs-lose-pirates-nl-wild-card-race",
+      "pubDate": "2026-09-13T21:16:30.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/cubs-lose-pirates-nl-wild-card-race"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/cubs-lose-pirates-nl-wild-card-race"
+        }
+      ]
+    },
+    {
+      "title": "Sandlin carries perfecto into 6th before Cardinals storm back",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/david-sandlin-brings-perfect-game-into-sixth-inning-in-white-sox-loss",
+      "pubDate": "2026-09-13T21:15:48.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/david-sandlin-brings-perfect-game-into-sixth-inning-in-white-sox-loss"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/david-sandlin-brings-perfect-game-into-sixth-inning-in-white-sox-loss"
+        }
+      ]
+    },
+    {
+      "title": "Crew unable to finish perfect homestand despite Bauers' clutch homer",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jake-bauers-homers-but-brewers-can-t-complete-comeback-in-finale",
+      "pubDate": "2026-09-13T21:15:12.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jake-bauers-homers-but-brewers-can-t-complete-comeback-in-finale"
+        }
+      ]
+    },
+    {
+      "title": "Bibee Gets Run Support, Guards Get the Win",
+      "summary": "Cleveland Guardians 9 - Minnesota Twins 2",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/bibee-gets-run-support-guards-211402888.html",
+      "pubDate": "2026-09-13T21:14:02.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/bibee-gets-run-support-guards-211402888.html"
+        }
+      ]
+    },
+    {
+      "title": "Josue De Paula hits three-run homer, but Dodgers suffer walk-off loss to Marlins",
+      "summary": "Dodgers rookie Josue De Paula hit a three-run homer, but pitcher Tanner Scott could not hold onto a two-run lead in the ninth and the team lost in Miami.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/josue-paula-hits-three-run-211211266.html",
+      "pubDate": "2026-09-13T21:12:11.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/josue-paula-hits-three-run-211211266.html"
+        }
+      ]
+    },
+    {
+      "title": "KC prospect records Minors' first 30-30 season since 2023",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/royals-carson-roccaforte-becomes-first-minor-leaguer-with-30-30-season-since-2023",
+      "pubDate": "2026-09-13T21:11:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/royals-carson-roccaforte-becomes-first-minor-leaguer-with-30-30-season-since-2023"
+        }
+      ]
+    },
+    {
+      "title": "Kwan kicks off Guardians' offensive burst with leadoff HR in Bibee's bounce-back start",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tanner-bibee-strikes-out-7-in-bounce-back-start-against-twins",
+      "pubDate": "2026-09-13T21:06:39.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tanner-bibee-strikes-out-7-in-bounce-back-start-against-twins"
+        }
+      ]
+    },
+    {
+      "title": "Pair of solo homers down Mets in the Bronx",
+      "summary": "Cam Schlittler edged out Christian Scott in a good old fashioned pitcher’s duel.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pair-solo-homers-down-mets-210532033.html",
+      "pubDate": "2026-09-13T21:05:32.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pair-solo-homers-down-mets-210532033.html"
+        }
+      ]
+    },
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "pubDate": "2026-09-13T20:58:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026"
+        }
+      ]
+    },
+    {
+      "title": "Homers from Springer, Guerrero, Okamoto Help Jays Win",
+      "summary": "Orioles 1 Jays 8 Well, Vlad finally homered at Rogers. He would have had two, except the wind pushed one back to make it just a double. And Springer and Okamoto homered on either side of Vlad’s so the…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/homers-springer-guerrero-okamoto-help-205752480.html",
+      "pubDate": "2026-09-13T20:57:52.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [
+        "okamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/homers-springer-guerrero-okamoto-help-205752480.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers 2026 game results",
+      "summary": "Keeping track of every game this season, all in one place",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
+      "pubDate": "2026-09-13T20:57:47.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
+        }
+      ]
+    },
+    {
+      "title": "It’s still baseball season: Rays 14, Astros 4",
+      "summary": "While the Bucs’ season got off to a disappointing start with a loss in Cincinnati, the American League-best Rays completed a sweep of the Astros. The Rays plated two touchdowns worth of runs to keep t…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/still-baseball-season-rays-14-205437430.html",
+      "pubDate": "2026-09-13T20:54:37.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/still-baseball-season-rays-14-205437430.html"
+        }
+      ]
+    },
+    {
+      "title": "Cam Schlittler strengthens Cy Young case as Yankees blank Mets in Subway Series finale",
+      "summary": "Cam Schlittler bolstered his Cy Young case with six scoreless innings as the Yankees beat the Mets 2-0, though an injury scare cast a shadow.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cam-schlittler-strengthens-cy-young-205413083.html",
+      "pubDate": "2026-09-13T20:54:13.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "injury",
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cam-schlittler-strengthens-cy-young-205413083.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers top prospect's first hit is an absolute moonshot",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit",
+      "pubDate": "2026-09-13T20:54:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit"
+        }
+      ]
+    },
+    {
+      "title": "Josue De Paula says hello, but Marlins say goodbye to stunned Dodgers",
+      "summary": "Emmet Sheehan had his second great start of the week, and was backed by Josue De Paula’s first major league home run. The Marlins only had three base runners and no runs in the first seven innings. Bu…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/josue-paula-says-hello-marlins-205322899.html",
+      "pubDate": "2026-09-13T20:53:22.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/josue-paula-says-hello-marlins-205322899.html"
+        }
+      ]
+    },
+    {
+      "title": "Squandered opportunities and late implosion sink Braves sweep chances as Phillies salvage series finale",
+      "summary": "Ray Kerr and defense stellar in an otherwise annoying afternoon",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/squandered-opportunities-implosion-sink-braves-205112358.html",
+      "pubDate": "2026-09-13T20:51:12.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/squandered-opportunities-implosion-sink-braves-205112358.html"
+        }
+      ]
+    },
+    {
+      "title": "In test against AL's best team, Astros fall short",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/astros-allow-14-runs-as-rays-complete-sweep",
+      "pubDate": "2026-09-13T20:50:18.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/astros-allow-14-runs-as-rays-complete-sweep"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/astros-allow-14-runs-as-rays-complete-sweep"
+        }
+      ]
+    },
+    {
+      "title": "Washington Nationals win another nail biter and sweep the LA Angels",
+      "summary": "The Nats sparked another late inning come back to secure a sweep over the Angels and get to 70 wins",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/washington-nationals-win-another-nail-204500096.html",
+      "pubDate": "2026-09-13T20:45:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/washington-nationals-win-another-nail-204500096.html"
+        }
+      ]
+    },
+    {
+      "title": "BCIB Takes His Braves Scattered, Diced, and Smothered: Phillies 9, Braves 4",
+      "summary": "Am I allowed to do a Waffle House title if I’ve never eaten at one?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/bcib-takes-braves-scattered-diced-204339497.html",
+      "pubDate": "2026-09-13T20:43:39.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/bcib-takes-braves-scattered-diced-204339497.html"
+        }
+      ]
+    },
+    {
+      "title": "McGreevy’s Arm, Burleson’s Clutch Bat Help St. Louis Cardinals Beat White Sox Sunday",
+      "summary": "It really should have been expected when you think about it. There was a lack of energy in the stands at Busch Stadium Sunday afternoon as Michael McGreevy through the first pitch for the matinee game…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mcgreevy-arm-burleson-clutch-bat-204337448.html",
+      "pubDate": "2026-09-13T20:43:37.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mcgreevy-arm-burleson-clutch-bat-204337448.html"
+        }
+      ]
+    },
+    {
+      "title": "Key takeaways: Blue Jays 8, Orioles 1",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/blue-jays-hit-back-to-back-to-back-homers-in-win",
+      "pubDate": "2026-09-13T20:43:34.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/blue-jays-hit-back-to-back-to-back-homers-in-win"
+        }
+      ]
+    },
+    {
+      "title": "Blue Jays stomp Orioles 8-1 to win series",
+      "summary": "The hitters couldn’t capitalize, the pitchers couldn’t stop giving up runs",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/blue-jays-stomp-orioles-8-204207118.html",
+      "pubDate": "2026-09-13T20:42:07.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/blue-jays-stomp-orioles-8-204207118.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees secure September Subway Series as Schlittler stars, Rice and Wells go yard",
+      "summary": "Schlittler was close to untouchable in rubber game gem against the Mets.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-secure-september-subway-series-204129994.html",
+      "pubDate": "2026-09-13T20:41:29.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-secure-september-subway-series-204129994.html"
+        }
+      ]
+    },
     {
       "title": "Schlittler holds Mets to 1 hit in 6 innings, exits after being struck by liner",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlb.com/news/cam-schlittler-pitches-6-innings-of-1-hit-ball-against-mets",
-      "pubDate": "2026-09-13T19:58:47.000Z",
+      "pubDate": "2026-09-13T20:22:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
       "teams": [
@@ -21,6 +910,48 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/cam-schlittler-pitches-6-innings-of-1-hit-ball-against-mets"
+        }
+      ]
+    },
+    {
+      "title": "D-Train inducted into Marlins HOF: 'Surreal moment to see my plaque on the wall'",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/dontrelle-willis-inducted-into-marlins-legends-hall-of-fame",
+      "pubDate": "2026-09-13T20:11:04.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/dontrelle-willis-inducted-into-marlins-legends-hall-of-fame"
+        }
+      ]
+    },
+    {
+      "title": "Rain threatens to further delay the Red Sox game against the Royals",
+      "summary": "The start time has already been pushed back, but probably not far enough.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/rain-threatens-further-delay-red-122215569.html",
+      "pubDate": "2026-09-13T20:03:38.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/rain-threatens-further-delay-red-122215569.html"
         }
       ]
     },
@@ -43,31 +974,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/09/athletics-interview-mike-rizzo-billy-owens-for-gm-vacancy.html"
-        }
-      ]
-    },
-    {
-      "title": "Better late than never! Vladdy connects on 1st Rogers Centre HR of '26",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026",
-      "pubDate": "2026-09-13T19:45:23.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026"
         }
       ]
     },
@@ -286,33 +1192,6 @@
       ]
     },
     {
-      "title": "Dodgers top prospect's first hit is an absolute moonshot",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit",
-      "pubDate": "2026-09-13T19:09:52.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit"
-        }
-      ]
-    },
-    {
       "title": "Giants Place Rafael Devers On 60-Day IL, Select Scott Bandura",
       "summary": "The Giants announced that first baseman Rafael Devers has been placed on the 60-day injured list due to a core muscle injury. Outfielder Scott Bandura’s contract has been selected from Triple-A, and B…",
       "titleJa": null,
@@ -444,28 +1323,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/clarke-schmidt-potentially-rejoin-yankees-184018412.html"
-        }
-      ]
-    },
-    {
-      "title": "Rain threatens to further delay the Red Sox game against the Royals",
-      "summary": "The start time has already been pushed back, but probably not far enough.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rain-threatens-further-delay-red-122215569.html",
-      "pubDate": "2026-09-13T18:40:13.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rain-threatens-further-delay-red-122215569.html"
         }
       ]
     },
@@ -1498,26 +2355,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/royals-claim-pitcher-spencer-bivens-152049845.html"
-        }
-      ]
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "pubDate": "2026-09-13T15:14:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026"
         }
       ]
     },
@@ -3859,28 +4696,6 @@
       ]
     },
     {
-      "title": "Dodgers 2026 game results",
-      "summary": "Keeping track of every game this season, all in one place",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
-      "pubDate": "2026-09-12T22:54:57.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
-        }
-      ]
-    },
-    {
       "title": "Pirates Place Esmerlyn Valdez On 10-Day Injured List",
       "summary": "The Pirates placed outfielder Esmerlyn Valdez on the 10-day injured list today before their afternoon matchup with the Cubs. Utilityman Ronny Simon got the call-up from Triple-A Indianapolis to take h…",
       "titleJa": null,
@@ -4472,28 +5287,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/shea-langeliers-activated-off-injured-list-by-athletics"
-        }
-      ]
-    },
-    {
-      "title": "Cubs current record, schedule, MLB standings, broadcast information",
-      "summary": "Here you will always be able to find the most up-to-date information on who the Cubs are playing, when and where, and what TV channel you can find the game on.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html",
-      "pubDate": "2026-09-12T21:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cubs-current-record-schedule-mlb-232840678.html"
         }
       ]
     },
@@ -8483,30 +9276,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/game-148-game-day-thread-004000966.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Padres injuries and transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves",
-      "pubDate": "2026-09-12T00:37:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves"
         }
       ]
     },
@@ -33935,7 +34704,9 @@
       "pubDate": "2026-09-06T17:57:16.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "redsox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -47421,7 +48192,9 @@
       "pubDate": "2026-09-03T21:38:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "bluejays"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -86593,836 +87366,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/checking-in-on-the-phillies-whats-working-and-whats-not-amid-their-recent-hot-streak-235330183.html"
-        }
-      ]
-    },
-    {
-      "title": "Mariners drop regularly scheduled blowout, 6-0",
-      "summary": "Woo falters early, bats go quiet as M’s settle for series win and 4-2 homestand",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mariners-drop-regularly-scheduled-blowout-235125095.html",
-      "pubDate": "2026-08-26T23:51:25.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mariners-drop-regularly-scheduled-blowout-235125095.html"
-        }
-      ]
-    },
-    {
-      "title": "Ohtani's return to mound imminent, but plan remains fluid",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shohei-ohtani-s-return-to-mound-depends-on-next-bullpen-session",
-      "pubDate": "2026-08-26T23:44:14.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shohei-ohtani-s-return-to-mound-depends-on-next-bullpen-session"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-s-return-to-mound-depends-on-next-bullpen-session"
-        }
-      ]
-    },
-    {
-      "title": "Lawlar's homer, Rodriguez's gem (with lucky break) lead D-backs to win",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/jordan-lawlar-home-run-lifts-d-backs-to-win-over-cubs",
-      "pubDate": "2026-08-26T23:44:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/jordan-lawlar-home-run-lifts-d-backs-to-win-over-cubs"
-        }
-      ]
-    },
-    {
-      "title": "Bonemer debuts in CF as White Sox infield prospect embraces versatility",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/whitesox/news/white-sox-prospect-caleb-bonemer-makes-debut-in-center-field",
-      "pubDate": "2026-08-26T23:43:18.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/white-sox-prospect-caleb-bonemer-makes-debut-in-center-field"
-        }
-      ]
-    },
-    {
-      "title": "Reds roar back for 10-9 win over Giants with 7-run 9th inning",
-      "summary": "The Reds marked their biggest 9th inning comeback in some 70 years in taking down the Giants!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/reds-roar-back-10-9-234124969.html",
-      "pubDate": "2026-08-26T23:41:24.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/reds-roar-back-10-9-234124969.html"
-        }
-      ]
-    },
-    {
-      "title": "Harper's hot August -- at the plate and in the outfield -- just keeps going",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/bryce-harper-extends-on-base-streak-in-phillies-win",
-      "pubDate": "2026-08-26T23:35:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/bryce-harper-extends-on-base-streak-in-phillies-win"
-        }
-      ]
-    },
-    {
-      "title": "Minor League roundup, August 25: Dalton Wentz with a grand introduction",
-      "summary": "Yesterday on the farm.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/minor-league-roundup-august-25-232253668.html",
-      "pubDate": "2026-08-26T23:22:53.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/minor-league-roundup-august-25-232253668.html"
-        }
-      ]
-    },
-    {
-      "title": "St. Louis Cardinals vs Baltimore Orioles Wednesday Night",
-      "summary": "It’s game 2 of the St. Louis Cardinals playing host to the Baltimore Orioles Wednesday night. Michael McGreevy gets the start for the Cardinals while the Orioles will send Kyle Bradish to the mound. F…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-baltimore-232000650.html",
-      "pubDate": "2026-08-26T23:20:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-baltimore-232000650.html"
-        }
-      ]
-    },
-    {
-      "title": "&#39;He&#39;s human&#39;: Mason Miller gave up his first home run in over a year",
-      "summary": "One of baseball's most unreal streaks came to an end on Tuesday night at Petco Park.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/hes-human-mason-miller-gave-231808914.html",
-      "pubDate": "2026-08-26T23:18:08.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/hes-human-mason-miller-gave-231808914.html"
-        }
-      ]
-    },
-    {
-      "title": "Orioles @ Cardinals discussion",
-      "summary": "The Orioles look to clinch the series with Kyle Bradish on the mound",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/orioles-cardinals-discussion-231500657.html",
-      "pubDate": "2026-08-26T23:15:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/orioles-cardinals-discussion-231500657.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers at Braves game chat",
-      "summary": "The Dodgers look to get back in the win column as they take on the Atlanta Braves on Wednesday. Roki Sasaki faces A.J. Smith-Shawver. WEDNESDAY GAME INFO",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-braves-game-chat-230200979.html",
-      "pubDate": "2026-08-26T23:02:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "sasaki"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-braves-game-chat-230200979.html"
-        }
-      ]
-    },
-    {
-      "title": "The hottest hitting prospects right now -- one for each club",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/hottest-hitting-prospect-for-each-team-august-2026",
-      "pubDate": "2026-08-26T23:00:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/hottest-hitting-prospect-for-each-team-august-2026"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/hottest-hitting-prospect-for-each-team-august-2026"
-        },
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/hottest-hitting-prospect-for-each-team-august-2026"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/hottest-hitting-prospect-for-each-team-august-2026"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/hottest-hitting-prospect-for-each-team-august-2026"
-        },
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/hottest-hitting-prospect-for-each-team-august-2026"
-        },
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/hottest-hitting-prospect-for-each-team-august-2026"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/hottest-hitting-prospect-for-each-team-august-2026"
-        },
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/hottest-hitting-prospect-for-each-team-august-2026"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/hottest-hitting-prospect-for-each-team-august-2026"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/hottest-hitting-prospect-for-each-team-august-2026"
-        }
-      ]
-    },
-    {
-      "title": "Vientos' role on Mets won't be 'perfectly laid path' on return from rehab",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mark-vientos-on-rehab-assignment-for-mets",
-      "pubDate": "2026-08-26T22:59:07.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mark-vientos-on-rehab-assignment-for-mets"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/mark-vientos-on-rehab-assignment-for-mets"
-        }
-      ]
-    },
-    {
-      "title": "Multiple traded SF Giants thriving on new teams",
-      "summary": "How have the Giants traded at the deadline been doing for this new teams? Read on and see!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/multiple-traded-sf-giants-thriving-225728499.html",
-      "pubDate": "2026-08-26T22:57:28.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/multiple-traded-sf-giants-thriving-225728499.html"
-        }
-      ]
-    },
-    {
-      "title": "Rutschman sits out second straight game with elbow soreness",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-marlins",
-      "pubDate": "2026-08-26T22:57:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-marlins"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/adley-rutschman-out-of-red-sox-lineup-against-marlins"
-        }
-      ]
-    },
-    {
-      "title": "Royals @ Jays Game Thread",
-      "summary": "Game Two of Three with the Royals, who are now on a 9 game win streak. Ending it would be a good idea. Also it would be nice if we were make fewer mistakes. Vlad throwing wide of first (he leads first…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/royals-jays-game-thread-225156388.html",
-      "pubDate": "2026-08-26T22:51:56.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/royals-jays-game-thread-225156388.html"
-        }
-      ]
-    },
-    {
-      "title": "64-70: Chart",
-      "summary": "Get ‘em Friday",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/64-70-chart-225011513.html",
-      "pubDate": "2026-08-26T22:50:11.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/64-70-chart-225011513.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves vs Dodgers chat and discussion: AJ Smith-Shawver vs Roki Sasaki",
-      "summary": "Based on the pitching matchup, we may see more runs than usual in a Braves vs Dodgers game",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-vs-dodgers-chat-discussion-225000120.html",
-      "pubDate": "2026-08-26T22:50:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "sasaki"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-vs-dodgers-chat-discussion-225000120.html"
-        }
-      ]
-    },
-    {
-      "title": "Skubal to face Tigers for 1st time since trade to Dodgers on Friday in Detroit",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/tarik-skubal-start-against-tigers",
-      "pubDate": "2026-08-26T22:47:34.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/tarik-skubal-start-against-tigers"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/tarik-skubal-start-against-tigers"
-        }
-      ]
-    },
-    {
-      "title": "Yanks add veteran Fulmer to 'pen, place Cruz (elbow discomfort) on IL",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/fernando-cruz-to-injured-list-yankees-sign-michael-fulmer",
-      "pubDate": "2026-08-26T22:46:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/fernando-cruz-to-injured-list-yankees-sign-michael-fulmer"
-        }
-      ]
-    },
-    {
-      "title": "This is 40: Phillies 6, Mariners 0",
-      "summary": "Schwarber smacks four-seamer into seats in Seattle, scaring salmon.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/40-phillies-6-mariners-0-224508523.html",
-      "pubDate": "2026-08-26T22:45:08.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/40-phillies-6-mariners-0-224508523.html"
-        }
-      ]
-    },
-    {
-      "title": "Game Thread: Rangers (66-67) at White Sox (69-63)",
-      "summary": "Burke takes the bump as the South Siders pursue another series win",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-thread-rangers-66-67-224500008.html",
-      "pubDate": "2026-08-26T22:45:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-thread-rangers-66-67-224500008.html"
-        }
-      ]
-    },
-    {
-      "title": "Game 134 Game Day Thread – Texas Rangers @ Chicago White Sox",
-      "summary": ".500 baseball calls once again",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-134-game-day-thread-224000531.html",
-      "pubDate": "2026-08-26T22:40:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-134-game-day-thread-224000531.html"
-        }
-      ]
-    },
-    {
-      "title": "Orioles Select Luis Vazquez",
-      "summary": "The Orioles selected the contract of infielder Luis Vazquez before Wednesday’s matchup against the Cardinals. He’ll take the spot of outfielder Tyler O’Neill, who is headed to the injured list with sh…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/orioles-select-luis-vazquez-2.html",
-      "pubDate": "2026-08-26T22:39:41.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/orioles-select-luis-vazquez-2.html"
-        }
-      ]
-    },
-    {
-      "title": "New York Yankees vs. Houston Astros: Elmer Rodríguez vs. Peter Lambert",
-      "summary": "Can the Yankees avenge their gut-punch loss from last night?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/york-yankees-vs-houston-astros-223500382.html",
-      "pubDate": "2026-08-26T22:35:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/york-yankees-vs-houston-astros-223500382.html"
-        }
-      ]
-    },
-    {
-      "title": "Setup man Whitlock faces hitters, could rejoin Red Sox for Yankees series",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/garrett-whitlock-faces-hitters-could-be-activated-soon",
-      "pubDate": "2026-08-26T22:34:07.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/garrett-whitlock-faces-hitters-could-be-activated-soon"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/garrett-whitlock-faces-hitters-could-be-activated-soon"
-        }
-      ]
-    },
-    {
-      "title": "Game Discussion: Milwaukee Brewers (81-51) @ New York Mets (60-72)",
-      "summary": "Crew tries to bounce back in Queens with Dustin May on the mound",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-discussion-milwaukee-brewers-81-223018295.html",
-      "pubDate": "2026-08-26T22:30:18.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-discussion-milwaukee-brewers-81-223018295.html"
-        }
-      ]
-    },
-    {
-      "title": "Astros at Yankees Game Discussion: 8/26/2026",
-      "summary": "TONIGHT’S GAME: The Houston Astros (66-66) and New York Yankees (74-57) play the 2nd game of this 3-game series tonight. RHP Peter Lambert (8-7, 3.68 ERA) starts for the Astros vs. Yankees RHP Elmer R…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/astros-yankees-game-discussion-8-223000836.html",
-      "pubDate": "2026-08-26T22:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/astros-yankees-game-discussion-8-223000836.html"
-        }
-      ]
-    },
-    {
-      "title": "Diamondbacks 2, Cubs 0: Matthew Boyd shines, but the offense vanishes",
-      "summary": "The Cubs got great starting pitching throughout this series. It wasn’t enough for a series win.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/diamondbacks-2-cubs-0-matthew-222006481.html",
-      "pubDate": "2026-08-26T22:20:06.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/diamondbacks-2-cubs-0-matthew-222006481.html"
-        }
-      ]
-    },
-    {
-      "title": "Washington Nationals vs Colorado Rockies Game Thread",
-      "summary": "Follow along as the Nats offense looks to bounce back from yet another uninspiring performance",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/washington-nationals-vs-colorado-rockies-221500262.html",
-      "pubDate": "2026-08-26T22:15:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/washington-nationals-vs-colorado-rockies-221500262.html"
-        }
-      ]
-    },
-    {
-      "title": "Wednesday Jays Notes",
-      "summary": "29 games to go. I was thinking that going 18-11 would, likely, get the Jays into the playoffs. That’s a pretty high bar to clear. It does mean there can be more losses than we’d like. The Jays say tha…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/wednesday-jays-notes-221233697.html",
-      "pubDate": "2026-08-26T22:12:33.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/wednesday-jays-notes-221233697.html"
-        }
-      ]
-    },
-    {
-      "title": "Royals vs. Blue Jays August 26th game discussion",
-      "summary": "Royals going for double digits on the win streak!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/royals-vs-blue-jays-august-221000567.html",
-      "pubDate": "2026-08-26T22:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/royals-vs-blue-jays-august-221000567.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets vs. Brewers: Lineups, broadcast info, and open thread, 8/26/26",
-      "summary": "The Mets look to beat the Brewers again as Robert Stock makes his fifth major league start of the season.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-vs-brewers-lineups-broadcast-221000059.html",
-      "pubDate": "2026-08-26T22:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-vs-brewers-lineups-broadcast-221000059.html"
-        }
-      ]
-    },
-    {
-      "title": "Peralta delivers his best start of season with scoreless, 2-hit gem",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/freddy-peralta-throws-six-scoreless-innings-in-first-rays-win",
-      "pubDate": "2026-08-26T22:07:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/freddy-peralta-throws-six-scoreless-innings-in-first-rays-win"
-        }
-      ]
-    },
-    {
-      "title": "Padres Place Jeremiah Estrada On 15-Day IL",
-      "summary": "Reliever Jeremiah Estrada was placed on the 15-day injured list with a right shoulder impingement, the Padres announced. The club recalled righty David Morgan to take his spot. This marks Estrada’s th…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/08/padres-place-jeremiah-estrada-on-15-day-il.html",
-      "pubDate": "2026-08-26T21:54:44.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "injury",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/08/padres-place-jeremiah-estrada-on-15-day-il.html"
         }
       ]
     }
