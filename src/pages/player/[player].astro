@@ -1,4 +1,5 @@
 ---
+import { breadcrumb, SITE_NAME } from "../../lib/seo";
 import Base from "../../layouts/Base.astro";
 import NewsRow from "../../components/NewsRow.astro";
 import PlayerChipLink from "../../components/PlayerChipLink.astro";
@@ -15,6 +16,11 @@ export function getStaticPaths() {
 }
 
 const { player } = Astro.props;
+const crumbs = breadcrumb([
+  { name: SITE_NAME, path: "/" },
+  { name: "日本人メジャーリーガー", path: "/player/" },
+  { name: player.name },
+]);
 const team = getTeam(player.teamId);
 const items = newsForPlayer(player.id);
 const ring = team ? needsContrastRing(team.color) : false;
@@ -26,7 +32,8 @@ const debutDate = (() => {
 ---
 
 <Base
-  title={`${player.name}のニュース`}
+  jsonLd={crumbs}
+  title={`${player.name}の最新ニュース`}
   description={`${player.name}(${player.englishName})の最新ニュースまとめ。広告なしで読めるMLBキュレーションサイト。`}
 >
   <section style={`border-top:4px solid ${team?.color ?? "var(--accent)"};${ring ? " box-shadow:0 1px 0 var(--text-faint);" : ""}`}>

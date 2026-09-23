@@ -3,21 +3,30 @@ import "../styles/global.css";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { withBase } from "../lib/url";
+import { jsonLdString, websiteLd } from "../lib/seo";
 
 interface Props {
   title: string;
   description?: string;
   /** public/ 直下の画像ファイル名(サイト共通のOGP画像。ページ個別に差し替えたい場合だけ指定する) */
   image?: string;
+  /** 検索結果に出さないページ（サイト内検索・404）。リンクはたどらせる */
+  noindex?: boolean;
+  /** 構造化データ（JSON-LD）。lib/seo.ts の breadcrumb() などで作る */
+  jsonLd?: unknown;
 }
 
 const {
   title,
   description = "広告ゼロで読める、日本人メジャーリーガーの所属球団を中心としたMLB(メジャーリーグベースボール)ニュース・まとめキュレーションサイト。",
   image = "og-image.png",
+  noindex = false,
+  jsonLd,
 } = Astro.props;
 
-const pageTitle = title === "Curation MLB" ? title : `${title} | Curation MLB`;
+// トップはサイト名だけだと何のサイトか検索結果で伝わらないので、中身を添える
+const isHome = title === "Curation MLB";
+const pageTitle = isHome ? "Curation MLB｜広告なしのメジャーリーグ・日本人選手ニュースまとめ" : `${title} | Curation MLB`;
 
 // TwitterやFacebook等のOGPクローラーはBASE_URLのようなサイト内相対パスを解釈できず、
 // 絶対URLでないとカードに画像が出ない。Astro.site は origin のみ(例:
@@ -61,6 +70,10 @@ const publicBaseUrl = new URL(withBase("/"), Astro.site).toString();
     <link rel="manifest" href={withBase("/manifest.webmanifest")} />
     <link rel="apple-touch-icon" href={withBase("/icons/icon-192.png")} />
     <link rel="canonical" href={canonicalAbsoluteUrl} />
+    {noindex && <meta name="robots" content="noindex,follow" />}
+    <meta property="og:locale" content="ja_JP" />
+    {isHome && <script type="application/ld+json" set:html={jsonLdString(websiteLd(description))} />}
+    {jsonLd !== undefined && <script type="application/ld+json" set:html={jsonLdString(jsonLd)} />}
 
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Curation MLB" />

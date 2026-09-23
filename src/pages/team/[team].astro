@@ -1,4 +1,5 @@
 ---
+import { breadcrumb, SITE_NAME } from "../../lib/seo";
 import Base from "../../layouts/Base.astro";
 import NewsRow from "../../components/NewsRow.astro";
 import TeamChipLink from "../../components/TeamChipLink.astro";
@@ -16,12 +17,22 @@ export function getStaticPaths() {
 }
 
 const { team } = Astro.props;
+// 検索されるのは略称のことが多い（「巨人 ニュース」）。正式名に含まれない略称だけ題に添える
+const teamTitle =
+  team.short && !team.name.includes(team.short)
+    ? `${team.name}（${team.short}）の最新ニュース`
+    : `${team.name}の最新ニュース`;
+const crumbs = breadcrumb([
+  { name: SITE_NAME, path: "/" },
+  { name: "球団別ニュース", path: "/team/" },
+  { name: team.name },
+]);
 const items = newsForTeam(team.id);
 const jpPlayers = playersForTeam(team.id);
 const ring = needsContrastRing(team.color);
 ---
 
-<Base title={`${team.name}のニュース`} description={`${team.name}(${team.englishName})の最新ニュースまとめ。広告なしで読めるMLBキュレーションサイト。`}>
+<Base title={teamTitle} jsonLd={crumbs} description={`${team.name}(${team.englishName})の最新ニュースまとめ。広告なしで読めるMLBキュレーションサイト。`}>
   <section style={`border-top:4px solid ${team.color};${ring ? " box-shadow:0 1px 0 var(--text-faint);" : ""}`}>
     <div class="container-page" style="padding:40px 24px 20px;">
       <p class="font-bold m-0" style="font-size:12px; color:var(--text-faint); letter-spacing:0.1em; margin-bottom:8px;">

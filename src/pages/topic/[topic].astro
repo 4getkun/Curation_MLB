@@ -1,4 +1,5 @@
 ---
+import { breadcrumb, SITE_NAME } from "../../lib/seo";
 import Base from "../../layouts/Base.astro";
 import NewsRow from "../../components/NewsRow.astro";
 import TopicChipLink from "../../components/TopicChipLink.astro";
@@ -13,10 +14,16 @@ export function getStaticPaths() {
 }
 
 const { topic } = Astro.props;
+const crumbs = breadcrumb([
+  { name: SITE_NAME, path: "/" },
+  { name: "話題から探す", path: "/topic/" },
+  { name: `#${topic.label}` },
+]);
 const items = newsForTopic(topic.id);
 ---
 
 <Base
+  jsonLd={crumbs}
   title={`#${topic.label}のニュース`}
   description={`MLBの「${topic.label}」に関する最新ニュースまとめ。広告なしで読めるMLBキュレーションサイト。`}
 >
