@@ -1,14 +1,146 @@
 {
-  "generatedAt": "2026-09-26T05:15:24.932Z",
+  "generatedAt": "2026-09-26T10:02:02.759Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Yankees news: Schlittler, Fried still both in play to start Game 1",
+      "summary": "Schlittler and Fried both still in play for Game 1; Weathers faces live hitters, up to 96 mph; Lagrange rehabbing, unlikely for playoff roster.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-news-schlittler-fried-still-090000850.html",
+      "pubDate": "2026-09-26T09:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-news-schlittler-fried-still-090000850.html"
+        }
+      ]
+    },
+    {
+      "title": "Missed chance to lock up No. 4 seed prompts questions about Mize's playoff roster case",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/padres-miss-chance-to-clinch-no-4-seed-in-loss-to-d-backs",
+      "pubDate": "2026-09-26T06:50:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/padres-miss-chance-to-clinch-no-4-seed-in-loss-to-d-backs"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/padres-miss-chance-to-clinch-no-4-seed-in-loss-to-d-backs"
+        }
+      ]
+    },
+    {
+      "title": "'Something magical' going on as surging D-backs narrow Wild Card gap to 1",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/diamondbacks-gain-on-phillies-in-nl-wild-card-race-with-sixth-straight-win",
+      "pubDate": "2026-09-26T06:22:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/diamondbacks-gain-on-phillies-in-nl-wild-card-race-with-sixth-straight-win"
+        }
+      ]
+    },
+    {
+      "title": "Consequential 6th in loss to A's could prove costly for Astros' AL West hopes",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/astros-stay-even-with-rangers-in-al-west-with-loss-to-athletics",
+      "pubDate": "2026-09-26T06:13:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/astros-stay-even-with-rangers-in-al-west-with-loss-to-athletics"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/astros-stay-even-with-rangers-in-al-west-with-loss-to-athletics"
+        }
+      ]
+    },
+    {
+      "title": "Guardians squeeze out unsightly win over Royals in AL Central race",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/cleveland-guardians-keep-pace-with-white-sox-in-al-central-race",
+      "pubDate": "2026-09-26T06:06:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/cleveland-guardians-keep-pace-with-white-sox-in-al-central-race"
+        }
+      ]
+    },
+    {
+      "title": "Mariners commit defensive sins in 7-5 loss to Angels",
+      "summary": "The humiliation ritual that is the 2026 Mariners continues apace",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mariners-commit-defensive-sins-7-055905374.html",
+      "pubDate": "2026-09-26T05:59:05.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mariners-commit-defensive-sins-7-055905374.html"
+        }
+      ]
+    },
     {
       "title": "Detmers caps breakout '26 with 7-K gem in Seattle",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlb.com/angels/news/reid-detmers-has-7-strikeouts-as-angels-win-vs-mariners",
-      "pubDate": "2026-09-26T05:10:25.000Z",
+      "pubDate": "2026-09-26T05:50:00.000Z",
       "source": "MLB.com (Angels)",
       "sourceId": "mlb-com-angels",
       "teams": [
@@ -21,6 +153,55 @@
           "name": "MLB.com (Angels)",
           "sourceId": "mlb-com-angels",
           "link": "https://www.mlb.com/angels/news/reid-detmers-has-7-strikeouts-as-angels-win-vs-mariners"
+        }
+      ]
+    },
+    {
+      "title": "Have you ever seen a double-hit like this?",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-s-single-hits-piece-of-broken-bat",
+      "pubDate": "2026-09-26T05:28:38.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-s-single-hits-piece-of-broken-bat"
+        }
+      ]
+    },
+    {
+      "title": "Skubal cruises before Sasaki, Scott prep for postseason roles",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tarik-skubal-throws-seven-scoreless-as-dodgers-shut-out-giants",
+      "pubDate": "2026-09-26T05:27:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "sasaki"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tarik-skubal-throws-seven-scoreless-as-dodgers-shut-out-giants"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/tarik-skubal-throws-seven-scoreless-as-dodgers-shut-out-giants"
         }
       ]
     },
@@ -118,7 +299,7 @@
       ]
     },
     {
-      "title": "Where the playoff races stand tonight",
+      "title": "2 days to go and still 3 TIGHT races",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -222,31 +403,6 @@
       ]
     },
     {
-      "title": "Astros miss chance to push AL West clinch to the brink in loss to A's",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/astros-stay-even-with-rangers-in-al-west-with-loss-to-athletics",
-      "pubDate": "2026-09-26T04:43:46.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/astros-stay-even-with-rangers-in-al-west-with-loss-to-athletics"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/astros-stay-even-with-rangers-in-al-west-with-loss-to-athletics"
-        }
-      ]
-    },
-    {
       "title": "Pfaadt, D-backs stomp over the Padres in 11-4 win",
       "summary": "D-backs moved one step closer to a playoff spot with Pfaadt tossing a gem backed by an offensive onslaught.",
       "titleJa": null,
@@ -299,26 +455,6 @@
       ]
     },
     {
-      "title": "Surging D-backs pull closer in Wild Card race with 6th straight win",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/diamondbacks-gain-on-phillies-in-nl-wild-card-race-with-sixth-straight-win",
-      "pubDate": "2026-09-26T04:39:35.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/diamondbacks-gain-on-phillies-in-nl-wild-card-race-with-sixth-straight-win"
-        }
-      ]
-    },
-    {
       "title": "The AL Worst: Astros and Rangers both lose, guaranteeing MLB&#39;s first division champ without a winning record",
       "summary": "An 81-81 AL West champion is currently the best-case scenario.",
       "titleJa": null,
@@ -359,31 +495,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/bounce-back-second-game-astros-043730079.html"
-        }
-      ]
-    },
-    {
-      "title": "Padres squander chance to lock up top Wild Card in loss to D-backs",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/padres-miss-chance-to-clinch-no-4-seed-in-loss-to-d-backs",
-      "pubDate": "2026-09-26T04:36:35.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/padres-miss-chance-to-clinch-no-4-seed-in-loss-to-d-backs"
-        },
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/padres-miss-chance-to-clinch-no-4-seed-in-loss-to-d-backs"
         }
       ]
     },
@@ -496,6 +607,28 @@
       ]
     },
     {
+      "title": "Tarik Skubal ‘not really satisfied’ yet despite dominating Giants in Dodgers’ playoff tune-up",
+      "summary": "Tarik Skubal saved his best for his last start of the regular season",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/tarik-skubal-not-really-satisfied-042549262.html",
+      "pubDate": "2026-09-26T04:25:49.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/tarik-skubal-not-really-satisfied-042549262.html"
+        }
+      ]
+    },
+    {
       "title": "With fan energy high, White Sox keep celebration going after clinching playoff berth",
       "summary": "",
       "titleJa": null,
@@ -514,31 +647,6 @@
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/white-sox-continue-celebrating-clinching-postseason-berth"
-        }
-      ]
-    },
-    {
-      "title": "Skubal cruises with 7 scoreless in final regular-season start",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/tarik-skubal-throws-seven-scoreless-as-dodgers-shut-out-giants",
-      "pubDate": "2026-09-26T04:21:01.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/tarik-skubal-throws-seven-scoreless-as-dodgers-shut-out-giants"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/tarik-skubal-throws-seven-scoreless-as-dodgers-shut-out-giants"
         }
       ]
     },
@@ -587,6 +695,26 @@
       ]
     },
     {
+      "title": "Anthony Volpe’s Yankees third base cameo was valuable — even if it was quiet",
+      "summary": "If the Yankees want to ensure they do not have a ball hit to third base against them in the playoffs, perhaps they should put Anthony Volpe there.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/anthony-volpe-yankees-third-cameo-040442660.html",
+      "pubDate": "2026-09-26T04:04:42.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/anthony-volpe-yankees-third-cameo-040442660.html"
+        }
+      ]
+    },
+    {
       "title": "Murakami homers twice as White Sox stay laser-focused on AL Central race",
       "summary": "",
       "titleJa": null,
@@ -614,12 +742,12 @@
       ]
     },
     {
-      "title": "Guardians squeeze out unsightly win over Royals in AL Central race",
+      "title": "'Devastated': Rangers lose Jung to right hand fracture",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/news/cleveland-guardians-keep-pace-with-white-sox-in-al-central-race",
-      "pubDate": "2026-09-26T03:52:01.000Z",
+      "link": "https://www.mlb.com/news/josh-jung-exits-game-after-being-hit-by-pitch",
+      "pubDate": "2026-09-26T03:54:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
       "teams": [],
@@ -629,7 +757,7 @@
         {
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/cleveland-guardians-keep-pace-with-white-sox-in-al-central-race"
+          "link": "https://www.mlb.com/news/josh-jung-exits-game-after-being-hit-by-pitch"
         }
       ]
     },
@@ -720,6 +848,26 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/elly-de-la-cruz-notches-reds-4th-30-30-season"
+        }
+      ]
+    },
+    {
+      "title": "Will Warren delivers in relief in final act of regular season as Yankees playoff role comes into view",
+      "summary": "For a bullpen that has three (heavily used) sure things and a whole lot of question marks behind them entering the playoffs, Will Warren is trying to become one of the answers the Yankees will need to…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/warren-delivers-relief-final-act-033935340.html",
+      "pubDate": "2026-09-26T03:39:35.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/warren-delivers-relief-final-act-033935340.html"
         }
       ]
     },
@@ -832,6 +980,26 @@
       ]
     },
     {
+      "title": "Bill Giles, longtime Phillies exec who helped create Phillie Phanatic, dead at 92",
+      "summary": "philliesBill Giles, the longtime Phillies executive and former owner, died Friday just 18 days after turning 92. He died at his home in Gladwyne, Pa., according to the Phillies. “The...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/bill-giles-longtime-phillies-exec-031708905.html",
+      "pubDate": "2026-09-26T03:17:08.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/bill-giles-longtime-phillies-exec-031708905.html"
+        }
+      ]
+    },
+    {
       "title": "Postseason FAQ: What's next for Cubs?",
       "summary": "",
       "titleJa": null,
@@ -912,6 +1080,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/yankees-pitchers-strike-whopping-17-025757395.html"
+        }
+      ]
+    },
+    {
+      "title": "Carson Benge makes Mets rookie history with 20-20 campaign: ‘Something special’",
+      "summary": "Carson Benge’s ascent has been one of the compelling reasons to watch the Mets for much of this season’s second half.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/carson-benge-makes-mets-rookie-025615240.html",
+      "pubDate": "2026-09-26T02:56:15.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/carson-benge-makes-mets-rookie-025615240.html"
         }
       ]
     },
@@ -1091,6 +1281,26 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/st-louis-cardinals-rally-not-023513959.html"
+        }
+      ]
+    },
+    {
+      "title": "Pete Alonso wears shirt shading David Stearns for ‘f–king formulas’ — then homers twice",
+      "summary": "It looks like Pete Alonso still has a bone to pick with David Stearns.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pete-alonso-wears-shirt-shading-023249893.html",
+      "pubDate": "2026-09-26T02:32:49.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pete-alonso-wears-shirt-shading-023249893.html"
         }
       ]
     },
@@ -4692,7 +4902,9 @@
       "pubDate": "2026-09-25T15:02:51.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "padres"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -13785,7 +13997,10 @@
       "pubDate": "2026-09-23T22:47:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "cubs",
+        "redsox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -30560,9 +30775,7 @@
       "pubDate": "2026-09-20T06:54:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [
-        "padres"
-      ],
+      "teams": [],
       "players": [],
       "topics": [],
       "sources": [
@@ -42337,7 +42550,9 @@
       "pubDate": "2026-09-17T18:39:52.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "bluejays"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -87549,222 +87764,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/ethan-salas-san-diego-padres-150647717.html"
-        }
-      ]
-    },
-    {
-      "title": "Shohei Ohtani finally returns to Dodgers lineup, but says he's 'most likely' to not pitch again in 2026",
-      "summary": "The Dodgers' two-way star has been battling various injuries all season and has not pitched since July 3",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/shohei-ohtani-pitching-2026-dodgers/\n                    ",
-      "pubDate": "2026-09-08T15:03:05.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/shohei-ohtani-pitching-2026-dodgers/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Mets Minor League Players of the Week: Week Twenty-Four",
-      "summary": "What minor league players put up the best numbers this past week, September 1st to September 6th?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-minor-league-players-week-150000454.html",
-      "pubDate": "2026-09-08T15:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-minor-league-players-week-150000454.html"
-        }
-      ]
-    },
-    {
-      "title": "Path from 2026 to 2027 Royals Roster Starts Now + League News!",
-      "summary": "Amidst the sweltering homestand, what are the Kansas City Royals playing for with 16 games left?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/path-2026-2027-royals-roster-150000334.html",
-      "pubDate": "2026-09-08T15:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/path-2026-2027-royals-roster-150000334.html"
-        }
-      ]
-    },
-    {
-      "title": "Rome Emperors 2026 season recap",
-      "summary": "Recapping the 2026 season for the Atlanta Braves High-A affiliate, the Rome Emperors.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rome-emperors-2026-recap-150000700.html",
-      "pubDate": "2026-09-08T15:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rome-emperors-2026-recap-150000700.html"
-        }
-      ]
-    },
-    {
-      "title": "The Double-Edged Sword of Luis Arraez",
-      "summary": "Walk, what did you say?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/double-edged-sword-luis-arraez-150000569.html",
-      "pubDate": "2026-09-08T15:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/double-edged-sword-luis-arraez-150000569.html"
-        }
-      ]
-    },
-    {
-      "title": "What to expect from Connelly Early when he comes back from injury",
-      "summary": "Connelly Early is making his first rehab start. Here is what to know about the Washington Nationals lefty",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/expect-connelly-early-comes-back-145500445.html",
-      "pubDate": "2026-09-08T14:55:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/expect-connelly-early-comes-back-145500445.html"
-        }
-      ]
-    },
-    {
-      "title": "How Judge's return may turn the tide in Yankees' favor",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/aaron-judge-s-return-a-factor-in-al-east-wild-card-races",
-      "pubDate": "2026-09-08T14:40:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/aaron-judge-s-return-a-factor-in-al-east-wild-card-races"
-        }
-      ]
-    },
-    {
-      "title": "Padres Joe Musgrove may have telegraphed his next career move",
-      "summary": "Is his playing career finished?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/padres-joe-musgrove-may-telegraphed-143000314.html",
-      "pubDate": "2026-09-08T14:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/padres-joe-musgrove-may-telegraphed-143000314.html"
-        }
-      ]
-    },
-    {
-      "title": "Fantasy Baseball September Schedule Analysis: Which pitchers are set to be league winners?",
-      "summary": "Fantasy baseball analyst Fred Zinkie breaks down the schedule for starters during the playoffs.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-september-schedule-analysis-which-pitchers-are-set-to-be-league-winners-141735277.html",
-      "pubDate": "2026-09-08T14:17:35.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-september-schedule-analysis-which-pitchers-are-set-to-be-league-winners-141735277.html"
-        }
-      ]
-    },
-    {
-      "title": "Ontario IF Oswaldo Osorio wins California League player of week",
-      "summary": "Dodgers minor league infielder Oswaldo Osorio hit .500 last week for the playoff-bound Class-A Ontario Tower Buzzers, and for his efforts captured the final California League player of the week award…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/ontario-oswaldo-osorio-wins-california-140600555.html",
-      "pubDate": "2026-09-08T14:06:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/ontario-oswaldo-osorio-wins-california-140600555.html"
         }
       ]
     }
