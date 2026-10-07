@@ -1,125 +1,308 @@
 {
-  "generatedAt": "2026-10-07T00:52:46.917Z",
+  "generatedAt": "2026-10-07T06:46:12.294Z",
   "count": 4000,
   "items": [
     {
-      "title": "Padres Place Mason Miller On Paternity List",
-      "summary": "The Padres will not have their star closer available for tonight’s must-win Game 3. Major League Baseball announced they’ve approved Mason Miller’s placement on the paternity list. He’ll miss at least…",
+      "title": "Guardians News: Espino and NL recaps",
+      "summary": "Our slow march toward… something • Game 3 of the ALDS will be Daniel Espino squaring off against Sean Newcomb Dodgers 3, Braves 1 • The Dodgers moved a hurting superstar down to 5th in their order. Do…",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/padres-place-mason-miller-on-paternity-list.html",
-      "pubDate": "2026-10-07T00:51:52.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
+      "link": "https://sports.yahoo.com/articles/guardians-news-espino-nl-recaps-055504005.html",
+      "pubDate": "2026-10-07T05:55:04.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/guardians-news-espino-nl-recaps-055504005.html"
+        }
+      ]
+    },
+    {
+      "title": "NLDS Game 3 winners and losers: Michael King keeps Padres' season alive; Dodgers slug their way to series lead",
+      "summary": "San Diego avoided elimination with another tight win, while Enrique Hernández and Freddie Freeman powered the Dodgers to a victory over the Braves",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/nlds-game-3-winners-losers-dodgers-braves-brewers-padres/\n                    ",
+      "pubDate": "2026-10-07T05:52:57.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "dodgers",
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/nlds-game-3-winners-losers-dodgers-braves-brewers-padres/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Jays outfield prospect Casey blazing his own trail in Arizona Fall League",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/blue-jays-prospect-jake-casey-blazing-own-trail-in-arizona-fall-league",
+      "pubDate": "2026-10-07T05:39:00.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/blue-jays-prospect-jake-casey-blazing-own-trail-in-arizona-fall-league"
+        }
+      ]
+    },
+    {
+      "title": "No sweep, Crew sets sights on closing out Padres in Game 4",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/brewers-lose-game-3-of-2026-nlds",
+      "pubDate": "2026-10-07T05:37:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
       "teams": [
         "padres"
       ],
       "players": [],
       "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/brewers-lose-game-3-of-2026-nlds"
+        }
+      ]
+    },
+    {
+      "title": "4 games. 4 potential clinches. Here's everything to know",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/2026-nlds-game-4-alds-game-3-storylines",
+      "pubDate": "2026-10-07T05:36:26.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/2026-nlds-game-4-alds-game-3-storylines"
+        }
+      ]
+    },
+    {
+      "title": "Padres fight, claw, do just enough to save their season",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/padres-win-nlds-game-3-2026",
+      "pubDate": "2026-10-07T05:31:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/padres-win-nlds-game-3-2026"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/padres-win-nlds-game-3-2026"
+        }
+      ]
+    },
+    {
+      "title": "MLB playoffs takeaways: Why Yamamoto is the Most Valuable Dodger",
+      "summary": "Why the Dodgers' one true ace is the team's true Most Valuable Player.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-playoffs-takeaways-why-yamamoto-052658436.html",
+      "pubDate": "2026-10-07T05:26:58.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-playoffs-takeaways-why-yamamoto-052658436.html"
+        }
+      ]
+    },
+    {
+      "title": "Disappointing weekend in Milwaukee",
+      "summary": "Home cookin could turn this series.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/disappointing-weekend-milwaukee-052533009.html",
+      "pubDate": "2026-10-07T05:25:33.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/disappointing-weekend-milwaukee-052533009.html"
+        }
+      ]
+    },
+    {
+      "title": "Padres avoid elimination, beat Brewers 4-3 in NLDS Game 3 with Cronenworth’s HR, King’s relief",
+      "summary": "The Padres kept their season alive with a Game 3 win over the Brewers.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/padres-avoid-elimination-beat-brewers-051920037.html",
+      "pubDate": "2026-10-07T05:19:20.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/padres-avoid-elimination-beat-brewers-051920037.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers drop Game 3 of NLDS in another tightly fought battle, 4-3",
+      "summary": "Crew not able to come up with clutch hit late as Padres cut series lead to 2-1",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brewers-drop-game-3-nlds-051004396.html",
+      "pubDate": "2026-10-07T05:10:04.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brewers-drop-game-3-nlds-051004396.html"
+        }
+      ]
+    },
+    {
+      "title": "2026 MLB playoff bracket: Schedule, scores, where to watch as Padres stave off elimination vs. Brewers",
+      "summary": "The White Sox, Rays, Brewers and Dodgers are all one win away from reaching the League Championship Series",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/\n                    ",
+      "pubDate": "2026-10-07T05:02:34.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "dodgers",
+        "padres",
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Previewing The Upcoming Starting Pitching Class",
+      "summary": "With the regular season in the books, MLBTR is taking a position-by-position look at the 2026-27 free agent market. Next up is the lengthiest entry: the starting pitching market. There’s one clear top…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/previewing-the-upcoming-starting-pitching-class.html",
+      "pubDate": "2026-10-07T04:56:28.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
       "sources": [
         {
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/padres-place-mason-miller-on-paternity-list.html"
+          "link": "https://www.mlbtraderumors.com/2026/10/previewing-the-upcoming-starting-pitching-class.html"
         }
       ]
     },
     {
-      "title": "J-Ram says wrist pain is 'no excuse' as he seeks signature playoff moment",
-      "summary": "",
+      "title": "Yoshinobu Yamamoto adds to his already sterling postseason résumé, puts the Dodgers back in control in NLDS Game 3: &#39;He&#39;s just not afraid&#39;",
+      "summary": "Yamamoto delivered 7 innings of 1-run ball as the Dodgers took a 2-1 series lead in Atlanta.",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/news/jose-ramirez-struggling-for-guardians-2026-alds",
-      "pubDate": "2026-10-07T00:37:29.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/jose-ramirez-struggling-for-guardians-2026-alds"
-        }
-      ]
-    },
-    {
-      "title": "Guardians-White Sox ALDS Game 3 FAQ (Wed., 4 ET, TBS/HBO Max)",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup",
-      "pubDate": "2026-10-07T00:34:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup"
-        }
-      ]
-    },
-    {
-      "title": "Milwaukee Brewers at San Diego Padres - NL Division Series - Game 3",
-      "summary": "Your game thread for October 6, 2026.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/milwaukee-brewers-san-diego-padres-003000085.html",
-      "pubDate": "2026-10-07T00:30:00.000Z",
+      "link": "https://sports.yahoo.com/mlb/article/yoshinobu-yamamoto-adds-to-his-already-sterling-postseason-resume-puts-the-dodgers-back-in-control-in-nlds-game-3-hes-just-not-afraid-045621823.html",
+      "pubDate": "2026-10-07T04:56:21.000Z",
       "source": "Yahoo Sports MLB",
       "sourceId": "yahoo-mlb",
       "teams": [
-        "padres"
+        "dodgers"
       ],
-      "players": [],
+      "players": [
+        "yamamoto"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/milwaukee-brewers-san-diego-padres-003000085.html"
+          "link": "https://sports.yahoo.com/mlb/article/yoshinobu-yamamoto-adds-to-his-already-sterling-postseason-resume-puts-the-dodgers-back-in-control-in-nlds-game-3-hes-just-not-afraid-045621823.html"
         }
       ]
     },
     {
-      "title": "Brewers vs. Padres live updates, starting pitchers, where to watch: Dustin May, Nick Pivetta take mound for Game 3 of NLDS",
-      "summary": "The Brewers took a 2-0 lead in the series with another win over the Padres on Sunday.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/live/brewers-padres-box-score-live-updates-starting-pitchers-news-highlights-stats-where-to-watch-nlds-game-3-003000644.html",
-      "pubDate": "2026-10-07T00:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/live/brewers-padres-box-score-live-updates-starting-pitchers-news-highlights-stats-where-to-watch-nlds-game-3-003000644.html"
-        }
-      ]
-    },
-    {
-      "title": "Espino's incredible journey to Majors has him as must-win Game 3 starter",
+      "title": "After heavy Wild Card workload, Sale showing 'he's human' lands Braves on the brink",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/news/daniel-espino-to-start-game-3-for-guardians-in-alds",
-      "pubDate": "2026-10-07T00:19:56.000Z",
+      "link": "https://www.mlb.com/news/chris-sale-braves-lose-game-3-of-nlds-2026",
+      "pubDate": "2026-10-07T04:46:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
       "teams": [],
@@ -129,7 +312,27 @@
         {
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/daniel-espino-to-start-game-3-for-guardians-in-alds"
+          "link": "https://www.mlb.com/news/chris-sale-braves-lose-game-3-of-nlds-2026"
+        }
+      ]
+    },
+    {
+      "title": "Denied by Dubón! LF robs ex-Brave Freeman (before Freddie gets his revenge)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mauricio-dubon-robs-freddie-freeman-nlds-game-3",
+      "pubDate": "2026-10-07T04:45:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mauricio-dubon-robs-freddie-freeman-nlds-game-3"
         }
       ]
     },
@@ -139,7 +342,7 @@
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlb.com/news/enrique-hernandez-freddie-freeman-homer-off-chris-sale-in-nlds-game-3",
-      "pubDate": "2026-10-06T23:55:08.000Z",
+      "pubDate": "2026-10-07T04:36:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
       "teams": [],
@@ -159,34 +362,12 @@
       ]
     },
     {
-      "title": "Dodgers&#39; historic postseason continues with home runs from Kiké Hernández, Freddie Freeman",
-      "summary": "The Dodgers took a 3-0 lead after a couple of home runs from Kiké Hernández and Freddie Freeman in the top of the fourth inning against the Braves.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-historic-postseason-continues-home-235044406.html",
-      "pubDate": "2026-10-06T23:50:44.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-historic-postseason-continues-home-235044406.html"
-        }
-      ]
-    },
-    {
-      "title": "Denied by Dubón! LF robs ex-Brave Freeman (before Freddie gets his revenge)",
+      "title": "Dodgers-Braves NLDS Game 4 FAQ (Wed., 6 ET, FS1/FOX One)",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
-      "link": "https://www.mlb.com/news/mauricio-dubon-robs-freddie-freeman-nlds-game-3",
-      "pubDate": "2026-10-06T23:43:37.000Z",
+      "link": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-4-starting-lineups-and-pitching-matchup",
+      "pubDate": "2026-10-07T04:35:20.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
       "teams": [],
@@ -196,7 +377,12 @@
         {
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mauricio-dubon-robs-freddie-freeman-nlds-game-3"
+          "link": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-4-starting-lineups-and-pitching-matchup"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-vs-braves-nlds-game-4-starting-lineups-and-pitching-matchup"
         }
       ]
     },
@@ -206,7 +392,7 @@
       "titleJa": null,
       "summaryJa": null,
       "link": "https://www.mlb.com/astros/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-      "pubDate": "2026-10-06T23:35:00.000Z",
+      "pubDate": "2026-10-07T04:29:00.000Z",
       "source": "MLB.com (Astros)",
       "sourceId": "mlb-com-astros",
       "teams": [],
@@ -266,6 +452,1137 @@
       ]
     },
     {
+      "title": "Mets’ Jeff Albert Not Returning To Coaching Staff In 2027",
+      "summary": "The Mets announced that director of hitting Jeff Albert and quality assurance coach Danny Barnes will not be on the 2027 coaching staff. Anthony DiComo of MLB.com, who first reported the news, suggest…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/mets-jeff-albert-not-returning-to-coaching-staff-in-2027.html",
+      "pubDate": "2026-10-07T04:25:47.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/mets-jeff-albert-not-returning-to-coaching-staff-in-2027.html"
+        }
+      ]
+    },
+    {
+      "title": "Díaz earns 1st Dodgers postseason save -- something that was no guarantee a month ago",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/edwin-diaz-gets-save-in-nlds-game-3-2026",
+      "pubDate": "2026-10-07T04:21:47.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/edwin-diaz-gets-save-in-nlds-game-3-2026"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/edwin-diaz-gets-save-in-nlds-game-3-2026"
+        }
+      ]
+    },
+    {
+      "title": "August acquisition Mahle has chance to be October hero for Braves",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tyler-mahle-to-start-nlds-game-4-for-braves-vs-dodgers",
+      "pubDate": "2026-10-07T04:03:12.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tyler-mahle-to-start-nlds-game-4-for-braves-vs-dodgers"
+        }
+      ]
+    },
+    {
+      "title": "Yamamoto (10 K's) dazzles, putting Dodgers 1 win from return to NLCS",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-10-strikeouts-nlds-game-3-2026",
+      "pubDate": "2026-10-07T03:38:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/yoshinobu-yamamoto-10-strikeouts-nlds-game-3-2026"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-10-strikeouts-nlds-game-3-2026"
+        }
+      ]
+    },
+    {
+      "title": "Jake Cronenworth hits solo HR to put Padres ahead of Brewers in NLDS Game 3",
+      "summary": "Jake Cronenworth hits a solo home run to put the Padres back on top with a 3-2 lead in NLDS Game 3 at Petco Park on Tuesday, Oct. 6.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/jake-cronenworth-hits-solo-hr-033445258.html",
+      "pubDate": "2026-10-07T03:34:45.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/jake-cronenworth-hits-solo-hr-033445258.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers grind down Chris Sale as Braves&#39; offensive woes continue in NLDS Game 3 loss",
+      "summary": "Any one of the Braves' big hitters could've tied this game with a timely swing. The problem is they didn't.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/dodgers-grind-down-chris-sale-as-braves-offensive-woes-continue-in-nlds-game-3-loss-033108738.html",
+      "pubDate": "2026-10-07T03:31:08.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/dodgers-grind-down-chris-sale-as-braves-offensive-woes-continue-in-nlds-game-3-loss-033108738.html"
+        }
+      ]
+    },
+    {
+      "title": "Cubs BCB After Dark: Matt Shaw or Pedro Ramírez?",
+      "summary": "The late-night/early-morning spot for Cubs fans asks which young infielder should the Cubs trade.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-bcb-dark-matt-shaw-033003539.html",
+      "pubDate": "2026-10-07T03:30:03.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-bcb-dark-matt-shaw-033003539.html"
+        }
+      ]
+    },
+    {
+      "title": "Batting 5th, Ohtani reaches base twice but is still searching for swing",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3",
+      "pubDate": "2026-10-07T03:24:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3"
+        }
+      ]
+    },
+    {
+      "title": "Brewers manager Pat Murphy declines to censor himself as things go badly during in-game interview that&#39;s actually worth hearing",
+      "summary": "In-game interviews are generally worthless. Here's the exception.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/breaking-news/article/brewers-manager-pat-murphy-declines-to-censor-himself-as-things-go-badly-during-in-game-interview-thats-actually-worth-hearing-031951852.html",
+      "pubDate": "2026-10-07T03:19:51.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/breaking-news/article/brewers-manager-pat-murphy-declines-to-censor-himself-as-things-go-badly-during-in-game-interview-thats-actually-worth-hearing-031951852.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Dodgers injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
+      "pubDate": "2026-10-07T03:18:00.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Rojas exits NLDS Game 3 mid-AB with lower back pain, unlikely to play in Game 4",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/miguel-rojas-exits-nlds-game-3-with-back-injury",
+      "pubDate": "2026-10-07T03:13:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/miguel-rojas-exits-nlds-game-3-with-back-injury"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/miguel-rojas-exits-nlds-game-3-with-back-injury"
+        }
+      ]
+    },
+    {
+      "title": "Alex Cora Informs Phillies He Doesn’t Plan To Manage In 2027",
+      "summary": "As the Phillies mull their managerial decision, it appears one of the top speculative targets is off the board. Bob Nightengale of USA Today reports that Alex Cora informed Philadelphia president of b…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/report-alex-cora-informs-phillies-he-doesnt-plan-to-manage-in-2027.html",
+      "pubDate": "2026-10-07T03:09:50.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/report-alex-cora-informs-phillies-he-doesnt-plan-to-manage-in-2027.html"
+        }
+      ]
+    },
+    {
+      "title": "William Contreras&#39; home run gets Brewers back into NLDS Game 3 vs. Padres",
+      "summary": "William Contreras cut into the Padres' lead with a solo homer during the fourth inning of Game 3.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/william-contreras-home-run-gets-025757037.html",
+      "pubDate": "2026-10-07T02:57:57.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/william-contreras-home-run-gets-025757037.html"
+        }
+      ]
+    },
+    {
+      "title": "Why the Dodgers can win without Ohtani and why it should scare the Braves",
+      "summary": "Shohei Ohtani hasn't homered since Aug. 18 and the Dodgers are 0-for-13 with runners in scoring position in the NLDS. Here's why it doesn't matter.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/why-dodgers-win-without-ohtani-025453149.html",
+      "pubDate": "2026-10-07T02:54:53.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/why-dodgers-win-without-ohtani-025453149.html"
+        }
+      ]
+    },
+    {
+      "title": "Yamamoto-Sale duel doesn't disappoint, and other takeaways from NLDS Game 3",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/braves-dodgers-nlds-game-3-takeaways",
+      "pubDate": "2026-10-07T02:39:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/braves-dodgers-nlds-game-3-takeaways"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/braves-dodgers-nlds-game-3-takeaways"
+        }
+      ]
+    },
+    {
+      "title": "Mets&#39; Carson Benge, A.J. Ewing, Nolan McLean named to MLB Pipeline&#39;s 2026 All-Rookie Teams",
+      "summary": "A trio of Mets rookies was honored on Tuesday night after being named to MLB Pipeline's 2026 All-Rookie Teams.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-carson-benge-j-ewing-023609809.html",
+      "pubDate": "2026-10-07T02:36:09.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-carson-benge-j-ewing-023609809.html"
+        }
+      ]
+    },
+    {
+      "title": "Phillies spurned again by Alex Cora, as manager says he&#39;s taking 2027 off",
+      "summary": "World Series winning manager Alex Cora will not be taking the Philadelphia Phillies job.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/phillies-spurned-again-alex-cora-022944764.html",
+      "pubDate": "2026-10-07T02:29:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/phillies-spurned-again-alex-cora-022944764.html"
+        }
+      ]
+    },
+    {
+      "title": "Diamondbacks To Part Ways With Pitching Coach Brian Kaplan",
+      "summary": "The Diamondbacks will not retain pitching coach Brian Kaplan, reports Steve Gilbert of MLB.com. The Snakes will look elsewhere after the expiration of Kaplan’s two-year contract. Kaplan, 44, was in hi…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/diamondbacks-to-part-ways-with-pitching-coach-brian-kaplan.html",
+      "pubDate": "2026-10-07T02:25:06.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/diamondbacks-to-part-ways-with-pitching-coach-brian-kaplan.html"
+        }
+      ]
+    },
+    {
+      "title": "Atlanta’s star hitters must perform like stars with elimination looming",
+      "summary": "Ronald Acuña Jr. (among others) has got to step it up — and soon. Otherwise, the show stops here.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/atlanta-star-hitters-must-perform-021528429.html",
+      "pubDate": "2026-10-07T02:15:28.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/atlanta-star-hitters-must-perform-021528429.html"
+        }
+      ]
+    },
+    {
+      "title": "Guardians must turn on power, lean on stars in Game 3",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/keys-for-guardians-to-win-game-3-extend-series",
+      "pubDate": "2026-10-07T02:01:12.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/keys-for-guardians-to-win-game-3-extend-series"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers’ Yoshinobu Yamamoto cements status with another October gem",
+      "summary": "ATLANTA — Build him a statue. Retire his number. Let him press his golden right hand into wet cement on Hollywood Boulevard. What’s the wait? Yoshinobu Yamamoto is only in his...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-yoshinobu-yamamoto-cements-status-015719960.html",
+      "pubDate": "2026-10-07T01:57:19.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-yoshinobu-yamamoto-cements-status-015719960.html"
+        }
+      ]
+    },
+    {
+      "title": "What's next for Rockies? DePodesta lays out offseason priorities",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/paul-depodesta-discusses-rockies-plans-for-2027-offseason",
+      "pubDate": "2026-10-07T01:36:47.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/paul-depodesta-discusses-rockies-plans-for-2027-offseason"
+        }
+      ]
+    },
+    {
+      "title": "Yamamoto is dominant again as Dodgers ride homers from Hernández and Freeman to 3-1 win over Braves",
+      "summary": "Yamamoto struck out 10 as the Dodgers took a 2-1 NLDS lead behind home runs from Kiké Hernández and Freddie Freeman.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yamamoto-dominant-again-dodgers-ride-013233098.html",
+      "pubDate": "2026-10-07T01:32:33.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yamamoto-dominant-again-dodgers-ride-013233098.html"
+        }
+      ]
+    },
+    {
+      "title": "Padres closer Miller placed on paternity list ahead of NLDS Game 3",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mason-miller-on-paternity-list-during-nlds",
+      "pubDate": "2026-10-07T01:30:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mason-miller-on-paternity-list-during-nlds"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/mason-miller-on-paternity-list-during-nlds"
+        }
+      ]
+    },
+    {
+      "title": "&#39;He shows up when you need him.&#39; Kiké Hernández helps lift Dodgers to 2-1 NLDS lead",
+      "summary": "The Dodgers secure a 3-1 victory Tuesday on the strength of two home runs, including Freddie Freeman's second of the NLDS, and Yoshinobu Yamamoto's seven stellar innings of work.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-beat-braves-kik-hern-012837564.html",
+      "pubDate": "2026-10-07T01:28:37.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-beat-braves-kik-hern-012837564.html"
+        }
+      ]
+    },
+    {
+      "title": "Star closer Mason Miller goes on paternity list before Padres face Brewers in Game 3 of NLDS",
+      "summary": "The Padres placed Mason Miller on the paternity list ahead of their win-or-go-home Game 3 vs. Milwaukee.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/star-closer-mason-miller-goes-012627032.html",
+      "pubDate": "2026-10-07T01:26:27.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/star-closer-mason-miller-goes-012627032.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers World Series hero Miguel Rojas exits after experiencing discomfort",
+      "summary": "A Los Angeles Dodgers player exits due to lower back pain.During the eighth inning of Game 3 of the NLDS on Tuesday, Dodgers middle infielder Miguel Rojas exited the game....",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-world-series-hero-miguel-012237030.html",
+      "pubDate": "2026-10-07T01:22:37.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-world-series-hero-miguel-012237030.html"
+        }
+      ]
+    },
+    {
+      "title": "NL Division Series Game Discussion: Brewers vs Padres Tuesday Night",
+      "summary": "After a heartbreaking game 2 defeat, the San Diego Padres return home to Petco Park to host the Milwaukee Brewers in game 3 of the NLDS. Dustin May will try to nail down the series for the Brewers whi…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/nl-division-series-game-discussion-012000538.html",
+      "pubDate": "2026-10-07T01:20:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/nl-division-series-game-discussion-012000538.html"
+        }
+      ]
+    },
+    {
+      "title": "Acuña (right knee) limited to DH duties as NLDS moves to Atlanta",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ronald-acuna-jr-right-knee-dh-braves-game-3-2026-nlds",
+      "pubDate": "2026-10-07T01:20:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ronald-acuna-jr-right-knee-dh-braves-game-3-2026-nlds"
+        }
+      ]
+    },
+    {
+      "title": "Why Aaron Boone stuck with lefty hitters in ugly Game 2 loss",
+      "summary": "What is the point of having a six-man bench full of righty hitters if you are only going to use one across three innings against a lefty reliever?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/why-aaron-boone-stuck-lefty-011935195.html",
+      "pubDate": "2026-10-07T01:19:35.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/why-aaron-boone-stuck-lefty-011935195.html"
+        }
+      ]
+    },
+    {
+      "title": "Padres lose Mason Miller at worst possible time before NLDS elimination game",
+      "summary": "Mason Miller will miss the Padres’ elimination Game 3 against the Brewers after MLB approved the All-Star closer’s placement on the Postseason Paternity List.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/padres-lose-mason-miller-worst-011907721.html",
+      "pubDate": "2026-10-07T01:19:07.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/padres-lose-mason-miller-worst-011907721.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers 2026 game results",
+      "summary": "Keeping track of every game this season, all in one place",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
+      "pubDate": "2026-10-07T01:14:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
+        }
+      ]
+    },
+    {
+      "title": "Sale struggles and bats cold as Braves fall to Dodgers",
+      "summary": "Sale struggled by his standards and had little run support in loss",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/sale-struggles-bats-cold-braves-011211525.html",
+      "pubDate": "2026-10-07T01:12:11.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/sale-struggles-bats-cold-braves-011211525.html"
+        }
+      ]
+    },
+    {
+      "title": "When do the Dodgers play next? See the remaining NLDS schedule",
+      "summary": "Here's the remaining NLDS schedule between the Los Angeles Dodgers and Atlanta Braves.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-play-next-see-remaining-010950353.html",
+      "pubDate": "2026-10-07T01:09:50.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-play-next-see-remaining-010950353.html"
+        }
+      ]
+    },
+    {
+      "title": "Yoshinobu Yamamoto outduels Chris Sale as Dodgers seize NLDS lead",
+      "summary": "The Dodgers are one win away from the NLCS, after prevailing in a titanic clash of two ace pitchers",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yoshinobu-yamamoto-outduels-chris-sale-010859749.html",
+      "pubDate": "2026-10-07T01:08:59.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yoshinobu-yamamoto-outduels-chris-sale-010859749.html"
+        }
+      ]
+    },
+    {
+      "title": "Yoshinobu Yamamoto strikes out 10, out-duels Chris Sale as Dodgers take NLDS Game 3",
+      "summary": "Yoshinobu Yamamoto continued his postseason dominance with seven strong innings and the Dodgers homered twice in their best showing against Chris Sale this season, beating the Atlanta Braves 3-1 on Tu…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yoshinobu-yamamoto-strikes-10-duels-010839107.html",
+      "pubDate": "2026-10-07T01:08:39.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "yamamoto"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yoshinobu-yamamoto-strikes-10-duels-010839107.html"
+        }
+      ]
+    },
+    {
+      "title": "Padres without closer in elimination game as Mason Miller goes on paternity list",
+      "summary": "Mason Miller will not be available for the Padres in its crucial Game 3 vs the Brewers. Here is what to know on the closer's status.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/padres-without-closer-elimination-game-010417526.html",
+      "pubDate": "2026-10-07T01:04:17.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/padres-without-closer-elimination-game-010417526.html"
+        }
+      ]
+    },
+    {
+      "title": "Miguel Rojas leaves NLDS Game 3 with lower back pain",
+      "summary": "Dodgers infielder Miguel Rojas left Tuesday night’s Game 3 of the National League Division Series with lower back pain, though he and the team feel he will be available if needed going forward. Rojas…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/miguel-rojas-leaves-nlds-game-010400384.html",
+      "pubDate": "2026-10-07T01:04:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/miguel-rojas-leaves-nlds-game-010400384.html"
+        }
+      ]
+    },
+    {
+      "title": "Padres closer Mason Miller misses Game 3 win over Brewers after being added to paternity list",
+      "summary": "Mason Miller was tied for third in MLB in saves this year with 38.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/breaking-news/article/padres-closer-mason-miller-misses-game-3-win-over-brewers-after-being-added-to-paternity-list-005317700.html",
+      "pubDate": "2026-10-07T00:53:17.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/breaking-news/article/padres-closer-mason-miller-misses-game-3-win-over-brewers-after-being-added-to-paternity-list-005317700.html"
+        }
+      ]
+    },
+    {
+      "title": "Padres Place Mason Miller On Paternity List",
+      "summary": "The Padres will not have their star closer available for tonight’s must-win Game 3. Major League Baseball announced they’ve approved Mason Miller’s placement on the paternity list. He’ll miss at least…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/padres-place-mason-miller-on-paternity-list.html",
+      "pubDate": "2026-10-07T00:51:52.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/padres-place-mason-miller-on-paternity-list.html"
+        }
+      ]
+    },
+    {
+      "title": "Miguel Rojas injury update after swing sends Dodger to clubhouse early",
+      "summary": "Miguel Rojas went to the clubhouse with an apparent injury. Lates updates and what to know as Dodgers battle Braves in NLDS.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/miguel-rojas-injury-swing-sends-004056167.html",
+      "pubDate": "2026-10-07T00:40:56.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/miguel-rojas-injury-swing-sends-004056167.html"
+        }
+      ]
+    },
+    {
+      "title": "J-Ram says wrist pain is 'no excuse' as he seeks signature playoff moment",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jose-ramirez-struggling-for-guardians-2026-alds",
+      "pubDate": "2026-10-07T00:37:29.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jose-ramirez-struggling-for-guardians-2026-alds"
+        }
+      ]
+    },
+    {
+      "title": "Braves throw it up with Lil Jon ahead of Game 3 NLDS matchup",
+      "summary": "The Atlanta Braves blast Lil John off the walls at Truist Park.The Atlanta Braves are ready to play the back-to-back World Series’ champions. Just before they kicked off Game 3...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/braves-throw-lil-jon-ahead-003432137.html",
+      "pubDate": "2026-10-07T00:34:32.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-throw-lil-jon-ahead-003432137.html"
+        }
+      ]
+    },
+    {
+      "title": "Guardians-White Sox ALDS Game 3 FAQ (Wed., 4 ET, TBS/HBO Max)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup",
+      "pubDate": "2026-10-07T00:34:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup"
+        }
+      ]
+    },
+    {
+      "title": "Milwaukee Brewers at San Diego Padres - NL Division Series - Game 3",
+      "summary": "Your game thread for October 6, 2026.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/milwaukee-brewers-san-diego-padres-003000085.html",
+      "pubDate": "2026-10-07T00:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/milwaukee-brewers-san-diego-padres-003000085.html"
+        }
+      ]
+    },
+    {
+      "title": "Padres scratch and claw their way to Game 3 win to avoid NLDS sweep vs. Brewers",
+      "summary": "The Padres are still alive.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/live/brewers-padres-box-score-live-updates-starting-pitchers-news-highlights-stats-where-to-watch-nlds-game-3-003000644.html",
+      "pubDate": "2026-10-07T00:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/live/brewers-padres-box-score-live-updates-starting-pitchers-news-highlights-stats-where-to-watch-nlds-game-3-003000644.html"
+        }
+      ]
+    },
+    {
+      "title": "Rookie moments beginning to pile up for Yankees’ George Lombard Jr., Spencer Jones",
+      "summary": "Against the Red Sox, George Lombard Jr. and Spencer Jones looked like the present and future of the Yankees. In two games against the Rays, they have looked like rookies.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/rookie-moments-beginning-pile-yankees-002104066.html",
+      "pubDate": "2026-10-07T00:21:04.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/rookie-moments-beginning-pile-yankees-002104066.html"
+        }
+      ]
+    },
+    {
+      "title": "Espino's incredible journey to Majors has him as must-win Game 3 starter",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/daniel-espino-to-start-game-3-for-guardians-in-alds",
+      "pubDate": "2026-10-07T00:19:56.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/daniel-espino-to-start-game-3-for-guardians-in-alds"
+        }
+      ]
+    },
+    {
+      "title": "Dave Roberts proves he’s a playoff wizard again as Dodgers erupt in 4th inning against Braves",
+      "summary": "Dodgers manager Dave Roberts' decision to switch up the lineup comes to fruition as the Dodgers take an early 3-0 lead against the Atlanta Braves.Freddie Freeman and Kiké Hernández continue...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dave-roberts-proves-playoff-wizard-235854227.html",
+      "pubDate": "2026-10-06T23:58:54.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dave-roberts-proves-playoff-wizard-235854227.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers&#39; historic postseason continues with home runs from Kiké Hernández, Freddie Freeman",
+      "summary": "The Dodgers took a 3-0 lead after a couple of home runs from Kiké Hernández and Freddie Freeman in the top of the fourth inning against the Braves.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-historic-postseason-continues-home-235044406.html",
+      "pubDate": "2026-10-06T23:50:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-historic-postseason-continues-home-235044406.html"
+        }
+      ]
+    },
+    {
       "title": "Presenting the 2026 All-Rookie Team",
       "summary": "",
       "titleJa": null,
@@ -282,6 +1599,21 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/2026-mlb-all-rookie-team"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/2026-mlb-all-rookie-team"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/2026-mlb-all-rookie-team"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/2026-mlb-all-rookie-team"
         }
       ]
     },
@@ -352,6 +1684,28 @@
       ]
     },
     {
+      "title": "Dodgers-Braves: Freddie Freeman was booed and robbed of a home run in his return to Atlanta. He got revenge in his next at-bat",
+      "summary": "Freddie Freeman delivered countless clutch moments for the home team in 12 seasons with the Atlanta Braves. On Tuesday, he delivered one for the visitors.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/breaking-news/article/dodgers-braves-freddie-freeman-responds-to-boos-in-atlanta-robbed-home-run-with-a-home-run-on-his-next-at-bat-231930422.html",
+      "pubDate": "2026-10-06T23:19:30.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/breaking-news/article/dodgers-braves-freddie-freeman-responds-to-boos-in-atlanta-robbed-home-run-with-a-home-run-on-his-next-at-bat-231930422.html"
+        }
+      ]
+    },
+    {
       "title": "Rays-Yankees ALDS Game 3 FAQ (Wed., 8 p.m. ET, TBS/HBO Max)",
       "summary": "",
       "titleJa": null,
@@ -380,7 +1734,9 @@
       "pubDate": "2026-10-06T23:16:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "padres"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -693,33 +2049,6 @@
       ]
     },
     {
-      "title": "Facing Sale in key Game 3, Dodgers drop Ohtani to 5th in lineup",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3",
-      "pubDate": "2026-10-06T21:32:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3"
-        }
-      ]
-    },
-    {
       "title": "Braves vs Dodgers NLDS chat and discussion: Chris Sale vs Yoshinobu Yamamoto",
       "summary": "Sale could further cement his legacy with a performance remotely close to the one he had the last time he faced Dodgers",
       "titleJa": null,
@@ -924,26 +2253,6 @@
       ]
     },
     {
-      "title": "Acuña (right knee) limited to DH duties as NLDS moves to Atlanta",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-right-knee-dh-braves-game-3-2026-nlds",
-      "pubDate": "2026-10-06T21:01:16.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/ronald-acuna-jr-right-knee-dh-braves-game-3-2026-nlds"
-        }
-      ]
-    },
-    {
       "title": "Mets announce three coaching staff changes for 2027 season",
       "summary": "The Mets announced three staff changes Tuesday, including two in the hitting department.",
       "titleJa": null,
@@ -1093,29 +2402,6 @@
       ]
     },
     {
-      "title": "2026 MLB playoff bracket: Schedule, scores, where to watch as Brewers go for sweep of Padres in NLDS",
-      "summary": "The White Sox, Rays and Brewers are all one win away from reaching the LCS round",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/\n                    ",
-      "pubDate": "2026-10-06T20:44:19.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "padres",
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/\n                    "
-        }
-      ]
-    },
-    {
       "title": "Dodgers vs. Braves live updates, lineups: Chris Sale, Yoshinobu Yamamoto take the mound for Game 3, Shohei Ohtani drops to fifth in batting order",
       "summary": "The Braves tied the series with a 3-2 win over the Dodgers on Sunday.",
       "titleJa": null,
@@ -1157,28 +2443,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/seong-kim-back-ss-braves-183303306.html"
-        }
-      ]
-    },
-    {
-      "title": "Previewing The Upcoming Starting Pitching Class",
-      "summary": "With the regular season in the books, MLBTR is taking a position-by-position look at the 2026-27 free agent market. Next up is the lengthiest entry: the starting pitching market. There’s one clear top…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/previewing-the-upcoming-starting-pitching-class.html",
-      "pubDate": "2026-10-06T20:36:28.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/previewing-the-upcoming-starting-pitching-class.html"
         }
       ]
     },
@@ -7545,28 +8809,6 @@
       ]
     },
     {
-      "title": "Dodgers 2026 game results",
-      "summary": "Keeping track of every game this season, all in one place",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html",
-      "pubDate": "2026-10-05T03:35:04.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-2026-game-results-052516142.html"
-        }
-      ]
-    },
-    {
       "title": "Ray Kerr, Didier Fuentes, Michael Harris II deliver for bold Braves to level NLDS vs. Dodgers",
       "summary": "A win that everyone saw coming…",
       "titleJa": null,
@@ -12747,30 +13989,6 @@
       ]
     },
     {
-      "title": "Latest Dodgers injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
-      "pubDate": "2026-10-03T18:30:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
       "title": "Yankees ace Gerrit Cole admits he can get &#39;predictable&#39; vs Rays",
       "summary": "Gerrit Cole is making his first postseason start since undergoing Tommy John surgery in 2025.",
       "titleJa": null,
@@ -12845,7 +14063,9 @@
       "pubDate": "2026-10-03T18:23:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "dodgers"
+      ],
       "players": [],
       "topics": [
         "draft"
@@ -13770,7 +14990,9 @@
       "pubDate": "2026-10-03T15:01:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "whitesox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -15326,7 +16548,9 @@
       "pubDate": "2026-10-03T02:17:38.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "dodgers"
+      ],
       "players": [
         "ohtani"
       ],
@@ -15573,7 +16797,9 @@
       "pubDate": "2026-10-03T01:13:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "dodgers"
+      ],
       "players": [
         "yamamoto"
       ],
@@ -60584,7 +61810,9 @@
       "pubDate": "2026-09-23T17:17:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "bluejays"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -73258,7 +74486,9 @@
       "pubDate": "2026-09-20T22:09:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "mets"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -86847,1216 +88077,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mets-devin-williams-felt-good-215724693.html"
-        }
-      ]
-    },
-    {
-      "title": "Clearing the 40-man roster",
-      "summary": "Who will get rolled when the season wraps?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/clearing-40-man-roster-215614573.html",
-      "pubDate": "2026-09-17T21:56:14.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/clearing-40-man-roster-215614573.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers exec Andrew Friedman expects Shohei Ohtani to return from IL in the regular season: &#39;He&#39;s progressing well&#39;",
-      "summary": "The Dodgers clinched another NL West title on Thursday but will be without their star for the near future.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/dodgers-exec-andrew-friedman-expects-shohei-ohtani-to-return-from-il-in-the-regular-season-hes-progressing-well-215019155.html",
-      "pubDate": "2026-09-17T21:50:19.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/dodgers-exec-andrew-friedman-expects-shohei-ohtani-to-return-from-il-in-the-regular-season-hes-progressing-well-215019155.html"
-        }
-      ]
-    },
-    {
-      "title": "Gamethread 9/17: Phillies at Mets",
-      "summary": "Phillies and Mets will face off in a nationally televised game",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/gamethread-9-17-phillies-mets-214500050.html",
-      "pubDate": "2026-09-17T21:45:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/gamethread-9-17-phillies-mets-214500050.html"
-        }
-      ]
-    },
-    {
-      "title": "As Naylor gets his 1st Brewers HR, this young fan *almost* got the ball",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/bo-naylor-first-brewers-homer-fan-near-catch",
-      "pubDate": "2026-09-17T21:15:25.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/bo-naylor-first-brewers-homer-fan-near-catch"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers win another division title, even if it didn’t follow the script",
-      "summary": "The Dodgers were overwhelming favorites to win the National League West, and they did so in convincing fashion, clinching the division with a week and a half still remaining in the season, the second…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-win-another-division-title-210405472.html",
-      "pubDate": "2026-09-17T21:04:05.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-win-another-division-title-210405472.html"
-        }
-      ]
-    },
-    {
-      "title": "Will Yankees' postseason first-timers prove to be ready for the moment?",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/yankees-2026-postseason-rely-on-first-timers",
-      "pubDate": "2026-09-17T20:51:40.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/yankees-2026-postseason-rely-on-first-timers"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers’ NL West title celebrations get crazy as Kiké Hernandez pulls off hilarious stunt",
-      "summary": "The Dodgers clinched the NL West with a dominant win over the Reds Thursday. For the 13th time in the last 14 years, the Dodgers are division champs. The team...",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-nl-west-title-celebrations-204608942.html",
-      "pubDate": "2026-09-17T20:46:08.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-nl-west-title-celebrations-204608942.html"
-        }
-      ]
-    },
-    {
-      "title": "Phillies Claim José Urquidy",
-      "summary": "3:45pm: Per Matt Gelb of The Athletic, manager Don Mattingly says Urquidy will arrive prior to tomorrow’s game and will factor into that contest as part of a bullpen game. Painter will start on Saturd…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/09/phillies-claim-jose-urquidy.html",
-      "pubDate": "2026-09-17T20:45:37.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/09/phillies-claim-jose-urquidy.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets recall RHP Cameron Weston from Syracuse, option Xzavion Curry",
-      "summary": "The Mets have made a move to bring in a fresh arm for Thursday's series opener with the Phillies.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-recall-rhp-cameron-weston-203307377.html",
-      "pubDate": "2026-09-17T20:33:07.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-recall-rhp-cameron-weston-203307377.html"
-        }
-      ]
-    },
-    {
-      "title": "End of Season Minor League News Roundup",
-      "summary": "The Jays are in the thick of a slapstick caper of a wildcard race, but with today being an off day I thought I’d look at the minor leagues as their seasons wrap up. The International League (AAA) goes…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/end-season-minor-league-news-203000613.html",
-      "pubDate": "2026-09-17T20:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/end-season-minor-league-news-203000613.html"
-        }
-      ]
-    },
-    {
-      "title": "Texas Rangers lineup for September 17, 2026",
-      "summary": "The Rangers go for the sweep against Boston",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/texas-rangers-lineup-september-17-202540105.html",
-      "pubDate": "2026-09-17T20:25:40.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/texas-rangers-lineup-september-17-202540105.html"
-        }
-      ]
-    },
-    {
-      "title": "Series Preview: Milwaukee Brewers @ Baltimore Orioles",
-      "summary": "Brewers wrap up interleague schedule in Baltimore",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/series-preview-milwaukee-brewers-baltimore-202110434.html",
-      "pubDate": "2026-09-17T20:21:10.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/series-preview-milwaukee-brewers-baltimore-202110434.html"
-        }
-      ]
-    },
-    {
-      "title": "Postseason FAQ: What's next for Dodgers?",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/dodgers-2026-postseason-faq",
-      "pubDate": "2026-09-17T20:21:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/dodgers-2026-postseason-faq"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-2026-postseason-faq"
-        }
-      ]
-    },
-    {
-      "title": "Astros Activate Trammell, Option Loperfido",
-      "summary": "It was great seeing you again, Joey. Sorry you have to leave so soon. Recalled two days ago, Loperfido did get one pinch-hit AB. That is all it is going to be. Recalled because OF Taylor Trammell was…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/astros-activate-trammell-option-loperfido-202054286.html",
-      "pubDate": "2026-09-17T20:20:54.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/astros-activate-trammell-option-loperfido-202054286.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers division-clinching dates from 2013-26",
-      "summary": "The Dodgers are back in the postseason for a 14th season in a row, and are National League West champions for the fifth year in a row and 13 of the last 14 years. This year’s clinch came with a win ov…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-division-clinching-dates-2013-200946596.html",
-      "pubDate": "2026-09-17T20:09:46.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-division-clinching-dates-2013-200946596.html"
-        }
-      ]
-    },
-    {
-      "title": "Red Sox News & Links: How concerning is Roman Anthony’s slump?",
-      "summary": "But he’s not too worried about it.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/red-sox-news-links-concerning-200433396.html",
-      "pubDate": "2026-09-17T20:04:33.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/red-sox-news-links-concerning-200433396.html"
-        }
-      ]
-    },
-    {
-      "title": "Get your brooms, we’re sweeping in here: Rays 10, A’s 1",
-      "summary": "Walked so much we hope they brought their FitBits.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/brooms-sweeping-rays-10-1-200146415.html",
-      "pubDate": "2026-09-17T20:01:46.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/brooms-sweeping-rays-10-1-200146415.html"
-        }
-      ]
-    },
-    {
-      "title": "Here’s a possible reason why MLB batting averages are down",
-      "summary": "It’s pretty obvious when you think about it for a moment.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/possible-reason-why-mlb-batting-200000507.html",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/possible-reason-why-mlb-batting-200000507.html"
-        }
-      ]
-    },
-    {
-      "title": "Series Preview: Cardinals Host Nationals for Last Homestand of Season",
-      "summary": "We’ve learned a lot about the current St. Louis Cardinals roster this season including some great things and others not so much. The last view of this team at home this season begins Friday night when…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/series-preview-cardinals-host-nationals-200000130.html",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/series-preview-cardinals-host-nationals-200000130.html"
-        }
-      ]
-    },
-    {
-      "title": "A’s Swept By Rays, Drop Finale 10-1",
-      "summary": "Another sweep in a tough season",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/swept-rays-drop-finale-10-195944125.html",
-      "pubDate": "2026-09-17T19:59:44.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/swept-rays-drop-finale-10-195944125.html"
-        }
-      ]
-    },
-    {
-      "title": "Phils claim veteran pitcher Urquidy off waivers from White Sox",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/jose-urquidy-claimed-by-phillies",
-      "pubDate": "2026-09-17T19:51:49.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/jose-urquidy-claimed-by-phillies"
-        }
-      ]
-    },
-    {
-      "title": "Kyle Harrison gets roughed up again, Brewers lose series finale in Pittsburgh, 7-4",
-      "summary": "Harrison can’t get out of second inning, Brewers’ offense unable to overcome early deficit in loss",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/kyle-harrison-gets-roughed-again-194802036.html",
-      "pubDate": "2026-09-17T19:48:02.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/kyle-harrison-gets-roughed-again-194802036.html"
-        }
-      ]
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Bills vs. Lions, Pitt vs. Syracuse, MLB and more",
-      "summary": "Find best bets and props for the biggest games in sports on Thursday from the SportsLine Projection Model and top CBS Sports experts",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-bills-vs-lions-pitt-vs-syracuse-mlb-and-more/\n                    ",
-      "pubDate": "2026-09-17T19:35:10.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-bills-vs-lions-pitt-vs-syracuse-mlb-and-more/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Dodgers clinch 13th NL West division title in 14 years: &#39;Something I know we can build on&#39;",
-      "summary": "Kyle Tucker homers, doubles twice and drives in three runs to spark the Dodgers to an 8-2 victory over the Cincinnati Reds on Thursday afternoon.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-breeze-past-reds-clinch-193137351.html",
-      "pubDate": "2026-09-17T19:31:37.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-breeze-past-reds-clinch-193137351.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers take down Reds to capture fifth consecutive NL West crown, 13th in past 14 seasons",
-      "summary": "Los Angeles' divisional reign continues under manager Dave Roberts.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/breaking-news/article/dodgers-take-down-reds-to-capture-fifth-consecutive-nl-west-crown-13th-in-past-14-seasons-192645828.html",
-      "pubDate": "2026-09-17T19:26:45.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/breaking-news/article/dodgers-take-down-reds-to-capture-fifth-consecutive-nl-west-crown-13th-in-past-14-seasons-192645828.html"
-        }
-      ]
-    },
-    {
-      "title": "The fat lady was an early Singer; Dodgers clinch the West",
-      "summary": "Scoring multiple runs in three of the first four innings, the Dodgers cruised to a blowout win over the Reds",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/fat-lady-early-singer-dodgers-192606852.html",
-      "pubDate": "2026-09-17T19:26:06.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/fat-lady-early-singer-dodgers-192606852.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers clinch 13th NL West title in 14 years as $60 million slugger finally turns up",
-      "summary": "Dodgers' domination of NL West continues as two-time defending World Series champs secure division crown.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-clinch-13th-nl-west-192229894.html",
-      "pubDate": "2026-09-17T19:22:29.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-clinch-13th-nl-west-192229894.html"
-        }
-      ]
-    },
-    {
-      "title": "Nationals Reinstate Josiah Gray From 60-Day Injured List",
-      "summary": "The Nationals announced that right-hander Josiah Gray has been reinstated from the 60-day injured list. Outfielder Andrew Pinckney was optioned to Triple-A Rochester yesterday, which opened an active…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/09/nationals-reinstate-josiah-gray-from-60-day-injured-list.html",
-      "pubDate": "2026-09-17T19:15:43.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury",
-        "roster"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/09/nationals-reinstate-josiah-gray-from-60-day-injured-list.html"
-        }
-      ]
-    },
-    {
-      "title": "Happy Birthday Casey Janssen and Marcus Semien",
-      "summary": "Casey Janssen turns 45 today. He has always been one of my favourites, and a favourite among readers of this site. Long before I joined, the site even interviewed him back in 2008. Janssen was selecte…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/happy-birthday-casey-janssen-marcus-191400507.html",
-      "pubDate": "2026-09-17T19:14:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/happy-birthday-casey-janssen-marcus-191400507.html"
-        }
-      ]
-    },
-    {
-      "title": "After A Long Recovery, Josiah Gray Is Finally Back In The Big Leagues",
-      "summary": "Josiah Gray is back with the Washington Nationals after nearly 3 full seasons worth of recovery",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/long-recovery-josiah-gray-finally-190500669.html",
-      "pubDate": "2026-09-17T19:05:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/long-recovery-josiah-gray-finally-190500669.html"
-        }
-      ]
-    },
-    {
-      "title": "Giddy up! Blue Jays rookies dress the part for trip down south",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/blue-jays-rookies-wear-cowboy-attire-for-texas-road-trip",
-      "pubDate": "2026-09-17T18:39:52.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/blue-jays-rookies-wear-cowboy-attire-for-texas-road-trip"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/blue-jays-rookies-wear-cowboy-attire-for-texas-road-trip"
-        }
-      ]
-    },
-    {
-      "title": "Who will be the next MLB GM? Baseball execs discuss the top candidates for front-office jobs around the league",
-      "summary": "The Angels, Astros and Athletics are currently in search of a new front-office head, and more teams could join them before the end of the year.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/who-will-be-the-next-mlb-gm-baseball-execs-discuss-the-top-candidates-for-front-office-jobs-around-the-league-183716356.html",
-      "pubDate": "2026-09-17T18:37:16.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros",
-        "angels"
-      ],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/who-will-be-the-next-mlb-gm-baseball-execs-discuss-the-top-candidates-for-front-office-jobs-around-the-league-183716356.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees Sequence of the Week: Max Fried (9/15)",
-      "summary": "In Minnesota on Tuesday, Fried posted his best start since coming back from his second IL stint.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-sequence-week-max-fried-183000243.html",
-      "pubDate": "2026-09-17T18:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-sequence-week-max-fried-183000243.html"
-        }
-      ]
-    },
-    {
-      "title": "D-backs knew Pettitte was tipping pitches. But 25 years later, it's still unclear how",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/d-backs-still-debating-source-of-andy-pettitte-tip-for-game-6-of-2001-world-series",
-      "pubDate": "2026-09-17T18:14:18.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/d-backs-still-debating-source-of-andy-pettitte-tip-for-game-6-of-2001-world-series"
-        }
-      ]
-    },
-    {
-      "title": "Colorado Rockies vs. San Diego Padres game discussion: Michael King vs. Tanner Gordon",
-      "summary": "Rockies aim for a series split",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/colorado-rockies-vs-san-diego-181000064.html",
-      "pubDate": "2026-09-17T18:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "rockies",
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/colorado-rockies-vs-san-diego-181000064.html"
-        }
-      ]
-    },
-    {
-      "title": "San Diego Padres at Colorado Rockies",
-      "summary": "Your game thread for September 17, 2026.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/san-diego-padres-colorado-rockies-181000838.html",
-      "pubDate": "2026-09-17T18:10:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "rockies",
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/san-diego-padres-colorado-rockies-181000838.html"
-        }
-      ]
-    },
-    {
-      "title": "Alex Bregman is having a monster second half",
-      "summary": "The Cubs offense is surging, led in part by their third baseman.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/alex-bregman-having-monster-second-180000746.html",
-      "pubDate": "2026-09-17T18:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/alex-bregman-having-monster-second-180000746.html"
-        }
-      ]
-    },
-    {
-      "title": "The myth of the Diamondbacks September ‘meltdown’",
-      "summary": "The myth Now, a heavily upvoted shitpost from the Diamondbacks subreddit, and a Tweet by one of the most toxic members of fandom may not seem worth bothering about. And they probably are not. But it d…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/myth-diamondbacks-september-meltdown-180000452.html",
-      "pubDate": "2026-09-17T18:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/myth-diamondbacks-september-meltdown-180000452.html"
-        }
-      ]
-    },
-    {
-      "title": "Thursday Jays Notes",
-      "summary": "Happy off-day. I don’t know about anyone else, but I am happy to have an off-day. I am happy we have meaningful baseball to watch in September. If you go back a month or so, I didn’t think we’d get th…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/thursday-jays-notes-173515089.html",
-      "pubDate": "2026-09-17T17:35:15.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/thursday-jays-notes-173515089.html"
-        }
-      ]
-    },
-    {
-      "title": "Hollywood superstar visits Kansas City's Negro Leagues Baseball Museum",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/tom-cruise-visits-negro-leagues-baseball-museum",
-      "pubDate": "2026-09-17T17:33:48.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/tom-cruise-visits-negro-leagues-baseball-museum"
-        }
-      ]
-    },
-    {
-      "title": "Can the Red Sox recapture their summertime magic?",
-      "summary": "Boston is likely headed towards an all or nothing October.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/red-sox-recapture-summertime-magic-173000893.html",
-      "pubDate": "2026-09-17T17:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/red-sox-recapture-summertime-magic-173000893.html"
-        }
-      ]
-    },
-    {
-      "title": "Joc’s Broken Hand and the DH Situation",
-      "summary": "What do you do about a broke-handed Joc?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/joc-broken-hand-dh-situation-172828922.html",
-      "pubDate": "2026-09-17T17:28:28.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/joc-broken-hand-dh-situation-172828922.html"
-        }
-      ]
-    },
-    {
-      "title": "Here are the breakout prospects of the year -- one for each team",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/one-breakout-prospect-from-each-mlb-club-2026",
-      "pubDate": "2026-09-17T17:25:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/one-breakout-prospect-from-each-mlb-club-2026"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/one-breakout-prospect-from-each-mlb-club-2026"
-        },
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/one-breakout-prospect-from-each-mlb-club-2026"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/one-breakout-prospect-from-each-mlb-club-2026"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/one-breakout-prospect-from-each-mlb-club-2026"
-        },
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/one-breakout-prospect-from-each-mlb-club-2026"
-        },
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/one-breakout-prospect-from-each-mlb-club-2026"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/one-breakout-prospect-from-each-mlb-club-2026"
-        },
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/one-breakout-prospect-from-each-mlb-club-2026"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/one-breakout-prospect-from-each-mlb-club-2026"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/one-breakout-prospect-from-each-mlb-club-2026"
-        }
-      ]
-    },
-    {
-      "title": "A February DFA Trade Has Had A Big Impact On The 2026 Season",
-      "summary": "If you’re a regular reader of MLB Trade Rumors, you know that players are designated for assignment almost every day. Those players can sometimes end up on another team, via a trade or waivers or free…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/09/a-february-dfa-trade-has-had-a-big-impact-on-the-2026-season.html",
-      "pubDate": "2026-09-17T17:22:04.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/09/a-february-dfa-trade-has-had-a-big-impact-on-the-2026-season.html"
-        }
-      ]
-    },
-    {
-      "title": "Minor League roundup, September 16: San Jose loses the championship",
-      "summary": "Yesterday on the farm.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/minor-league-roundup-september-16-170910447.html",
-      "pubDate": "2026-09-17T17:09:10.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/minor-league-roundup-september-16-170910447.html"
-        }
-      ]
-    },
-    {
-      "title": "Professional athletes are faster than you think",
-      "summary": "On today’s off-day, let’s think about sprint speed.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/professional-athletes-faster-think-170000600.html",
-      "pubDate": "2026-09-17T17:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/professional-athletes-faster-think-170000600.html"
-        }
-      ]
-    },
-    {
-      "title": "City of sin is a pity on a whim: Phillies vs. Mets series preview",
-      "summary": "The Phillies need wins. Will they find them at Citi Field?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/city-sin-pity-whim-phillies-165900054.html",
-      "pubDate": "2026-09-17T16:59:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/city-sin-pity-whim-phillies-165900054.html"
-        }
-      ]
-    },
-    {
-      "title": "Astros Prospect Report: September 16th",
-      "summary": "See how the prospects performed last night.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/astros-prospect-report-september-16th-164736723.html",
-      "pubDate": "2026-09-17T16:47:36.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/astros-prospect-report-september-16th-164736723.html"
-        }
-      ]
-    },
-    {
-      "title": "These relievers could become household names this October",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/relievers-to-watch-in-2026-playoffs",
-      "pubDate": "2026-09-17T16:45:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/relievers-to-watch-in-2026-playoffs"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/relievers-to-watch-in-2026-playoffs"
-        },
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/relievers-to-watch-in-2026-playoffs"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/relievers-to-watch-in-2026-playoffs"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/relievers-to-watch-in-2026-playoffs"
-        }
-      ]
-    },
-    {
-      "title": "Were we wrong about Yankees rookie outfielder Spencer Jones?",
-      "summary": "Eric Samulski breaks down Spencer Jones' hot stretch to see how realistic it is.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/were-wrong-yankees-rookie-outfielder-163832268.html",
-      "pubDate": "2026-09-17T16:38:32.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/were-wrong-yankees-rookie-outfielder-163832268.html"
-        }
-      ]
-    },
-    {
-      "title": "Cincinnati Reds vs. Los Angeles Dodgers – Brady Singer vs. Justin Wrobleski",
-      "summary": "Can the Reds put together an actual win streak?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cincinnati-reds-vs-los-angeles-163000440.html",
-      "pubDate": "2026-09-17T16:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cincinnati-reds-vs-los-angeles-163000440.html"
-        }
-      ]
-    },
-    {
-      "title": "Where to watch Friday Night Baseball on Apple TV: Phillies vs. Mets start time and more",
-      "summary": "The Mets host the Phillies for this week's Friday Night Baseball game on Apple TV. Here's how to watch.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/where-to-watch-friday-night-baseball-on-apple-tv-phillies-vs-mets-start-time-and-more-163000648.html",
-      "pubDate": "2026-09-17T16:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/where-to-watch-friday-night-baseball-on-apple-tv-phillies-vs-mets-start-time-and-more-163000648.html"
-        }
-      ]
-    },
-    {
-      "title": "San Diego’s top prospect launches two homers in electric win",
-      "summary": "FriarWatch: September 17 Edition",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/san-diego-top-prospect-launches-163000745.html",
-      "pubDate": "2026-09-17T16:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/san-diego-top-prospect-launches-163000745.html"
         }
       ]
     }
