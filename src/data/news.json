@@ -1,7 +1,493 @@
 {
-  "generatedAt": "2026-10-09T19:11:06.663Z",
+  "generatedAt": "2026-10-09T23:23:10.891Z",
   "count": 4000,
   "items": [
+    {
+      "title": "World Baseball Classic experience paying off for Caminero, Aranda in October",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/junior-caminero-jonathan-aranda-thrive-in-postseason-after-world-baseball-classic",
+      "pubDate": "2026-10-09T22:49:13.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/junior-caminero-jonathan-aranda-thrive-in-postseason-after-world-baseball-classic"
+        }
+      ]
+    },
+    {
+      "title": "Sonny Gray Plans To Pitch In 2027",
+      "summary": "There were some retirement rumblings around Sonny Gray this year but he’ll be back, per Alex Speier of The Boston Globe. “My family and I have talked about it and it’s an easy decision,” Gray said in…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/sonny-gray-plans-to-pitch-in-2027.html",
+      "pubDate": "2026-10-09T22:45:01.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/sonny-gray-plans-to-pitch-in-2027.html"
+        }
+      ]
+    },
+    {
+      "title": "What if MLB played less baseball -- and got more out of it?",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-latest-cba-proposal-trades-quantity-for-value",
+      "pubDate": "2026-10-09T22:28:39.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-latest-cba-proposal-trades-quantity-for-value"
+        }
+      ]
+    },
+    {
+      "title": "Reddit AMA: Ohtani's health, final NLCS roster decisions and more",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/dodgers-reddit-ama-ahead-of-nlcs-with-reporter-sonja-chen",
+      "pubDate": "2026-10-09T22:21:56.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/dodgers-reddit-ama-ahead-of-nlcs-with-reporter-sonja-chen"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-reddit-ama-ahead-of-nlcs-with-reporter-sonja-chen"
+        }
+      ]
+    },
+    {
+      "title": "Williams gets start for Guards in Game 5 -- two days after closing out Game 4",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/guardians-2026-alds-game-5-starter",
+      "pubDate": "2026-10-09T22:15:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/guardians-2026-alds-game-5-starter"
+        }
+      ]
+    },
+    {
+      "title": "Brewers’ Garrett Mitchell showcasing what he can do when healthy after missing last year’s playoffs",
+      "summary": "Finally healthy for a full year, Mitchell is playing a vital role in the Brewers’ push for their first World Series title.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brewers-garrett-mitchell-showcasing-healthy-220830735.html",
+      "pubDate": "2026-10-09T22:08:30.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brewers-garrett-mitchell-showcasing-healthy-220830735.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers vs. Brewers NLCS preview: Have Jackson Chourio and Co. leveled up enough to take down Shohei Ohtani and the Dodgers?",
+      "summary": "It’s a Dodgers vs. Brewers rematch with a trip to the World Series on the line. Let’s break it down.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/dodgers-vs-brewers-nlcs-preview-have-jackson-chourio-and-co-leveled-up-enough-to-take-down-shohei-ohtani-and-the-dodgers-220821902.html",
+      "pubDate": "2026-10-09T22:08:21.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/dodgers-vs-brewers-nlcs-preview-have-jackson-chourio-and-co-leveled-up-enough-to-take-down-shohei-ohtani-and-the-dodgers-220821902.html"
+        }
+      ]
+    },
+    {
+      "title": "Shohei Ohtani’s bat has gone quiet, but the Dodgers keep winning for now",
+      "summary": "Ohtani was dropped to fifth in the order — his lowest as a Dodger — for Game 3 of the NLDS.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/shohei-ohtani-bat-gone-quiet-220443968.html",
+      "pubDate": "2026-10-09T22:04:43.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/shohei-ohtani-bat-gone-quiet-220443968.html"
+        }
+      ]
+    },
+    {
+      "title": "Should Rays want to face White Sox or Guardians in ALCS?",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/rays-to-face-white-sox-or-guardians-in-2026-alcs",
+      "pubDate": "2026-10-09T21:55:57.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/rays-to-face-white-sox-or-guardians-in-2026-alcs"
+        }
+      ]
+    },
+    {
+      "title": "White Sox-Guardians ALDS Game 5 FAQ (Sat., 8 ET, TBS/HBO Max)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup",
+      "pubDate": "2026-10-09T21:21:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup"
+        }
+      ]
+    },
+    {
+      "title": "Storylines to follow as White Sox, Guards play winner-take-all Game 5",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/2026-alds-game-5-storylines-what-to-watch-for",
+      "pubDate": "2026-10-09T21:09:31.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/2026-alds-game-5-storylines-what-to-watch-for"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/2026-alds-game-5-storylines-what-to-watch-for"
+        }
+      ]
+    },
+    {
+      "title": "Front Office Subscriber Chat Transcript",
+      "summary": "Anthony Franco Good evening, hope all is well! Sorry about the different start time, trying to get numbers down for the free agents on the Top 50 Let’s get rolling Jordan Is Chris Bassitt’s Toronto co…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/front-office-subscriber-chat-with-anthony-franco-today-at-400pm-central-3.html",
+      "pubDate": "2026-10-09T21:00:46.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/front-office-subscriber-chat-with-anthony-franco-today-at-400pm-central-3.html"
+        }
+      ]
+    },
+    {
+      "title": "5 reasons Dodgers-Brewers NLCS is different this time around",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/why-dodgers-brewers-nlcs-could-be-different-in-2026",
+      "pubDate": "2026-10-09T20:52:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/why-dodgers-brewers-nlcs-could-be-different-in-2026"
+        }
+      ]
+    },
+    {
+      "title": "Corey Seager Undergoes Elbow Surgery",
+      "summary": "Rangers president of baseball operations Chris Young told reporters last week that shortstop Corey Seager was dealing with a bone spur in his right elbow. Minor surgery was on the table, and it appear…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/corey-seager-undergoes-elbow-surgery.html",
+      "pubDate": "2026-10-09T20:29:05.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/corey-seager-undergoes-elbow-surgery.html"
+        }
+      ]
+    },
+    {
+      "title": "Watch LIVE: Astros prospects in Arizona Fall League",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+      "pubDate": "2026-10-09T20:26:00.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+        }
+      ]
+    },
+    {
+      "title": "Notes: Rays staying hungry ahead of ALCS, plotting pitching, roster plans",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/rays-preparing-for-2026-alcs",
+      "pubDate": "2026-10-09T20:00:13.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/rays-preparing-for-2026-alcs"
+        }
+      ]
+    },
+    {
+      "title": "Five pressing questions facing Phillies during critical offseason",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/questions-facing-phillies-in-2026-offseason",
+      "pubDate": "2026-10-09T19:45:44.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/questions-facing-phillies-in-2026-offseason"
+        }
+      ]
+    },
+    {
+      "title": "Ways in which the Cincinnati Reds ranked last in 2026",
+      "summary": "A Friday List.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/ways-cincinnati-reds-ranked-last-194013563.html",
+      "pubDate": "2026-10-09T19:40:13.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/ways-cincinnati-reds-ranked-last-194013563.html"
+        }
+      ]
+    },
+    {
+      "title": "Ditching Kevin Gausman: The Final Analysis",
+      "summary": "The Giants’ made a decision with long-term consequences. Did the positive ones outweigh the negative ones?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/ditching-kevin-gausman-final-analysis-193000003.html",
+      "pubDate": "2026-10-09T19:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/ditching-kevin-gausman-final-analysis-193000003.html"
+        }
+      ]
+    },
+    {
+      "title": "Burke gets ball first for White Sox in Game 5, with rest of plan in flux",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/white-sox-pitching-plans-2026-alds-game-5",
+      "pubDate": "2026-10-09T19:09:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/white-sox-pitching-plans-2026-alds-game-5"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/white-sox-pitching-plans-2026-alds-game-5"
+        }
+      ]
+    },
     {
       "title": "What went wrong for the 2026 Yankees? And where do they go from here?",
       "summary": "For the third year in a row, Aaron Judge and Co. watched an opponent celebrate on their field in October.",
@@ -87,29 +573,6 @@
       ]
     },
     {
-      "title": "Front Office Subscriber Chat With Anthony Franco: TODAY At 4:00pm Central",
-      "summary": "MLBTR’s Anthony Franco will be holding a live chat today at 4:00 pm Central, exclusively for Trade Rumors Front Office subscribers! Due to scheduling conflicts, this is two hours later than the typica…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/front-office-subscriber-chat-with-anthony-franco-today-at-400pm-central-3.html",
-      "pubDate": "2026-10-09T18:22:46.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/front-office-subscriber-chat-with-anthony-franco-today-at-400pm-central-3.html"
-        }
-      ]
-    },
-    {
       "title": "2026 Houston Astros Season in Review",
       "summary": "81-81 FINAL RECORD; AMERICAN LEAGUE WEST DIVISION CHAMPS IN THE STANDINGS: The Astros finished the regular season in first place in the AL West with an 81-81 record, topping the second-place Rangers b…",
       "titleJa": null,
@@ -150,31 +613,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/potential-washington-nationals-trade-chips-180000664.html"
-        }
-      ]
-    },
-    {
-      "title": "South Siders small victories from Game 4 could pay off big in Game 5",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/white-sox-pitching-plans-2026-alds-game-5",
-      "pubDate": "2026-10-09T17:55:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/white-sox-pitching-plans-2026-alds-game-5"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/white-sox-pitching-plans-2026-alds-game-5"
         }
       ]
     },
@@ -220,31 +658,6 @@
           "name": "MLB.com (White Sox)",
           "sourceId": "mlb-com-whitesox",
           "link": "https://www.mlb.com/whitesox/news/miguel-vargas-enjoying-playoff-run-white-sox-alds-2026"
-        }
-      ]
-    },
-    {
-      "title": "White Sox-Guardians ALDS Game 5 FAQ (Sat., 8 ET, TBS/HBO Max)",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup",
-      "pubDate": "2026-10-09T17:44:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup"
         }
       ]
     },
@@ -566,26 +979,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/10/michael-king-open-to-returning-to-padres.html"
-        }
-      ]
-    },
-    {
-      "title": "The Guardians used their Game 5 starter to close Game 4 -- now what?",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/guardians-2026-alds-game-5-starter",
-      "pubDate": "2026-10-09T15:24:12.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/guardians-2026-alds-game-5-starter"
         }
       ]
     },
@@ -1934,71 +2327,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/close-yet-far-034513940.html"
-        }
-      ]
-    },
-    {
-      "title": "Watch top prospects in Arizona Fall League action tonight",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-      "pubDate": "2026-10-09T03:41:00.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-        },
-        {
-          "name": "MLB.com (Cubs)",
-          "sourceId": "mlb-com-cubs",
-          "link": "https://www.mlb.com/cubs/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-        },
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-        },
-        {
-          "name": "MLB.com (Angels)",
-          "sourceId": "mlb-com-angels",
-          "link": "https://www.mlb.com/angels/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-        },
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-        },
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
         }
       ]
     },
@@ -15079,7 +15407,9 @@
       "pubDate": "2026-10-06T01:50:19.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "dodgers"
+      ],
       "players": [
         "yamamoto"
       ],
@@ -19341,7 +19671,9 @@
       "pubDate": "2026-10-04T20:53:04.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "whitesox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -87597,348 +87929,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/yankees-spencer-jones-sore-left-005240139.html"
-        }
-      ]
-    },
-    {
-      "title": "Crochet, Houck making good progress toward return for Red Sox",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/garrett-crochet-tanner-houck-making-progress-in-injury-rehab",
-      "pubDate": "2026-09-20T00:42:57.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/garrett-crochet-tanner-houck-making-progress-in-injury-rehab"
-        }
-      ]
-    },
-    {
-      "title": "9/19 Gamethread: Giants @ Dodgers",
-      "summary": "Yunior Marté vs. Tarik Skubal.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/9-19-gamethread-giants-dodgers-004000336.html",
-      "pubDate": "2026-09-20T00:40:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/9-19-gamethread-giants-dodgers-004000336.html"
-        }
-      ]
-    },
-    {
-      "title": "AL West Notes: Quantrill, Correa, Walcott, Okert, Schanuel",
-      "summary": "Rangers right-hander Cal Quantrill was removed in the second inning on Saturday against the Blue Jays with right lat tightness, the team announced. As Shawn McFarland of the Dallas Morning News pointe…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/09/al-west-notes-quantrill-correa-walcott-okert-schanuel.html",
-      "pubDate": "2026-09-20T00:38:30.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/09/al-west-notes-quantrill-correa-walcott-okert-schanuel.html"
-        }
-      ]
-    },
-    {
-      "title": "After sim game, Pages on track to return for next series",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/andy-pages-plays-sim-game-ahead-of-expected-return",
-      "pubDate": "2026-09-20T00:38:15.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/andy-pages-plays-sim-game-ahead-of-expected-return"
-        }
-      ]
-    },
-    {
-      "title": "Game 155: Twins at Angels",
-      "summary": "First Pitch: 8:38 pm CDTTV: Twins.TVRadio: TIBN / WCCO 830 / The Wolf 102.9 FM / Audacy The kids have been showing out a bit in Anaheim, providing one of the only remaining reasons to watch 2026 Twins…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/game-155-twins-angels-003800510.html",
-      "pubDate": "2026-09-20T00:38:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "angels"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/game-155-twins-angels-003800510.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers on Deck: Sunday, September 20 vs. Giants",
-      "summary": "The Dodgers conclude their penultimate home series of the regular season, taking on the San Francisco Giants on Sunday afternoon at Dodger Stadium. After dropping four of their first five games to the…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-deck-sunday-september-20-002757755.html",
-      "pubDate": "2026-09-20T00:27:57.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-deck-sunday-september-20-002757755.html"
-        }
-      ]
-    },
-    {
-      "title": "Shohei Ohtani on verge of Dodgers return, with help of new technology",
-      "summary": "Shohei Ohtani has taken another step forward in his recovery from right arm and left knee injuries. And now, the Dodgers are hopeful he will be ready to return as...",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/shohei-ohtani-takes-key-step-001114629.html",
-      "pubDate": "2026-09-20T00:11:14.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/shohei-ohtani-takes-key-step-001114629.html"
-        }
-      ]
-    },
-    {
-      "title": "Rays walk-0ff Red Sox 2-1, playoff berth on ice",
-      "summary": "Everyone gets their moment in a baseball season. Andruw Monasterio has had his moments. Tony Seagulls, too. Nick Sogard. Mickey Gasper has had so many moments that they ceased to be moments and just b…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/rays-walk-0ff-red-sox-001056643.html",
-      "pubDate": "2026-09-20T00:10:56.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/rays-walk-0ff-red-sox-001056643.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets crush Phillies as Carson Benge sets Mets rookie hit record",
-      "summary": "The Mets continue to be a rock in Philly’s shoe while Benge makes history.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-crush-phillies-carson-benge-000808883.html",
-      "pubDate": "2026-09-20T00:08:08.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-crush-phillies-carson-benge-000808883.html"
-        }
-      ]
-    },
-    {
-      "title": "Francisco Alvarez offers enouraging sign with blast in Mets’ win over Phillies",
-      "summary": "The turning point in a 10-3 Mets win over the Phillies at Citi Field was the swing from Francisco Alvarez.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/francisco-alvarez-offers-enouraging-sign-000442060.html",
-      "pubDate": "2026-09-20T00:04:42.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/francisco-alvarez-offers-enouraging-sign-000442060.html"
-        }
-      ]
-    },
-    {
-      "title": "Embarrassing: Mets 10, Phillies 3",
-      "summary": "Pick your adjective for “terrible”",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/embarrassing-mets-10-phillies-3-000316944.html",
-      "pubDate": "2026-09-20T00:03:16.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/embarrassing-mets-10-phillies-3-000316944.html"
-        }
-      ]
-    },
-    {
-      "title": "Even through ‘difficult’ times, Carlos Beltran is ‘proud’ to be a forever Met",
-      "summary": "“I would say it was my best years in baseball,” Beltrán began, “even though, at times, it felt difficult and it felt different.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/even-difficult-times-carlos-beltran-000026138.html",
-      "pubDate": "2026-09-20T00:00:26.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/even-difficult-times-carlos-beltran-000026138.html"
-        }
-      ]
-    },
-    {
-      "title": "Beltrán feted with number retirement, Mets HOF -- but is another chapter possible?",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/carlos-beltran-has-number-retired-enters-mets-hall-of-fame",
-      "pubDate": "2026-09-19T23:58:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/carlos-beltran-has-number-retired-enters-mets-hall-of-fame"
-        },
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/carlos-beltran-has-number-retired-enters-mets-hall-of-fame"
-        }
-      ]
-    },
-    {
-      "title": "Mets owner Steve Cohen talks team&#39;s future, front office discussions, Pete Alonso&#39;s return to Citi Field",
-      "summary": "On the day of Carlos Beltran’s number retirement ceremony at Citi Field, a special and joyous occasion for the club and all those involved, Mets owner Steve Cohen made sure to also address the elephan…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-owner-steve-cohen-talks-235436062.html",
-      "pubDate": "2026-09-19T23:54:36.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [
-        "personnel",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-owner-steve-cohen-talks-235436062.html"
-        }
-      ]
-    },
-    {
-      "title": "Mariners Game #155 Preview and Discussion: 9/19/26, Mariners at Rockies",
-      "summary": "2026 Bryce Miller meets Coors Field. What can possibly go wrong?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mariners-game-155-preview-discussion-235008703.html",
-      "pubDate": "2026-09-19T23:50:08.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mariners-game-155-preview-discussion-235008703.html"
         }
       ]
     }
