@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-10-19T05:01:34.971Z",
+  "generatedAt": "2026-10-19T11:02:21.533Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Yankees news: Bombers showed past interest in Padres’ reliever",
+      "summary": "Yankees eyed Jeremiah Estrada in the past; third base remains a problem; which free agents are likely to return?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-news-bombers-showed-past-090000067.html",
+      "pubDate": "2026-10-19T09:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-news-bombers-showed-past-090000067.html"
+        }
+      ]
+    },
     {
       "title": "Dodgers gone, Brian Kaplan Fired, Banana Ball and more!",
       "summary": "The Brewers defeated the Dodgers and upended the narrative supporting the salary cap going into the offseason. Will this actually impact CBA negotiations? James Attwood: I don’t really see how. Sure,…",
@@ -211,7 +233,7 @@
       ]
     },
     {
-      "title": "Guardians-Rays ALCS Game 6 FAQ (Mon., 8 ET on TBS/HBO Max)",
+      "title": "Guardians-Rays ALCS Game 6 FAQ (8 ET on TBS/HBO Max)",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -313,6 +335,26 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/10/what-went-wrong-for-framber-valdez.html"
+        }
+      ]
+    },
+    {
+      "title": "Here are the greatest LCS Game 6s of all time",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/best-game-6-s-in-lcs-history-c299343340",
+      "pubDate": "2026-10-19T00:07:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/best-game-6-s-in-lcs-history-c299343340"
         }
       ]
     },
@@ -87932,50 +87974,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/mets-manager-search-ends-andy-164025185.html"
-        }
-      ]
-    },
-    {
-      "title": "Condon's full season, new mindset crucial for '26 development",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/charlie-condon-first-full-season-a-success-in-development",
-      "pubDate": "2026-09-25T16:37:18.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/charlie-condon-first-full-season-a-success-in-development"
-        }
-      ]
-    },
-    {
-      "title": "A franchise-record 3rd straight postseason, and the Padres still want more",
-      "summary": "Now, they want to win a World Series for the first time, having been there twice only to lose.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/franchise-record-3rd-straight-postseason-162328268.html",
-      "pubDate": "2026-09-25T16:23:28.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/franchise-record-3rd-straight-postseason-162328268.html"
         }
       ]
     }
