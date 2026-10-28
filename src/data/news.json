@@ -1,10 +1,563 @@
 {
-  "generatedAt": "2026-10-27T22:47:58.151Z",
+  "generatedAt": "2026-10-28T01:57:48.169Z",
   "count": 4000,
   "items": [
     {
+      "title": "LIVE: Rays, Brewers trade runs early in Game 4 (FOX/FOX One)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/stories/game/849803",
+      "pubDate": "2026-10-28T01:19:11.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/stories/game/849803"
+        }
+      ]
+    },
+    {
+      "title": "Offseason Outlook: Athletics",
+      "summary": "The A’s went from 76 wins in 2025 to a 64-98 record this year, as a swath of injuries and continued poor pitching threw a wrench into the rebuilding efforts. New president of baseball operations Taylo…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/offseason-outlook-athletics-3.html",
+      "pubDate": "2026-10-28T00:40:46.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/offseason-outlook-athletics-3.html"
+        }
+      ]
+    },
+    {
+      "title": "Longoria tosses first pitch ahead of Rays' must-win Game 4",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/evan-longoria-to-throw-first-pitch-at-world-series-game-4-2026",
+      "pubDate": "2026-10-28T00:23:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/evan-longoria-to-throw-first-pitch-at-world-series-game-4-2026"
+        }
+      ]
+    },
+    {
+      "title": "Here's one more way 'Wild Bill' is dominating during Brewers' postseason run",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/william-contreras-showing-mastery-of-abs-challenge-system-in-postseason",
+      "pubDate": "2026-10-28T00:06:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/william-contreras-showing-mastery-of-abs-challenge-system-in-postseason"
+        }
+      ]
+    },
+    {
+      "title": "SnakePit Post-season GDT, #21",
+      "summary": "This could be the last major-league game for quite a while. If you were hoping for a long, drawn-out World Series, it seems the Brewers have other intentions. They have disposed of the Rays with bruta…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/snakepit-post-season-gdt-21-000000199.html",
+      "pubDate": "2026-10-28T00:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/snakepit-post-season-gdt-21-000000199.html"
+        }
+      ]
+    },
+    {
+      "title": "A Troubling Relief Campaign",
+      "summary": "Roster Review: Jeremiah Estrada",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/troubling-relief-campaign-000000972.html",
+      "pubDate": "2026-10-28T00:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/troubling-relief-campaign-000000972.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series Game 4 open thread",
+      "summary": "The Brewers are one win away from a World Series sweep. Can they clinch their first championship tonight?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-game-4-open-000000263.html",
+      "pubDate": "2026-10-28T00:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-game-4-open-000000263.html"
+        }
+      ]
+    },
+    {
+      "title": "The most important stories of 2026: #4 — Bryce Eldridge is a hit",
+      "summary": "One big success doesn’t signal a dramatic shift in the San Francisco Giants’ player development pipeline — or does it?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/most-important-stories-2026-4-235528505.html",
+      "pubDate": "2026-10-27T23:55:28.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/most-important-stories-2026-4-235528505.html"
+        }
+      ]
+    },
+    {
+      "title": "AUSL champ Talons celebrated ahead of WS G4: 'It's such an honor'",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ausl-champion-utah-talons-honored-at-world-series-game-4",
+      "pubDate": "2026-10-27T23:52:15.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ausl-champion-utah-talons-honored-at-world-series-game-4"
+        }
+      ]
+    },
+    {
+      "title": "Open Thread: World Series Game Four",
+      "summary": "Three straight wins for the Brewers. I was hoping for a long series, but it doesn’t look like that is going to happen. If the series ends tonight, the off-season starts tomorrow. Today’s Lineups BREWE…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/open-thread-world-series-game-235000539.html",
+      "pubDate": "2026-10-27T23:50:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/open-thread-world-series-game-235000539.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series Game Four: Open Game Thread",
+      "summary": "The Rays try to avoid being swept out of the World Series and we try to stave off the long cold dark months of the off-season",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-game-four-open-234842543.html",
+      "pubDate": "2026-10-27T23:48:42.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-game-four-open-234842543.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series Game Discussion: Brewers vs Rays Game 4 Tuesday",
+      "summary": "The Milwaukee Brewers will try to lock up a world championship Tuesday night as they take a 3-0 series lead into Tropicana Field. The Rays will start RHP Griffin Jax while the Brewers will reportedly…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-game-discussion-brewers-234500881.html",
+      "pubDate": "2026-10-27T23:45:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-game-discussion-brewers-234500881.html"
+        }
+      ]
+    },
+    {
+      "title": "Orioles Notes: Front Office, Rotation",
+      "summary": "The Orioles’ offseason business is already well underway. The team announced last week that now-former Cubs assistant general manager Jared Banner has been named GM. He’ll work as the No. 2 executive…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/orioles-notes-front-office-rotation.html",
+      "pubDate": "2026-10-27T23:40:31.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/orioles-notes-front-office-rotation.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series Game 4: Brewers at Rays, 8:00 p.m. ET",
+      "summary": "No team has ever rallied from an 0-3 deficit in the World Series, and only the 2004 Boston Red Sox have done it in any best-of-seven playoff series. That is the task now before the Tampa Bay Rays. The…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-game-4-brewers-233500750.html",
+      "pubDate": "2026-10-27T23:35:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-game-4-brewers-233500750.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series Game 4 thread: Tampa Bay Rays vs. Milwaukee Brewers",
+      "summary": "For the first time in 44 years, the Brewers have a championship in their sights.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/today-pinstripe-alley-10-26-103000524.html",
+      "pubDate": "2026-10-27T23:34:47.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/today-pinstripe-alley-10-26-103000524.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers can clinch the World Series with a Game 4 win over Rays tonight",
+      "summary": "Will the season’s final game be tonight? Milwaukee sure hopes so!",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brewers-clinch-world-series-game-233018402.html",
+      "pubDate": "2026-10-27T23:30:18.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brewers-clinch-world-series-game-233018402.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series Game 4: Rays vs. Brewers Discussion",
+      "summary": "Rays look to avoid a Brewer Beatdown",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-game-4-rays-233000953.html",
+      "pubDate": "2026-10-27T23:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-game-4-rays-233000953.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series game 4 discussion thread",
+      "summary": "Do you hear that sound? It’s the sound of every Wisconsinite getting out their decorative beer mugs in preparation for a win tonight and their first World Series championship…ever. The Brewers are up…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-game-4-discussion-233000735.html",
+      "pubDate": "2026-10-27T23:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-game-4-discussion-233000735.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series Game 4, Brewers at Rays: Lineups, broadcast info, and open thread, 10/23/26",
+      "summary": "Will the Brewers complete a sweep of the Rays tonight to win their first World Series?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-game-4-brewers-233000804.html",
+      "pubDate": "2026-10-27T23:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-game-4-brewers-233000804.html"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Series discussion thread: Game 4",
+      "summary": "Can the Brew Crew complete the sweep?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/2026-world-series-discussion-thread-233000087.html",
+      "pubDate": "2026-10-27T23:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/2026-world-series-discussion-thread-233000087.html"
+        }
+      ]
+    },
+    {
+      "title": "Game Thread: Please keep the World Series going, Rays",
+      "summary": "I don’t want the Rays to win the World Series. I didn’t want them to win before Game 1, and I ESPECIALLY don’t want them to win it now that they’re down three games to none, because I don’t want any t…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/game-thread-please-keep-world-232205627.html",
+      "pubDate": "2026-10-27T23:22:05.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/game-thread-please-keep-world-232205627.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series Game 4 Thread",
+      "summary": "Tampa Bay Must Win Tonight",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-game-4-thread-230000891.html",
+      "pubDate": "2026-10-27T23:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-game-4-thread-230000891.html"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Series Game 4: Brewers at Rays, 7 p.m. CT",
+      "summary": "The Brewers are on the brink of their first-ever World Series championship.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/2026-world-series-game-4-230000988.html",
+      "pubDate": "2026-10-27T23:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/2026-world-series-game-4-230000988.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series Game 4 discussion thread",
+      "summary": "Possibly the last major league game of the season",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-game-4-discussion-230000160.html",
+      "pubDate": "2026-10-27T23:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-game-4-discussion-230000160.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series winners by year: Full list of MLB champions",
+      "summary": "Baseball's first World Series was held in 1903.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-winners-full-list-225434146.html",
+      "pubDate": "2026-10-27T22:54:34.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-winners-full-list-225434146.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers vs. Rays World Series odds, Game 4 predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus",
+      "summary": "Here's a look at the trading markets at Kalshi for World Series Game 4 as the Tampa Bay Rays host the Milwaukee Brewers in World Series Game 4",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/prediction/news/brewers-vs-rays-world-series-odds-game-4-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus/\n                    ",
+      "pubDate": "2026-10-27T22:40:38.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/prediction/news/brewers-vs-rays-world-series-odds-game-4-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Game 4 Brewers vs. Rays MLB picks: Expect Tampa Bay to show pulse Tuesday on verge of being swept at home",
+      "summary": "Can the Rays avoid a sweep at home tonight vs. the Brewers in the 2026 World Series?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/betting/news/game-4-brewers-vs-rays-mlb-picks-expect-tampa-bay-to-show-pulse-tuesday-on-verge-of-being-swept-at-home/\n                    ",
+      "pubDate": "2026-10-27T22:30:47.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/betting/news/game-4-brewers-vs-rays-mlb-picks-expect-tampa-bay-to-show-pulse-tuesday-on-verge-of-being-swept-at-home/\n                    "
+        }
+      ]
+    },
+    {
       "title": "Brewers vs. Rays live updates, World Series lineups, where to watch: Brewers one win from first championship in franchise history",
-      "summary": "The Brewers can sweep the Rays in the World Series with a win Tuesday night.",
+      "summary": "The Brewers can sweep the Rays in the World Series with a win Tuesday.",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://sports.yahoo.com/mlb/live/brewers-rays-box-score-live-updates-world-series-game-4-lineups-starting-pitchers-news-highlights-where-to-watch-223000629.html",
@@ -19,6 +572,26 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/live/brewers-rays-box-score-live-updates-world-series-game-4-lineups-starting-pitchers-news-highlights-where-to-watch-223000629.html"
+        }
+      ]
+    },
+    {
+      "title": "World Series Gamethread: 10/27/2026",
+      "summary": "Is it over?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/world-series-gamethread-10-27-223000768.html",
+      "pubDate": "2026-10-27T22:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/world-series-gamethread-10-27-223000768.html"
         }
       ]
     },
@@ -168,6 +741,30 @@
       ]
     },
     {
+      "title": "Tanner Scott welcomes baby girl as Dodgers reliever celebrates family milestone",
+      "summary": "Tanner Scott is officially a father of two. Scott and his wife, Maddie, welcomed a beautiful baby girl into the world named Blair Elizabeth. The couple announced the exciting news...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/tanner-scott-welcomes-baby-girl-212305981.html",
+      "pubDate": "2026-10-27T21:23:05.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/tanner-scott-welcomes-baby-girl-212305981.html"
+        }
+      ]
+    },
+    {
       "title": "Tuesday Bantering: Jays Potential Free Agents",
       "summary": "Tonight could be the last game of the World Series. Which means the off-season could start tomorrow morning. If the Brewers win tonight, free agents could file at 9:00 am Eastern tomorrow. Come on Ray…",
       "titleJa": null,
@@ -310,6 +907,26 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/10/jeff-hoffman-undergoes-elbow-surgery-expected-to-be-ready-for-next-season.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers could sweep World Series vs. Rays tonight—Here’s how to watch for free",
+      "summary": "Milwaukee is one win away from history.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brewers-could-sweep-world-series-200027877.html",
+      "pubDate": "2026-10-27T20:00:27.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brewers-could-sweep-world-series-200027877.html"
         }
       ]
     },
@@ -632,7 +1249,7 @@
       ]
     },
     {
-      "title": "Vote tonight for the World Series MVP Award",
+      "title": "VOTE NOW for the World Series MVP Award",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -940,26 +1557,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/three-under-radar-free-agent-152000266.html"
-        }
-      ]
-    },
-    {
-      "title": "Here's one more way 'Wild Bill' is dominating during Brewers' postseason run",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/william-contreras-showing-mastery-of-abs-challenge-system-in-postseason",
-      "pubDate": "2026-10-27T15:03:22.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/william-contreras-showing-mastery-of-abs-challenge-system-in-postseason"
         }
       ]
     },
@@ -2034,26 +2631,6 @@
       ]
     },
     {
-      "title": "Today on Pinstripe Alley – 10/26/26",
-      "summary": "For the first time in 44 years, the Brewers have a championship in their sights.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/today-pinstripe-alley-10-26-103000524.html",
-      "pubDate": "2026-10-27T10:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/today-pinstripe-alley-10-26-103000524.html"
-        }
-      ]
-    },
-    {
       "title": "Three things the Pirates need to do to have a successful offseason",
       "summary": "The Pirates need to capitalize on this season and continue to build through free-agency and the trade market.",
       "titleJa": null,
@@ -2334,26 +2911,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/brewers-dominance-numbers-historic-postseason-052443437.html"
-        }
-      ]
-    },
-    {
-      "title": "Longoria tapped for first pitch ahead of Rays' must-win Game 4",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/evan-longoria-to-throw-first-pitch-at-world-series-game-4-2026",
-      "pubDate": "2026-10-27T05:24:24.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/evan-longoria-to-throw-first-pitch-at-world-series-game-4-2026"
         }
       ]
     },
@@ -86365,580 +86922,6 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/jose-altuve-nearing-postseason-home-run-record"
-        }
-      ]
-    },
-    {
-      "title": "'Never a doubt': Resilient Phils force Game 3 on three dramatic swings",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/phillies-win-nl-wild-card-game-2-2026",
-      "pubDate": "2026-10-01T00:09:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/phillies-win-nl-wild-card-game-2-2026"
-        }
-      ]
-    },
-    {
-      "title": "Padres’ Ethan Salas in lineup for Game 2, set to become MLB’s youngest postseason catcher",
-      "summary": "Salas had a series of clutch hits during his late surge, and on Sept. 16 he became the youngest catcher to have a multi-homer game.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/padres-ethan-salas-lineup-game-235738634.html",
-      "pubDate": "2026-09-30T23:57:38.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/padres-ethan-salas-lineup-game-235738634.html"
-        }
-      ]
-    },
-    {
-      "title": "1st playoff win? In postseason debut? From the 'pen? Painter's day proves pivotal for Phils",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/andrew-painter-first-career-postseason-win-phillies-nl-wild-card-game-2",
-      "pubDate": "2026-09-30T23:56:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/andrew-painter-first-career-postseason-win-phillies-nl-wild-card-game-2"
-        }
-      ]
-    },
-    {
-      "title": "Weather for Dodgers, weekend playoffs in LA will be sweltering",
-      "summary": "The Dodgers will play Game 1 of the NLDS at either 6:00 or 1:00 p.m. local time. With record-breaking temps forecasted, there's a clear preference.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/weather-dodgers-weekend-playoffs-la-235330863.html",
-      "pubDate": "2026-09-30T23:53:30.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/weather-dodgers-weekend-playoffs-la-235330863.html"
-        }
-      ]
-    },
-    {
-      "title": "Sosa hopeful for decisive Game 3 after exiting late with right leg injury",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/edmundo-sosa-exits-nl-wild-card-series-game-2-with-injury",
-      "pubDate": "2026-09-30T23:44:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/edmundo-sosa-exits-nl-wild-card-series-game-2-with-injury"
-        }
-      ]
-    },
-    {
-      "title": "Bryce Harper flushes defensive misplay to flip wild-card series, help lead Phillies to Game 2 win over Braves: &#39;I wasn&#39;t not trying to hit a homer&#39;",
-      "summary": "Harper's mistake certainly didn't help Philly, but the home run that followed might just be the most important play of this series.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/bryce-harper-flushes-defensive-misplay-to-flip-wild-card-series-help-lead-phillies-to-game-2-win-over-braves-i-wasnt-not-trying-to-hit-a-homer-233429212.html",
-      "pubDate": "2026-09-30T23:34:29.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/bryce-harper-flushes-defensive-misplay-to-flip-wild-card-series-help-lead-phillies-to-game-2-win-over-braves-i-wasnt-not-trying-to-hit-a-homer-233429212.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB Wild Card Series Game 2 preview: Chicago Cubs vs. San Diego Padres, Wednesday 9/30, 9 p.m. CT",
-      "summary": "It’s win or go home.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-wild-card-series-game-233100235.html",
-      "pubDate": "2026-09-30T23:31:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs",
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-wild-card-series-game-233100235.html"
-        }
-      ]
-    },
-    {
-      "title": "AL Wild Card Series Game 2: Max Fried vs. Sonny Gray",
-      "summary": "A win tonight sends the Yankees to the ALDS.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/al-wild-card-series-game-233000088.html",
-      "pubDate": "2026-09-30T23:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/al-wild-card-series-game-233000088.html"
-        }
-      ]
-    },
-    {
-      "title": "Who should Dodgers root for in NL wild card series? Breaking down Phillies, Braves matchups",
-      "summary": "The Dodgers await the winner of Game 3 between the Braves and Phillies. Who should they be rooting for?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-root-nl-wild-card-232234977.html",
-      "pubDate": "2026-09-30T23:22:34.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-root-nl-wild-card-232234977.html"
-        }
-      ]
-    },
-    {
-      "title": "Anthony 'sick to my stomach' after aggravating hand injury",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/roman-anthony-out-for-rest-of-wild-card-series",
-      "pubDate": "2026-09-30T23:15:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/roman-anthony-out-for-rest-of-wild-card-series"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/roman-anthony-out-for-rest-of-wild-card-series"
-        }
-      ]
-    },
-    {
-      "title": "Red Sox vs. Yankees live updates, news, starting pitchers for Game 2: Sonny Gray, Max Fried take the mound Wednesday",
-      "summary": "The Yankees took a 1-0 series lead over the Red Sox with a shutout win on Tuesday.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/live/yankees-red-sox-box-score-live-updates-starting-pitchers-game-2-lineups-stats-where-to-watch-wild-card-230000865.html",
-      "pubDate": "2026-09-30T23:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/live/yankees-red-sox-box-score-live-updates-starting-pitchers-game-2-lineups-stats-where-to-watch-wild-card-230000865.html"
-        }
-      ]
-    },
-    {
-      "title": "Padres get on top fast in all-around rout of Cubs",
-      "summary": "FriarWatch: Wild Card Game 2 Edition",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/padres-top-fast-around-rout-230000130.html",
-      "pubDate": "2026-09-30T23:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs",
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/padres-top-fast-around-rout-230000130.html"
-        }
-      ]
-    },
-    {
-      "title": "Walt Weiss discusses bullpen deicisions and game-time injury situation for Tyler Mahle",
-      "summary": "As it turns out, there was a chance that there could’ve been a last-minute change for the Braves in Game 2",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/walt-weiss-discusses-bullpen-deicisions-230000993.html",
-      "pubDate": "2026-09-30T23:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/walt-weiss-discusses-bullpen-deicisions-230000993.html"
-        }
-      ]
-    },
-    {
-      "title": "On Rojas' agenda during pre-NLDS layoff? A US citizenship test",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/miguel-rojas-preparing-for-possible-final-playoff-run-dodgers",
-      "pubDate": "2026-09-30T22:48:54.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/miguel-rojas-preparing-for-possible-final-playoff-run-dodgers"
-        }
-      ]
-    },
-    {
-      "title": "MLB playoffs LIVE: Cubs vs Padres time, lineups and where to watch",
-      "summary": "The Chicago Cubs are backed into a corner after an 8-0 Game 1 loss to the San Diego Padres in the National League wild card round.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cubs-vs-padres-live-updates-223948031.html",
-      "pubDate": "2026-09-30T22:39:48.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs",
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cubs-vs-padres-live-updates-223948031.html"
-        }
-      ]
-    },
-    {
-      "title": "Phillies never say die with dramatic comeback to stay alive vs Braves",
-      "summary": "Phillies' biggest sluggers came through in the clutch to keep their team's season alive.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/phillies-never-die-dramatic-comeback-222702257.html",
-      "pubDate": "2026-09-30T22:27:02.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/phillies-never-die-dramatic-comeback-222702257.html"
-        }
-      ]
-    },
-    {
-      "title": "Previewing The Upcoming Center Field Class",
-      "summary": "With the regular season in the books, MLBTR is taking a position-by-position look at the 2026-27 free agent market. Next up are the center fielders. There are no slam-dunk everyday options — MLBTR’s A…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/09/previewing-the-upcoming-center-field-class.html",
-      "pubDate": "2026-09-30T22:18:01.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/09/previewing-the-upcoming-center-field-class.html"
-        }
-      ]
-    },
-    {
-      "title": "Bryce Harper saves Phillies' season with massive home run vs. Braves after ugly misplay earlier in game",
-      "summary": "The questionable Phillies defense was on full display in Wednesday's Game 2, but the sluggers came through to force a Game 3",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/phillies-bryce-harper-misplay-home-run-braves-wild-card-series/\n                    ",
-      "pubDate": "2026-09-30T22:13:11.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/phillies-bryce-harper-misplay-home-run-braves-wild-card-series/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Realmuto makes postseason history with 1st game-ending ABS challenge",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/j-t-realmuto-initiates-first-game-ending-abs-challenge-in-postseason-history",
-      "pubDate": "2026-09-30T22:06:57.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/j-t-realmuto-initiates-first-game-ending-abs-challenge-in-postseason-history"
-        }
-      ]
-    },
-    {
-      "title": "J.T. Realmuto delivers MLB&#39;s first walkoff ABS challenge in postseason to end Phillies&#39; Game 2 wild-card win",
-      "summary": "We can safely say Game 2 of Phillies-Braves ended like no other postseason game in MLB history.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/jt-realmuto-delivers-mlbs-first-walkoff-abs-challenge-in-postseason-to-end-phillies-game-2-wild-card-win-220401928.html",
-      "pubDate": "2026-09-30T22:04:01.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/jt-realmuto-delivers-mlbs-first-walkoff-abs-challenge-in-postseason-to-end-phillies-game-2-wild-card-win-220401928.html"
-        }
-      ]
-    },
-    {
-      "title": "It has been quite a run for RailRiders in Scranton/Wilkes-Barre",
-      "summary": "Yankees’ Triple-A affiliate is rebranding and will have a new nickname in 2027",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/quite-run-railriders-scranton-wilkes-220000567.html",
-      "pubDate": "2026-09-30T22:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/quite-run-railriders-scranton-wilkes-220000567.html"
-        }
-      ]
-    },
-    {
-      "title": "Paint it black: Phillies 4, Braves 3",
-      "summary": "Andrew Painter and the Phillies stave off elimination",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/paint-black-phillies-4-braves-215259555.html",
-      "pubDate": "2026-09-30T21:52:59.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/paint-black-phillies-4-braves-215259555.html"
-        }
-      ]
-    },
-    {
-      "title": "Here's why Judge wasn't on the field for intros before Game 1",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/aaron-judge-misses-yankees-pregame-introductions-for-treatment",
-      "pubDate": "2026-09-30T21:52:32.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/aaron-judge-misses-yankees-pregame-introductions-for-treatment"
-        }
-      ]
-    },
-    {
-      "title": "Bohm’s homer in 10th lifts Phillies over Braves 4-3 to force decisive Game 3",
-      "summary": "Bohm's extra-inning homer helped the Phillies stave off elimination and even the NL Wild Card series.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/bohm-homer-10th-lifts-phillies-215056897.html",
-      "pubDate": "2026-09-30T21:50:56.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/bohm-homer-10th-lifts-phillies-215056897.html"
-        }
-      ]
-    },
-    {
-      "title": "Harper allows run with RF misplay ... and then totally redeems himself!",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/bryce-harper-hits-homer-after-run-scoring-misplay-in-nl-wild-card-game-2",
-      "pubDate": "2026-09-30T21:45:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/bryce-harper-hits-homer-after-run-scoring-misplay-in-nl-wild-card-game-2"
-        }
-      ]
-    },
-    {
-      "title": "White Sox knock out Brown in 1st with chance to clinch ALDS spot (LIVE, Peacock/NBCSN)",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/stories/game/849846",
-      "pubDate": "2026-09-30T21:43:21.000Z",
-      "source": "MLB.com (White Sox)",
-      "sourceId": "mlb-com-whitesox",
-      "teams": [
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/stories/game/849846"
-        }
-      ]
-    },
-    {
-      "title": "Bryce Harper makes up for costly Phillies blunder with game-tying homer in thrilling win",
-      "summary": "Bryce Harper’s missed catch helped Atlanta surge, but his eighth-inning homer tied Game 2 for Philadelphia.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/bryce-harper-makes-costly-phillies-214014198.html",
-      "pubDate": "2026-09-30T21:40:14.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/bryce-harper-makes-costly-phillies-214014198.html"
         }
       ]
     }
