@@ -101,7 +101,7 @@ const publicBaseUrl = new URL(withBase("/"), Astro.site).toString();
 
     <script is:inline>
       // ダークモード初期化(フラッシュ防止のため <head> 内でインライン実行)
-      const stored = localStorage.getItem("mlb-curation-theme");
+      const stored = localStorage.getItem("mlb-curation-en-theme");
       const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
       if (stored === "dark" || (!stored && prefersDark)) {
         document.documentElement.classList.add("dark");

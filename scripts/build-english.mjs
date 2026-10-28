@@ -6,22 +6,24 @@ const sha256=b=>crypto.createHash('sha256').update(b).digest('hex');
 const gitBlob=b=>crypto.createHash('sha1').update(Buffer.concat([Buffer.from(`blob ${b.length}\0`),b])).digest('hex');
 const regularFiles=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?regularFiles(path.join(dir,e.name)):e.isFile()?[path.join(dir,e.name)]:[]);
 const optionalSkip=message=>Object.assign(new Error(message),{englishOptional:true});
+const readReviewInput = p => { try { return fs.readFileSync(p); } catch (error) { if (error.code === 'ENOENT') throw optionalSkip(`Review input missing: ${path.relative(root,p)}; English review required`); throw error; } };
+const entryExists = p => { try { fs.lstatSync(p); return true; } catch (error) { if (error.code === 'ENOENT') return false; throw error; } };
 let stage;
 try {
   // Only remove a previous generated English tree. Never overwrite unknown existing files.
-  if(fs.existsSync(output)){
+  if(entryExists(output)){
     if(!fs.lstatSync(output).isDirectory()||fs.lstatSync(output).isSymbolicLink())throw Error('Unrecognized non-directory or symlink dist/en; refusing to overwrite');
     const marker=path.join(output,'.english-build.json');
     if(!fs.existsSync(marker)||JSON.parse(fs.readFileSync(marker,'utf8')).producer!=='curation-mlb-english-v1')throw Object.assign(Error('Unrecognized existing dist/en; refusing to overwrite'),{fatal:true});
     fs.rmSync(output,{recursive:true,force:true});
   }
   if(!fs.existsSync(path.join(dist,'index.html')))throw Error('Run the original Japanese build first');
-  const guard=JSON.parse(fs.readFileSync(path.join(locale,'guard.json'),'utf8'));
+  const guard=JSON.parse(readReviewInput(path.join(locale,'guard.json')).toString('utf8'));
   const sourceCodePaths=regularFiles(path.join(root,'src')).filter(p=>/\.(astro|ts|js|mjs|css)$/.test(p)).map(p=>path.relative(root,p).split(path.sep).join('/')).sort();
   if(JSON.stringify(sourceCodePaths)!==JSON.stringify(guard.sourceCodePaths))throw optionalSkip('Source file set changed; English review required');
-  for(const item of guard.guardFiles)if(gitBlob(fs.readFileSync(path.join(root,item.path)))!==item.sha1)throw optionalSkip(`Source drift in ${item.path}; English review required`);
-  for(const item of guard.installationFiles)if(sha256(fs.readFileSync(path.join(root,item.path)))!==item.sha256)throw optionalSkip(`Locale scan isolation drift in ${item.path}; English review required`);
-  for(const item of guard.overlayFiles)if(sha256(fs.readFileSync(path.join(overlay,item.path)))!==item.sha256)throw optionalSkip(`English overlay hash mismatch: ${item.path}`);
+  for(const item of guard.guardFiles)if(gitBlob(readReviewInput(path.join(root,item.path)))!==item.sha1)throw optionalSkip(`Source drift in ${item.path}; English review required`);
+  for(const item of guard.installationFiles)if(sha256(readReviewInput(path.join(root,item.path)))!==item.sha256)throw optionalSkip(`Locale scan isolation drift in ${item.path}; English review required`);
+  for(const item of guard.overlayFiles)if(sha256(readReviewInput(path.join(overlay,item.path)))!==item.sha256)throw optionalSkip(`English overlay hash mismatch: ${item.path}`);
   const inputData=regularFiles(path.join(root,'src/data')).map(p=>({relative:path.relative(root,p),sha256:sha256(fs.readFileSync(p))}));
   const news=JSON.parse(fs.readFileSync(path.join(root,'src/data/news.json'),'utf8'));
   const expectedIndex=news.items.map(i=>({title:i.title,summary:i.summary,titleJa:i.titleJa,summaryJa:i.summaryJa,link:i.link,pubDate:i.pubDate,source:i.source,teams:i.teams,players:i.players??[],topics:i.topics??[],sourceCount:i.sources?.length??1}));

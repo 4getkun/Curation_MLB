@@ -224,7 +224,7 @@
     },
     {
       "path": "src/components/Header.astro",
-      "sha256": "b03ebaffe363fdefa3475f1aaf6da9ab0881d4ceae6e83263841b4d923bfa9fb"
+      "sha256": "fadc892a03c8382e8c791fec7ca92c246907f7ca1328bbd1b8680c193db37771"
     },
     {
       "path": "src/components/NewsRow.astro",
@@ -240,7 +240,7 @@
     },
     {
       "path": "src/layouts/Base.astro",
-      "sha256": "725f7726887dff20ed84e10720e72db01d603336475b97c00b208991a7b480e4"
+      "sha256": "c490b71efb5fb81e0edfd196deac9c0397368d1d404bedf2050790cf5929afda"
     },
     {
       "path": "src/lib/news.ts",
@@ -268,7 +268,7 @@
     },
     {
       "path": "src/pages/index.astro",
-      "sha256": "32b9c73227d826675e6bc84a2e0d35fd2617cd61b83dc75e2ee0b3db79e9fc2c"
+      "sha256": "effd07b38137c0d5d44e471a32e348a1b1ea709505830fea6fe95a151895abd6"
     },
     {
       "path": "src/pages/news/index.astro",
