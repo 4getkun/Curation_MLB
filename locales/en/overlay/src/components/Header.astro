@@ -1,0 +1,217 @@
+---
+import { alTeams, nlTeams, needsContrastRing } from "../lib/teams";
+import { withBase } from "../lib/url";
+
+const path = new URL(Astro.request.url).pathname;
+const base = import.meta.env.BASE_URL;
+const rel = path.startsWith(base) ? path.slice(base.length - 1) : path;
+
+const navLinks = [
+  { href: withBase("/"), label: "Home", match: (p: string) => p === "/" || p === "" },
+  { href: withBase("/news/"), label: "All news", match: (p: string) => p.startsWith("/news") },
+  { href: withBase("/player/"), label: "Japanese players", match: (p: string) => p.startsWith("/player") },
+  { href: withBase("/team/"), label: "By team", match: (p: string) => p.startsWith("/team") },
+  { href: withBase("/topic/"), label: "Browse topics", match: (p: string) => p.startsWith("/topic") },
+  { href: withBase("/search/"), label: "Search", match: (p: string) => p.startsWith("/search") },
+  { href: withBase("/about/"), label: "About this site", match: (p: string) => p.startsWith("/about") },
+];
+---
+
+<header
+  class="sticky top-0 z-40 border-b"
+  style="background-color:var(--header-bg); border-color:var(--border); backdrop-filter:blur(10px);"
+>
+  <div class="container-page flex h-16 items-center justify-between gap-4">
+    <a href={withBase("/")} class="flex items-center gap-2 shrink-0 no-underline">
+      <span
+        class="font-display text-[19px] font-black tracking-tight"
+        style="color:var(--text); letter-spacing:-0.02em;"
+      >
+        <span style="color:var(--accent);">Curation</span> MLB
+      </span>
+    </a>
+
+    <nav class="hidden md:flex items-center gap-7 text-[13px] font-bold">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class="pb-1 no-underline"
+          style={`color:${link.match(rel) ? "var(--text)" : "var(--text-muted)"}; border-bottom:2px solid ${link.match(rel) ? "var(--accent)" : "transparent"};`}
+        >
+          {link.label}
+        </a>
+      ))}
+    </nav>
+
+    <div class="flex items-center gap-2.5">
+      <span
+        class="hidden lg:inline-flex items-center rounded-full px-3 py-1.5 text-[11px] font-bold whitespace-nowrap"
+        style="color:var(--green); background-color:var(--green-bg);"
+      >
+        Ad-free
+      </span>
+      <select
+        class="my-team-select hidden sm:block rounded-full border font-bold"
+        aria-label="Choose my team"
+        style="font-size:11px; padding:6px 10px; border-color:var(--border); color:var(--text-muted); background-color:transparent; max-width:110px;"
+      >
+        <option value="">★ My team</option>
+        {alTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+        {nlTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+      </select>
+      <button
+        id="theme-toggle"
+        type="button"
+        aria-label="Toggle dark mode"
+        class="grid h-[34px] w-[34px] place-items-center rounded-full border text-[15px]"
+        style="border-color:var(--border); color:var(--text); background:none;"
+      >
+        <span id="theme-icon-dark" class="hidden dark:inline">☀</span>
+        <span id="theme-icon-light" class="dark:hidden">☾</span>
+      </button>
+      <button
+        id="menu-toggle"
+        type="button"
+        aria-label="Open menu"
+        class="md:hidden grid h-[34px] w-[34px] place-items-center rounded-full border"
+        style="border-color:var(--border); color:var(--text);"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- 球団クイックナビ。AL・NL2行×5球団を「1つのCSS Grid」として組む
+       (Curation NPBと同じ設計。行ごとに独立したflexだと、球団名の文字数が
+       AL・NLで異なる列は丸(ドット)のx座標が行によってズレるため、1つの
+       gridにして同じ列は必ず同じ列幅=同じx座標になるようにしている)。
+       列1はア/ナのラベル用で、sm未満(スマホ幅)では横幅を圧迫するため
+       非表示にする(display:noneの列はgrid幅の計算に含まれないため、
+       ラベルの表示/非表示を切り替えても他の列の位置には影響しない)。 -->
+  <div style="border-top:1px solid var(--rule);">
+    <!-- スマホ幅では container-page(px-6=24px)だと5球団分の横幅が確保できず
+         はみ出すため、この行だけ左右の余白を狭めている(sm以上は従来通り)。 -->
+    <div class="mx-auto w-full max-w-[1180px] px-2 sm:px-6 py-1.5 sm:py-0">
+      <div class="relative">
+        <div id="team-quicknav" class="team-quicknav overflow-x-auto">
+          <!-- 列間の余白(gap-x)・球団ピル内のドットと文字の間隔(gap-*)・
+               左右の内側余白(px-*)・文字サイズ(text-*)は、iPhone等の実機幅
+               でも5球団+ラベル分が横スクロールなしに収まるよう、スマホ幅
+               (sm未満)だけ詰めている。sm以上は従来通りの余裕を持たせた値。 -->
+          <div
+            class="grid items-center gap-x-[1px] sm:gap-x-[6px] gap-y-0.5 py-0.5 sm:py-2 text-[9px] sm:text-[11px] font-bold whitespace-nowrap"
+            style="grid-template-columns: auto repeat(5, auto);"
+          >
+            <span style={`grid-column:1; grid-row:1; color:var(--text-faint);`} class="hidden sm:inline">AL</span>
+            {alTeams.map((team, i) => (
+              <a
+                href={withBase(`/team/${team.id}/`)}
+                class="flex items-center gap-px sm:gap-1.5 rounded-md px-px sm:px-2 py-1 no-underline"
+                style={`grid-column:${i + 2}; grid-row:1; color:var(--text-muted);`}
+              >
+                <span class="inline-block h-1 w-1 sm:h-2 sm:w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+                {team.short}
+              </a>
+            ))}
+            <span style={`grid-column:1; grid-row:2; color:var(--text-faint);`} class="hidden sm:inline">NL</span>
+            {nlTeams.map((team, i) => (
+              <a
+                href={withBase(`/team/${team.id}/`)}
+                class="flex items-center gap-px sm:gap-1.5 rounded-md px-px sm:px-2 py-1 no-underline"
+                style={`grid-column:${i + 2}; grid-row:2; color:var(--text-muted);`}
+              >
+                <span class="inline-block h-1 w-1 sm:h-2 sm:w-2 rounded-full" style={`background-color:${team.color};${needsContrastRing(team.color) ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+                {team.short}
+              </a>
+            ))}
+          </div>
+        </div>
+        <div class="team-quicknav-fade-right pointer-events-none absolute top-0 bottom-0 right-0 opacity-0" style="width:24px; background:linear-gradient(to left, var(--header-bg), transparent); transition:opacity 0.15s;"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- モバイルメニュー -->
+  <div id="mobile-menu" class="hidden md:hidden" style="border-top:1px solid var(--rule);">
+    <nav class="container-page flex flex-col py-3 text-sm font-bold">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class="py-2 no-underline"
+          style={`border-bottom:1px solid var(--rule); color:${link.match(rel) ? "var(--text)" : "var(--text-muted)"};`}
+        >
+          {link.label}
+        </a>
+      ))}
+      <label class="py-3 flex items-center gap-2.5" style="color:var(--text-muted);">
+        <span>★ My team</span>
+        <select
+          class="my-team-select flex-1 rounded-md border font-bold"
+          aria-label="Choose my team (mobile)"
+          style="font-size:13px; padding:6px 10px; border-color:var(--border); color:var(--text); background-color:transparent;"
+        >
+          <option value="">Not set</option>
+          {alTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+          {nlTeams.map((team) => <option value={team.id}>{team.short}</option>)}
+        </select>
+      </label>
+    </nav>
+  </div>
+</header>
+
+<script is:inline>
+  document.getElementById("theme-toggle")?.addEventListener("click", () => {
+    const root = document.documentElement;
+    root.classList.toggle("dark");
+    localStorage.setItem("mlb-curation-theme", root.classList.contains("dark") ? "dark" : "light");
+  });
+  document.getElementById("menu-toggle")?.addEventListener("click", () => {
+    document.getElementById("mobile-menu")?.classList.toggle("hidden");
+  });
+
+  // 球団クイックナビ(AL・パ各行)が横スクロール可能なことを示すフェード表示の
+  // 切り替え。各行末まで到達したらその行の右フェードを隠す。
+  (function () {
+    document.querySelectorAll(".team-quicknav").forEach(function (nav) {
+      var fade = nav.parentElement && nav.parentElement.querySelector(".team-quicknav-fade-right");
+      if (!fade) return;
+
+      function update() {
+        var maxScroll = nav.scrollWidth - nav.clientWidth;
+        fade.style.opacity = maxScroll > 4 && nav.scrollLeft < maxScroll - 4 ? "1" : "0";
+      }
+
+      nav.addEventListener("scroll", update, { passive: true });
+      window.addEventListener("resize", update);
+      update();
+    });
+  })();
+
+  // マイ球団(お気に入り球団)の選択をlocalStorageに保存する。
+  // トップページ側はこの値を読んで「マイ球団の最新ニュース」を表示する。
+  (function () {
+    var STORAGE_KEY = "mlb-curation-my-team";
+    var selects = document.querySelectorAll(".my-team-select");
+    var saved = "";
+    try {
+      saved = localStorage.getItem(STORAGE_KEY) || "";
+    } catch (e) {}
+    selects.forEach(function (sel) {
+      sel.value = saved;
+      sel.addEventListener("change", function () {
+        try {
+          if (sel.value) {
+            localStorage.setItem(STORAGE_KEY, sel.value);
+          } else {
+            localStorage.removeItem(STORAGE_KEY);
+          }
+        } catch (e) {}
+        // 他のセレクト(デスクトップ/モバイル)にも同じ値を反映してからリロード
+        selects.forEach(function (other) {
+          other.value = sel.value;
+        });
+        location.reload();
+      });
+    });
+  })();
+</script>

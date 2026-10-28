@@ -1,0 +1,47 @@
+---
+import { withBase } from "../lib/url";
+
+const currentYear = new Date().getFullYear();
+---
+
+<footer style="border-top:1px solid var(--border); background-color:var(--card-bg);">
+  <div class="container-page grid gap-9 py-12 sm:grid-cols-3 text-[13px]">
+    <div>
+      <p class="font-display text-base font-black" style="color:var(--text);">
+        <span style="color:var(--accent);">Curation</span> MLB
+      </p>
+      <p class="mt-2.5 leading-relaxed" style="color:var(--text-muted);">
+        An ad-free MLB news and article curator focusing on teams with Japanese players.
+      </p>
+    </div>
+    <div>
+      <p class="font-bold mb-2.5" style="color:var(--text);">Site links</p>
+      <div class="flex flex-col gap-2" style="color:var(--text-muted);">
+        <a class="no-underline" style="color:inherit;" href={withBase("/")}>Home</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/news/")}>All news</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/player/")}>Japanese MLB players</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/team/")}>By team</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/topic/")}>Browse topics</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/search/")}>Search news</a>
+        <a class="no-underline" style="color:inherit;" href={withBase("/about/")}>About this site</a>
+      </div>
+    </div>
+    <div>
+      <p class="font-bold mb-2.5" style="color:var(--text);">Using this site</p>
+      <p class="leading-relaxed" style="color:var(--text-muted); margin-bottom:10px;">
+        Headlines and summaries link to the original publishers. Full articles are not reproduced.
+      </p>
+      <p class="leading-relaxed" style="color:var(--text-muted); margin-bottom:10px;">
+        Headlines and summaries remain in their original English. Japanese translation is currently disabled in this experimental project.
+      </p>
+      <a class="no-underline font-bold link-underline" style="color:var(--accent);" href={withBase("/feed.xml")}>
+        Subscribe via RSS →
+      </a>
+    </div>
+  </div>
+  <div style="border-top:1px solid var(--rule);">
+    <p class="container-page py-4 text-[11px]" style="color:var(--text-faint);">
+      © {currentYear} Curation MLB. Powered by static hosting — no ads, no tracking.
+    </p>
+  </div>
+</footer>

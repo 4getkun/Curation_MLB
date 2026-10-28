@@ -1,0 +1,85 @@
+---
+import { breadcrumb, SITE_NAME } from "../../lib/seo";
+import Base from "../../layouts/Base.astro";
+import NewsRow from "../../components/NewsRow.astro";
+import TeamChipLink from "../../components/TeamChipLink.astro";
+import PlayerLinkRow from "../../components/PlayerLinkRow.astro";
+import { teams, needsContrastRing, leagueLabel } from "../../lib/teams";
+import { newsForTeam } from "../../lib/news";
+import { playersForTeam } from "../../lib/players";
+import { withBase } from "../../lib/url";
+
+export function getStaticPaths() {
+  return teams.map((team) => ({
+    params: { team: team.id },
+    props: { team },
+  }));
+}
+
+const { team } = Astro.props;
+// 検索されるのは略称のことが多い（「巨人 ニュース」）。正式名に含まれない略称だけ題に添える
+const teamTitle =
+  team.short && !team.name.includes(team.short)
+    ? `${team.name}（${team.short}） — latest news`
+    : `${team.name} — latest news`;
+const crumbs = breadcrumb([
+  { name: SITE_NAME, path: "/" },
+  { name: "News by team", path: "/team/" },
+  { name: team.name },
+]);
+const items = newsForTeam(team.id);
+const jpPlayers = playersForTeam(team.id);
+const ring = needsContrastRing(team.color);
+---
+
+<Base title={teamTitle} jsonLd={crumbs} description={`${team.name}(${team.englishName}) — latest news from an ad-free MLB curator.`}>
+  <section style={`border-top:4px solid ${team.color};${ring ? " box-shadow:0 1px 0 var(--text-faint);" : ""}`}>
+    <div class="container-page" style="padding:40px 24px 20px;">
+      <p class="font-bold m-0" style="font-size:12px; color:var(--text-faint); letter-spacing:0.1em; margin-bottom:8px;">
+        {leagueLabel(team)}
+      </p>
+      <h1 class="font-display font-black m-0 flex items-center gap-3.5" style="font-size:32px; color:var(--text); margin-bottom:8px;">
+        <span class="inline-block rounded-[4px]" style={`width:16px; height:16px; background-color:${team.color};${ring ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
+        {team.name}
+      </h1>
+      <p class="m-0" style="font-size:13px; color:var(--text-faint); margin-bottom:20px;">{team.englishName}</p>
+      <div class="flex flex-wrap gap-2" style="margin-bottom:8px;">
+        {teams.map((t) => (
+          <TeamChipLink team={t} active={t.id === team.id} />
+        ))}
+        <a
+          href={withBase("/team/general/")}
+          class="no-underline rounded-full border font-bold"
+          style="font-size:12px; padding:7px 14px; background:none; color:var(--text-muted); border-color:var(--border);"
+        >
+          General
+        </a>
+      </div>
+    </div>
+  </section>
+
+  {jpPlayers.length > 0 && (
+    <section style="background-color:var(--card-bg); border-top:1px solid var(--border); border-bottom:1px solid var(--border);">
+      <div class="container-page" style="padding:24px;">
+        <p class="font-bold m-0" style="font-size:12px; color:var(--text-faint); letter-spacing:0.1em; margin-bottom:12px;">
+          Japanese players on this team
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-2" style="gap:0 24px;">
+          {jpPlayers.map((player) => (
+            <PlayerLinkRow player={player} />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="container-page" style="padding:20px 24px 64px;">
+    {items.length > 0 ? (
+      items.map((item) => <NewsRow item={item} variant="full" showTeamLabel={false} forceTeamId={team.id} />)
+    ) : (
+      <p style="font-size:14px; color:var(--text-muted); padding:24px 0;">
+        No news about {team.short} has been collected yet. Please wait for the next automatic update.
+      </p>
+    )}
+  </section>
+</Base>

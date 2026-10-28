@@ -16,3 +16,8 @@ npm-debug.log*
 .vscode/*
 !.vscode/extensions.json
 .DS_Store
+
+# Keep the additive locale sources out of the Japanese Tailwind scan.
+/locales/en/
+/scripts/build-english.mjs
+/.locale-en-*/

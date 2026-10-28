@@ -1,0 +1,24 @@
+---
+import Base from "../../layouts/Base.astro";
+import TopicLinkRow from "../../components/TopicLinkRow.astro";
+import { topics } from "../../lib/topics";
+import { newsForTopic } from "../../lib/news";
+---
+
+<Base
+  title="Browse topics"
+  description="Browse MLB news by topic, including trades, injuries and contracts."
+>
+  <section class="container-page" style="padding:56px 24px 80px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:6px;">Browse topics</h1>
+    <p style="font-size:14px; color:var(--text-muted); margin-bottom:28px;">
+      Browse across teams by topic, including trades, injuries and contracts.
+    </p>
+
+    <div style="max-width:520px;">
+      {topics.map((topic) => (
+        <TopicLinkRow topic={topic} count={newsForTopic(topic.id).length} />
+      ))}
+    </div>
+  </section>
+</Base>

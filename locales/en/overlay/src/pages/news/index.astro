@@ -1,0 +1,128 @@
+---
+import Base from "../../layouts/Base.astro";
+import NewsRow from "../../components/NewsRow.astro";
+import { allNews, newsGeneratedAt, formatGeneratedAt } from "../../lib/news";
+import { teams, textOnTeamColor } from "../../lib/teams";
+---
+
+<Base title="All news" description="Browse the latest MLB news, focusing on teams with Japanese players, and filter by team.">
+  <section class="container-page" style="padding:44px 24px 64px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:6px;">All news</h1>
+    <p style="font-size:14px; color:var(--text-muted); margin-bottom:24px;">
+      Filter the latest news by team. Articles remain in their original English.
+      {newsGeneratedAt && ` Last updated: ${formatGeneratedAt(newsGeneratedAt)} (automatic) / Total articles: ${allNews.length}`}
+    </p>
+
+    <!-- 球団フィルター -->
+    <div class="flex flex-wrap gap-2" id="team-filter" style="margin-bottom:28px;">
+      <button
+        type="button"
+        data-team="all"
+        data-active="true"
+        class="filter-chip rounded-full border font-bold"
+        style="font-size:12px; padding:7px 14px; background-color:var(--text); color:var(--page-bg); border-color:var(--text);"
+      >
+        All
+      </button>
+      {teams.map((team) => (
+        <button
+          type="button"
+          data-team={team.id}
+          data-color={team.color}
+          data-text-color={textOnTeamColor(team.color)}
+          data-active="false"
+          class="filter-chip rounded-full border font-bold"
+          style="font-size:12px; padding:7px 14px; background:none; color:var(--text-muted); border-color:var(--border);"
+        >
+          {team.short}
+        </button>
+      ))}
+      <!-- どの球団タグも付いていない(=teams:[]の)記事だけを絞り込む「総合」フィルター。
+           球団ページの総合タブと同じ意味・同じアクセントカラーにしている。 -->
+      <button
+        type="button"
+        data-team="general"
+        data-color="var(--accent)"
+        data-text-color="var(--accent-text)"
+        data-active="false"
+        class="filter-chip rounded-full border font-bold"
+        style="font-size:12px; padding:7px 14px; background:none; color:var(--text-muted); border-color:var(--border);"
+      >
+        General
+      </button>
+    </div>
+
+    <div id="news-grid">
+      {allNews.map((item) => (
+        <div class="news-item" data-teams={item.teams.join(",")}>
+          <NewsRow item={item} variant="full" />
+        </div>
+      ))}
+    </div>
+
+    <p id="empty-message" class="hidden" style="font-size:14px; color:var(--text-muted); padding:24px 0;">
+      No matching news found.
+    </p>
+  </section>
+</Base>
+
+<script is:inline>
+  (function () {
+    const buttons = document.querySelectorAll("#team-filter .filter-chip");
+    const items = document.querySelectorAll("#news-grid .news-item");
+    const emptyMessage = document.getElementById("empty-message");
+
+    function styleButton(btn, active) {
+      btn.setAttribute("data-active", active ? "true" : "false");
+      if (btn.getAttribute("data-team") === "all") {
+        // 「none」はbackground-colorの値として無効(ブラウザが無視し、直前の
+        // 値が残ってしまう)。非アクティブ時は他のチップと同じ「transparent」
+        // にする必要がある(以前はここが原因で、他のタグを押しても「すべて」
+        // が黒背景のアクティブ表示のまま残ってしまう不具合があった)。
+        btn.style.backgroundColor = active ? "var(--text)" : "transparent";
+        btn.style.color = active ? "var(--page-bg)" : "var(--text-muted)";
+        btn.style.borderColor = active ? "var(--text)" : "var(--border)";
+        return;
+      }
+      const color = btn.getAttribute("data-color");
+      const textColor = btn.getAttribute("data-text-color");
+      if (active) {
+        btn.style.backgroundColor = color;
+        btn.style.color = textColor;
+        btn.style.borderColor = color;
+      } else {
+        btn.style.backgroundColor = "transparent";
+        btn.style.color = "var(--text-muted)";
+        btn.style.borderColor = "var(--border)";
+      }
+    }
+
+    function applyFilter(teamId) {
+      let visibleCount = 0;
+      items.forEach((el) => {
+        const raw = el.getAttribute("data-teams") || "";
+        // 「総合」記事はdata-teams属性が空文字列になる(item.teams.join(",")の
+        // 結果)。空文字列を","split()すると[""]になってしまうため、
+        // 球団タグなし判定はraw自体の有無で行う(itemTeams.includes("")を
+        // 誤ってヒットさせないため)。
+        const itemTeams = raw ? raw.split(",") : [];
+        const show =
+          teamId === "all" ||
+          (teamId === "general" ? itemTeams.length === 0 : itemTeams.includes(teamId));
+        el.style.display = show ? "" : "none";
+        if (show) visibleCount++;
+      });
+      if (emptyMessage) {
+        emptyMessage.classList.toggle("hidden", visibleCount !== 0);
+      }
+    }
+
+    buttons.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        buttons.forEach((b) => styleButton(b, false));
+        styleButton(btn, true);
+        applyFilter(btn.getAttribute("data-team") || "all");
+      });
+    });
+  })();
+</script>

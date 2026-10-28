@@ -1,0 +1,317 @@
+{
+  "sourcePin": "318d974ddf73aa1ebd5261cf1b5598e9792aa12c",
+  "guardFiles": [
+    {
+      "path": "astro.config.mjs",
+      "sha1": "5c7cf53e5c3155c54ae7ac00dfe4e134b9397c4b"
+    },
+    {
+      "path": "package-lock.json",
+      "sha1": "4055365bf317f53d2dc4f4ea7dc564a7053ec89f"
+    },
+    {
+      "path": "package.json",
+      "sha1": "473495a628fb5d038c291035c0e6997988fb1d45"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha1": "37c9b90ec27dae11040fe53b14a87cf7aa2a9336"
+    },
+    {
+      "path": "public/offline.html",
+      "sha1": "8f8cd3357ac92b536eda9b6328628688165eeb99"
+    },
+    {
+      "path": "public/sw.js",
+      "sha1": "d4f4f70616decf54f54aac4c96dd3d3861f1d868"
+    },
+    {
+      "path": "src/components/FeaturedNews.astro",
+      "sha1": "b168395886a15da850a81963b0a3c72ab75e1f51"
+    },
+    {
+      "path": "src/components/Footer.astro",
+      "sha1": "2910194e51c66edad3f8bb0d38e011320b2890bc"
+    },
+    {
+      "path": "src/components/Header.astro",
+      "sha1": "c9fd67ee041516e7a9b7c9afa464e9ceeffdc373"
+    },
+    {
+      "path": "src/components/NewsRow.astro",
+      "sha1": "16d290e3f2839a85fd7c9887ffaaa4781cccc0d0"
+    },
+    {
+      "path": "src/components/PlayerChipLink.astro",
+      "sha1": "f40d2a8f88fae121d8b2e92c00ec1d96c7962613"
+    },
+    {
+      "path": "src/components/PlayerLinkRow.astro",
+      "sha1": "a6235970b8df2029327e2209b97274777f315016"
+    },
+    {
+      "path": "src/components/TeamChipLink.astro",
+      "sha1": "f353f921d67eb85b4c39f1c0e2c89d11e3f13717"
+    },
+    {
+      "path": "src/components/TeamLinkRow.astro",
+      "sha1": "2ef07b4aa379551bdf9681ab3496f9f254f8e344"
+    },
+    {
+      "path": "src/components/TopicChipLink.astro",
+      "sha1": "aaecfc339bb1392e0c72463da6d74fb09c1c955c"
+    },
+    {
+      "path": "src/components/TopicLinkRow.astro",
+      "sha1": "c32b201f07a1e41e17a5a75ed9736e7d10dd0ed9"
+    },
+    {
+      "path": "src/layouts/Base.astro",
+      "sha1": "0f6df3767cfca77c0ae7daa10eb85ddba69b27ef"
+    },
+    {
+      "path": "src/lib/news.ts",
+      "sha1": "1d10fe468ba3809b2e019c61742244adda54b2ea"
+    },
+    {
+      "path": "src/lib/players.ts",
+      "sha1": "f3953406e8835caa6c39d2d3fdf2d5a37e2c85a5"
+    },
+    {
+      "path": "src/lib/seo.ts",
+      "sha1": "79354663f8077c751d1a3e12f21064f704b4b567"
+    },
+    {
+      "path": "src/lib/teams.ts",
+      "sha1": "47eeb74e08f7246d7c6d184907c3bff3280a973d"
+    },
+    {
+      "path": "src/lib/topics.ts",
+      "sha1": "72402c7fc4781cf6e85b1115bd2cc5fd330f627b"
+    },
+    {
+      "path": "src/lib/url.ts",
+      "sha1": "a061538f0547b15a85fd29401711acaee301c982"
+    },
+    {
+      "path": "src/pages/404.astro",
+      "sha1": "78fd93a2e26b1963577b1f1c4205bdd09f74c7bc"
+    },
+    {
+      "path": "src/pages/about/index.astro",
+      "sha1": "23adce648a165275d2004dcd1e06fb8eb3c94021"
+    },
+    {
+      "path": "src/pages/data/news-index.json.ts",
+      "sha1": "3c9ceac8b30c91db6cfd5eda84f319775979b24d"
+    },
+    {
+      "path": "src/pages/feed.xml.ts",
+      "sha1": "5325931399383dcfea11649af9aa3313c98ff39c"
+    },
+    {
+      "path": "src/pages/index.astro",
+      "sha1": "d7a671517819eabc2cbf5060c013c8c28af5962b"
+    },
+    {
+      "path": "src/pages/news/index.astro",
+      "sha1": "5faa53d4c031b1877a27e0ff291246b503e4913f"
+    },
+    {
+      "path": "src/pages/player/[player].astro",
+      "sha1": "a68e19639438c31e0bb3fea8cbf73d75ed06f603"
+    },
+    {
+      "path": "src/pages/player/index.astro",
+      "sha1": "e69f9e4a67b9850776cb6d79a2cfb14d073ae244"
+    },
+    {
+      "path": "src/pages/search/index.astro",
+      "sha1": "ac174560efba56da88b6420f5aefd592b093aa57"
+    },
+    {
+      "path": "src/pages/sitemap.xml.ts",
+      "sha1": "2da93b0cd19d349360fe11f8be97cd3c21628d99"
+    },
+    {
+      "path": "src/pages/team/[team].astro",
+      "sha1": "8ac945be967d2f17646940310776bdfe1172781d"
+    },
+    {
+      "path": "src/pages/team/general/index.astro",
+      "sha1": "a56b0c3446f64a063992aca001e8e15b61871650"
+    },
+    {
+      "path": "src/pages/team/index.astro",
+      "sha1": "582dea0186429128d9db89d6befe965bbc869f08"
+    },
+    {
+      "path": "src/pages/topic/[topic].astro",
+      "sha1": "e35121671bcbfb665fffabc0d4f732cea998fa0c"
+    },
+    {
+      "path": "src/pages/topic/index.astro",
+      "sha1": "5749b5d4534bf4d21377726ad12dd3abb2b6867e"
+    },
+    {
+      "path": "src/styles/global.css",
+      "sha1": "2ee89793b7b22467eb7921e6b51521e445171aa3"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha1": "8bf91d3bb997dfb0ea4a592b849545656f0fcebe"
+    }
+  ],
+  "sourceCodePaths": [
+    "src/components/FeaturedNews.astro",
+    "src/components/Footer.astro",
+    "src/components/Header.astro",
+    "src/components/NewsRow.astro",
+    "src/components/PlayerChipLink.astro",
+    "src/components/PlayerLinkRow.astro",
+    "src/components/TeamChipLink.astro",
+    "src/components/TeamLinkRow.astro",
+    "src/components/TopicChipLink.astro",
+    "src/components/TopicLinkRow.astro",
+    "src/layouts/Base.astro",
+    "src/lib/news.ts",
+    "src/lib/players.ts",
+    "src/lib/seo.ts",
+    "src/lib/teams.ts",
+    "src/lib/topics.ts",
+    "src/lib/url.ts",
+    "src/pages/404.astro",
+    "src/pages/about/index.astro",
+    "src/pages/data/news-index.json.ts",
+    "src/pages/feed.xml.ts",
+    "src/pages/index.astro",
+    "src/pages/news/index.astro",
+    "src/pages/player/[player].astro",
+    "src/pages/player/index.astro",
+    "src/pages/search/index.astro",
+    "src/pages/sitemap.xml.ts",
+    "src/pages/team/[team].astro",
+    "src/pages/team/general/index.astro",
+    "src/pages/team/index.astro",
+    "src/pages/topic/[topic].astro",
+    "src/pages/topic/index.astro",
+    "src/styles/global.css"
+  ],
+  "overlayFiles": [
+    {
+      "path": "astro.config.mjs",
+      "sha256": "9477799fa29fa087986ff6218accedba9388540bd7b6d07e4e6513c7890afa3c"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha256": "ce2bda35c93b9f07fc1d9362bbcf2a48113ab36b1d7da20e10458dec5b2fd66c"
+    },
+    {
+      "path": "public/offline.html",
+      "sha256": "07e211937e53231be1ef29d1586158fb57a9a745f5b0981b2582122913e69dce"
+    },
+    {
+      "path": "public/sw.js",
+      "sha256": "e71ebaa35ff0539cc52d9ca53d39ff456bbd55206f20b6f5e41199d001872bc0"
+    },
+    {
+      "path": "src/components/FeaturedNews.astro",
+      "sha256": "ee7582f887faebd2666456a7b1bc445f6fa88410c2aa0a69e15873276a807f66"
+    },
+    {
+      "path": "src/components/Footer.astro",
+      "sha256": "31b643ec9c1ffcf4cf0bd43e138c1cc2cb7fc2142ee4ab960a0676bc5eedc9fb"
+    },
+    {
+      "path": "src/components/Header.astro",
+      "sha256": "b03ebaffe363fdefa3475f1aaf6da9ab0881d4ceae6e83263841b4d923bfa9fb"
+    },
+    {
+      "path": "src/components/NewsRow.astro",
+      "sha256": "2ee9d7da904b1d5dbafb25b728feac2276dff1e77598d45dc73496962255e1b3"
+    },
+    {
+      "path": "src/components/PlayerLinkRow.astro",
+      "sha256": "a358258a2a744e4bdfc281df10310e80461d2316db2c04119cbc4ea4e64e9bd0"
+    },
+    {
+      "path": "src/components/TopicLinkRow.astro",
+      "sha256": "c9ffac5ce18b3cce676b3858586e1986deab50cd3741212367a3e9b9caacd695"
+    },
+    {
+      "path": "src/layouts/Base.astro",
+      "sha256": "725f7726887dff20ed84e10720e72db01d603336475b97c00b208991a7b480e4"
+    },
+    {
+      "path": "src/lib/news.ts",
+      "sha256": "ef8bf073b45d643f2aec1003b24f0d9a9677d15f851307ee3f797f7bf02e4bdf"
+    },
+    {
+      "path": "src/lib/seo.ts",
+      "sha256": "6bc9271b82c4704948a041de1430778b02064f9a7e07a27c90dc9c2f9f66dc77"
+    },
+    {
+      "path": "src/lib/teams.ts",
+      "sha256": "1a4a3840c48d5a5f8a3ad04413d2aced2ee00cb3d2b3c0a239bedf422f284633"
+    },
+    {
+      "path": "src/lib/url.ts",
+      "sha256": "94ccadf7a9e80503b6afd10a3fc9d74d8082948e7391ba8f6da26e1938b7a3e5"
+    },
+    {
+      "path": "src/pages/404.astro",
+      "sha256": "157a752a9a24f5dce4d0ba4f113884dc6abe7c59701dbf9cd88f34af8def5fee"
+    },
+    {
+      "path": "src/pages/about/index.astro",
+      "sha256": "4d10a672ade3f19f4934f2f6fb482c8e1d042a9e648a975550ec938bba201d1d"
+    },
+    {
+      "path": "src/pages/index.astro",
+      "sha256": "32b9c73227d826675e6bc84a2e0d35fd2617cd61b83dc75e2ee0b3db79e9fc2c"
+    },
+    {
+      "path": "src/pages/news/index.astro",
+      "sha256": "c86a8484f77bae3872e4d6b9a1bc99eb4de98b8597a923643c087a2634c78566"
+    },
+    {
+      "path": "src/pages/player/[player].astro",
+      "sha256": "acbc37736a80ed679b729c330ed0efac7f6a4bd04c74e76c76960130dceb0699"
+    },
+    {
+      "path": "src/pages/player/index.astro",
+      "sha256": "20093c58e598b8dd4b5cab514bcfb7e058cec1ae4fd0b96f4d99d9bc1112c1f7"
+    },
+    {
+      "path": "src/pages/search/index.astro",
+      "sha256": "300ff7adc8252c242ca3333beef7d967f231aa8663ff4f265dd56a38650fbc78"
+    },
+    {
+      "path": "src/pages/team/[team].astro",
+      "sha256": "c1db1368bb6dcb22aa1676ad5519f3bfbea0561fe38c9cbc101ed46a884c38a9"
+    },
+    {
+      "path": "src/pages/team/general/index.astro",
+      "sha256": "1e025775e28fd8a66f5e0ce2f4f5f091cebb8b11768f5e68100fda47dad0b568"
+    },
+    {
+      "path": "src/pages/team/index.astro",
+      "sha256": "4ca6d09f659028e9a62482945f6311c650515a4428849452553fdbcdd6a357b5"
+    },
+    {
+      "path": "src/pages/topic/[topic].astro",
+      "sha256": "fc0e6aa3de18f4dde4047e3c4f2886598e22eb565f954870974472f0a86e4897"
+    },
+    {
+      "path": "src/pages/topic/index.astro",
+      "sha256": "6677da487cea71f1eb9b7c180aa7ece2730b1e1d6fb15ae4d4bc7f12e668a331"
+    }
+  ],
+  "dataPolicy": "Copy current src/data/*.json unchanged from the same checkout after its existing fetch/update step. Do not collect again.",
+  "installationFiles": [
+    {
+      "path": ".gitignore",
+      "sha256": "c08859f73e7a780c46e84607dd232b4cbd16050d6df7315571bfea2b5ad3da58"
+    }
+  ]
+}

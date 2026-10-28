@@ -1,0 +1,96 @@
+---
+import Base from "../../layouts/Base.astro";
+import feeds from "../../data/feeds.json";
+import { players } from "../../lib/players";
+import { withBase } from "../../lib/url";
+
+const generalFeeds = feeds.filter((f: any) => !f.teamId);
+const teamFeeds = feeds.filter((f: any) => f.teamId);
+---
+
+<Base title="About this site" description="Curation MLB — site policy and data sources.">
+  <section class="container-page" style="max-width:720px; padding:56px 24px 80px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:20px;">About this site</h1>
+
+    <div class="space-y-8" style="font-size:15px; line-height:1.9; color:var(--text-muted);">
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">Our idea</h2>
+        <p class="m-0">
+          Curation MLB focuses on teams with {players.length} Japanese MLB players, including Shohei Ohtani.
+          It brings the latest MLB news together in one ad-free place.
+          Our aim is a focused reading experience without banner ads or tracking scripts.
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">About Japanese MLB players</h2>
+        <p class="m-0">
+          Use the <a class="link-underline" style="color:var(--accent);" href={withBase("/player/")}>Japanese MLB players</a> section at the top of the site.
+          Browse active Japanese players, their teams and related news. Select a player to filter news about them.
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">How news is collected</h2>
+        <p class="m-0">
+          Only headlines and summaries are collected from the English-language baseball RSS feeds listed below.
+          Items are classified by team, player and topic using keywords. Full articles are not copied.
+          Select an item to read the original article on its publisher website.
+        </p>
+        <p style="margin-top:12px; font-weight:bold; color:var(--text);">General publishers</p>
+        <ul style="margin-top:6px; padding-left:20px; list-style:disc;">
+          {generalFeeds.map((feed: any) => (
+            <li>{feed.name}</li>
+          ))}
+        </ul>
+        <p style="margin-top:12px; font-weight:bold; color:var(--text);">Team publishers (MLB.com team feeds)</p>
+        <ul style="margin-top:6px; padding-left:20px; list-style:disc;">
+          {teamFeeds.map((feed: any) => (
+            <li>{feed.name}</li>
+          ))}
+        </ul>
+        <p style="margin-top:12px;">
+          Scheduled GitHub Actions runs update the news. Automatic classification may occasionally assign an item to the wrong team or player.
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">Content language</h2>
+        <p class="m-0">
+          This experimental site currently displays headlines and summaries in their original English, without automatic Japanese translation.
+          Classification labels for teams, players and topics remain in Japanese; article content remains in its original English.
+          AI translation may be enabled in future, but it is not active now.
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">Copyright</h2>
+        <p class="m-0">
+          Copyright in each article belongs to its publisher. This site is a collection of headlines, summaries and links;
+          it does not reproduce full articles. For questions about an article,
+          please contact its publisher.
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">Site policy</h2>
+        <p class="m-0">
+          This is an independent, noncommercial project without advertising, affiliate links or analytics tracking.
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">Features</h2>
+        <ul style="padding-left:20px; list-style:disc;">
+          <li><strong>Japanese MLB player directory</strong> — View each player, their team and related news (<a class="link-underline" style="color:var(--accent);" href={withBase("/player/")}>Player directory</a>).</li>
+          <li><strong>Search news</strong> — Search news by title, summary, player or team name (<a class="link-underline" style="color:var(--accent);" href={withBase("/search/")}>Search page</a>).</li>
+          <li><strong>My team</strong> — Choose ★ My team in the header to show its news on the home page. Your choice stays on this device and is not sent to a server.</li>
+          <li><strong>Browse topics</strong> — Browse news across teams by trades, injuries, contracts and other topics (<a class="link-underline" style="color:var(--accent);" href={withBase("/topic/")}>Topic directory</a>).</li>
+          <li><strong>Grouped coverage</strong> — Reports on the same event are grouped with their sources listed together.</li>
+          <li><strong>RSS feed</strong> — Subscribe in your RSS reader (<a class="link-underline" style="color:var(--accent);" href={withBase("/feed.xml")}>feed.xml</a>).</li>
+          <li><strong>Add to home screen</strong> — Use Add to Home Screen in your mobile browser for app-like access. Recently viewed content can be available offline.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</Base>

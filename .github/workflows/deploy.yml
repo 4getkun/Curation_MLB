@@ -70,6 +70,9 @@ jobs:
       - name: Build site
         run: npm run build
 
+      - name: Build additive English locale from the same current data
+        run: node scripts/build-english.mjs
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
