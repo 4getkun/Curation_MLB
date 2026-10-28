@@ -211,6 +211,10 @@
       "sha256": "07e211937e53231be1ef29d1586158fb57a9a745f5b0981b2582122913e69dce"
     },
     {
+      "path": "public/og-image-en.png",
+      "sha256": "7cc68e0b16d5afa6a7ad57b376487e2ee5b45fab14288779de0a5ea83f6e6fd9"
+    },
+    {
       "path": "public/sw.js",
       "sha256": "e71ebaa35ff0539cc52d9ca53d39ff456bbd55206f20b6f5e41199d001872bc0"
     },
@@ -240,7 +244,7 @@
     },
     {
       "path": "src/layouts/Base.astro",
-      "sha256": "c490b71efb5fb81e0edfd196deac9c0397368d1d404bedf2050790cf5929afda"
+      "sha256": "89676783ba8662c1b12c2628fd6eb057af4a2a6382efc62b58cb985579d897d0"
     },
     {
       "path": "src/lib/news.ts",
