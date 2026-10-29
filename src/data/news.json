@@ -1,7 +1,882 @@
 {
-  "generatedAt": "2026-10-29T19:06:35.985Z",
+  "generatedAt": "2026-10-29T23:27:26.010Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Mets Claim Kyren Paris From Angels",
+      "summary": "The Mets announced they’ve claimed infielder/outfielder Kyren Paris off waivers from the Angels. New York also designated outfielder Cristian Pache for assignment. More to come.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/mets-claim-kyren-paris-from-angels.html",
+      "pubDate": "2026-10-29T23:05:47.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "angels",
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/mets-claim-kyren-paris-from-angels.html"
+        }
+      ]
+    },
+    {
+      "title": "Bo Bichette To Exercise Player Option For 2027",
+      "summary": "Bo Bichette will remain with the Mets for the 2027 season. Will Sammon of The Athletic reports that the two-time All-Star is bypassing his first opportunity to opt out of his three-year deal. Bichette…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/bo-bichette-to-exercise-player-option-for-2027.html",
+      "pubDate": "2026-10-29T22:54:31.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "trade",
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/bo-bichette-to-exercise-player-option-for-2027.html"
+        }
+      ]
+    },
+    {
+      "title": "Braves exercise 2027 options for Ronald Acuña Jr and Ozzie Albies",
+      "summary": "Because of course they did",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/braves-exercise-2027-options-ronald-225336225.html",
+      "pubDate": "2026-10-29T22:53:36.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-exercise-2027-options-ronald-225336225.html"
+        }
+      ]
+    },
+    {
+      "title": "Braves Exercise Options On Ronald Acuña Jr., Ozzie Albies",
+      "summary": "The Braves announced they’ve picked up their options on Ronald Acuña Jr. and Ozzie Albies. Acuña will make $17MM next season, while Albies will match this year’s $7MM salary. Those were Atlanta’s only…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/braves-exercise-options-on-ronald-acuna-ozzie-albies.html",
+      "pubDate": "2026-10-29T22:49:32.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/braves-exercise-options-on-ronald-acuna-ozzie-albies.html"
+        }
+      ]
+    },
+    {
+      "title": "Caleb Durbin Undergoes Foot Surgery",
+      "summary": "The Red Sox announced that Caleb Durbin underwent surgery on the fifth metatarsal in his right foot (relayed by Christopher Smith of MassLive). It’s the second postseason operation for the third basem…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/caleb-durbin-undergoes-foot-surgery.html",
+      "pubDate": "2026-10-29T22:35:53.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/caleb-durbin-undergoes-foot-surgery.html"
+        }
+      ]
+    },
+    {
+      "title": "Royals decline Estévez's club option, exercise Gonsolin's option",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/royals-decline-carlos-estevez-s-club-option-exercise-tony-gonsolin-s-option",
+      "pubDate": "2026-10-29T22:33:05.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/royals-decline-carlos-estevez-s-club-option-exercise-tony-gonsolin-s-option"
+        }
+      ]
+    },
+    {
+      "title": "Latest Dodgers injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
+      "pubDate": "2026-10-29T22:30:00.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Latest Padres injuries and transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves",
+      "pubDate": "2026-10-29T22:29:00.000Z",
+      "source": "MLB.com (Padres)",
+      "sourceId": "mlb-com-padres",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Latest Rockies injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
+      "pubDate": "2026-10-29T22:28:00.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Latest Astros injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves",
+      "pubDate": "2026-10-29T22:27:00.000Z",
+      "source": "MLB.com (Astros)",
+      "sourceId": "mlb-com-astros",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Latest Angels injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/angels/news/angels-injuries-and-roster-moves",
+      "pubDate": "2026-10-29T22:26:00.000Z",
+      "source": "MLB.com (Angels)",
+      "sourceId": "mlb-com-angels",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/angels-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Imai does not exercise opt out, will stay with Astros in '27",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/tatsuya-imai-declines-opt-out-will-return-to-astros-in-2027",
+      "pubDate": "2026-10-29T22:24:24.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "imai"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/tatsuya-imai-declines-opt-out-will-return-to-astros-in-2027"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/tatsuya-imai-declines-opt-out-will-return-to-astros-in-2027"
+        }
+      ]
+    },
+    {
+      "title": "Orioles Expected To Decline Club Option On Luis Robert Jr.",
+      "summary": "The Orioles are expected to decline their $20MM club option on outfielder Luis Robert Jr., reports Francys Romero of BeisbolFR. Robert will become a free agent and collect a $2MM buyout on his way out…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/orioles-expected-to-decline-club-option-on-luis-robert-jr.html",
+      "pubDate": "2026-10-29T22:10:07.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/orioles-expected-to-decline-club-option-on-luis-robert-jr.html"
+        }
+      ]
+    },
+    {
+      "title": "Mariners pick up Muñoz's option; Robles becomes free agent",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/andres-munoz-s-option-picked-up-by-mariners",
+      "pubDate": "2026-10-29T22:03:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/andres-munoz-s-option-picked-up-by-mariners"
+        }
+      ]
+    },
+    {
+      "title": "Jason Kanzler or Joe Espada? A LL staff discussion on the Mariners’ managerial finalists",
+      "summary": "Whether it be a young gun or an experienced vet, it appears a former Astro will lead the Mariners from the top step",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/jason-kanzler-joe-espada-ll-215834132.html",
+      "pubDate": "2026-10-29T21:58:34.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/jason-kanzler-joe-espada-ll-215834132.html"
+        }
+      ]
+    },
+    {
+      "title": "Athletics Outright Six Players",
+      "summary": "The Athletics announced that six players have been sent outright to Triple-A Las Vegas, indicating that they recently cleared waivers. They are right-handers Henry Baez, Joey Estes and Geoff Hartlieb,…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/athletics-outright-six-players.html",
+      "pubDate": "2026-10-29T21:36:20.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/athletics-outright-six-players.html"
+        }
+      ]
+    },
+    {
+      "title": "Twins outright Banda, Gray and Sabato to clear roster space",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/twins-outright-anthony-banda-tristan-gray-and-aaron-sabato",
+      "pubDate": "2026-10-29T21:28:46.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/twins-outright-anthony-banda-tristan-gray-and-aaron-sabato"
+        }
+      ]
+    },
+    {
+      "title": "The San Francisco Giants’ first roster purge: five players leave the 40-man roster",
+      "summary": "The Giants have a lot of work to do with their roster before they can get to work on their roster.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/san-francisco-giants-first-roster-212030715.html",
+      "pubDate": "2026-10-29T21:20:30.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/san-francisco-giants-first-roster-212030715.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB’s Season Is Over. These Key Dates Are Crucial for CBA Negotiations",
+      "summary": "The Milwaukee Brewers are the World Series champions, and the MLB offseason has begun. But it’s unclear when the next game will be played. The league’s collective bargaining agreement is set to expire…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-season-over-key-dates-211717825.html",
+      "pubDate": "2026-10-29T21:17:17.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-season-over-key-dates-211717825.html"
+        }
+      ]
+    },
+    {
+      "title": "Tatsuya Imai reportedly will exercise player option, return to Astros after rocky first season in MLB",
+      "summary": "The right-handed Japanese pitcher compiled a 4.93 ERA across 23 appearances and 15 starts this season with Houston.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/tatsuya-imai-reportedly-will-exercise-player-option-return-to-astros-after-rocky-first-season-in-mlb-210535125.html",
+      "pubDate": "2026-10-29T21:05:35.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [
+        "imai"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/tatsuya-imai-reportedly-will-exercise-player-option-return-to-astros-after-rocky-first-season-in-mlb-210535125.html"
+        }
+      ]
+    },
+    {
+      "title": "Royals Exercise Club Option On Tony Gonsolin, Decline Carlos Estévez",
+      "summary": "The Royals announced that they have exercised a 2027 club option on right-hander Tony Gonsolin. He will make $2.5MM next year. Right-hander Carlos Estévez has had his $13MM club option turned down. He…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/royals-exercise-club-option-on-tony-gonsolin-decline-carlos-estevez.html",
+      "pubDate": "2026-10-29T21:05:15.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/royals-exercise-club-option-on-tony-gonsolin-decline-carlos-estevez.html"
+        }
+      ]
+    },
+    {
+      "title": "Giants Outright Three Players",
+      "summary": "The Giants outrighted left-hander Matt Gage, right-hander Jason Foley and infielder Osleivis Basabe off the 40-man roster, per a team announcement. San Francisco also lost outfielder Grant McCray and…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/giants-outright-matt-gage-jason-foley.html",
+      "pubDate": "2026-10-29T20:50:35.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/giants-outright-matt-gage-jason-foley.html"
+        }
+      ]
+    },
+    {
+      "title": "King opts out of deal with Padres to become free agent (source)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/michael-king-free-agent-2027",
+      "pubDate": "2026-10-29T20:45:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/michael-king-free-agent-2027"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/michael-king-free-agent-2027"
+        }
+      ]
+    },
+    {
+      "title": "Pitcher Michael King opts out of contract, $61 million with Padres for free agency",
+      "summary": "King was 10th among National League starting pitchers with a 3.21 ERA and allowed 1 run in 14 innings versus the World Series champion Brewers during the NLDS.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/pitcher-michael-king-opts-out-of-contract-61-million-with-padres-for-free-agency-203107301.html",
+      "pubDate": "2026-10-29T20:26:48.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/pitcher-michael-king-opts-out-of-contract-61-million-with-padres-for-free-agency-203107301.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB 2026-2027 Offseason Calendar",
+      "summary": "All the key dates you need to know, from free agency to a likely lockout, with all the Twins players affected along the way.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-2026-2027-offseason-calendar-202414752.html",
+      "pubDate": "2026-10-29T20:24:14.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-2026-2027-offseason-calendar-202414752.html"
+        }
+      ]
+    },
+    {
+      "title": "Twins Outright Three Players",
+      "summary": "The Twins removed three players from their 40-man roster Thursday, passing lefty Anthony Banda, first baseman Aaron Sabato and infielder Tristan Gray through waivers. The team announced the moves. Non…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/twins-outright-anthony-banda-aaron-sabato-tristan-gray.html",
+      "pubDate": "2026-10-29T20:23:26.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/twins-outright-anthony-banda-aaron-sabato-tristan-gray.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers defeat the Rays in the World Series, win their first championship in franchise history",
+      "summary": "On this episode of the Baseball Bar-B-Cast, Jake and Jordan recap the Milwaukee Brewers winning their first championship in franchise history and look at where the Rays go from here.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/brewers-defeat-the-rays-in-the-world-series-win-their-first-championship-in-franchise-history-200624632.html",
+      "pubDate": "2026-10-29T20:06:24.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/brewers-defeat-the-rays-in-the-world-series-win-their-first-championship-in-franchise-history-200624632.html"
+        }
+      ]
+    },
+    {
+      "title": "Mariners reach decisions on trio of club options",
+      "summary": "We’ve got transactions, y’all!",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mariners-reach-decisions-trio-club-200539451.html",
+      "pubDate": "2026-10-29T20:05:39.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mariners-reach-decisions-trio-club-200539451.html"
+        }
+      ]
+    },
+    {
+      "title": "White Sox to name Roffe director of amateur scouting (source)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/matt-roffe-to-be-white-sox-director-of-amateur-scouting",
+      "pubDate": "2026-10-29T20:01:10.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/matt-roffe-to-be-white-sox-director-of-amateur-scouting"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/matt-roffe-to-be-white-sox-director-of-amateur-scouting"
+        }
+      ]
+    },
+    {
+      "title": "Top 40 Trade Candidates Of The 2026-27 MLB Offseason",
+      "summary": "The celebration is on in Milwaukee and the offseason has arrived! Free agency won’t officially open for five days, as teams have until then to resolve any option decisions and have an exclusive negoti…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/top-trade-candidates-mlb-offseason-2026-27.html",
+      "pubDate": "2026-10-29T20:00:59.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/top-trade-candidates-mlb-offseason-2026-27.html"
+        }
+      ]
+    },
+    {
+      "title": "Important Dates for the St. Louis Cardinals Off-Season to Watch For",
+      "summary": "The St. Louis Cardinals are set to begin one of the more intriguing off-seasons in recent memory now that the World Series is in the rear view mirror. Important internal roster decisions and an almost…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/important-dates-st-louis-cardinals-200000198.html",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/important-dates-st-louis-cardinals-200000198.html"
+        }
+      ]
+    },
+    {
+      "title": "Mariners Claim Grant McCray",
+      "summary": "The Mariners have claimed outfielder Grant McCray off waivers from the Giants, according to announcements from both clubs. The Mariners say their 40-man count is now at 35 though players on the 60-day…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/mariners-claim-grant-mccray.html",
+      "pubDate": "2026-10-29T19:55:59.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/mariners-claim-grant-mccray.html"
+        }
+      ]
+    },
+    {
+      "title": "Corbin Burnes will not opt out, per reports",
+      "summary": "Unsurprisingly, Corbin Burnes is not opting out of the last four years of his deal with the Arizona Diamondbacks",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/corbin-burnes-not-opt-per-194019662.html",
+      "pubDate": "2026-10-29T19:40:19.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/corbin-burnes-not-opt-per-194019662.html"
+        }
+      ]
+    },
+    {
+      "title": "Nationals Claim Braxton Roxby, Designate Zak Kent",
+      "summary": "The Nationals have claimed right-hander Braxton Roxby off waivers from the Giants and designated fellow righty Zak Kent for assignment, the club announced Thursday. Roxby, 28 next spring, made his maj…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/nationals-claim-braxton-roxby-waivers-giants-dfa-zak-kent.html",
+      "pubDate": "2026-10-29T19:38:13.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/nationals-claim-braxton-roxby-waivers-giants-dfa-zak-kent.html"
+        }
+      ]
+    },
+    {
+      "title": "The Brewers are 1st-time champs. Nearly all of their players are, too.",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/first-time-champs-on-2026-brewers",
+      "pubDate": "2026-10-29T19:32:01.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/first-time-champs-on-2026-brewers"
+        }
+      ]
+    },
+    {
+      "title": "Important 2026-2027 offseason dates",
+      "summary": "Look for a lot of activity in November.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/important-2026-2027-offseason-dates-193000722.html",
+      "pubDate": "2026-10-29T19:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/important-2026-2027-offseason-dates-193000722.html"
+        }
+      ]
+    },
+    {
+      "title": "Tigers backed out of a Skubal trade with Milwaukee, per report",
+      "summary": "Turns out, the Brewers really did come with a strong package for Skubal.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/tigers-backed-skubal-trade-milwaukee-193000293.html",
+      "pubDate": "2026-10-29T19:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/tigers-backed-skubal-trade-milwaukee-193000293.html"
+        }
+      ]
+    },
+    {
+      "title": "Trades? In the Giants’ moment of triumph?",
+      "summary": "The Giants need to make some moves, but does that mean dipping into the farm system after finally getting it on track?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/trades-giants-moment-triumph-193000741.html",
+      "pubDate": "2026-10-29T19:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/trades-giants-moment-triumph-193000741.html"
+        }
+      ]
+    },
+    {
+      "title": "Corbin Burnes Will Not Opt Out Of Diamondbacks Deal",
+      "summary": "Right-hander Corbin Burnes will not take the opt-out chance in his contract with the Diamondbacks, reports Bob Nightengale of USA Today. He will make $35MM annually through the 2030 season, though $11…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/10/corbin-burnes-will-not-opt-out-of-diamondbacks-deal.html",
+      "pubDate": "2026-10-29T19:25:00.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/10/corbin-burnes-will-not-opt-out-of-diamondbacks-deal.html"
+        }
+      ]
+    },
+    {
+      "title": "The most clutch postseason performances",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/most-clutch-postseason-performances",
+      "pubDate": "2026-10-29T19:17:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/most-clutch-postseason-performances"
+        }
+      ]
+    },
     {
       "title": "Astros Decline Club Option On Ryan Weiss",
       "summary": "The Astros have declined a $5MM club option on right-hander Ryan Weiss, reports Jesse Rogers of ESPN. Weiss will collect a $500K buyout as he returns to free agency. Weiss spent 2024 and 2025 putting…",
@@ -23,6 +898,34 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/10/astros-decline-club-option-on-ryan-weiss.html"
+        }
+      ]
+    },
+    {
+      "title": "A's trade RHP prospect to Red Sox for outfielder Eaton",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/nate-eaton-red-sox-athletics-trade",
+      "pubDate": "2026-10-29T19:04:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/nate-eaton-red-sox-athletics-trade"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/nate-eaton-red-sox-athletics-trade"
         }
       ]
     },
@@ -95,31 +998,6 @@
       ]
     },
     {
-      "title": "A's trade RHP prospect to Red Sox for outfielder Eaton",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/redsox/news/nate-eaton-red-sox-athletics-trade",
-      "pubDate": "2026-10-29T18:48:37.000Z",
-      "source": "MLB.com (Red Sox)",
-      "sourceId": "mlb-com-redsox",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "trade",
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/nate-eaton-red-sox-athletics-trade"
-        }
-      ]
-    },
-    {
       "title": "Important Offseason Dates as the Cincinnati Reds prep for 2027 season",
       "summary": "Mark your calendars, Reds fans!",
       "titleJa": null,
@@ -156,34 +1034,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/brad-lord-orlando-ribalta-were-183500768.html"
-        }
-      ]
-    },
-    {
-      "title": "King opts out of deal with Padres to become free agent (source)",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/michael-king-free-agent-2027",
-      "pubDate": "2026-10-29T18:22:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/michael-king-free-agent-2027"
-        },
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/michael-king-free-agent-2027"
         }
       ]
     },
@@ -276,6 +1126,30 @@
       ]
     },
     {
+      "title": "Astros eye Brewers’ Matt Kleine as next GM after World Series win",
+      "summary": "The Astros are coming off an 81-81 season.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/astros-eye-brewers-matt-kleine-174250202.html",
+      "pubDate": "2026-10-29T17:42:50.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/astros-eye-brewers-matt-kleine-174250202.html"
+        }
+      ]
+    },
+    {
       "title": "What should the Yankees do with their 10 free agents?",
       "summary": "Who should the Yankees bring back?",
       "titleJa": null,
@@ -354,6 +1228,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/otto-lopez-jeremy-pe-among-173517136.html"
+        }
+      ]
+    },
+    {
+      "title": "Will there be a free agency splash before MLB lockout? And three other burning offseason questions",
+      "summary": "For the second time in five years, there is an unknown about when spring — and the regular season — will arrive in 2027.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/free-agency-splash-mlb-lockout-171001544.html",
+      "pubDate": "2026-10-29T17:10:01.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/free-agency-splash-mlb-lockout-171001544.html"
         }
       ]
     },
@@ -677,6 +1573,26 @@
       ]
     },
     {
+      "title": "Rays’ Taylor Walls calls Ken Rosenthal question ‘pretty disrespectful’ in tense World Series moment",
+      "summary": "The Rays were smashed in five games as the Brewers won their first World Series, and Taylor Walls didn’t want to hear about levels.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/rays-taylor-walls-calls-ken-154905421.html",
+      "pubDate": "2026-10-29T15:49:05.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/rays-taylor-walls-calls-ken-154905421.html"
+        }
+      ]
+    },
+    {
       "title": "Helsley to remain with O's, opting into '27 player option (source)",
       "summary": "",
       "titleJa": null,
@@ -718,6 +1634,30 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/10/brewers-matt-kleine-is-astros-top-target-in-gm-search.html"
+        }
+      ]
+    },
+    {
+      "title": "Red Sox trade Nate Eaton; who&#39;s next on the chopping block?",
+      "summary": "Boston must make some tough decisions before Monday.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/red-sox-trade-nate-eaton-153728571.html",
+      "pubDate": "2026-10-29T15:37:28.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/red-sox-trade-nate-eaton-153728571.html"
         }
       ]
     },
@@ -1314,29 +2254,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/important-dates-currently-scheduled-2026-140000155.html"
-        }
-      ]
-    },
-    {
-      "title": "Top 40 Trade Candidates Of The 2026-27 MLB Offseason",
-      "summary": "The celebration is on in Milwaukee and the offseason has arrived! Free agency won’t officially open for five days, as teams have until then to resolve any option decisions and have an exclusive negoti…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/top-trade-candidates-mlb-offseason-2026-27.html",
-      "pubDate": "2026-10-29T13:55:59.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/top-trade-candidates-mlb-offseason-2026-27.html"
         }
       ]
     },
@@ -7671,30 +8588,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/10/astros-release-nelson-velazquez.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Astros injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves",
-      "pubDate": "2026-10-27T17:06:00.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/astros-injuries-and-roster-moves"
         }
       ]
     },
@@ -22997,30 +23890,6 @@
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/dalton-rushing-has-right-elbow-surgery"
-        }
-      ]
-    },
-    {
-      "title": "Latest Dodgers injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves",
-      "pubDate": "2026-10-22T01:37:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/dodgers-injuries-and-roster-moves"
         }
       ]
     },
@@ -53111,30 +53980,6 @@
       ]
     },
     {
-      "title": "Latest Padres injuries and transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves",
-      "pubDate": "2026-10-11T23:58:00.000Z",
-      "source": "MLB.com (Padres)",
-      "sourceId": "mlb-com-padres",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Padres)",
-          "sourceId": "mlb-com-padres",
-          "link": "https://www.mlb.com/padres/news/padres-injuries-and-roster-moves"
-        }
-      ]
-    },
-    {
       "title": "2026 NLCS Preview: Los Angeles Dodgers vs. Milwaukee Brewers",
       "summary": "It’s a rematch of last year’s NLCS when the Dodgers swept in four, only this time Milwaukee has The Miz in Cy Young form",
       "titleJa": null,
@@ -64370,7 +65215,9 @@
       "pubDate": "2026-10-08T03:36:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "whitesox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -85812,845 +86659,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/tarik-skubal-starts-nlds-game-183255008.html"
-        }
-      ]
-    },
-    {
-      "title": "Walt Weiss shares confident expectations for NLDS, plus injury updates",
-      "summary": "Walt Weiss and his two catchers appear ready for the massive fight that lays ahead of them against Los Angeles",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/walt-weiss-shares-confident-expectations-183227333.html",
-      "pubDate": "2026-10-02T18:32:27.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/walt-weiss-shares-confident-expectations-183227333.html"
-        }
-      ]
-    },
-    {
-      "title": "NFL predictions: Will the Arizona Cardinals take advantage of an ailing New York Giants?",
-      "summary": "Best bets for the Arizona Cardinals matchup with the New York Giants.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/nfl-predictions-arizona-cardinals-advantage-183206160.html",
-      "pubDate": "2026-10-02T18:32:06.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/nfl-predictions-arizona-cardinals-advantage-183206160.html"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Padres vs Brewers in 2026 MLB NLDS: Schedule, TV/stream info, preview, everything to know",
-      "summary": "Can the Brewers return to the NLCS after winning 103 games in the regular season?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/watch-padres-vs-brewers-2026-183004400.html",
-      "pubDate": "2026-10-02T18:30:04.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/watch-padres-vs-brewers-2026-183004400.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers to name Tarik Skubal their Game 1 starter against Braves",
-      "summary": "The Dodgers are starting Tarik Skubal in Game 1 of their playoff series against the Atlanta Braves, deferring Yoshinobu Yamamoto's start until later in the series.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-name-tarik-skubal-game-182710240.html",
-      "pubDate": "2026-10-02T18:27:10.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "yamamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-name-tarik-skubal-game-182710240.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers star cherishing potential last ride after daughter’s tragic passing: ‘motivation is different’",
-      "summary": "After glorious highs and unimaginable lows, Alex Vesia is enjoying what might be his final season in Los Angeles",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-star-cherishing-potential-last-180801545.html",
-      "pubDate": "2026-10-02T18:08:01.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-star-cherishing-potential-last-180801545.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers rotation is their greatest strength this October",
-      "summary": "LOS ANGELES — The Dodgers won a championship in 2024 with a decimated starting rotation and dominant bullpen, then flipped the script with a stellar rotation buoying a shaky bullpen to win another tit…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-rotation-greatest-strength-october-180736904.html",
-      "pubDate": "2026-10-02T18:07:36.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-rotation-greatest-strength-october-180736904.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB Division Series Preview: Braves-Dodgers, Yankees-Rays, Padres-Brewers & White Sox-Guardians",
-      "summary": "On this episode of the Baseball Bar-B-Cast, Jake and Jordan recap the Braves-Phillies Wild Card Game 3 and preview all the upcoming League Division Series matchups.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/mlb-division-series-preview-braves-dodgers-yankees-rays-padres-brewers--white-sox-guardians-180256007.html",
-      "pubDate": "2026-10-02T18:02:56.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers",
-        "padres",
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/mlb-division-series-preview-braves-dodgers-yankees-rays-padres-brewers--white-sox-guardians-180256007.html"
-        }
-      ]
-    },
-    {
-      "title": "Crackling bats and 400-foot blasts: Sights and sounds from the Canadian Futures Showcase",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/top-high-school-prospects-take-on-canadian-futures-showcase",
-      "pubDate": "2026-10-02T18:00:06.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/top-high-school-prospects-take-on-canadian-futures-showcase"
-        }
-      ]
-    },
-    {
-      "title": "The Padres don’t look like underdogs against 103-win Brewers",
-      "summary": "The Brewers won more games than anyone in 2026 but don’t overlook the surging Padres",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/padres-don-t-look-underdogs-180000041.html",
-      "pubDate": "2026-10-02T18:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/padres-don-t-look-underdogs-180000041.html"
-        }
-      ]
-    },
-    {
-      "title": "Ranking the Rockies, 2026: No. 51, Jordan Beck",
-      "summary": "Beck entered 2026 looking to build on a promising season, but his approach unraveled, his role shrank, and his future with the Rockies became much less certain.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/ranking-rockies-2026-no-51-180000206.html",
-      "pubDate": "2026-10-02T18:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/ranking-rockies-2026-no-51-180000206.html"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Braves vs Dodgers in 2026 MLB NLDS: Schedule, TV/stream info, preview, everything to know",
-      "summary": "Can Atlanta stop Los Angeles from even reaching the NLCS for a third straight year?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/watch-braves-vs-dodgers-2026-175217138.html",
-      "pubDate": "2026-10-02T17:52:17.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/watch-braves-vs-dodgers-2026-175217138.html"
-        }
-      ]
-    },
-    {
-      "title": "'The Shot Heard 'Round the World'? We found Bobby Thomson's Scottish family to see how true that is",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/bobby-thomson-s-scottish-family-reacts-on-his-home-run-s-75th-anniversary",
-      "pubDate": "2026-10-02T17:50:04.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/bobby-thomson-s-scottish-family-reacts-on-his-home-run-s-75th-anniversary"
-        }
-      ]
-    },
-    {
-      "title": "Craig Breslow started building the 2027 Red Sox in 2026",
-      "summary": "Wait for next year? The team is here now!",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/craig-breslow-started-building-2027-174720166.html",
-      "pubDate": "2026-10-02T17:47:20.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/craig-breslow-started-building-2027-174720166.html"
-        }
-      ]
-    },
-    {
-      "title": "Reds Announce Coaching Updates",
-      "summary": "The Reds head into the offseason with multiple roles to fill on the coaching staff under manager Terry Francona. The club confirmed pitching coach Derek Johnson won’t be back next season. Cincinnati a…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/reds-announce-coaching-updates.html",
-      "pubDate": "2026-10-02T17:46:01.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/reds-announce-coaching-updates.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers to tab new ace in surprise Game 1 playoff rotation decision",
-      "summary": "In their bid for a World Series three-peat, the Dodgers are turning to their one starter yet to win a championship ring",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-tab-ace-surprise-game-174104103.html",
-      "pubDate": "2026-10-02T17:41:04.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-tab-ace-surprise-game-174104103.html"
-        }
-      ]
-    },
-    {
-      "title": "Four eye-opening performances from the Wild Card Series",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/standout-performances-from-2026-wild-card-series",
-      "pubDate": "2026-10-02T17:37:05.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/standout-performances-from-2026-wild-card-series"
-        }
-      ]
-    },
-    {
-      "title": "Should the Phillies trade Bryce Harper or Kyle Schwarber? Why blockbuster deal doesn't make sense",
-      "summary": "Moving on from the veteran sluggers wouldn't help Philadelphia in the short term and probably not the long term either",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/phillies-trade-rumors-bryce-harper-kyle-schwarber/\n                    ",
-      "pubDate": "2026-10-02T17:19:41.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/phillies-trade-rumors-bryce-harper-kyle-schwarber/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Braves starting rotation and a glaring contrast in depth",
-      "summary": "The Braves advanced, but in doing so, they exposed pitching depth problems that might prove costly against the Dodgers",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-starting-rotation-glaring-contrast-170735634.html",
-      "pubDate": "2026-10-02T17:07:35.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-starting-rotation-glaring-contrast-170735634.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 Cubs Heroes and Goats: Alex Bregman wins the Rizzo Award!",
-      "summary": "A look at the full Heroes and Goats standings for the 2026 season and the history of the Rizzo Award.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-alex-170000726.html",
-      "pubDate": "2026-10-02T17:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-alex-170000726.html"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Yankees vs Rays in 2026 MLB ALDS: Schedule, TV/stream info, preview, everything to know",
-      "summary": "Which AL East team will move onto the ALCS?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/watch-yankees-vs-rays-2026-165949572.html",
-      "pubDate": "2026-10-02T16:59:49.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/watch-yankees-vs-rays-2026-165949572.html"
-        }
-      ]
-    },
-    {
-      "title": "Mickey Gasper Undergoes Biceps Surgery",
-      "summary": "Oct. 2: Gasper had a successful Distal Biceps tendon repair today, the Red Sox announced. He mentioned earlier this week that he’s looking at a four- to six-month recovery timetable (h/t Tim Healey of…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/mickey-gasper-to-undergo-biceps-surgery.html",
-      "pubDate": "2026-10-02T16:55:54.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/mickey-gasper-to-undergo-biceps-surgery.html"
-        }
-      ]
-    },
-    {
-      "title": "Arizona Fall League play starts Saturday",
-      "summary": "Sebastian Walcott highlights the Rangers prospects who will be playing in the Arizona Fall League",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/arizona-fall-league-play-starts-163702381.html",
-      "pubDate": "2026-10-02T16:37:02.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/arizona-fall-league-play-starts-163702381.html"
-        }
-      ]
-    },
-    {
-      "title": "Fernando Tatis Jr. is the engine driving the Padres, baseball's hottest team, into NLDS showdown vs. Brewers",
-      "summary": "After a brutal first half, Tatis and the Padres are riding a Pacific Ocean-sized wave of vibes into Milwaukee",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/fernando-tatis-jr-padres-brewers-mlb-playoffs/\n                    ",
-      "pubDate": "2026-10-02T16:34:11.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/fernando-tatis-jr-padres-brewers-mlb-playoffs/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "How has having a bye affected teams in the DS?",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/how-first-round-bye-affects-mlb-playoff-teams",
-      "pubDate": "2026-10-02T16:31:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/how-first-round-bye-affects-mlb-playoff-teams"
-        }
-      ]
-    },
-    {
-      "title": "Yankees Outright Alexander Cornielle",
-      "summary": "The Yankees sent right-hander Alexander Cornielle outright to their Florida Complex League affiliate, per a team announcement. He was designated for assignment on Tuesday when Giancarlo Stanton was ac…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/yankees-outright-alexander-cornielle.html",
-      "pubDate": "2026-10-02T16:13:48.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/yankees-outright-alexander-cornielle.html"
-        }
-      ]
-    },
-    {
-      "title": "Which Phillies are headed for free agency as pivotal offseason looms?",
-      "summary": "Philadelphia will enter a crucial winter with seven impending free agents, key payroll changes and several decisions that could reshape the roster.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/phillies-headed-free-agency-pivotal-160500147.html",
-      "pubDate": "2026-10-02T16:05:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/phillies-headed-free-agency-pivotal-160500147.html"
-        }
-      ]
-    },
-    {
-      "title": "What’s Next For Dylan Crews?",
-      "summary": "Dylan Crews has not lived up to the hype through 3 seasons, but is there still reason to believe he can?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/next-dylan-crews-160000709.html",
-      "pubDate": "2026-10-02T16:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/next-dylan-crews-160000709.html"
-        }
-      ]
-    },
-    {
-      "title": "Friday Open Thread",
-      "summary": "This is a slow time of year for baseball news, if your team isn’t in the playoffs. MLB doesn’t like teams to make news during the playoffs, because they want the focus to be on the playoff teams, whic…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/friday-open-thread-155022840.html",
-      "pubDate": "2026-10-02T15:50:22.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/friday-open-thread-155022840.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB playoff bracket 2026: Printable bracket for every division series",
-      "summary": "Download and print a 2026 MLB playoff bracket. Follow every round of the postseason and make your World Series predictions.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-playoff-bracket-2026-printable-153530666.html",
-      "pubDate": "2026-10-02T15:35:30.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-playoff-bracket-2026-printable-153530666.html"
-        }
-      ]
-    },
-    {
-      "title": "Important Dates For The Athletics This Offseason",
-      "summary": "Circle these dates on your calendars",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/important-dates-athletics-offseason-153000982.html",
-      "pubDate": "2026-10-02T15:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/important-dates-athletics-offseason-153000982.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 MLB playoff predictions: Expert picks for Dodgers vs. Braves, Yankees vs. Rays and every LDS matchup",
-      "summary": "The 2026 baseball postseason continues on Saturday with all four League Division Series",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-playoff-predictions-expert-picks-league-division-series/\n                    ",
-      "pubDate": "2026-10-02T15:26:21.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-playoff-predictions-expert-picks-league-division-series/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Byron Buxton Ready For 2027, Twins Not Planning To Trade Him",
-      "summary": "Twins outfielder Byron Buxton battled hip injuries for most of his 2026 campaign. The issue finally led to surgery in September. Buxton is progressing well in his recovery and is on track to be health…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/byron-buxton-ready-for-2027-twins-not-planning-to-trade-him.html",
-      "pubDate": "2026-10-02T15:02:48.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade",
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/byron-buxton-ready-for-2027-twins-not-planning-to-trade-him.html"
-        }
-      ]
-    },
-    {
-      "title": "Who do Red Sox fans want to win the World Series now?",
-      "summary": "Well, the playoff field is set and the Red Sox are no longer in it. We’ve got White Sox-Guardians and Yankees-Rays in the American League. Braves-Dodgers and Padres-Brewers in the NL. So the question…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/red-sox-fans-want-win-150000460.html",
-      "pubDate": "2026-10-02T15:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/red-sox-fans-want-win-150000460.html"
-        }
-      ]
-    },
-    {
-      "title": "Changes are coming following another Phillies postseason failure",
-      "summary": "Where do the Phillies go from here?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/changes-coming-following-another-phillies-150000296.html",
-      "pubDate": "2026-10-02T15:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/changes-coming-following-another-phillies-150000296.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers notes: Miguel Rojas, Josue De Paula, NLDS vs. Braves",
-      "summary": "Two teams in the NL East battled it out over a three-game stretch to see who would be lucky enough to get in the Dodgers’ way. Ultimately, the Atlanta Braves got the best of the Philadelphia Phillies…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-notes-miguel-rojas-josue-143901069.html",
-      "pubDate": "2026-10-02T14:39:01.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-notes-miguel-rojas-josue-143901069.html"
-        }
-      ]
-    },
-    {
-      "title": "John Kruk calls out Bryce Harper for critical mistake in NL wild-card loss: ‘Run!’",
-      "summary": "John Kruk, Phillies announcer overtook John Kruk, national announcer for a moment Thursday night.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/john-kruk-calls-bryce-harper-143835747.html",
-      "pubDate": "2026-10-02T14:38:35.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/john-kruk-calls-bryce-harper-143835747.html"
-        }
-      ]
-    },
-    {
-      "title": "Breaking down each of the 4 Division Series",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mlb-2026-division-series-matchups",
-      "pubDate": "2026-10-02T14:05:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mlb-2026-division-series-matchups"
-        }
-      ]
-    },
-    {
-      "title": "2026 Cubs final season grades: Position players",
-      "summary": "Here are my thoughts on Cubs hitting performances for the season just completed.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/2026-cubs-final-season-grades-140000321.html",
-      "pubDate": "2026-10-02T14:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/2026-cubs-final-season-grades-140000321.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB Playoff Roundup: Braves advance to NLDS showdown with Dodgers",
-      "summary": "A division rival is vanquished, but will they handle the two-time defending champions?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-playoff-roundup-braves-advance-140000624.html",
-      "pubDate": "2026-10-02T14:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-playoff-roundup-braves-advance-140000624.html"
         }
       ]
     }
