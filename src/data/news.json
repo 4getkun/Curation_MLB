@@ -1,9 +1,784 @@
 {
-  "generatedAt": "2026-11-03T20:12:23.879Z",
+  "generatedAt": "2026-11-04T00:44:31.582Z",
   "count": 4000,
   "items": [
     {
-      "title": "MLB proposes salary cap delay. What teams would have to cut payroll?",
+      "title": "Marlins Release Bradley Blalock",
+      "summary": "The Marlins released right-hander Bradley Blalock, according to the MLB.com transaction tracker. Kevin Barral of Fish On First suggests that the 25-year-old is likely to pursue an overseas opportunity…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/marlins-release-bradley-blalock.html",
+      "pubDate": "2026-11-04T00:36:19.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/marlins-release-bradley-blalock.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB increases cap and floor in latest proposal, sets 2028 target",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-increases-cap-and-floor-in-latest-proposal-sets-2028-target",
+      "pubDate": "2026-11-04T00:33:34.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-increases-cap-and-floor-in-latest-proposal-sets-2028-target"
+        }
+      ]
+    },
+    {
+      "title": "Cubs BCB After Dark: Morejón or Bednar?",
+      "summary": "The late-night spot for Cubs fans asks if David Bednar or Adrián Morejón is the better deal.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cubs-bcb-dark-morej-n-003127475.html",
+      "pubDate": "2026-11-04T00:31:27.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cubs-bcb-dark-morej-n-003127475.html"
+        }
+      ]
+    },
+    {
+      "title": "Ranking '26 rookies based on long-term value",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ranking-2026-rookies-based-on-long-term-value",
+      "pubDate": "2026-11-04T00:20:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ranking-2026-rookies-based-on-long-term-value"
+        }
+      ]
+    },
+    {
+      "title": "What one big swing can tell us about Ohtani bouncing back",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/shohei-ohtani-nlcs-home-run-good-sign-for-2027",
+      "pubDate": "2026-11-04T00:06:30.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/shohei-ohtani-nlcs-home-run-good-sign-for-2027"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-nlcs-home-run-good-sign-for-2027"
+        }
+      ]
+    },
+    {
+      "title": "Ausmus, Pujols Among Astros Managerial Candidates Interviewed",
+      "summary": "While the Astros have hired Randy Flores to be the team’s new general manager, it seems that the manager search had already started without him. According to Jon Morosi on MLB Network, the team has al…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/ausmus-pujols-among-astros-managerial-234611973.html",
+      "pubDate": "2026-11-03T23:46:11.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/ausmus-pujols-among-astros-managerial-234611973.html"
+        }
+      ]
+    },
+    {
+      "title": "Current Arizona Diamondbacks 40-man roster [last change: 11/2]",
+      "summary": "Keeping track of who’s who this year",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/current-arizona-diamondbacks-40-man-234000179.html",
+      "pubDate": "2026-11-03T23:40:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/current-arizona-diamondbacks-40-man-234000179.html"
+        }
+      ]
+    },
+    {
+      "title": "Rangers President: 2027 Payroll To Be Similar To 2026",
+      "summary": "Rangers president of baseball operations Chris Young met this week with members of the media, including Evan Grant of The Dallas Morning News, to talk about various topics related to the club. He said…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/rangers-president-2027-payroll-to-be-similar-to-2026.html",
+      "pubDate": "2026-11-03T23:35:13.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/rangers-president-2027-payroll-to-be-similar-to-2026.html"
+        }
+      ]
+    },
+    {
+      "title": "This is the 2026 Arizona Fall League Home Run Derby field",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/dodgers/news/arizona-fall-league-home-run-derby-2026",
+      "pubDate": "2026-11-03T23:33:00.000Z",
+      "source": "MLB.com (Dodgers)",
+      "sourceId": "mlb-com-dodgers",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/arizona-fall-league-home-run-derby-2026"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/arizona-fall-league-home-run-derby-2026"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/arizona-fall-league-home-run-derby-2026"
+        }
+      ]
+    },
+    {
+      "title": "The Jacob Webb signing by the numbers",
+      "summary": "Webb saved nine games for the Cubs in 2026.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/jacob-webb-signing-numbers-233000298.html",
+      "pubDate": "2026-11-03T23:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/jacob-webb-signing-numbers-233000298.html"
+        }
+      ]
+    },
+    {
+      "title": "Max Clark's fashion game on display with fans at MLB Flagship Store",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/max-clark-meets-fans-at-mlb-flagship-store-in-new-york-city",
+      "pubDate": "2026-11-03T23:17:08.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/max-clark-meets-fans-at-mlb-flagship-store-in-new-york-city"
+        }
+      ]
+    },
+    {
+      "title": "Astros Outright Meyers, Add 3 to 40-Man Roster",
+      "summary": "The Houston Astros have selected three players to their 40-man roster: RHP Roddery Muñoz, RHP Evan Reifert, and C César Salazar. Reifert was officially acquired today from the Tampa Bay Rays in exchan…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/astros-outright-meyers-add-3-230626172.html",
+      "pubDate": "2026-11-03T23:06:26.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/astros-outright-meyers-add-3-230626172.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers manager Pat Murphy says he called Yankees GM Brian Cashman to &#39;explain&#39; profane comment after World Series",
+      "summary": "A camera caught Murphy jokingly saying one of his players was going to join a \"horses*** Yankees team.\"",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/brewers-manager-pat-murphy-says-he-called-yankees-gm-brian-cashman-to-explain-profane-comment-after-world-series-223815670.html",
+      "pubDate": "2026-11-03T22:38:15.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/brewers-manager-pat-murphy-says-he-called-yankees-gm-brian-cashman-to-explain-profane-comment-after-world-series-223815670.html"
+        }
+      ]
+    },
+    {
+      "title": "What are your thoughts on MLB’s proposals of a salary cap and floor in 2028?",
+      "summary": "The most important topic of debate on the first Tuesday of November",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/thoughts-mlb-proposals-salary-cap-223738258.html",
+      "pubDate": "2026-11-03T22:37:38.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/thoughts-mlb-proposals-salary-cap-223738258.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees free agent targets for 2027: 5 players for Bombers to pursue",
+      "summary": "Who should the Yankees pursue in free agency? We rank the best available targets and fits for the 2027 roster.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-free-agent-targets-2027-222949663.html",
+      "pubDate": "2026-11-03T22:29:49.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-free-agent-targets-2027-222949663.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers&#39; Pat Murphy &#39;felt horribly&#39; about Yankees comments, called Brian Cashman to apologize",
+      "summary": "Upon learning that everyone heard his comments about the Yankees, Brewers manager Pat Murphy said he called general manager Brian Cashman to clear the air.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brewers-pat-murphy-felt-horribly-222854464.html",
+      "pubDate": "2026-11-03T22:28:54.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brewers-pat-murphy-felt-horribly-222854464.html"
+        }
+      ]
+    },
+    {
+      "title": "Rays’ Edwin Uceta Undergoes Shoulder Surgery",
+      "summary": "Rays right-hander Edwin Uceta underwent arthroscopic surgery on his right shoulder last month, president of baseball operations Erik Neander revealed in a session with the media earlier today (link vi…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/rays-edwin-uceta-shoulder-surgery.html",
+      "pubDate": "2026-11-03T22:12:08.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "injury",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/rays-edwin-uceta-shoulder-surgery.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB owners propose salary cap & floor beginning in 2028",
+      "summary": "Owners propose a transition year before a salary cap & floor. MLBPA says it’s “blowing up the current system\"",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mlb-owners-propose-salary-cap-220901057.html",
+      "pubDate": "2026-11-03T22:09:01.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mlb-owners-propose-salary-cap-220901057.html"
+        }
+      ]
+    },
+    {
+      "title": "Top prospect duo of Walcott-Miller following in Harper-Trout footsteps in Arizona Fall League",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/sebastian-walcott-and-aidan-miller-standing-out-in-the-arizona-fall-league",
+      "pubDate": "2026-11-03T21:55:42.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/sebastian-walcott-and-aidan-miller-standing-out-in-the-arizona-fall-league"
+        }
+      ]
+    },
+    {
+      "title": "Top 7 candidates to be traded this MLB offseason, from Drew Rasmussen to Teoscar Hernandez",
+      "summary": "The Rays' ace just helped lead the team to the World Series. He could be on the move this winter.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/top-7-candidates-to-be-traded-this-mlb-offseason-from-drew-rasmussen-to-teoscar-hernandez-212844949.html",
+      "pubDate": "2026-11-03T21:28:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/top-7-candidates-to-be-traded-this-mlb-offseason-from-drew-rasmussen-to-teoscar-hernandez-212844949.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB Issues Latest Proposal To MLBPA; Union Swiftly Rejects",
+      "summary": "Major League Baseball issued its latest proposal regarding a new collective bargaining agreement today. The key update is the league’s willingness to push the implementation of a salary cap/floor syst…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/mlb-proposal-salary-cap-2028-five-year-free-agency-million-league-minimum.html",
+      "pubDate": "2026-11-03T21:08:59.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/mlb-proposal-salary-cap-2028-five-year-free-agency-million-league-minimum.html"
+        }
+      ]
+    },
+    {
+      "title": "Report: Orioles Open To Trade Offers On Majority Of Roster",
+      "summary": "The Orioles are going into the offseason with a very open mind, reports Andy Kostka of The Baltimore Banner. Per Kostka’s report, first baseman Pete Alonso is the only untouchable player on the roster…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/report-orioles-open-to-trade-offers-on-majority-of-roster.html",
+      "pubDate": "2026-11-03T21:06:34.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/report-orioles-open-to-trade-offers-on-majority-of-roster.html"
+        }
+      ]
+    },
+    {
+      "title": "Finally healthy, Barriera 'falling in love with' baseball all over again in AFL",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/brandon-barriera-eager-to-prove-himself-in-afl",
+      "pubDate": "2026-11-03T21:01:33.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/brandon-barriera-eager-to-prove-himself-in-afl"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/brandon-barriera-eager-to-prove-himself-in-afl"
+        }
+      ]
+    },
+    {
+      "title": "MLB proposes delaying salary cap in new negotiations as Dec. 1 CBA expiration inches nearer",
+      "summary": "In the league's new proposal, the salary cap would not be instituted until the 2028 season to give teams time to prepare",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-cba-proposal-salary-cap-delay-2028/\n                    ",
+      "pubDate": "2026-11-03T20:59:34.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-cba-proposal-salary-cap-delay-2028/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "What the White Sox can learn from Milwaukee’s title run",
+      "summary": "Despite hitting 57 fewer homers than Chicago in 2026, Milwaukee manufactured enough offense to capture its first title",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/white-sox-learn-milwaukee-title-205800365.html",
+      "pubDate": "2026-11-03T20:58:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/white-sox-learn-milwaukee-title-205800365.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB Trade Rumors Free Agent Prediction Contest Now Open",
+      "summary": "The MLB Trade Rumors Free Agent Prediction Contest is now open! Click here to make your picks. The contest closes on Tuesday, November 10th at 11pm central time. Thousands of people participate in thi…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/mlb-trade-rumors-free-agent-prediction-contest-now-open.html",
+      "pubDate": "2026-11-03T20:54:24.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/mlb-trade-rumors-free-agent-prediction-contest-now-open.html"
+        }
+      ]
+    },
+    {
+      "title": "Major League Baseball proposes delaying salary cap start until 2028 in talks with players",
+      "summary": "MLB hadn’t proposed a salary cap since the negotiations that led to a 7 1/2-month strike in 1994 that forced cancellation of the World Series for the first time in 90 years.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/major-league-baseball-proposes-delaying-204341033.html",
+      "pubDate": "2026-11-03T20:43:41.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/major-league-baseball-proposes-delaying-204341033.html"
+        }
+      ]
+    },
+    {
+      "title": "Why MLB’s latest salary-cap proposal has major implications for Dodgers",
+      "summary": "The Dodgers were facing a pickle this offseason. MLB's newest CBA proposal might have offered a some important clarity",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/why-mlb-latest-salary-cap-203652497.html",
+      "pubDate": "2026-11-03T20:36:52.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/why-mlb-latest-salary-cap-203652497.html"
+        }
+      ]
+    },
+    {
+      "title": "Mariners hire millennial former high school teacher as manager",
+      "summary": "Jason Kanzler is reportedly the new Seattle Mariners manager",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mariners-hire-millennial-former-high-203559156.html",
+      "pubDate": "2026-11-03T20:35:59.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mariners-hire-millennial-former-high-203559156.html"
+        }
+      ]
+    },
+    {
+      "title": "'We'll see what happens': Martinez hits free agency after helping Rays win pennant",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/nick-martinez-enters-free-agency-after-helping-rays-win-al-pennant",
+      "pubDate": "2026-11-03T20:28:14.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/nick-martinez-enters-free-agency-after-helping-rays-win-al-pennant"
+        }
+      ]
+    },
+    {
+      "title": "Turang named MVP finalist, Misiorowski Cy Young finalist",
+      "summary": "Brewers have finalists in four of five major awards categories as Pat Murphy, Trevor Megill also get nods",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/turang-named-mvp-finalist-misiorowski-202659884.html",
+      "pubDate": "2026-11-03T20:26:59.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/turang-named-mvp-finalist-misiorowski-202659884.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Rockies injuries & transactions",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
+      "pubDate": "2026-11-03T20:14:00.000Z",
+      "source": "MLB.com (Rockies)",
+      "sourceId": "mlb-com-rockies",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
+        }
+      ]
+    },
+    {
+      "title": "Yankees split with Jazz Chisholm feels inevitable after $23 million decision",
+      "summary": "Jazz Chisholm's fate with the Yankees seems to be decided.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-split-jazz-chisholm-feels-201225673.html",
+      "pubDate": "2026-11-03T20:12:25.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-split-jazz-chisholm-feels-201225673.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers manager reveals Brian Cashman damage control after getting ‘caught’ bashing Yankees",
+      "summary": "Brewers manager Pat Murphy called Brian Cashman following his comments about the Yankees after Milwaukee won the World Series.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/brewers-manager-reveals-brian-cashman-200044045.html",
+      "pubDate": "2026-11-03T20:00:44.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/brewers-manager-reveals-brian-cashman-200044045.html"
+        }
+      ]
+    },
+    {
+      "title": "Should the Arizona Cardinals be sellers at the NFL Trade Deadline?",
+      "summary": "The Arizona Cardinals are coming up to a big decision for their future.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-sellers-nfl-trade-200000719.html",
+      "pubDate": "2026-11-03T20:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/arizona-cardinals-sellers-nfl-trade-200000719.html"
+        }
+      ]
+    },
+    {
+      "title": "Which MLB teams would have to cut payroll in latest salary cap proposal?",
       "summary": "MLB's latest proposal to the players would implement a salary cap for 2028 and require teams to cut spending.",
       "titleJa": null,
       "summaryJa": null,
@@ -85,26 +860,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/tarik-skubal-destination-predictions-more-194000743.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB proposes delaying salary cap in new negotiations as Dec. 1 CBA expiration inches nearer",
-      "summary": "In the league's new proposal, the salary cap would not be instituted until the 2028 season to give teams time to prepare",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-cba-proposal-salary-cap-delay-2028/\n                    ",
-      "pubDate": "2026-11-03T19:36:00.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-cba-proposal-salary-cap-delay-2028/\n                    "
         }
       ]
     },
@@ -456,6 +1211,28 @@
       ]
     },
     {
+      "title": "Mariners make Jason Kanzler their new manager in shocking hire",
+      "summary": "The Mariners went with a wild card for their new manager in 2027.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mariners-jason-kanzler-manager-shocking-174858180.html",
+      "pubDate": "2026-11-03T17:48:58.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mariners-jason-kanzler-manager-shocking-174858180.html"
+        }
+      ]
+    },
+    {
       "title": "Rays say they have &#39;every intention&#39; of Drew Rasmussen being part of 2027 rotation",
       "summary": "Amidst trade rumors, Rays President of Baseball Operations Erik Neander said the organization has \"every intention\" of having ace Drew Rasmussen anchoring the Tampa rotation in 2027.",
       "titleJa": null,
@@ -597,7 +1374,7 @@
     },
     {
       "title": "Seattle Mariners hire 36-year-old manager after hugely disappointing year",
-      "summary": "Seattle missed the playoffs in 2026 after nearly nearly the World Series a year earlier.",
+      "summary": "Seattle missed the playoffs in 2026 after nearly reaching the World Series a year earlier.",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://sports.yahoo.com/articles/seattle-mariners-hire-36-old-172452566.html",
@@ -705,6 +1482,28 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/11/mariners-to-hire-jason-kanzler-as-manager.html"
+        }
+      ]
+    },
+    {
+      "title": "Giants could go scorched earth with offseason trade frenzy — and no one on the team is safe",
+      "summary": "The Giants may be better off blowing the whole thing up.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/giants-could-scorched-earth-offseason-170740701.html",
+      "pubDate": "2026-11-03T17:07:40.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/giants-could-scorched-earth-offseason-170740701.html"
         }
       ]
     },
@@ -926,36 +1725,6 @@
           "name": "MLB.com (Astros)",
           "sourceId": "mlb-com-astros",
           "link": "https://www.mlb.com/astros/news/randy-flores-journey-to-astros-gm"
-        }
-      ]
-    },
-    {
-      "title": "This is the 2026 Arizona Fall League Home Run Derby field",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/dodgers/news/arizona-fall-league-home-run-derby-2026",
-      "pubDate": "2026-11-03T16:02:00.000Z",
-      "source": "MLB.com (Dodgers)",
-      "sourceId": "mlb-com-dodgers",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/arizona-fall-league-home-run-derby-2026"
-        },
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/arizona-fall-league-home-run-derby-2026"
-        },
-        {
-          "name": "MLB.com (Red Sox)",
-          "sourceId": "mlb-com-redsox",
-          "link": "https://www.mlb.com/redsox/news/arizona-fall-league-home-run-derby-2026"
         }
       ]
     },
@@ -2477,30 +3246,6 @@
           "name": "MLB.com (Cubs)",
           "sourceId": "mlb-com-cubs",
           "link": "https://www.mlb.com/cubs/news/pete-crow-armstrong-2026-nl-mvp-finalist"
-        }
-      ]
-    },
-    {
-      "title": "Latest Rockies injuries & transactions",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves",
-      "pubDate": "2026-11-03T01:03:00.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/rockies-injuries-and-roster-moves"
         }
       ]
     },
@@ -85958,743 +86703,6 @@
           "name": "MLB.com (Dodgers)",
           "sourceId": "mlb-com-dodgers",
           "link": "https://www.mlb.com/dodgers/news/yoshinobu-yamamoto-chris-sale-nlds-game-3"
-        }
-      ]
-    },
-    {
-      "title": "Elephant Rumblings: Johnson Undergoes Surgery; Back To The NL Playoffs",
-      "summary": "MLB news roundup",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/elephant-rumblings-johnson-undergoes-surgery-144100864.html",
-      "pubDate": "2026-10-06T14:41:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/elephant-rumblings-johnson-undergoes-surgery-144100864.html"
-        }
-      ]
-    },
-    {
-      "title": "Use FanDuel promo code to get $250 bonus bets by targeting Braves-Dodgers, Brewers-Padres, Southern Miss-Troy",
-      "summary": "Sign up and bet with the latest FanDuel promo code on Tuesday to get your bonus bets",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-braves-dodgers-brewers-padres-southern-miss-troy/\n                    ",
-      "pubDate": "2026-10-06T14:35:28.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "dodgers",
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-braves-dodgers-brewers-padres-southern-miss-troy/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "The Luis Perales for Jake Bennett Trade has not aged well for the Washington Nationals so far",
-      "summary": "Of all the deals Paul Toboni has made as Nats POBO, the Jake Bennett for Luis Perales swap is the one he might want back",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/luis-perales-jake-bennett-trade-143500154.html",
-      "pubDate": "2026-10-06T14:35:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/luis-perales-jake-bennett-trade-143500154.html"
-        }
-      ]
-    },
-    {
-      "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Dodgers-Braves, Brewers-Padres, MLB Tuesday",
-      "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for MLB, NFL betting on Tuesday",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-dodgers-braves-brewers-padres-mlb-tuesday/\n                    ",
-      "pubDate": "2026-10-06T14:23:01.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "dodgers",
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-dodgers-braves-brewers-padres-mlb-tuesday/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Yanks have seen this 0-2 script before and flipped it",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/yankees-0-2-hole-postseason-history",
-      "pubDate": "2026-10-06T14:21:48.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/yankees-0-2-hole-postseason-history"
-        }
-      ]
-    },
-    {
-      "title": "5 questions that will define Astros' offseason",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/astros/news/5-questions-facing-astros-in-2026-offseason",
-      "pubDate": "2026-10-06T14:21:47.000Z",
-      "source": "MLB.com (Astros)",
-      "sourceId": "mlb-com-astros",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/5-questions-facing-astros-in-2026-offseason"
-        }
-      ]
-    },
-    {
-      "title": "Like father, like son: Bruin Agbayani's journey toward Queens stops in the Arizona Fall League",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/mets/news/mets-arizona-fall-league-overview-2026",
-      "pubDate": "2026-10-06T14:18:07.000Z",
-      "source": "MLB.com (Mets)",
-      "sourceId": "mlb-com-mets",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Mets)",
-          "sourceId": "mlb-com-mets",
-          "link": "https://www.mlb.com/mets/news/mets-arizona-fall-league-overview-2026"
-        }
-      ]
-    },
-    {
-      "title": "Rockies No. 10 prospect leads Fall League contingent with return to the desert",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/rockies-arizona-fall-league-overview-2026",
-      "pubDate": "2026-10-06T14:17:46.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/rockies-arizona-fall-league-overview-2026"
-        }
-      ]
-    },
-    {
-      "title": "What is a Red Sox fan supposed to do after the season ends?",
-      "summary": "Hello and happy Tuesday, folks. Hope your week’s off to a good start. Believe it or not, there’s no Red Sox game on today. Or tomorrow. Or any day for the foreseeable future, actually. That means we’v…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/red-sox-fan-supposed-season-140000162.html",
-      "pubDate": "2026-10-06T14:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "redsox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/red-sox-fan-supposed-season-140000162.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves Minor League Recap: Isaiah Drake Records Hit in AFL",
-      "summary": "Yesterday saw another Atlanta Braves prospect show up in the Arizona Fall League, as Isaiah Drake got the start in left field for the Glendale Desert Dogs. Surprise Saguaros 8, Glendale Desert Dogs 7…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-minor-league-recap-isaiah-140000454.html",
-      "pubDate": "2026-10-06T14:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-minor-league-recap-isaiah-140000454.html"
-        }
-      ]
-    },
-    {
-      "title": "This Week in the Minors: Columbia Fireflies season in review",
-      "summary": "There was a lot of good developments this season",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/week-minors-columbia-fireflies-season-140000031.html",
-      "pubDate": "2026-10-06T14:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/week-minors-columbia-fireflies-season-140000031.html"
-        }
-      ]
-    },
-    {
-      "title": "A review of the first year of ABS challenges",
-      "summary": "We’ve now got a full season’s worth of data, so let’s take a deep dive.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/review-first-abs-challenges-140000270.html",
-      "pubDate": "2026-10-06T14:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/review-first-abs-challenges-140000270.html"
-        }
-      ]
-    },
-    {
-      "title": "Arizona Diamondbacks News 10/6: Bye, Bert",
-      "summary": "The D-backs play-by-play man for the last 14 years will not be returning",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/arizona-diamondbacks-news-10-6-140000049.html",
-      "pubDate": "2026-10-06T14:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/arizona-diamondbacks-news-10-6-140000049.html"
-        }
-      ]
-    },
-    {
-      "title": "The Opener: Rays, White Sox, Yamamoto",
-      "summary": "The Yankees dropped Game 2 on Monday in large part due to poor defense. They became the first team since 2010 to have more players make an error than get a hit (h/t OptaSTATS on X). 1. Rays beat Schli…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/the-opener-rays-white-sox-yamamoto.html",
-      "pubDate": "2026-10-06T13:50:44.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "whitesox",
-        "dodgers"
-      ],
-      "players": [
-        "yamamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/the-opener-rays-white-sox-yamamoto.html"
-        }
-      ]
-    },
-    {
-      "title": "Fred Claire, former Dodgers GM whose team won the &#39;88 World Series, dies",
-      "summary": "Fred Claire, a former sportswriter who was an unorthodox choice to be the Dodgers' general manager, helped turn the team into World Series champions in 1988.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/fred-claire-former-dodgers-gm-135037977.html",
-      "pubDate": "2026-10-06T13:50:37.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/fred-claire-former-dodgers-gm-135037977.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees commit four errors in ALDS Game 2 as familiar problem pushes their season to the brink vs. Rays",
-      "summary": "The Yankees made three of their four errors in the first inning on an ugly night for the New York defense",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/yankees-first-inning-errors-alds-game-2-rays/\n                    ",
-      "pubDate": "2026-10-06T13:38:19.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/yankees-first-inning-errors-alds-game-2-rays/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Stay or Go: Should the Mets bring Mark Vientos back for 2027 season?",
-      "summary": "Should the Mets move on from Mark Vientos this offseason?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/stay-mets-bring-mark-vientos-133117762.html",
-      "pubDate": "2026-10-06T13:31:17.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/stay-mets-bring-mark-vientos-133117762.html"
-        }
-      ]
-    },
-    {
-      "title": "Padres have some work to do as they arrive home in tight spot",
-      "summary": "News to know about your San Diego Padres and MLB for October 6, 2026.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/padres-arrive-home-tight-spot-133000828.html",
-      "pubDate": "2026-10-06T13:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/padres-arrive-home-tight-spot-133000828.html"
-        }
-      ]
-    },
-    {
-      "title": "How many innings will Chris Sale throw in Game 3?",
-      "summary": "What does Full Strength Chris Sale’s usage look like on Tuesday evening?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/many-innings-chris-sale-throw-130000769.html",
-      "pubDate": "2026-10-06T13:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/many-innings-chris-sale-throw-130000769.html"
-        }
-      ]
-    },
-    {
-      "title": "Tuesday Morning Texas Rangers Update",
-      "summary": "The latest on the once and future World Series champion Texas Rangers",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/tuesday-morning-texas-rangers-130000154.html",
-      "pubDate": "2026-10-06T13:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/tuesday-morning-texas-rangers-130000154.html"
-        }
-      ]
-    },
-    {
-      "title": "Blaze Alexander transformed from utility man to offensive threat in the first half",
-      "summary": "The Orioles acquired Blaze Alexander to provide infield depth, but he quickly emerged as one of the team’s best hitters.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/blaze-alexander-transformed-utility-man-130000854.html",
-      "pubDate": "2026-10-06T13:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/blaze-alexander-transformed-utility-man-130000854.html"
-        }
-      ]
-    },
-    {
-      "title": "How many new regulars will the Phillies have in their lineup in 2027?",
-      "summary": "At least some turnover is expected",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/many-regulars-phillies-lineup-2027-130000279.html",
-      "pubDate": "2026-10-06T13:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/many-regulars-phillies-lineup-2027-130000279.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers vs. Braves NLDS Game 3 picks: Atlanta already looking wise for holding back ace Chris Sale for Tuesday",
-      "summary": "Yoshinobu Yamamoto vs. Chris Sale in Dodgers-Braves NLDS Game 3: First one to a run wins?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/dodgers-vs-braves-nlds-game-3-picks-atlanta-already-looking-wise-for-holding-back-ace-chris-sale-for-tuesday/\n                    ",
-      "pubDate": "2026-10-06T12:56:39.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "yamamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/dodgers-vs-braves-nlds-game-3-picks-atlanta-already-looking-wise-for-holding-back-ace-chris-sale-for-tuesday/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1500 bonus bets by targeting Dodgers-Braves, Brewers-Padres on Tuesday",
-      "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB, NFL betting on Tuesday",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-dodgers-braves-brewers-padres-tuesday/\n                    ",
-      "pubDate": "2026-10-06T12:53:50.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "dodgers",
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-dodgers-braves-brewers-padres-tuesday/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Yankees staring at sweep after ALDS Game 2 loss to Rays; Falcons run roughshod over Saints on 'MNF'",
-      "summary": "Plus, Oregon got good news about star QB Dante Moore",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/yankees-sweep-alds-loss-rays-falcons-saints-mnf/\n                    ",
-      "pubDate": "2026-10-06T12:52:19.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/yankees-sweep-alds-loss-rays-falcons-saints-mnf/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "The season That Was: Ernie Clement",
-      "summary": "Taking a look at Clement’s 2025 season.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/season-ernie-clement-123600440.html",
-      "pubDate": "2026-10-06T12:36:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/season-ernie-clement-123600440.html"
-        }
-      ]
-    },
-    {
-      "title": "Mets Morning News: White Sox, Rays on cusp of ALCS",
-      "summary": "Your Tuesday morning dose of New York Mets and MLB news, notes, and links.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-morning-news-white-sox-123000409.html",
-      "pubDate": "2026-10-06T12:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets",
-        "whitesox"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-morning-news-white-sox-123000409.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees’ errors are only part of the problem for New York",
-      "summary": "The Yankees are on the verge of playoff elimination. Talk will be of their errors through two games, but their bats have gone cold.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-errors-only-part-problem-122124547.html",
-      "pubDate": "2026-10-06T12:21:24.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-errors-only-part-problem-122124547.html"
-        }
-      ]
-    },
-    {
-      "title": "Atlanta Braves News: Chris Sale Takes Mound in Game 3, Matt Olson Hank Aaron Award Finalist, More",
-      "summary": "Aces Clash in tlanta",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/atlanta-braves-news-chris-sale-120454597.html",
-      "pubDate": "2026-10-06T12:04:54.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/atlanta-braves-news-chris-sale-120454597.html"
-        }
-      ]
-    },
-    {
-      "title": "Guardians News: This Stinks",
-      "summary": "News and Notes for Tuesday, October 6th, 2026",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/guardians-news-stinks-120213029.html",
-      "pubDate": "2026-10-06T12:02:13.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/guardians-news-stinks-120213029.html"
-        }
-      ]
-    },
-    {
-      "title": "NLDS Game 3 viewing guide",
-      "summary": "Having lost home-field advantage after a Game 2 defeat, the Dodgers head to Atlanta needing at least one win to bring the series back to Dodger Stadium. Following heavy bullpen involvement in the prev…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/nlds-game-3-viewing-guide-120000306.html",
-      "pubDate": "2026-10-06T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/nlds-game-3-viewing-guide-120000306.html"
-        }
-      ]
-    },
-    {
-      "title": "Chicago Cubs news — Suzuki, Hoyer, Ricketts",
-      "summary": "Will Seiya stay or go? He’s one of several Cubs’ free agents that the front office need to make a tough decision on.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/chicago-cubs-news-suzuki-hoyer-120000500.html",
-      "pubDate": "2026-10-06T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [
-        "suzuki"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/chicago-cubs-news-suzuki-hoyer-120000500.html"
-        }
-      ]
-    },
-    {
-      "title": "Scaling the Rocks: The Rockies are looking ahead",
-      "summary": "Colorado Rockies news and links for Tuesday, October 6, 2026",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/scaling-rocks-rockies-looking-ahead-120000263.html",
-      "pubDate": "2026-10-06T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/scaling-rocks-rockies-looking-ahead-120000263.html"
-        }
-      ]
-    },
-    {
-      "title": "A Big Hurt: The 2006 Twins turn back into a pumpkin",
-      "summary": "Over in the blink of an eye",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/big-hurt-2006-twins-turn-120000194.html",
-      "pubDate": "2026-10-06T12:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/big-hurt-2006-twins-turn-120000194.html"
         }
       ]
     }
