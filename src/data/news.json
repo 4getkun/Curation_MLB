@@ -1,7 +1,408 @@
 {
-  "generatedAt": "2026-11-04T21:39:39.244Z",
+  "generatedAt": "2026-11-05T01:56:00.739Z",
   "count": 4000,
   "items": [
+    {
+      "title": "Arizona Diamondbacks: Play of the Year nominations",
+      "summary": "Which of these six plays deserves to win?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/arizona-diamondbacks-play-nominations-012605862.html",
+      "pubDate": "2026-11-05T01:26:05.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/arizona-diamondbacks-play-nominations-012605862.html"
+        }
+      ]
+    },
+    {
+      "title": "Who is Teruaki Sato? Introducing the next NPB star ready to make the jump to MLB",
+      "summary": "The 27-year-old slugger, who won the NPB Triple Crown in 2026, has some similarities to White Sox star Munetaka Murakami.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/who-is-teruaki-sato-introducing-the-next-npb-star-ready-to-make-the-jump-to-mlb-010705451.html",
+      "pubDate": "2026-11-05T01:07:05.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [
+        "murakami"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/who-is-teruaki-sato-introducing-the-next-npb-star-ready-to-make-the-jump-to-mlb-010705451.html"
+        }
+      ]
+    },
+    {
+      "title": "Angels Yet To Begin Interviewing GM Candidates While Awaiting Sale Approval",
+      "summary": "The Angels have yet to start interviewing candidates for their top position in baseball operations, interim general manager John Mozeliak tells reporters (including Jeff Fletcher of The Orange County…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/angels-yet-to-begin-interviewing-gm-candidates-while-awaiting-sale-approval.html",
+      "pubDate": "2026-11-05T01:06:59.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "angels"
+      ],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/angels-yet-to-begin-interviewing-gm-candidates-while-awaiting-sale-approval.html"
+        }
+      ]
+    },
+    {
+      "title": "Breaking down the Fall Stars Game participants by organization",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/2026-arizona-fall-league-fall-stars-by-organization",
+      "pubDate": "2026-11-05T00:30:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/2026-arizona-fall-league-fall-stars-by-organization"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/2026-arizona-fall-league-fall-stars-by-organization"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/2026-arizona-fall-league-fall-stars-by-organization"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/2026-arizona-fall-league-fall-stars-by-organization"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/2026-arizona-fall-league-fall-stars-by-organization"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/2026-arizona-fall-league-fall-stars-by-organization"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/2026-arizona-fall-league-fall-stars-by-organization"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/2026-arizona-fall-league-fall-stars-by-organization"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/2026-arizona-fall-league-fall-stars-by-organization"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/2026-arizona-fall-league-fall-stars-by-organization"
+        }
+      ]
+    },
+    {
+      "title": "Mets Notes: Bichette, Sato, First Base",
+      "summary": "Back in August, the Mets were connected to Japanese slugger Teruaki Sato, who is now available via the posting system. This week, a report from Tim Britton and Will Sammon of The Athletic suggests tha…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/mets-notes-bichette-sato-first-base.html",
+      "pubDate": "2026-11-04T23:50:45.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/mets-notes-bichette-sato-first-base.html"
+        }
+      ]
+    },
+    {
+      "title": "2027 South Side Sox Prospect Vote: Round 4",
+      "summary": "David Sandlin was voted our No. 3 prospect; now, who is the fourth-best in the White Sox system?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/2027-south-side-sox-prospect-233408993.html",
+      "pubDate": "2026-11-04T23:34:08.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "whitesox"
+      ],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/2027-south-side-sox-prospect-233408993.html"
+        }
+      ]
+    },
+    {
+      "title": "Offseason open chat and discussion: November 4",
+      "summary": "Even though the season is over, there is a lot going on over the next few weeks to discuss.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/offseason-open-chat-discussion-november-233000572.html",
+      "pubDate": "2026-11-04T23:30:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/offseason-open-chat-discussion-november-233000572.html"
+        }
+      ]
+    },
+    {
+      "title": "Pujols, Ensberg to interview for Astros manager opening (sources)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/albert-pujols-astros-manager-opening-interview",
+      "pubDate": "2026-11-04T23:29:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/albert-pujols-astros-manager-opening-interview"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/albert-pujols-astros-manager-opening-interview"
+        }
+      ]
+    },
+    {
+      "title": "For Padres pitching prospect Peña, AFL excellence could put him on verge of MLB debut",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/padres-francis-pena-excelling-in-arizona-fall-league-2026",
+      "pubDate": "2026-11-04T23:24:30.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/padres-francis-pena-excelling-in-arizona-fall-league-2026"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/padres-francis-pena-excelling-in-arizona-fall-league-2026"
+        }
+      ]
+    },
+    {
+      "title": "Free Agent Rankings: The Next 10",
+      "summary": "MLBTR published our ranking/contract predictions for the Top 50 Free Agents on Monday. We included an unranked list of an additional 24 honorable mentions, players who garnered some consideration for…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/free-agent-rankings-the-next-10.html",
+      "pubDate": "2026-11-04T22:54:18.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/free-agent-rankings-the-next-10.html"
+        }
+      ]
+    },
+    {
+      "title": "Mariners hire emerging talent Kanzler as next manager",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/jason-kanzler-mariners-manager",
+      "pubDate": "2026-11-04T22:37:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/jason-kanzler-mariners-manager"
+        }
+      ]
+    },
+    {
+      "title": "Why MLB&#39;s 2026 qualifying offers could be the last ones ever",
+      "summary": "Jake Bauers, David Bednar and six others have until Nov. 17 to decide on $23.15 million qualifying offers, and the system may not survive the lockout.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/why-mlbs-2026-qualifying-offers-222348472.html",
+      "pubDate": "2026-11-04T22:23:48.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/why-mlbs-2026-qualifying-offers-222348472.html"
+        }
+      ]
+    },
+    {
+      "title": "Phillies Likely To Pursue Left-Handed Setup Man",
+      "summary": "The Phillies have a long to-do list this offseason, with needs in the outfield, the bullpen and at third base (among others). Regarding the bullpen, Matt Gelb of The Athletic writes that Philadelphia…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/phillies-rumors-free-agency-left-handed-setup-catcher.html",
+      "pubDate": "2026-11-04T22:16:18.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/phillies-rumors-free-agency-left-handed-setup-catcher.html"
+        }
+      ]
+    },
+    {
+      "title": "Pirates offer Lowe qualifying offer amid conflicting contract projections",
+      "summary": "The Pirates need to do what it takes to bring back Lowe.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pirates-offer-lowe-qualifying-offer-221150520.html",
+      "pubDate": "2026-11-04T22:11:50.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pirates-offer-lowe-qualifying-offer-221150520.html"
+        }
+      ]
+    },
+    {
+      "title": "Tigers To Hire Kyle Hudson As First Base Coach",
+      "summary": "The Tigers are expected to add Kyle Hudson as their first base coach, per WEEI’s Rob Bradford. Hudson was most recently with the Red Sox as third base coach. Detroit moved on from first base coach Ant…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/tigers-to-hire-kyle-hudson-as-first-base-coach.html",
+      "pubDate": "2026-11-04T21:56:12.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/tigers-to-hire-kyle-hudson-as-first-base-coach.html"
+        }
+      ]
+    },
+    {
+      "title": "Cincinnati Reds name Joe Torres as new pitching coach",
+      "summary": "The Cleveland to Cincinnati coaching pipeline continues under manager Terry Francona.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/cincinnati-reds-name-joe-torres-212929613.html",
+      "pubDate": "2026-11-04T21:29:29.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/cincinnati-reds-name-joe-torres-212929613.html"
+        }
+      ]
+    },
     {
       "title": "Astros To Interview Albert Pujols, Morgan Ensberg For Managerial Job",
       "summary": "The Astros’ search for a new manager has two more candidates. Cardinals legend Albert Pujols will receive an interview this week, as first reported by Mike Rodriguez of Rompiendo Sports. Former Astro…",
@@ -225,33 +626,6 @@
       ]
     },
     {
-      "title": "Pujols to interview for Astros manager opening (sources)",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/albert-pujols-astros-manager-opening-interview",
-      "pubDate": "2026-11-04T20:57:42.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/albert-pujols-astros-manager-opening-interview"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/albert-pujols-astros-manager-opening-interview"
-        }
-      ]
-    },
-    {
       "title": "MLB rumors: The only Oriole not on the trading block, Rays' Drew Rasmussen plan and Astros add to manager hunt",
       "summary": "Here are the latest MLB trade and free agency rumors for Wednesday, Nov. 4",
       "titleJa": null,
@@ -321,6 +695,29 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/could-astros-hire-albert-pujols-202312003.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers owner Mark Walter’s potential $3 billion F1 sale takes surprising Red Sox twist",
+      "summary": "Boston Red Sox owner FSG is among the parties interested in buying Los Angeles Dodgers owner Mark Walter's Cadillac F1 team.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-owner-mark-walter-potential-201546619.html",
+      "pubDate": "2026-11-04T20:15:46.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers",
+        "redsox"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-owner-mark-walter-potential-201546619.html"
         }
       ]
     },
@@ -434,6 +831,28 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/former-cincinnati-reds-1st-round-194802394.html"
+        }
+      ]
+    },
+    {
+      "title": "Mets hire longtime MLB catcher A.J. Ellis as staff shakeup continues",
+      "summary": "The Mets are hiring A.J. Ellis as the team’s strategy coordinator, a source confirmed to The Post’s Mike Puma.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/mets-hire-longtime-mlb-catcher-193129994.html",
+      "pubDate": "2026-11-04T19:31:29.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/mets-hire-longtime-mlb-catcher-193129994.html"
         }
       ]
     },
@@ -825,6 +1244,46 @@
       ]
     },
     {
+      "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
+      "summary": "An impending lockout adds another complication to yet another pivotal offseason in Philadelphia.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
+      "pubDate": "2026-11-04T17:20:37.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html"
+        }
+      ]
+    },
+    {
+      "title": "Phillies Don Mattingly, Cristopher Sanchez, Jhoan Duran finalists for top awards",
+      "summary": "The Baseball Writers Association of America will announce the winners next week.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/phillies-don-mattingly-cristopher-sanchez-123750661.html",
+      "pubDate": "2026-11-04T17:20:37.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/phillies-don-mattingly-cristopher-sanchez-123750661.html"
+        }
+      ]
+    },
+    {
       "title": "Athletics Hire Cam Castro As General Manager",
       "summary": "We have a GM",
       "titleJa": null,
@@ -1063,7 +1522,7 @@
       ]
     },
     {
-      "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
+      "title": "Rosters for Sunday's AFL Fall Stars Game announced",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -1219,46 +1678,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/yankees-birthday-day-ryan-thompson-160000761.html"
-        }
-      ]
-    },
-    {
-      "title": "Where Phillies could shop this winter: 20 free-agent targets to watch",
-      "summary": "An impending lockout adds another complication to yet another pivotal offseason in Philadelphia.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html",
-      "pubDate": "2026-11-04T15:59:19.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/where-phillies-could-shop-winter-034500654.html"
-        }
-      ]
-    },
-    {
-      "title": "Phillies Don Mattingly, Cristopher Sanchez, Jhoan Duran finalists for top awards",
-      "summary": "The Baseball Writers Association of America will announce the winners next week.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/phillies-don-mattingly-cristopher-sanchez-123750661.html",
-      "pubDate": "2026-11-04T15:59:19.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/phillies-don-mattingly-cristopher-sanchez-123750661.html"
         }
       ]
     },
@@ -1635,7 +2054,7 @@
       ]
     },
     {
-      "title": "Pat Murphy patiently waits his turn, then reaches baseball summitt",
+      "title": "Pat Murphy patiently waits his turn, then reaches baseball summit",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -3783,28 +4202,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/more-free-agent-fits-guardians-175444847.html"
-        }
-      ]
-    },
-    {
-      "title": "Mariners hire Jason Kanzler as next manager",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/jason-kanzler-mariners-manager",
-      "pubDate": "2026-11-03T17:54:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/jason-kanzler-mariners-manager"
         }
       ]
     },
@@ -47304,7 +47701,9 @@
       "pubDate": "2026-10-19T19:54:37.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "dodgers"
+      ],
       "players": [
         "ohtani"
       ],
@@ -62654,33 +63053,6 @@
       ]
     },
     {
-      "title": "Astros part ways with manager Joe Espada",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/joe-espada-astros-part-ways",
-      "pubDate": "2026-10-14T15:58:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/joe-espada-astros-part-ways"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/joe-espada-astros-part-ways"
-        }
-      ]
-    },
-    {
       "title": "Shohei Ohtani will be in Dodgers’ Game 3 lineup against Brewers",
       "summary": "Manager Dave Roberts said Shohei Ohtani will bat anywhere from second to sixth with the two-time defending World Series champion Dodgers losing the first two games of the best-of-seven series.",
       "titleJa": null,
@@ -62899,6 +63271,16 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/breaking-news/article/astros-part-ways-with-manager-joe-espada-151403719.html"
+        },
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/joe-espada-astros-part-ways"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/joe-espada-astros-part-ways"
         }
       ]
     },
@@ -73168,7 +73550,9 @@
       "pubDate": "2026-10-11T05:29:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "whitesox"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -86345,353 +86729,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/mlb/article/dodgers-grind-down-chris-sale-as-braves-offensive-woes-continue-in-nlds-game-3-loss-033108738.html"
-        }
-      ]
-    },
-    {
-      "title": "Cubs BCB After Dark: Matt Shaw or Pedro Ramírez?",
-      "summary": "The late-night/early-morning spot for Cubs fans asks which young infielder should the Cubs trade.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/cubs-bcb-dark-matt-shaw-033003539.html",
-      "pubDate": "2026-10-07T03:30:03.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/cubs-bcb-dark-matt-shaw-033003539.html"
-        }
-      ]
-    },
-    {
-      "title": "Batting 5th, Ohtani reaches base twice but is still searching for swing",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3",
-      "pubDate": "2026-10-07T03:24:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3"
-        }
-      ]
-    },
-    {
-      "title": "Brewers manager Pat Murphy declines to censor himself as things go badly during in-game interview that&#39;s actually worth hearing",
-      "summary": "In-game interviews are generally worthless. Here's the exception.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/breaking-news/article/brewers-manager-pat-murphy-declines-to-censor-himself-as-things-go-badly-during-in-game-interview-thats-actually-worth-hearing-031951852.html",
-      "pubDate": "2026-10-07T03:19:51.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/breaking-news/article/brewers-manager-pat-murphy-declines-to-censor-himself-as-things-go-badly-during-in-game-interview-thats-actually-worth-hearing-031951852.html"
-        }
-      ]
-    },
-    {
-      "title": "Rojas exits NLDS Game 3 mid-AB with lower back pain, unlikely to play in Game 4",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/miguel-rojas-exits-nlds-game-3-with-back-injury",
-      "pubDate": "2026-10-07T03:13:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/miguel-rojas-exits-nlds-game-3-with-back-injury"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/miguel-rojas-exits-nlds-game-3-with-back-injury"
-        }
-      ]
-    },
-    {
-      "title": "Alex Cora Informs Phillies He Doesn’t Plan To Manage In 2027",
-      "summary": "As the Phillies mull their managerial decision, it appears one of the top speculative targets is off the board. Bob Nightengale of USA Today reports that Alex Cora informed Philadelphia president of b…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/report-alex-cora-informs-phillies-he-doesnt-plan-to-manage-in-2027.html",
-      "pubDate": "2026-10-07T03:09:50.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/report-alex-cora-informs-phillies-he-doesnt-plan-to-manage-in-2027.html"
-        }
-      ]
-    },
-    {
-      "title": "William Contreras&#39; home run gets Brewers back into NLDS Game 3 vs. Padres",
-      "summary": "William Contreras cut into the Padres' lead with a solo homer during the fourth inning of Game 3.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/william-contreras-home-run-gets-025757037.html",
-      "pubDate": "2026-10-07T02:57:57.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "padres"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/william-contreras-home-run-gets-025757037.html"
-        }
-      ]
-    },
-    {
-      "title": "Why the Dodgers can win without Ohtani and why it should scare the Braves",
-      "summary": "Shohei Ohtani hasn't homered since Aug. 18 and the Dodgers are 0-for-13 with runners in scoring position in the NLDS. Here's why it doesn't matter.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/why-dodgers-win-without-ohtani-025453149.html",
-      "pubDate": "2026-10-07T02:54:53.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/why-dodgers-win-without-ohtani-025453149.html"
-        }
-      ]
-    },
-    {
-      "title": "Yamamoto-Sale duel doesn't disappoint, and other takeaways from NLDS Game 3",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/braves-dodgers-nlds-game-3-takeaways",
-      "pubDate": "2026-10-07T02:39:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "yamamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/braves-dodgers-nlds-game-3-takeaways"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/braves-dodgers-nlds-game-3-takeaways"
-        }
-      ]
-    },
-    {
-      "title": "Mets&#39; Carson Benge, A.J. Ewing, Nolan McLean named to MLB Pipeline&#39;s 2026 All-Rookie Teams",
-      "summary": "A trio of Mets rookies was honored on Tuesday night after being named to MLB Pipeline's 2026 All-Rookie Teams.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mets-carson-benge-j-ewing-023609809.html",
-      "pubDate": "2026-10-07T02:36:09.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "mets"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mets-carson-benge-j-ewing-023609809.html"
-        }
-      ]
-    },
-    {
-      "title": "Phillies spurned again by Alex Cora, as manager says he&#39;s taking 2027 off",
-      "summary": "World Series winning manager Alex Cora will not be taking the Philadelphia Phillies job.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/phillies-spurned-again-alex-cora-022944764.html",
-      "pubDate": "2026-10-07T02:29:44.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/phillies-spurned-again-alex-cora-022944764.html"
-        }
-      ]
-    },
-    {
-      "title": "Diamondbacks To Part Ways With Pitching Coach Brian Kaplan",
-      "summary": "The Diamondbacks will not retain pitching coach Brian Kaplan, reports Steve Gilbert of MLB.com. The Snakes will look elsewhere after the expiration of Kaplan’s two-year contract. Kaplan, 44, was in hi…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/diamondbacks-to-part-ways-with-pitching-coach-brian-kaplan.html",
-      "pubDate": "2026-10-07T02:25:06.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/diamondbacks-to-part-ways-with-pitching-coach-brian-kaplan.html"
-        }
-      ]
-    },
-    {
-      "title": "Atlanta’s star hitters must perform like stars with elimination looming",
-      "summary": "Ronald Acuña Jr. (among others) has got to step it up — and soon. Otherwise, the show stops here.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/atlanta-star-hitters-must-perform-021528429.html",
-      "pubDate": "2026-10-07T02:15:28.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/atlanta-star-hitters-must-perform-021528429.html"
-        }
-      ]
-    },
-    {
-      "title": "Guardians must turn on power, lean on stars in Game 3",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/keys-for-guardians-to-win-game-3-extend-series",
-      "pubDate": "2026-10-07T02:01:12.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/keys-for-guardians-to-win-game-3-extend-series"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers’ Yoshinobu Yamamoto cements status with another October gem",
-      "summary": "ATLANTA — Build him a statue. Retire his number. Let him press his golden right hand into wet cement on Hollywood Boulevard. What’s the wait? Yoshinobu Yamamoto is only in his...",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-yoshinobu-yamamoto-cements-status-015719960.html",
-      "pubDate": "2026-10-07T01:57:19.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "yamamoto"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-yoshinobu-yamamoto-cements-status-015719960.html"
-        }
-      ]
-    },
-    {
-      "title": "What's next for Rockies? DePodesta lays out offseason priorities",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/rockies/news/paul-depodesta-discusses-rockies-plans-for-2027-offseason",
-      "pubDate": "2026-10-07T01:36:47.000Z",
-      "source": "MLB.com (Rockies)",
-      "sourceId": "mlb-com-rockies",
-      "teams": [
-        "rockies"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com (Rockies)",
-          "sourceId": "mlb-com-rockies",
-          "link": "https://www.mlb.com/rockies/news/paul-depodesta-discusses-rockies-plans-for-2027-offseason"
         }
       ]
     }
