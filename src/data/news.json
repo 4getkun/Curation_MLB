@@ -1,7 +1,1230 @@
 {
-  "generatedAt": "2026-11-12T20:13:58.227Z",
-  "count": 3940,
+  "generatedAt": "2026-11-13T01:17:59.202Z",
+  "count": 3961,
   "items": [
+    {
+      "title": "With 40-40 season, PCA left no doubt in winning NL MVP",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-wins-2026-nl-mvp",
+      "pubDate": "2026-11-13T01:11:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/pete-crow-armstrong-wins-2026-nl-mvp"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/pete-crow-armstrong-wins-2026-nl-mvp"
+        }
+      ]
+    },
+    {
+      "title": "Pete Crow-Armstrong&#39;s &#39;quantum leap&#39; landed an unlikely MVP campaign",
+      "summary": "PCA's magical 2026 season was impressive enough to beat out Dodgers superstar Shohei Ohtani for the NL's top award.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/pete-crow-armstrongs-quantum-leap-landed-an-unlikely-mvp-campaign-010902096.html",
+      "pubDate": "2026-11-13T01:09:02.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/pete-crow-armstrongs-quantum-leap-landed-an-unlikely-mvp-campaign-010902096.html"
+        }
+      ]
+    },
+    {
+      "title": "Turang finishes 3rd behind PCA, Ohtani in NL MVP voting",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/brice-turang-finishes-3rd-in-2026-nl-mvp-voting",
+      "pubDate": "2026-11-13T01:06:28.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/brice-turang-finishes-3rd-in-2026-nl-mvp-voting"
+        }
+      ]
+    },
+    {
+      "title": "Pete Crow-Armstrong, Yordan Alvarez unanimously claim MVP Awards",
+      "summary": "Turang finishes third, Misiorowski fifth with other Brewers receiving votes",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pete-crow-armstrong-yordan-alvarez-010216149.html",
+      "pubDate": "2026-11-13T01:02:16.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pete-crow-armstrong-yordan-alvarez-010216149.html"
+        }
+      ]
+    },
+    {
+      "title": "Shohei Ohtani lost the MVP to Pete Crow-Armstrong. What he needs to do to reclaim it",
+      "summary": "Shohei Ohtani's two-way skillset is so unique that any time he pitches and hits for an entire season, he's practically guaranteed the MVP. What did the Dodgers learn this past year?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/shohei-ohtani-lost-mvp-pete-010042464.html",
+      "pubDate": "2026-11-13T01:00:42.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/shohei-ohtani-lost-mvp-pete-010042464.html"
+        }
+      ]
+    },
+    {
+      "title": "Infield depth",
+      "summary": "Roster Review: Will Wagner",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/infield-depth-010000285.html",
+      "pubDate": "2026-11-13T01:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/infield-depth-010000285.html"
+        }
+      ]
+    },
+    {
+      "title": "Here are the MVP Award vote totals",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/2026-mlb-mvp-award-voting-results",
+      "pubDate": "2026-11-13T00:58:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/2026-mlb-mvp-award-voting-results"
+        }
+      ]
+    },
+    {
+      "title": "Pete Crow-Armstrong&#39;s journey from Harvard-Westlake to National League MVP",
+      "summary": "Last January, Pete Crow-Armstrong returned to O'Malley Field prepared to launch an MVP season with the Chicago Cubs, and he did.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pete-crow-armstrongs-journey-harvard-005506153.html",
+      "pubDate": "2026-11-13T00:55:06.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pete-crow-armstrongs-journey-harvard-005506153.html"
+        }
+      ]
+    },
+    {
+      "title": "Pete Crow-Armstrong named National League MVP… unanimously",
+      "summary": "The Cubs center fielder had one of the best seasons in the team’s 150-year history.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pete-crow-armstrong-named-national-005505597.html",
+      "pubDate": "2026-11-13T00:55:05.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pete-crow-armstrong-named-national-005505597.html"
+        }
+      ]
+    },
+    {
+      "title": "Ohtani finishes 2nd for NL MVP after stellar (though injury-dampened) campaign",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/shohei-ohtani-finishes-second-in-nl-mvp-voting-2026",
+      "pubDate": "2026-11-13T00:54:48.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "injury",
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/shohei-ohtani-finishes-second-in-nl-mvp-voting-2026"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-finishes-second-in-nl-mvp-voting-2026"
+        }
+      ]
+    },
+    {
+      "title": "Pete Crow-Armstrong is one of the greatest NL MVPs in history. Here&#39;s why.",
+      "summary": "Pete Crow-Armstrong hit 45 home runs with 41 steals in his 2026 MVP season.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/pete-crow-armstrong-one-greatest-005445254.html",
+      "pubDate": "2026-11-13T00:54:45.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/pete-crow-armstrong-one-greatest-005445254.html"
+        }
+      ]
+    },
+    {
+      "title": "Pete Crow-Armstrong Wins NL MVP Award",
+      "summary": "The Baseball Writers Association of America announced Thursday that Cubs center fielder Pete Crow-Armstrong has been named the National League’s Most Valuable Player. Shohei Ohtani and Brice Turang pl…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/pete-crow-amstrong-wins-nl-mvp-award.html",
+      "pubDate": "2026-11-13T00:53:52.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "cubs",
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/pete-crow-amstrong-wins-nl-mvp-award.html"
+        }
+      ]
+    },
+    {
+      "title": "Cubs star Pete Crow-Armstrong unanimously wins NL MVP over Shohei Ohtani",
+      "summary": "Crow-Armstrong posted MLB's seventh 40-40 season on offense, while being perhaps the best defensive player in baseball.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/breaking-news/article/cubs-star-pete-crow-armstrong-unanimously-wins-nl-mvp-over-shohei-ohtani-005333818.html",
+      "pubDate": "2026-11-13T00:53:33.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs",
+        "dodgers"
+      ],
+      "players": [
+        "ohtani"
+      ],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/breaking-news/article/cubs-star-pete-crow-armstrong-unanimously-wins-nl-mvp-over-shohei-ohtani-005333818.html"
+        }
+      ]
+    },
+    {
+      "title": "First-time MVP winners (both unanimous!) usher in new era of superstars",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/2026-mlb-mvp-award-winners",
+      "pubDate": "2026-11-13T00:52:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/2026-mlb-mvp-award-winners"
+        }
+      ]
+    },
+    {
+      "title": "Blue Jays apologize for Anthony Santander&#39;s posts, condemn Islamophobia",
+      "summary": "After receiving criticism for a weak response, the Toronto Blue Jays condemned Islamophobia and apologized for Anthony Santander's Instagram posts.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/blue-jays-apologize-anthony-santanders-005154971.html",
+      "pubDate": "2026-11-13T00:51:54.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/blue-jays-apologize-anthony-santanders-005154971.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees’ Cam Schlittler, Ben Rice finish fourth, ninth in AL MVP voting",
+      "summary": "Houston’s Yordan Alvarez took home the award, but the Yankees’ pair both placed high.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/yankees-cam-schlittler-ben-rice-004908718.html",
+      "pubDate": "2026-11-13T00:49:08.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/yankees-cam-schlittler-ben-rice-004908718.html"
+        }
+      ]
+    },
+    {
+      "title": "Padres Have Received Interest In Freddy Fermin, Luis Campusano",
+      "summary": "The Padres have gotten calls from other teams on catchers Freddy Fermin and Luis Campusano, writes Kevin Acee of The San Diego Union-Tribune. Acee reports that San Diego is likely to trade one of thos…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/padres-have-received-interest-in-freddy-fermin-luis-campusano.html",
+      "pubDate": "2026-11-13T00:48:49.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "padres"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/padres-have-received-interest-in-freddy-fermin-luis-campusano.html"
+        }
+      ]
+    },
+    {
+      "title": "Caminero finishes 2nd in AL MVP voting",
+      "summary": "Caminero falls a few votes shy of being the MVP",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/caminero-finishes-2nd-al-mvp-004726360.html",
+      "pubDate": "2026-11-13T00:47:26.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/caminero-finishes-2nd-al-mvp-004726360.html"
+        }
+      ]
+    },
+    {
+      "title": "Witt places 3rd in race for AL MVP, behind Alvarez, Caminero",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/bobby-witt-jr-finishes-3rd-for-al-mvp-award-2026",
+      "pubDate": "2026-11-13T00:42:37.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/bobby-witt-jr-finishes-3rd-for-al-mvp-award-2026"
+        }
+      ]
+    },
+    {
+      "title": "Alvarez wins AL MVP award after the Astros slugger made a run at the Triple Crown",
+      "summary": "Yordan Alvarez won the AL MVP award in a unanimous vote on Thursday night after making a run at the Triple Crown.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/alvarez-wins-al-mvp-award-004143018.html",
+      "pubDate": "2026-11-13T00:41:43.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/alvarez-wins-al-mvp-award-004143018.html"
+        }
+      ]
+    },
+    {
+      "title": "Winners of multiple major year-end awards",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-winners-of-multiple-major-year-end-awards-c300750168",
+      "pubDate": "2026-11-13T00:38:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-winners-of-multiple-major-year-end-awards-c300750168"
+        }
+      ]
+    },
+    {
+      "title": "Caminero finishes as runner-up in AL MVP Award voting",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/junior-caminero-second-place-2026-al-most-valuable-player-award",
+      "pubDate": "2026-11-13T00:35:27.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/junior-caminero-second-place-2026-al-most-valuable-player-award"
+        }
+      ]
+    },
+    {
+      "title": "Yordan caps awards season sweep with AL MVP",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/yordan-alvarez-wins-2026-al-mvp-award",
+      "pubDate": "2026-11-13T00:33:58.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/yordan-alvarez-wins-2026-al-mvp-award"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/yordan-alvarez-wins-2026-al-mvp-award"
+        }
+      ]
+    },
+    {
+      "title": "Yordan Alvarez has been one of MLB&#39;s elite hitters for years. Now he finally has an MVP to solidify it",
+      "summary": "Alvarez has routinely been in the AL MVP conversation since he stormed into the big leagues with the Astros in 2019. He finally broke through in his eighth season.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/yordan-alvarez-has-been-one-of-mlbs-elite-hitters-for-years-now-he-finally-has-an-mvp-to-solidify-it-002738245.html",
+      "pubDate": "2026-11-13T00:27:38.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/yordan-alvarez-has-been-one-of-mlbs-elite-hitters-for-years-now-he-finally-has-an-mvp-to-solidify-it-002738245.html"
+        }
+      ]
+    },
+    {
+      "title": "Astros&#39; Yordan Alvarez supplants Aaron Judge as AL MVP after eerily similar season",
+      "summary": "After nearly a decade as one of baseball's most productive hitters, the Astros' Yordan Alvarez is finally getting his due, earning 2026 AL MVP honors.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/astros-yordan-alvarez-supplants-aaron-002557122.html",
+      "pubDate": "2026-11-13T00:25:57.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/astros-yordan-alvarez-supplants-aaron-002557122.html"
+        }
+      ]
+    },
+    {
+      "title": "Yordan Alvarez Wins AL MVP Award",
+      "summary": "The Baseball Writers Association of America announced Thursday that Yordan Alvarez has been named the Most Valuable Player in the American League. Alvarez won the award unanimously, collecting all 30…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/yordan-alvarez-wins-al-mvp-award.html",
+      "pubDate": "2026-11-13T00:24:16.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/yordan-alvarez-wins-al-mvp-award.html"
+        }
+      ]
+    },
+    {
+      "title": "Should the Dodgers re-sign Tarik Skubal? What we know from GM meetings",
+      "summary": "The Dodgers have been aggressive in winters past. But with financial uncertainty ahead, how far are they willing to go for Tarik Skubal?",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-sign-tarik-skubal-know-002406444.html",
+      "pubDate": "2026-11-13T00:24:06.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "contract",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-sign-tarik-skubal-know-002406444.html"
+        }
+      ]
+    },
+    {
+      "title": "Astros star Yordan Alvarez unanimously wins AL MVP award after flirtation with Triple Crown",
+      "summary": "Alvarez was the best hitting baseball this year.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/breaking-news/article/astros-star-yordan-alvarez-unanimously-wins-al-mvp-award-after-flirtation-with-triple-crown-002354386.html",
+      "pubDate": "2026-11-13T00:23:54.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "astros"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/breaking-news/article/astros-star-yordan-alvarez-unanimously-wins-al-mvp-award-after-flirtation-with-triple-crown-002354386.html"
+        }
+      ]
+    },
+    {
+      "title": "Offseason open chat and discussion: November 12",
+      "summary": "Generally, how do we feel about Scott Boras’ player puns? I think they’re unfortunately corny. Anyways. Hot stove, Braves edition. ICYMI, we signed Tyler Freeman to a minor-league deal but the big blu…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/offseason-open-chat-discussion-november-000000308.html",
+      "pubDate": "2026-11-13T00:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/offseason-open-chat-discussion-november-000000308.html"
+        }
+      ]
+    },
+    {
+      "title": "Mets, Yankees Met With Alec Bohm At GM Meetings",
+      "summary": "Free agent infielder Alec Bohm met with both the Yankees and Mets at this week’s general managers’ meetings in Las Vegas, according to reporting from Ken Rosenthal and Will Sammon of The Athletic. The…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/mets-yankees-met-with-alec-bohm-at-gm-meetings.html",
+      "pubDate": "2026-11-12T23:40:14.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "contract",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/mets-yankees-met-with-alec-bohm-at-gm-meetings.html"
+        }
+      ]
+    },
+    {
+      "title": "Giants hire James Rowson as offensive coordinator",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/james-rowson-giants-offensive-coordinator",
+      "pubDate": "2026-11-12T23:27:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/james-rowson-giants-offensive-coordinator"
+        }
+      ]
+    },
+    {
+      "title": "Giants Hire James Rowson As Offensive Coordinator",
+      "summary": "5:05pm: The Giants have now officially announced Rowson’s hiring. 2:26pm: The Giants are expected to hire former Yankees hitting coach James Rowson to the big-league staff, as first reported by Robert…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/giants-to-hire-james-rowson-as-offensive-coordinator.html",
+      "pubDate": "2026-11-12T23:05:29.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/giants-to-hire-james-rowson-as-offensive-coordinator.html"
+        }
+      ]
+    },
+    {
+      "title": "Brewers To Have Fourth Option On Jeferson Quero",
+      "summary": "The Brewers will have a fourth option year for catcher Jeferson Quero in 2027, reports Matt Trueblood of Brewer Fanatic. That’s a notable development for the Brewers, as it will be easier to keep Quer…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/brewers-to-have-fourth-option-on-jeferson-quero.html",
+      "pubDate": "2026-11-12T22:36:36.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/brewers-to-have-fourth-option-on-jeferson-quero.html"
+        }
+      ]
+    },
+    {
+      "title": "Blue Jays GM Atkins says Santander's social media posts were 'extremely concerning, extremely disappointing'",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/bluejays/news/ross-atkins-disappointed-in-anthony-santander-for-social-media-posts",
+      "pubDate": "2026-11-12T22:00:00.000Z",
+      "source": "MLB.com (Blue Jays)",
+      "sourceId": "mlb-com-bluejays",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/ross-atkins-disappointed-in-anthony-santander-for-social-media-posts"
+        }
+      ]
+    },
+    {
+      "title": "Yankees Notes: Infield, Catcher, Bullpen",
+      "summary": "The Yankees have been busy checking in on various offseason pursuits, reports Jon Heyman of The New York Post, but might also slow-play the market. Heyman says the Yankees have talked to the Rangers a…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/yankees-notes-infield-catcher-bullpen.html",
+      "pubDate": "2026-11-12T21:35:23.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/yankees-notes-infield-catcher-bullpen.html"
+        }
+      ]
+    },
+    {
+      "title": "Braves sign reliever Evan Phillips to 3-year, $35 million contract, reuniting him with original team",
+      "summary": "With closer Raisel Iglesias a free agent, the Braves were in the market for late-inning reinforcements.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/braves-sign-reliever-evan-phillips-212814598.html",
+      "pubDate": "2026-11-12T21:28:14.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-sign-reliever-evan-phillips-212814598.html"
+        }
+      ]
+    },
+    {
+      "title": "Relief stalwart Phillips inks 3-year deal with Braves",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/evan-phillips-three-year-contract-with-braves",
+      "pubDate": "2026-11-12T21:18:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/evan-phillips-three-year-contract-with-braves"
+        }
+      ]
+    },
+    {
+      "title": "Rangers To Hire Tommy Joseph As Assistant Hitting Coach",
+      "summary": "The Rangers are expected to add Tommy Joseph to the coaching staff, per Shawn McFarland of the Dallas Morning News. Joseph will serve as an assistant under lead hitting coach Justin Viele. Joseph has…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/rangers-to-hire-tommy-joseph-as-assistant-hitting-coach.html",
+      "pubDate": "2026-11-12T21:07:27.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/rangers-to-hire-tommy-joseph-as-assistant-hitting-coach.html"
+        }
+      ]
+    },
+    {
+      "title": "Would Seiya Suzuki’s bat translate to T-Mobile Park?",
+      "summary": "Many a right-handed hitter have tried…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/seiya-suzuki-bat-translate-t-210530797.html",
+      "pubDate": "2026-11-12T21:05:30.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [
+        "suzuki"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/seiya-suzuki-bat-translate-t-210530797.html"
+        }
+      ]
+    },
+    {
+      "title": "New UnaniMIZ & Pat Murphy Threepeat shirts from Breaking T",
+      "summary": "The awards are rolling in for Milwaukee after the franchise’s first World Series title",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/unanimiz-pat-murphy-threepeat-shirts-210445219.html",
+      "pubDate": "2026-11-12T21:04:45.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/unanimiz-pat-murphy-threepeat-shirts-210445219.html"
+        }
+      ]
+    },
+    {
+      "title": "Injury-ravaged former Dodgers pitcher eyes shocking MLB comeback",
+      "summary": "Michael Kopech last pitched in Major League Baseball as a Dodgers reliever in 2025. Kopech only pitched 11 innings, posting a 2.45 ERA as he dealt with numerous injuries that...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/injury-ravaged-former-dodgers-pitcher-204921827.html",
+      "pubDate": "2026-11-12T20:49:21.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade",
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/injury-ravaged-former-dodgers-pitcher-204921827.html"
+        }
+      ]
+    },
+    {
+      "title": "Evan Phillips signs with Braves for 3 years, $35 million",
+      "summary": "The first Dodgers free agent is off the board, as reliever Evan Phillips signed a new contract with the Atlanta Braves for three years and $35 million. Phillips, per the Braves, will make $11 million…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/evan-phillips-signs-braves-3-204525661.html",
+      "pubDate": "2026-11-12T20:45:25.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/evan-phillips-signs-braves-3-204525661.html"
+        }
+      ]
+    },
+    {
+      "title": "Scott Boras lays bare the faults of the Cincinnati Reds franchise",
+      "summary": "Baseball’s biggest agent revealed how the Reds operate when asked about his superstar client Elly De La Cruz.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/scott-boras-lays-bare-faults-204457050.html",
+      "pubDate": "2026-11-12T20:44:57.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/scott-boras-lays-bare-faults-204457050.html"
+        }
+      ]
+    },
+    {
+      "title": "The latest MLB rumors and free-agent news",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "pubDate": "2026-11-12T20:42:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings"
+        }
+      ]
+    },
+    {
+      "title": "Atlanta Braves drop $35 million on reliever Evan Phillips",
+      "summary": "Atlanta bolstered its bullpen with a high-leverage reliever on a $35 million deal.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/atlanta-braves-drop-35-million-203804118.html",
+      "pubDate": "2026-11-12T20:38:04.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/atlanta-braves-drop-35-million-203804118.html"
+        }
+      ]
+    },
+    {
+      "title": "Evan Phillips signs 3-year, $35 million deal with Braves",
+      "summary": "Evan Phillips pitched well in 2026 after returning from Tommy John surgery.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/breaking-news/article/evan-phillips-signs-3-year-35-million-deal-with-braves-203656422.html",
+      "pubDate": "2026-11-12T20:36:56.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "injury",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/breaking-news/article/evan-phillips-signs-3-year-35-million-deal-with-braves-203656422.html"
+        }
+      ]
+    },
+    {
+      "title": "Braves sign reliever Evan Phillips to three-year, $35 million deal",
+      "summary": "The Braves re-unite with a guy they drafted in 2015 on a, to one’s surprise, large reliever deal.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/braves-sign-reliever-evan-phillips-203012289.html",
+      "pubDate": "2026-11-12T20:30:12.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade",
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-sign-reliever-evan-phillips-203012289.html"
+        }
+      ]
+    },
+    {
+      "title": "Dodgers suffer first big offseason loss as former closer gets giant contract from Braves",
+      "summary": "The Dodgers have suffered their first big free-agent loss of the offseason. Right-handed reliever and former closer Evan Phillips signed a three-year, $35 million deal with the Atlanta Braves on...",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/dodgers-suffer-first-big-offseason-202831471.html",
+      "pubDate": "2026-11-12T20:28:31.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/dodgers-suffer-first-big-offseason-202831471.html"
+        }
+      ]
+    },
+    {
+      "title": "Evan Phillips gets $35M from Atlanta, per reports",
+      "summary": "The righty reliever gets the first multi-year deal of the offseason",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/evan-phillips-gets-35m-atlanta-202809496.html",
+      "pubDate": "2026-11-12T20:28:09.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/evan-phillips-gets-35m-atlanta-202809496.html"
+        }
+      ]
+    },
+    {
+      "title": "MLB rumors: Phillies OF on the trading block, Blue Jays eye ex-Yankee, plus Mets, Mariners, Braves, Rays, more",
+      "summary": "Here are the latest news and rumors from the MLB hot stove on Thursday, Nov. 12",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-mariners-ian-happ-mets-alec-bohm-twins-rays/\n                    ",
+      "pubDate": "2026-11-12T20:15:02.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [
+        "bluejays",
+        "mets"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-mariners-ian-happ-mets-alec-bohm-twins-rays/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Second base a position in flux for Dodgers",
+      "summary": "As the offseason continues, let’s talk a little bit about the Dodgers infield. Specifically, who’s on second base. Or perhaps What’s on second base, even if that might confuse Elizabeth Holmes. Alex F…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/second-position-flux-dodgers-201200263.html",
+      "pubDate": "2026-11-12T20:12:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "dodgers"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/second-position-flux-dodgers-201200263.html"
+        }
+      ]
+    },
+    {
+      "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
+      "summary": "Who will land a new frontline ace or top slugger? Follow along as we keep track of all the moves",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/\n                    ",
+      "pubDate": "2026-11-12T20:09:42.000Z",
+      "source": "CBS Sports MLB",
+      "sourceId": "cbssports-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports MLB",
+          "sourceId": "cbssports-mlb",
+          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/\n                    "
+        }
+      ]
+    },
+    {
+      "title": "Braves pick up utility guy Tyler Freeman on minor league deal",
+      "summary": "A utility guy with defensive issues is a really weird thing to exist",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/braves-pick-utility-guy-tyler-200745350.html",
+      "pubDate": "2026-11-12T20:07:45.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-pick-utility-guy-tyler-200745350.html"
+        }
+      ]
+    },
     {
       "title": "Watch Astros prospects in Arizona Fall League playoffs",
       "summary": "",
@@ -154,27 +1377,22 @@
       ]
     },
     {
-      "title": "MLB rumors: Phillies OF on the trading block, Blue Jays eye ex-Yankee, plus Mets, Mariners, Twins, Rays, more",
-      "summary": "Here are the latest rumors from the MLB hot stove on Thursday, Nov. 12",
+      "title": "Braves seem done with disgraced star Jurickson Profar after he ‘fell off the face of the earth’",
+      "summary": "Jurickson Profar went MIA at a time when he may have needed to do some explaining.",
       "titleJa": null,
       "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-mariners-ian-happ-mets-alec-bohm-twins-rays/\n                    ",
-      "pubDate": "2026-11-12T19:24:10.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "bluejays",
-        "mets"
-      ],
+      "link": "https://sports.yahoo.com/articles/braves-seem-done-disgraced-star-191157808.html",
+      "pubDate": "2026-11-12T19:11:57.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
       "players": [],
-      "topics": [
-        "trade"
-      ],
+      "topics": [],
       "sources": [
         {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-mariners-ian-happ-mets-alec-bohm-twins-rays/\n                    "
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/braves-seem-done-disgraced-star-191157808.html"
         }
       ]
     },
@@ -197,6 +1415,28 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/11/brandon-marsh-underwent-hand-surgery-at-end-of-season.html"
+        }
+      ]
+    },
+    {
+      "title": "Jazz Chisholm Jr.’s reps meet with Yankees rival in MLB free agency twist",
+      "summary": "Jazz Chisholm Jr. may have a golden opportunity to show the Yankees they potentially made a mistake in not re-signing him.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/articles/jazz-chisholm-jr-reps-meet-190313339.html",
+      "pubDate": "2026-11-12T19:03:13.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/articles/jazz-chisholm-jr-reps-meet-190313339.html"
         }
       ]
     },
@@ -334,26 +1574,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/free-agent-poll-michael-king-181829786.html"
-        }
-      ]
-    },
-    {
-      "title": "The latest MLB rumors and free-agent news",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
-      "pubDate": "2026-11-12T18:15:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings"
         }
       ]
     },
@@ -2757,7 +3977,7 @@
       ]
     },
     {
-      "title": "In Vegas, baseball execs mine for hidden gems",
+      "title": "GM Meetings offer early Hot Stove takes",
       "summary": "",
       "titleJa": null,
       "summaryJa": null,
@@ -2767,7 +3987,9 @@
       "sourceId": "mlb-com-news",
       "teams": [],
       "players": [],
-      "topics": [],
+      "topics": [
+        "personnel"
+      ],
       "sources": [
         {
           "name": "MLB.com",
@@ -7175,30 +8397,6 @@
           "name": "MLB.com",
           "sourceId": "mlb-com-news",
           "link": "https://www.mlb.com/news/2026-mlb-manager-of-the-year-award-winners"
-        }
-      ]
-    },
-    {
-      "title": "Blue Jays GM Atkins says Santander's social media posts were 'extremely concerning, extremely disappointing'",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/bluejays/news/ross-atkins-disappointed-in-anthony-santander-for-social-media-posts",
-      "pubDate": "2026-11-11T01:23:00.000Z",
-      "source": "MLB.com (Blue Jays)",
-      "sourceId": "mlb-com-bluejays",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com (Blue Jays)",
-          "sourceId": "mlb-com-bluejays",
-          "link": "https://www.mlb.com/bluejays/news/ross-atkins-disappointed-in-anthony-santander-for-social-media-posts"
         }
       ]
     },
@@ -21095,7 +22293,9 @@
       "pubDate": "2026-11-04T23:29:00.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "astros"
+      ],
       "players": [],
       "topics": [
         "personnel"
@@ -29695,28 +30895,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/11/the-opener-deadlines-decisions-top-50-fas.html"
-        }
-      ]
-    },
-    {
-      "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
-      "summary": "Who will land a new frontline ace or top slugger? Follow along as we keep track of all the moves",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/\n                    ",
-      "pubDate": "2026-11-02T14:46:11.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/\n                    "
         }
       ]
     },
@@ -38322,9 +39500,7 @@
       "pubDate": "2026-10-29T22:24:24.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [
-        "astros"
-      ],
+      "teams": [],
       "players": [
         "imai"
       ],
@@ -85342,687 +86518,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/10/will-the-cardinals-trade-a-catcher-this-offseason.html"
-        }
-      ]
-    },
-    {
-      "title": "Joe Girardi defends Aaron Boone after bitter Yankees exit: ‘Best year of managing’",
-      "summary": "Aaron Boone has the support of one former Yankees manager to keep his job after another failed season ended in the ALDS.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/joe-girardi-defends-aaron-boone-005339860.html",
-      "pubDate": "2026-10-14T00:53:39.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/joe-girardi-defends-aaron-boone-005339860.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers sticking with Shohei Ohtani, who’s ‘adamant’ he’s healthy enough to play",
-      "summary": "LOS ANGELES — Shohei Ohtani has done very little at the plate for his last 24 games, is dealing with injuries to his left knee and right biceps, and has looked lost at times at the plate during the po…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dodgers-sticking-shohei-ohtani-adamant-003755636.html",
-      "pubDate": "2026-10-14T00:37:55.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dodgers-sticking-shohei-ohtani-adamant-003755636.html"
-        }
-      ]
-    },
-    {
-      "title": "Fall League prospects who could earn 40-man roster spots",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/arizona-fall-league-prospects-who-could-be-added-to-40-man-rosters",
-      "pubDate": "2026-10-14T00:26:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/arizona-fall-league-prospects-who-could-be-added-to-40-man-rosters"
-        },
-        {
-          "name": "MLB.com (Astros)",
-          "sourceId": "mlb-com-astros",
-          "link": "https://www.mlb.com/astros/news/arizona-fall-league-prospects-who-could-be-added-to-40-man-rosters"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/arizona-fall-league-prospects-who-could-be-added-to-40-man-rosters"
-        },
-        {
-          "name": "MLB.com (White Sox)",
-          "sourceId": "mlb-com-whitesox",
-          "link": "https://www.mlb.com/whitesox/news/arizona-fall-league-prospects-who-could-be-added-to-40-man-rosters"
-        }
-      ]
-    },
-    {
-      "title": "Dave Roberts says Shohei Ohtani is adamant he feels good enough, will remain in lineup",
-      "summary": "The Dodgers are not benching Shohei Ohtani despite lingering injuries and a long slump. Manager Dave Roberts says Ohtani believes he can play better.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/dave-roberts-says-shohei-ohtani-002507219.html",
-      "pubDate": "2026-10-14T00:25:07.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [
-        "injury",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/dave-roberts-says-shohei-ohtani-002507219.html"
-        }
-      ]
-    },
-    {
-      "title": "Here's the root of Ohtani's slump. Is there time to fix it?",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/shohei-ohtani-struggles-2026-postseason",
-      "pubDate": "2026-10-14T00:23:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/shohei-ohtani-struggles-2026-postseason"
-        },
-        {
-          "name": "MLB.com (Dodgers)",
-          "sourceId": "mlb-com-dodgers",
-          "link": "https://www.mlb.com/dodgers/news/shohei-ohtani-struggles-2026-postseason"
-        }
-      ]
-    },
-    {
-      "title": "Shohei Ohtani to remain in Dodgers lineup for NLCS Game 3 vs. Brewers despite struggles",
-      "summary": "Ohtani, who is nursing knee and biceps injuries, is 3 for 20 this postseason for the Dodgers, who trail the Brewers 0-2 in the NLCS",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/shohei-ohtani-injury-update-dodgers-brewers-nlcs-game-3-mlb-playoffs/\n                    ",
-      "pubDate": "2026-10-14T00:14:13.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/shohei-ohtani-injury-update-dodgers-brewers-nlcs-game-3-mlb-playoffs/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "SnakePit Post-season GDT, #13",
-      "summary": "Perhaps unexpected results in both games yesterday, though the Brewers won more games in the regular season than the Dodgers. Still, you’d probably have got long odds against Milwaukee winning the gam…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/snakepit-post-season-gdt-13-000000393.html",
-      "pubDate": "2026-10-14T00:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/snakepit-post-season-gdt-13-000000393.html"
-        }
-      ]
-    },
-    {
-      "title": "ALCS Game 2 Open Thread",
-      "summary": "Cleveland looks to take a commanding 2-0 lead back to Ohio, while Tampa Bay tries to defend the Trop in Game 2.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/alcs-game-2-open-thread-000000463.html",
-      "pubDate": "2026-10-14T00:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/alcs-game-2-open-thread-000000463.html"
-        }
-      ]
-    },
-    {
-      "title": "LIVE: Guardians-Rays ALCS Game 2 on TBS/HBO Max",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-2-starting-lineups-and-pitching-matchup",
-      "pubDate": "2026-10-14T00:00:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-2-starting-lineups-and-pitching-matchup"
-        }
-      ]
-    },
-    {
-      "title": "Open Thread Guardians @ Rays",
-      "summary": "Game two of the ALCS, the Guardians won game one. The starters tonight are Parker Messick (12-9, 2.56) for the Guardians and Freddy Peralta (10-11, 4.42) for the Rays. I picked up Parker in trade in O…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/open-thread-guardians-rays-235100907.html",
-      "pubDate": "2026-10-13T23:51:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/open-thread-guardians-rays-235100907.html"
-        }
-      ]
-    },
-    {
-      "title": "Shohei Ohtani will play in NLCS Game 3 as Dave Roberts feels breakthrough is near",
-      "summary": "Shohei Ohtani will be in the Dodgers' lineup for Game 3 of the NLCS. Dave Roberts explained what went into the decision.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/shohei-ohtani-play-nlcs-game-234634128.html",
-      "pubDate": "2026-10-13T23:46:34.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/shohei-ohtani-play-nlcs-game-234634128.html"
-        }
-      ]
-    },
-    {
-      "title": "Dave Roberts says Shohei Ohtani will be in NLCS Game 3 lineup despite hitting slump, lingering injuries",
-      "summary": "Ohtani is 1-for-7 through two games of the NLCS.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/dave-roberts-says-shohei-ohtani-will-be-in-nlcs-game-3-lineup-despite-hitting-slump-lingering-injuries-001708547.html",
-      "pubDate": "2026-10-13T23:45:32.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/dave-roberts-says-shohei-ohtani-will-be-in-nlcs-game-3-lineup-despite-hitting-slump-lingering-injuries-001708547.html"
-        }
-      ]
-    },
-    {
-      "title": "Shohei Ohtani to remain in Dodgers lineup despite hitting slump, injuries",
-      "summary": "Despite rampant speculation after the Dodgers' Game 2 NLCS loss, Shohei Ohtani is not being benched –– at least not yet",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/shohei-ohtani-remain-dodgers-lineup-233914373.html",
-      "pubDate": "2026-10-13T23:39:14.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/shohei-ohtani-remain-dodgers-lineup-233914373.html"
-        }
-      ]
-    },
-    {
-      "title": "Diamondbacks Pursued Luis García Jr. At Trade Deadline",
-      "summary": "The Nationals were shopping first baseman Luis García Jr. at the deadline and eventually traded him to the Yankees. Joel Sherman of The New York Post reports that the Diamondbacks were the runners-up…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/diamondbacks-pursued-luis-garcia-jr-at-trade-deadline.html",
-      "pubDate": "2026-10-13T23:38:03.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/diamondbacks-pursued-luis-garcia-jr-at-trade-deadline.html"
-        }
-      ]
-    },
-    {
-      "title": "League Championship Series Day Three Game Thread",
-      "summary": "Just one game today",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/league-championship-series-day-three-233740492.html",
-      "pubDate": "2026-10-13T23:37:40.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/league-championship-series-day-three-233740492.html"
-        }
-      ]
-    },
-    {
-      "title": "ALCS Game 2 GDT: Five Nights at Fastball Freddy’s",
-      "summary": "Rays play one more game at home before heading to the Sister Location (Cleveland)",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/alcs-game-2-gdt-five-233000790.html",
-      "pubDate": "2026-10-13T23:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/alcs-game-2-gdt-five-233000790.html"
-        }
-      ]
-    },
-    {
-      "title": "ALCS Game 2 Chat and Discussion",
-      "summary": "Can Cleveland take total control of the series?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/alcs-game-2-chat-discussion-233000705.html",
-      "pubDate": "2026-10-13T23:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/alcs-game-2-chat-discussion-233000705.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB Championship Series 2026 discussion thread: Day 3",
-      "summary": "Tonight, the Rays will look to even the series.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-championship-series-2026-discussion-233000800.html",
-      "pubDate": "2026-10-13T23:30:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-championship-series-2026-discussion-233000800.html"
-        }
-      ]
-    },
-    {
-      "title": "Dodgers To Keep Ohtani In Game 3 Lineup",
-      "summary": "October 13: Roberts announced on Tuesday that Ohtani will remain in the lineup (relayed by Jack Harris of The California Post). October 12: The Dodgers head back to Los Angeles with their hopes of a t…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/dodgers-to-consider-benching-ohtani-in-game-3.html",
-      "pubDate": "2026-10-13T23:16:49.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "ohtani"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/dodgers-to-consider-benching-ohtani-in-game-3.html"
-        }
-      ]
-    },
-    {
-      "title": "Freddy Peralta&#39;s gem, José Ramírez&#39;s blunder lead Rays past Guardians to tie ALCS",
-      "summary": "After a Game 1 loss, the Rays needed a Game 2 hero to avoid falling into an 0-2 hole at home. Freddy Peralta stepped up.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/breaking-news/live/guardians-box-score-live-updates-lineups-starting-pitchers-news-highlights-where-to-watch-game-2-alcs-230000938.html",
-      "pubDate": "2026-10-13T23:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/breaking-news/live/guardians-box-score-live-updates-lineups-starting-pitchers-news-highlights-where-to-watch-game-2-alcs-230000938.html"
-        }
-      ]
-    },
-    {
-      "title": "Guardians vs. Rays ALCS Game 2 picks: Tampa Bay hasn't lost consecutive games at home in 2 months",
-      "summary": "The Rays aim to return to their home dominance in Game 2 of the ALCS vs. the Guardians",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/guardians-vs-rays-alcs-game-2-picks-tampa-bay-hasnt-lost-consecutive-games-at-home-in-2-months/\n                    ",
-      "pubDate": "2026-10-13T22:45:42.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/guardians-vs-rays-alcs-game-2-picks-tampa-bay-hasnt-lost-consecutive-games-at-home-in-2-months/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Cardinals Open To Short-Term Addition At Third Base",
-      "summary": "The Cardinals enter the offseason with set names at several spots around the diamond. Masyn Winn and JJ Wetherholt have the middle infield covered. Alec Burleson is locked in at first base. Jordan Wal…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/cardinals-rumors-third-base-short-term-nolan-gorman.html",
-      "pubDate": "2026-10-13T22:00:11.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/cardinals-rumors-third-base-short-term-nolan-gorman.html"
-        }
-      ]
-    },
-    {
-      "title": "ALCS Game 2 gamethread: Guardians at Rays",
-      "summary": "The Milwaukee Brewers went up 2-0 over the reigning World Series champions, the Los Angeles Dodgers on Monday. That series moves to Los Angeles on Wednesday. So far, the talented young Brewers have lo…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/alcs-game-2-gamethread-guardians-220000173.html",
-      "pubDate": "2026-10-13T22:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/alcs-game-2-gamethread-guardians-220000173.html"
-        }
-      ]
-    },
-    {
-      "title": "Bill Mazeroski’s walk-off remains greatest home run in baseball history",
-      "summary": "The Pirates’ second baseman remains one of the most beloved players in baseball and Pittsburgh sports history.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/bill-mazeroski-walk-off-remains-215454000.html",
-      "pubDate": "2026-10-13T21:54:54.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/bill-mazeroski-walk-off-remains-215454000.html"
-        }
-      ]
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Rays-Guardians, MLB, college football on Tuesday",
-      "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB, NFL, college football betting on Tuesday",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-rays-guardians-mlb-college-football-tuesday/\n                    ",
-      "pubDate": "2026-10-13T21:27:35.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-rays-guardians-mlb-college-football-tuesday/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "ALCS GAME 2: GUARDIANS AT RAYS, Peralta vs. Messick, discussion",
-      "summary": "Let's get another one",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/alcs-game-two-guardians-rays-210806792.html",
-      "pubDate": "2026-10-13T21:08:06.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/alcs-game-two-guardians-rays-210806792.html"
-        }
-      ]
-    },
-    {
-      "title": "Use FanDuel promo code to get $350 bonus bets by targeting Guardians vs. Rays, college football, MLB Playoffs",
-      "summary": "Sign up and bet with the latest FanDuel promo code on Tuesday to get your bonus bets",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-guardians-vs-rays-college-football-mlb-playoffs/\n                    ",
-      "pubDate": "2026-10-13T21:03:35.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-guardians-vs-rays-college-football-mlb-playoffs/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Mariners interviewing Joe Espada with his Astros future in limbo",
-      "summary": "The Astros' current manager is interviewing for a divisional rival.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mariners-interviewing-joe-espada-astros-205840294.html",
-      "pubDate": "2026-10-13T20:58:40.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "astros"
-      ],
-      "players": [],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mariners-interviewing-joe-espada-astros-205840294.html"
-        }
-      ]
-    },
-    {
-      "title": "Use DraftKings promo code to get $200 in bonus bets, free NBA League Pass for Guardians-Rays, MLB on Tuesday",
-      "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for MLB, NFL, college football betting on Tuesday",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-for-guardians-rays-mlb-tuesday/\n                    ",
-      "pubDate": "2026-10-13T20:44:29.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-for-guardians-rays-mlb-tuesday/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Jake Bauers v. Yoshinobu Yamamoto: A Breakdown",
-      "summary": "Breaking down the best at-bat of the NLCS",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/jake-bauers-v-yoshinobu-yamamoto-204356312.html",
-      "pubDate": "2026-10-13T20:43:56.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [
-        "yamamoto"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/jake-bauers-v-yoshinobu-yamamoto-204356312.html"
         }
       ]
     }
