@@ -1,7 +1,460 @@
 {
-  "generatedAt": "2026-11-28T01:44:51.142Z",
-  "count": 3665,
+  "generatedAt": "2026-11-28T09:40:38.548Z",
+  "count": 3613,
   "items": [
+    {
+      "title": "Report: Cubs agree to contract with Japanese pitcher Hiromi Itoh",
+      "summary": "Itoh is joining countryman Teruaki Sato with the Cubs.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/articles/report-cubs-agree-contract-japanese-050434465.html",
+      "pubDate": "2026-11-28T05:04:34.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/articles/report-cubs-agree-contract-japanese-050434465.html"
+        }
+      ]
+    },
+    {
+      "title": "Blue Jays To Sign Jazz Chisholm Jr.",
+      "summary": "The Blue Jays are in agreement with infielder Jazz Chisholm Jr. on a one-year deal. Chisholm is guaranteed $34.5MM between a $6MM signing bonus, $12.5MM salary for 2027, and a $16MM player option (whi…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/blue-jays-nearing-deal-with-jazz-chisholm-jr.html",
+      "pubDate": "2026-11-28T05:00:19.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [
+        "trade",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/blue-jays-nearing-deal-with-jazz-chisholm-jr.html"
+        }
+      ]
+    },
+    {
+      "title": "Yankees news: Black Friday Shopping",
+      "summary": "The Yankees eyeing Padres’ catchers; Chisholm bolts for AL East rival, Yarbrough for Cubs; ranking pitcher contracts",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/articles/yankees-news-black-friday-shopping-050000583.html",
+      "pubDate": "2026-11-28T05:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs",
+        "padres"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/articles/yankees-news-black-friday-shopping-050000583.html"
+        }
+      ]
+    },
+    {
+      "title": "Active Cubs agree on deal with lefty reliever Yarbrough (source)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/ryan-yarbrough-cubs-contract",
+      "pubDate": "2026-11-28T04:35:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/ryan-yarbrough-cubs-contract"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/ryan-yarbrough-cubs-contract"
+        }
+      ]
+    },
+    {
+      "title": "Blue Jays Sign Rhylan Thomas To Minor League Deal",
+      "summary": "The Blue Jays have signed outfielder Rhylan Thomas to a minor league deal, according to his transactions tracker at MLB.com. The PSI Sports Management client will presumably in big league camp in spri…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/blue-jays-sign-rhylan-thomas-to-minor-league-deal.html",
+      "pubDate": "2026-11-28T04:33:16.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "bluejays"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/blue-jays-sign-rhylan-thomas-to-minor-league-deal.html"
+        }
+      ]
+    },
+    {
+      "title": "Cubs Sign Trevor Rogers",
+      "summary": "Nov. 27: The Cubs have officially announced the signing of Rogers. Per Jon Heyman of The New York Post, Rogers will make a salary of $17MM next year, followed by $23MM in the next three years, and the…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-trevor-rogers.html",
+      "pubDate": "2026-11-28T04:30:34.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-trevor-rogers.html"
+        }
+      ]
+    },
+    {
+      "title": "Japanese ace Hiromi Itoh, Cubs reportedly agree to free-agent contract",
+      "summary": "Itoh won the NPB equivalent of the Cy Young Award in 2025, compiling a 2.52 ERA and 195 strikeouts.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/article/japanese-ace-hiromi-itoh-cubs-reportedly-agree-to-free-agent-contract-041247354.html",
+      "pubDate": "2026-11-28T04:12:47.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "milestone"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/article/japanese-ace-hiromi-itoh-cubs-reportedly-agree-to-free-agent-contract-041247354.html"
+        }
+      ]
+    },
+    {
+      "title": "Cubs To Sign Ryan Yarbrough",
+      "summary": "The Cubs and left-hander Ryan Yarbrough have agreed to a one-year deal, reports Robert Murray of FanSided. The salary for the Excel Sports Management client has not yet been reported. Chicago technica…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-ryan-yarbrough.html",
+      "pubDate": "2026-11-28T04:10:55.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-ryan-yarbrough.html"
+        }
+      ]
+    },
+    {
+      "title": "Cubs sign LHP Ryan Yarbrough",
+      "summary": "The Cubs filled out their bullpen by adding a veteran sidearming left-hander in Ryan Yarbrough.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/articles/cubs-sign-lhp-ryan-yarbrough-040100346.html",
+      "pubDate": "2026-11-28T04:01:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/articles/cubs-sign-lhp-ryan-yarbrough-040100346.html"
+        }
+      ]
+    },
+    {
+      "title": "Itoh, last of Big 3 from NPB, reaches deal with Cubs (source)",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/hiromi-itoh-deal-cubs",
+      "pubDate": "2026-11-28T03:46:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/hiromi-itoh-deal-cubs"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/hiromi-itoh-deal-cubs"
+        }
+      ]
+    },
+    {
+      "title": "Casas makes GRAND long-awaited return to game action with LIDOM slam",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/triston-casas-hits-grand-slam-in-dominican-winter-league",
+      "pubDate": "2026-11-28T03:33:12.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/triston-casas-hits-grand-slam-in-dominican-winter-league"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/triston-casas-hits-grand-slam-in-dominican-winter-league"
+        }
+      ]
+    },
+    {
+      "title": "Hot Stove Rumors: Padres, Cubs, Imanaga, Bieber, Cardinals",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-27",
+      "pubDate": "2026-11-28T03:13:00.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [
+        "cubs",
+        "padres"
+      ],
+      "players": [
+        "imanaga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-27"
+        }
+      ]
+    },
+    {
+      "title": "Each team's best single-game performance of '26",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/each-team-s-best-single-game-performance-in-2026",
+      "pubDate": "2026-11-28T03:06:41.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/each-team-s-best-single-game-performance-in-2026"
+        },
+        {
+          "name": "MLB.com (Astros)",
+          "sourceId": "mlb-com-astros",
+          "link": "https://www.mlb.com/astros/news/each-team-s-best-single-game-performance-in-2026"
+        },
+        {
+          "name": "MLB.com (Cubs)",
+          "sourceId": "mlb-com-cubs",
+          "link": "https://www.mlb.com/cubs/news/each-team-s-best-single-game-performance-in-2026"
+        },
+        {
+          "name": "MLB.com (Dodgers)",
+          "sourceId": "mlb-com-dodgers",
+          "link": "https://www.mlb.com/dodgers/news/each-team-s-best-single-game-performance-in-2026"
+        },
+        {
+          "name": "MLB.com (Blue Jays)",
+          "sourceId": "mlb-com-bluejays",
+          "link": "https://www.mlb.com/bluejays/news/each-team-s-best-single-game-performance-in-2026"
+        },
+        {
+          "name": "MLB.com (Angels)",
+          "sourceId": "mlb-com-angels",
+          "link": "https://www.mlb.com/angels/news/each-team-s-best-single-game-performance-in-2026"
+        },
+        {
+          "name": "MLB.com (Rockies)",
+          "sourceId": "mlb-com-rockies",
+          "link": "https://www.mlb.com/rockies/news/each-team-s-best-single-game-performance-in-2026"
+        },
+        {
+          "name": "MLB.com (Mets)",
+          "sourceId": "mlb-com-mets",
+          "link": "https://www.mlb.com/mets/news/each-team-s-best-single-game-performance-in-2026"
+        },
+        {
+          "name": "MLB.com (Padres)",
+          "sourceId": "mlb-com-padres",
+          "link": "https://www.mlb.com/padres/news/each-team-s-best-single-game-performance-in-2026"
+        },
+        {
+          "name": "MLB.com (White Sox)",
+          "sourceId": "mlb-com-whitesox",
+          "link": "https://www.mlb.com/whitesox/news/each-team-s-best-single-game-performance-in-2026"
+        },
+        {
+          "name": "MLB.com (Red Sox)",
+          "sourceId": "mlb-com-redsox",
+          "link": "https://www.mlb.com/redsox/news/each-team-s-best-single-game-performance-in-2026"
+        }
+      ]
+    },
+    {
+      "title": "Cubs To Sign Hiromi Itoh",
+      "summary": "The Cubs and right-hander Hiromi Itoh have agreed to a deal, reports Robert Murray of FanSided. The specifics of the agreement have not yet been publicly reported. Itoh was posted by the Hokkaido Nipp…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-hiromi-itoh.html",
+      "pubDate": "2026-11-28T02:58:58.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [
+        "cubs"
+      ],
+      "players": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-hiromi-itoh.html"
+        },
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/articles/cubs-sign-npb-hander-hiromi-025858839.html"
+        }
+      ]
+    },
+    {
+      "title": "These milestones made 2026 a season to remember",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/mlb-milestones-2026",
+      "pubDate": "2026-11-28T02:38:52.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/mlb-milestones-2026"
+        }
+      ]
+    },
+    {
+      "title": "Brewers Sign Antonio Senzatela",
+      "summary": "November 27: The bonuses are based on games started, per a report from Ken Rosenthal, Katie Woo and Will Sammon of The Athletic. Senzatela will make $300K if he makes five starts and another $300K for…",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlbtraderumors.com/2026/11/brewers-sign-antonio-senzatela.html",
+      "pubDate": "2026-11-28T02:25:17.000Z",
+      "source": "MLB Trade Rumors",
+      "sourceId": "mlbtraderumors",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "sourceId": "mlbtraderumors",
+          "link": "https://www.mlbtraderumors.com/2026/11/brewers-sign-antonio-senzatela.html"
+        }
+      ]
+    },
+    {
+      "title": "Colorado Rockies Arizona Fall League Wrap-Up, 2026",
+      "summary": "How did all of the Rockies’ prospects fare in “MLB’s finishing school?”",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/articles/colorado-rockies-arizona-fall-league-020000451.html",
+      "pubDate": "2026-11-28T02:00:00.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [
+        "rockies"
+      ],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/articles/colorado-rockies-arizona-fall-league-020000451.html"
+        }
+      ]
+    },
     {
       "title": "Twins To Sign Ryan Fitzgerald To Major League Deal",
       "summary": "The Twins and utility player Ryan Fitzgerald are in agreement on a major league deal, reports Ken Rosenthal of The Athletic. The Twins have open 40-man spots and won’t need to make a corresponding mov…",
@@ -164,6 +617,26 @@
       ]
     },
     {
+      "title": "Utley has been trending toward HOF election. Here's why he belongs",
+      "summary": "",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://www.mlb.com/news/chase-utley-case-for-2027-hall-of-fame-class",
+      "pubDate": "2026-11-28T00:14:59.000Z",
+      "source": "MLB.com",
+      "sourceId": "mlb-com-news",
+      "teams": [],
+      "players": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "MLB.com",
+          "sourceId": "mlb-com-news",
+          "link": "https://www.mlb.com/news/chase-utley-case-for-2027-hall-of-fame-class"
+        }
+      ]
+    },
+    {
       "title": "Rockies Sign David Peterson",
       "summary": "November 27: The Rockies officially announced Peterson’s signing today. Lefty Hayden Harris was designated for assignment as the corresponding move. November 25: The Rockies and left-hander David Pete…",
       "titleJa": null,
@@ -225,31 +698,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/11/tigers-designate-beau-brieske-tsung-che-cheng-for-assignment.html"
-        }
-      ]
-    },
-    {
-      "title": "Blue Jays To Sign Jazz Chisholm Jr.",
-      "summary": "The Blue Jays are in agreement with infielder Jazz Chisholm Jr. on a one-year deal. Chisholm is guaranteed $34.5MM between a $6MM signing bonus, $12.5MM salary for 2027, and a $16MM player option (whi…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/11/blue-jays-nearing-deal-with-jazz-chisholm-jr.html",
-      "pubDate": "2026-11-27T22:47:19.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "bluejays"
-      ],
-      "players": [],
-      "topics": [
-        "trade",
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/11/blue-jays-nearing-deal-with-jazz-chisholm-jr.html"
         }
       ]
     },
@@ -509,31 +957,6 @@
       ]
     },
     {
-      "title": "Hot Stove Rumors: Padres, Cubs, Imanaga, Bieber, Cardinals",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-27",
-      "pubDate": "2026-11-27T21:45:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [
-        "cubs",
-        "padres"
-      ],
-      "players": [
-        "imanaga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-27"
-        }
-      ]
-    },
-    {
       "title": "Blue Jays signing ex-Yankees All-Star Jazz Chisholm Jr.",
       "summary": "Blue Jays add former Yankees infielder who had a 30-30 season in 2025.",
       "titleJa": null,
@@ -630,7 +1053,7 @@
     },
     {
       "title": "Jazz Chisholm heading to Blue Jays in Yankees offseason twist",
-      "summary": "Jazz Chisholm Jr. is staying in the division.",
+      "summary": "The talented and polarizing infielder is now a former Yankee and sudden rival.",
       "titleJa": null,
       "summaryJa": null,
       "link": "https://sports.yahoo.com/mlb/articles/jazz-chisholm-heading-blue-jays-212957843.html",
@@ -1108,6 +1531,28 @@
       ]
     },
     {
+      "title": "After up-and-down run with Phillies, Alec Bohm moves on to Kansas City",
+      "summary": "Bohm was the Phils’ top pick in the 2018 draft. Another top pick, Aidan Miller, could succeed him at third base.",
+      "titleJa": null,
+      "summaryJa": null,
+      "link": "https://sports.yahoo.com/mlb/articles/down-run-phillies-alec-bohm-132221781.html",
+      "pubDate": "2026-11-27T18:07:31.000Z",
+      "source": "Yahoo Sports MLB",
+      "sourceId": "yahoo-mlb",
+      "teams": [],
+      "players": [],
+      "topics": [
+        "draft"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Sports MLB",
+          "sourceId": "yahoo-mlb",
+          "link": "https://sports.yahoo.com/mlb/articles/down-run-phillies-alec-bohm-132221781.html"
+        }
+      ]
+    },
+    {
       "title": "RHP Jiménez continues comeback story, agrees to Minors deal with Rangers (source)",
       "summary": "",
       "titleJa": null,
@@ -1254,28 +1699,6 @@
       ]
     },
     {
-      "title": "After up-and-down run with Phillies, Alec Bohm moves on to Kansas City",
-      "summary": "Bohm was the Phils’ top pick in the 2018 draft. Another top pick, Aidan Miller, could succeed him at third base.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/articles/down-run-phillies-alec-bohm-132221781.html",
-      "pubDate": "2026-11-27T17:41:02.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "draft"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/articles/down-run-phillies-alec-bohm-132221781.html"
-        }
-      ]
-    },
-    {
       "title": "Shohei Ohtani gets real on two-way status for Dodgers in Japanese interview",
       "summary": "Shohei Ohtani made his thoughts very clear on the idea of being a two-way star.",
       "titleJa": null,
@@ -1363,30 +1786,6 @@
           "name": "MLB Trade Rumors",
           "sourceId": "mlbtraderumors",
           "link": "https://www.mlbtraderumors.com/2026/11/phillies-re-sign-brett-harris-andrew-hoffmann-moises-chace-on-minor-league-deals.html"
-        }
-      ]
-    },
-    {
-      "title": "Cubs Sign Trevor Rogers",
-      "summary": "Nov. 27: The Cubs have officially announced the signing of Rogers. Nov. 23: The Cubs have made their first big move on the pitching front. Chicago is reportedly in agreement with starter Trevor Rogers…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-trevor-rogers.html",
-      "pubDate": "2026-11-27T17:05:34.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [
-        "cubs"
-      ],
-      "players": [],
-      "topics": [
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-trevor-rogers.html"
         }
       ]
     },
@@ -5796,26 +6195,6 @@
       ]
     },
     {
-      "title": "Brewers Sign Antonio Senzatela",
-      "summary": "The Brewers announced that they have signed right-hander Antonio Senzatela to a one-year contract. Will Sammon of The Athletic reports that the Republik Sports client will make $4.75MM, with a chance…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/11/brewers-sign-antonio-senzatela.html",
-      "pubDate": "2026-11-25T20:05:17.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/11/brewers-sign-antonio-senzatela.html"
-        }
-      ]
-    },
-    {
       "title": "Dodgers’ haul for being swept in the 2026 NLCS is $141,207 per share",
       "summary": "The Dodgers get 12% of the pool for losing in the NLCS.",
       "titleJa": null,
@@ -9383,7 +9762,9 @@
       "pubDate": "2026-11-24T17:57:29.000Z",
       "source": "MLB.com",
       "sourceId": "mlb-com-news",
-      "teams": [],
+      "teams": [
+        "cubs"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -48673,7 +49054,9 @@
       "pubDate": "2026-11-10T18:47:25.000Z",
       "source": "MLB.com (Blue Jays)",
       "sourceId": "mlb-com-bluejays",
-      "teams": [],
+      "teams": [
+        "bluejays"
+      ],
       "players": [],
       "topics": [],
       "sources": [
@@ -80735,1352 +81118,6 @@
           "name": "Yahoo Sports MLB",
           "sourceId": "yahoo-mlb",
           "link": "https://sports.yahoo.com/articles/pirates-add-veteran-starting-pitcher-095011574.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees news: Japanese star Teruaki Sato a good fit for Yanks?",
-      "summary": "Sato in a bidding war; the AL East proves competitive balance; what to get out of deadline acquisition",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/yankees-news-japanese-star-teruaki-090000407.html",
-      "pubDate": "2026-10-29T09:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/yankees-news-japanese-star-teruaki-090000407.html"
-        }
-      ]
-    },
-    {
-      "title": "A closer look at just how dominant the Brewers were this October",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/key-stats-from-brewers-2026-world-series-win",
-      "pubDate": "2026-10-29T08:26:19.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/key-stats-from-brewers-2026-world-series-win"
-        }
-      ]
-    },
-    {
-      "title": "A look at what went wrong in Fall Classic, as Rays met their match in Brewers",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/takeaways-from-rays-world-series-loss-to-brewers",
-      "pubDate": "2026-10-29T08:26:12.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/takeaways-from-rays-world-series-loss-to-brewers"
-        }
-      ]
-    },
-    {
-      "title": "World Series 2026: For Milwaukee Brewers, finally winning a title is a celebration decades in the making",
-      "summary": "The 2026 Brewers were a complete collective, built meticulously from the inside out, from the bottom up.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/world-series-2026-for-milwaukee-brewers-finally-winning-a-title-is-a-celebration-decades-in-the-making-082230527.html",
-      "pubDate": "2026-10-29T08:22:30.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/world-series-2026-for-milwaukee-brewers-finally-winning-a-title-is-a-celebration-decades-in-the-making-082230527.html"
-        }
-      ]
-    },
-    {
-      "title": "'It’s reality now': Crew execs, former players embrace title decades in the making",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/brewers-executives-former-players-2026-world-series-win",
-      "pubDate": "2026-10-29T08:03:42.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/brewers-executives-former-players-2026-world-series-win"
-        }
-      ]
-    },
-    {
-      "title": "Brewers win first World Series in 57-year history",
-      "summary": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/brewers-win-first-world-series-075642497.html",
-      "pubDate": "2026-10-29T07:56:42.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/brewers-win-first-world-series-075642497.html"
-        }
-      ]
-    },
-    {
-      "title": "World Series 2026: For the Rays, being the best team in the American League simply wasn&#39;t enough",
-      "summary": "It's unclear if anything could've sufficiently equipped the Rays to take on the buzzsaw that was the 2026 Brewers.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/world-series-2026-for-the-rays-being-the-best-team-in-the-american-league-simply-wasnt-enough-074822560.html",
-      "pubDate": "2026-10-29T07:48:22.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/world-series-2026-for-the-rays-being-the-best-team-in-the-american-league-simply-wasnt-enough-074822560.html"
-        }
-      ]
-    },
-    {
-      "title": "Rasmussen lauds Rays, ponders 2027 after starting Game 5 on short rest",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/drew-rasmussen-2026-world-series-game-5-start",
-      "pubDate": "2026-10-29T07:33:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/drew-rasmussen-2026-world-series-game-5-start"
-        }
-      ]
-    },
-    {
-      "title": "After dream season, Rays' World Series wishes crash back down to earth",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/rays-lose-2026-world-series-to-brewers",
-      "pubDate": "2026-10-29T07:24:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/rays-lose-2026-world-series-to-brewers"
-        }
-      ]
-    },
-    {
-      "title": "'Rock of our clubhouse': Martinez reflects on season with Rays, future",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/nick-martinez-future-with-rays-unclear-after-serving-as-clubhouse-leader-in-2026",
-      "pubDate": "2026-10-29T07:21:27.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/nick-martinez-future-with-rays-unclear-after-serving-as-clubhouse-leader-in-2026"
-        }
-      ]
-    },
-    {
-      "title": "One of the best postseason performances ever? Ashby just did it",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/aaron-ashby-delivers-historic-playoff-run-to-aid-brewers-world-series",
-      "pubDate": "2026-10-29T07:17:38.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/aaron-ashby-delivers-historic-playoff-run-to-aid-brewers-world-series"
-        }
-      ]
-    },
-    {
-      "title": "Milwaukee’s wait is over: ‘Better than you think it would be’",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/brewers-beat-rays-game-5-win-2026-world-series",
-      "pubDate": "2026-10-29T07:07:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/brewers-beat-rays-game-5-win-2026-world-series"
-        }
-      ]
-    },
-    {
-      "title": "Phillies&#39; rotation is set, but they can&#39;t procrastinate on adding depth",
-      "summary": "Late-season injuries left the Phillies searching for innings in back-to-back years. Four possible additions could keep them from scrambling again.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/phillies-rotation-set-cant-procrastinate-070000601.html",
-      "pubDate": "2026-10-29T07:00:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/phillies-rotation-set-cant-procrastinate-070000601.html"
-        }
-      ]
-    },
-    {
-      "title": "'How awesome is this?' Pratt sets World Series rookie record to help Crew to 1st title",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/cooper-pratt-world-series-rookie-record-six-straight-hits",
-      "pubDate": "2026-10-29T06:58:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/cooper-pratt-world-series-rookie-record-six-straight-hits"
-        }
-      ]
-    },
-    {
-      "title": "Crew shouts out family (and Ueck) with custom bottles of celebratory bubbly",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/brewers-celebratory-champagne-bottles-families-bob-uecker",
-      "pubDate": "2026-10-29T06:29:18.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/brewers-celebratory-champagne-bottles-families-bob-uecker"
-        }
-      ]
-    },
-    {
-      "title": "Champs twice in one year! Brewers' Venezuelan trio pulls off rare feat with WBC, WS wins",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/jackson-chourio-william-contreras-antonio-senzatela-2026-world-baseball-classic-world-series",
-      "pubDate": "2026-10-29T06:20:30.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/jackson-chourio-william-contreras-antonio-senzatela-2026-world-baseball-classic-world-series"
-        }
-      ]
-    },
-    {
-      "title": "Miz's scoreless start sets up historic clinch",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/jacob-misiorowski-2026-world-series-game-5-start",
-      "pubDate": "2026-10-29T06:10:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/jacob-misiorowski-2026-world-series-game-5-start"
-        }
-      ]
-    },
-    {
-      "title": "Mighty Brewers prove they're an unbeatable crew, capture first World Series!",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/brewers-win-world-series-2026",
-      "pubDate": "2026-10-29T06:07:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/brewers-win-world-series-2026"
-        }
-      ]
-    },
-    {
-      "title": "The Miz takes Brewers to promised land: World Series champion, Cy Young in-waiting",
-      "summary": "Jacob Misiorowski left Game 5 with a cramp one out shy of six scoreless inning. Here's what the Brewers ace said after clinching the title.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/miz-takes-brewers-promised-land-055129185.html",
-      "pubDate": "2026-10-29T05:51:29.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/miz-takes-brewers-promised-land-055129185.html"
-        }
-      ]
-    },
-    {
-      "title": "World Series 2026: 10 wild stats from the Brewers&#39; first title",
-      "summary": "There has never been a team quite like the 2026 Brewers.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/world-series-2026-10-wild-stats-from-the-brewers-first-title-054507073.html",
-      "pubDate": "2026-10-29T05:45:07.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/world-series-2026-10-wild-stats-from-the-brewers-first-title-054507073.html"
-        }
-      ]
-    },
-    {
-      "title": "'I've waited my whole life for this': Brewers fans take in title-clinching win",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/brewers-fans-celebrate-world-series-title-at-american-family-field",
-      "pubDate": "2026-10-29T05:40:05.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/brewers-fans-celebrate-world-series-title-at-american-family-field"
-        }
-      ]
-    },
-    {
-      "title": "Extra rest a boon to Brewers in World Series",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
-      "pubDate": "2026-10-29T05:39:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series"
-        }
-      ]
-    },
-    {
-      "title": "Contreras honored with World Series MVP for prowess behind the plate",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/william-contreras-wins-2026-world-series-mvp",
-      "pubDate": "2026-10-29T05:18:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/william-contreras-wins-2026-world-series-mvp"
-        }
-      ]
-    },
-    {
-      "title": "The most important stories of 2026: #3 — Rafael Devers flips the script",
-      "summary": "There’s something to be said about sticking it to your detractors, especially when in it proves you’re The Man.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/most-important-stories-2026-3-045237631.html",
-      "pubDate": "2026-10-29T04:52:37.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/most-important-stories-2026-3-045237631.html"
-        }
-      ]
-    },
-    {
-      "title": "Yankees Important 2026-2027 Offseason Dates",
-      "summary": "A roundup of all dates to note for the 2026-2027 offseason.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/york-yankees-important-2026-2027-174500808.html",
-      "pubDate": "2026-10-29T04:36:55.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/york-yankees-important-2026-2027-174500808.html"
-        }
-      ]
-    },
-    {
-      "title": "Watch Milwaukee Brewers&#39; raucous celebrations after winning World Series",
-      "summary": "The Milwaukee Brewers are World Series champions. Check out how they celebrated from the field to the locker room.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/watch-milwaukee-brewers-raucous-celebrations-042728459.html",
-      "pubDate": "2026-10-29T04:27:28.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/watch-milwaukee-brewers-raucous-celebrations-042728459.html"
-        }
-      ]
-    },
-    {
-      "title": "Watch the end of every World Series since 1943",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/28/d4c6958c-9621499a-94f2db94-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
-      "pubDate": "2026-10-29T04:26:53.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/28/d4c6958c-9621499a-94f2db94-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
-        }
-      ]
-    },
-    {
-      "title": "Christian Yelich pays heartfelt tribute to Bob Uecker as Brewers finally win World Series",
-      "summary": "Bob Uecker’s presence has remained a big part of the Brewers' culture.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/christian-yelich-pays-heartfelt-tribute-041758814.html",
-      "pubDate": "2026-10-29T04:17:58.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/christian-yelich-pays-heartfelt-tribute-041758814.html"
-        }
-      ]
-    },
-    {
-      "title": "Jacob Misiorowski wraps breakout Brewers year with World Series title and a reminder that best is yet to come",
-      "summary": "Misiorowski played the rightful role of ace in Game 5 as he led the Brewers to their first championship",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/jacob-misiorowski-brewers-2026-world-series/\n                    ",
-      "pubDate": "2026-10-29T04:07:18.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/jacob-misiorowski-brewers-2026-world-series/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Check out all the top plays from the 2026 World Series",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/stories/mlb-top-plays-world-series-2026",
-      "pubDate": "2026-10-29T04:06:02.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/stories/mlb-top-plays-world-series-2026"
-        }
-      ]
-    },
-    {
-      "title": "Brewers defeat Rays 4-1 to win franchise’s first World Series",
-      "summary": "Contreras named series MVP",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/brewers-defeat-rays-4-1-040546163.html",
-      "pubDate": "2026-10-29T04:05:46.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/brewers-defeat-rays-4-1-040546163.html"
-        }
-      ]
-    },
-    {
-      "title": "2027 World Series odds: Can Brewers go back-to-back? Will Dodgers reclaim the crown?",
-      "summary": "In the aftermath of the Brewers' first title in franchise history, it's already time to flip the page to next year's champion",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/2027-world-series-odds-brewers-repeat-dodgers/\n                    ",
-      "pubDate": "2026-10-29T04:03:41.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/2027-world-series-odds-brewers-repeat-dodgers/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "William Contreras named World Series MVP as Brewers win first championship",
-      "summary": "The Milwaukee Brewers closed out the Tampa Bay Rays Wednesday night to capture their first World Series championship in franchise history. Catcher William Contreras was named World Series MVP thanks t…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/william-contreras-named-world-series-040211119.html",
-      "pubDate": "2026-10-29T04:02:11.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/william-contreras-named-world-series-040211119.html"
-        }
-      ]
-    },
-    {
-      "title": "Braves News: Offseason begins, Brewers crowned champions, more",
-      "summary": "Atlanta Braves news and notes from Wednesday",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/braves-news-offseason-begins-brewers-040100322.html",
-      "pubDate": "2026-10-29T04:01:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/braves-news-offseason-begins-brewers-040100322.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 MLB playoff bracket: Schedule and scores as Milwaukee Brewers win first World Series title",
-      "summary": "The Brewers have snapped a 57-year championship drought to secure their first title with a Game 5 win over the Rays",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/\n                    ",
-      "pubDate": "2026-10-29T03:57:10.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Pratt the latest rookie to make a name for himself in postseason",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/best-mlb-postseasons-by-rookies",
-      "pubDate": "2026-10-29T03:57:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/best-mlb-postseasons-by-rookies"
-        }
-      ]
-    },
-    {
-      "title": "MLB Lockout 101: Everything to know about baseball's likely upcoming work stoppage",
-      "summary": "The World Series is over, the Brewers are champions and an MLB lockout is very likely coming in early December",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-lockout-logistics-cba-negotiations-free-agency-2027-season/\n                    ",
-      "pubDate": "2026-10-29T03:56:58.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/mlb-lockout-logistics-cba-negotiations-free-agency-2027-season/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "The 2026 Brewers were the team of destiny all along -- and now they're World Series champions",
-      "summary": "After being swept in the NLCS last season, the Brewers dispatched of everyone in dominant fashion in 2026",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/2026-brewers-world-series-champions-team-of-destiny/\n                    ",
-      "pubDate": "2026-10-29T03:56:25.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/2026-brewers-world-series-champions-team-of-destiny/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Best rookie postseason performances",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/each-team-s-best-rookie-postseason-performance",
-      "pubDate": "2026-10-29T03:55:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/each-team-s-best-rookie-postseason-performance"
-        }
-      ]
-    },
-    {
-      "title": "What's next for the Rays? Three questions after World Series loss, including payroll and Junior Caminero",
-      "summary": "The Rays fell to the Brewers in the 2026 World Series; will they be back in contention in 2027?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/whats-next-for-rays-three-questions-world-series-loss/\n                    ",
-      "pubDate": "2026-10-29T03:54:57.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/whats-next-for-rays-three-questions-world-series-loss/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "William Contreras named World Series MVP: Brewers catcher impacted 2026 title in multiple ways",
-      "summary": "Contreras hit .381 with four RBI, had 10 successful ABS challenges and threw out four runners in the triumph over the Rays",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/william-contreras-world-series-mvp-brewers-catcher-2026-title/\n                    ",
-      "pubDate": "2026-10-29T03:54:39.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/william-contreras-world-series-mvp-brewers-catcher-2026-title/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "Which teams have never won a World Series? The list is down to only 4 after Brewers&#39; title",
-      "summary": "Four teams have won their first Fall Classic in the past decade.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/article/which-teams-have-never-won-a-world-series-the-list-is-down-to-only-4-after-brewers-title-035239499.html",
-      "pubDate": "2026-10-29T03:52:39.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/article/which-teams-have-never-won-a-world-series-the-list-is-down-to-only-4-after-brewers-title-035239499.html"
-        }
-      ]
-    },
-    {
-      "title": "&#39;This one’s for Ueck.&#39; Christian Yelich, Brewers dedicate World Series to Bob Uecker",
-      "summary": "Brewers franchise icon Bob Uecker never got to see his beloved team win a World Series, but he was on players' minds and hearts after Milwaukee's win.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/one-ueck-christian-yelich-brewers-035057240.html",
-      "pubDate": "2026-10-29T03:50:57.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/one-ueck-christian-yelich-brewers-035057240.html"
-        }
-      ]
-    },
-    {
-      "title": "Brothers who have won World Series titles",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/brothers-who-won-the-world-series",
-      "pubDate": "2026-10-29T03:50:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/brothers-who-won-the-world-series"
-        }
-      ]
-    },
-    {
-      "title": "Contreras, Ashby had an October to remember",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/best-playoff-performances-in-mlb-history-c296028438",
-      "pubDate": "2026-10-29T03:49:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/best-playoff-performances-in-mlb-history-c296028438"
-        }
-      ]
-    },
-    {
-      "title": "Top MLB free agents: Tarik Skubal leads top 10 ranking for winter 2026",
-      "summary": "Tarik Skubal is expected to break records as a free agent. Who else is available?",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/top-mlb-free-agents-tarik-034736343.html",
-      "pubDate": "2026-10-29T03:47:36.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "contract"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/top-mlb-free-agents-tarik-034736343.html"
-        }
-      ]
-    },
-    {
-      "title": "Brewers win the 2026 World Series: Where the Brew Crew ranks among the best recent MLB champions",
-      "summary": "The Brewers just put together a historically great season and won the first World Series in franchise history",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "\n                                                https://www.cbssports.com/mlb/news/brewers-world-series-champions-ranked/\n                    ",
-      "pubDate": "2026-10-29T03:46:43.000Z",
-      "source": "CBS Sports MLB",
-      "sourceId": "cbssports-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "CBS Sports MLB",
-          "sourceId": "cbssports-mlb",
-          "link": "\n                                                https://www.cbssports.com/mlb/news/brewers-world-series-champions-ranked/\n                    "
-        }
-      ]
-    },
-    {
-      "title": "William Contreras named World Series MVP after leading Brewers to first title",
-      "summary": "Milwaukee Brewers catcher William Contreras was named MVP of the 2026 World Series.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/william-contreras-named-world-series-033901824.html",
-      "pubDate": "2026-10-29T03:39:01.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/william-contreras-named-world-series-033901824.html"
-        }
-      ]
-    },
-    {
-      "title": "World Series 2026: Brewers catcher William Contreras wins MVP thanks to big effort with his bat and behind the plate",
-      "summary": "The Brewers capped a historic season and a dominant postseason run with a 4-1 win over the Rays to secure the first championship in franchise history.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/breaking-news/article/world-series-2026-brewers-catcher-william-contreras-wins-mvp-thanks-to-big-effort-with-his-bat-and-behind-the-plate-045946174.html",
-      "pubDate": "2026-10-29T03:38:22.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "milestone"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/breaking-news/article/world-series-2026-brewers-catcher-william-contreras-wins-mvp-thanks-to-big-effort-with-his-bat-and-behind-the-plate-045946174.html"
-        }
-      ]
-    },
-    {
-      "title": "Brewers earn first World Series title in franchise history with 4-1 win over Rays in Game 5",
-      "summary": "Eric Samulski breaks down the Brewers' Game 5 win over the Rays to earn the 2026 World Series title",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/brewers-earn-first-world-series-033816257.html",
-      "pubDate": "2026-10-29T03:38:16.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/brewers-earn-first-world-series-033816257.html"
-        }
-      ]
-    },
-    {
-      "title": "Gang&#39;s all here! Brewers win first World Series despite big-name defections",
-      "summary": "Brewers have watched stars and executives come and go. They got hte last laugh",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/gangs-brewers-win-first-world-033447369.html",
-      "pubDate": "2026-10-29T03:34:47.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/gangs-brewers-win-first-world-033447369.html"
-        }
-      ]
-    },
-    {
-      "title": "Brewers complete one of the best postseason runs in history",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/best-mlb-single-season-postseason-winning-percentages",
-      "pubDate": "2026-10-29T03:29:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/best-mlb-single-season-postseason-winning-percentages"
-        }
-      ]
-    },
-    {
-      "title": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history",
-      "summary": "The small-ball Milwaukee Brewers playing in the smallest market in the majors are World Series champions for the first time in franchise history.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/brewers-beat-rays-4-1-032730710.html",
-      "pubDate": "2026-10-29T03:27:30.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/brewers-beat-rays-4-1-032730710.html"
-        }
-      ]
-    },
-    {
-      "title": "Crew takes itself off list of teams yet to win a title",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/mlb-teams-yet-to-win-world-series-title-c221751514",
-      "pubDate": "2026-10-29T03:21:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/mlb-teams-yet-to-win-world-series-title-c221751514"
-        }
-      ]
-    },
-    {
-      "title": "2027 World Series odds: Dodgers are favorites again; Brewers have second-best odds",
-      "summary": "The Brewers won the 2026 World Series but aren't the favorites to win it all next season.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/betting/article/2027-world-series-odds-dodgers-are-favorites-again-brewers-have-second-best-odds-032052320.html",
-      "pubDate": "2026-10-29T03:20:52.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [
-        "dodgers"
-      ],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/betting/article/2027-world-series-odds-dodgers-are-favorites-again-brewers-have-second-best-odds-032052320.html"
-        }
-      ]
-    },
-    {
-      "title": "MLB's longest active title droughts",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/longest-world-series-title-droughts",
-      "pubDate": "2026-10-29T03:20:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/longest-world-series-title-droughts"
-        }
-      ]
-    },
-    {
-      "title": "Milwaukee Brewers win their first World Series: Brewers 4, Rays 1",
-      "summary": "At least the Rays weren’t shut out.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/milwaukee-brewers-win-first-world-031820960.html",
-      "pubDate": "2026-10-29T03:18:20.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/milwaukee-brewers-win-first-world-031820960.html"
-        }
-      ]
-    },
-    {
-      "title": "Full 2026 postseason results and final bracket",
-      "summary": "",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
-      "pubDate": "2026-10-29T03:17:00.000Z",
-      "source": "MLB.com",
-      "sourceId": "mlb-com-news",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB.com",
-          "sourceId": "mlb-com-news",
-          "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule"
-        }
-      ]
-    },
-    {
-      "title": "When is Brewers parade? Milwaukee ready to celebrate first World Series",
-      "summary": "Brewers fans will get to celebrate the team's first championship with a parade.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/brewers-parade-milwaukee-ready-celebrate-031537288.html",
-      "pubDate": "2026-10-29T03:15:37.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/brewers-parade-milwaukee-ready-celebrate-031537288.html"
-        }
-      ]
-    },
-    {
-      "title": "Key 2026-27 MLB offseason dates",
-      "summary": "Here are key dates for the 2026-27 MLB offseason, which could potentially be impacted by an expected lockout.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/key-2026-27-mlb-offseason-184000695.html",
-      "pubDate": "2026-10-29T03:14:00.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/key-2026-27-mlb-offseason-184000695.html"
-        }
-      ]
-    },
-    {
-      "title": "Which MLB teams have never won a World Series? Brewers come off list",
-      "summary": "The Milwaukee Brewers won their first World Series championship. Here's the MLB franchises still waiting to win their first title.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/mlb-teams-never-won-world-031355645.html",
-      "pubDate": "2026-10-29T03:13:55.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/mlb-teams-never-won-world-031355645.html"
-        }
-      ]
-    },
-    {
-      "title": "World Series champion Milwaukee Brewers finally the toast of baseball",
-      "summary": "Milwaukee Brewers fans waited generations for this championship.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/world-series-champion-milwaukee-brewers-031354640.html",
-      "pubDate": "2026-10-29T03:13:54.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/world-series-champion-milwaukee-brewers-031354640.html"
-        }
-      ]
-    },
-    {
-      "title": "Brewers Win World Series",
-      "summary": "The Milwaukee Brewers are champions. They knocked off the Rays by a 4-1 margin tonight, securing the franchise’s first title. Milwaukee took down the Rays in five games to complete an 11-2 showing in…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/brewers-win-world-series.html",
-      "pubDate": "2026-10-29T03:13:43.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/brewers-win-world-series.html"
-        }
-      ]
-    },
-    {
-      "title": "World Series 2026: Brewers ace Jacob Misiorowski leaves Game 5 start early due to calf cramp, still earns win in title-clinching game",
-      "summary": "After a meeting with a medical trainer on the mound, the Brewers' ace exited Game 5 of the World Series, unable to continue pitching.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/mlb/breaking-news/article/world-series-2026-brewers-ace-jacob-misiorowski-leaves-game-5-start-early-due-to-calf-cramp-still-earns-win-in-title-clinching-game-034237745.html",
-      "pubDate": "2026-10-29T02:20:28.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/mlb/breaking-news/article/world-series-2026-brewers-ace-jacob-misiorowski-leaves-game-5-start-early-due-to-calf-cramp-still-earns-win-in-title-clinching-game-034237745.html"
-        }
-      ]
-    },
-    {
-      "title": "Jacob Misiorowski injury update after Brewers ace pulled from World Series game",
-      "summary": "Brewers ace came out in sixth inning of Game 5.",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://sports.yahoo.com/articles/jacob-misiorowski-injury-brewers-ace-021854977.html",
-      "pubDate": "2026-10-29T02:18:54.000Z",
-      "source": "Yahoo Sports MLB",
-      "sourceId": "yahoo-mlb",
-      "teams": [],
-      "players": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Sports MLB",
-          "sourceId": "yahoo-mlb",
-          "link": "https://sports.yahoo.com/articles/jacob-misiorowski-injury-brewers-ace-021854977.html"
-        }
-      ]
-    },
-    {
-      "title": "Super Two Status Set At 2.133 Years Of Service",
-      "summary": "Major League Baseball has officially set the Super Two cutoff at two years and 133 days (2.133) of major league service time, reports Kiley McDaniel of ESPN. The Super Two is a CBA mechanism for a sub…",
-      "titleJa": null,
-      "summaryJa": null,
-      "link": "https://www.mlbtraderumors.com/2026/10/super-two-status-set-at-2-133-years-of-service.html",
-      "pubDate": "2026-10-29T02:08:09.000Z",
-      "source": "MLB Trade Rumors",
-      "sourceId": "mlbtraderumors",
-      "teams": [],
-      "players": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "MLB Trade Rumors",
-          "sourceId": "mlbtraderumors",
-          "link": "https://www.mlbtraderumors.com/2026/10/super-two-status-set-at-2-133-years-of-service.html"
         }
       ]
     }
